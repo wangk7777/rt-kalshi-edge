@@ -23,6 +23,9 @@ from src.strategy.decide import Rung
 # 公开行情的基础 URL（这个子域虽然历史上叫 elections，但涵盖所有市场）
 BASE_URL = "https://external-api.kalshi.com/trade-api/v2"
 
+# events / candlesticks 等历史数据接口用的是另一个域名和路径
+HIST_BASE_URL = "https://api.elections.kalshi.com/v1"
+
 # 盘口快照目录
 ORDERBOOKS_DIR = os.path.join("data", "orderbooks")
 
@@ -196,3 +199,107 @@ def save_orderbook(movie_key: str, snapshot: dict) -> str:
     with open(path, "w", encoding="utf-8") as f:
         json.dump(snapshot, f, ensure_ascii=False, indent=4)
     return path
+
+# ===== 已结算历史片：从 events 接口拿所有门槛的元数据 =====
+# 已结算市场 /markets 拉不到，但 /events/{event} 能返回（含已结算），
+# 而且一次给全所有门槛的 market_id + 门槛值 + 结算结果 + 官方最终分数。
+
+def fetch_event_markets(event_ticker: str) -> dict:
+    """
+    拿一个 event（一部电影）所有门槛的元数据。已结算的片也能拿。
+
+    返回一个 dict：
+      event_ticker   事件代码
+      final_score    官方最终 RT 分数（从 expiration_value，所有门槛一致）
+      settle_date    结算时刻（close_date，ISO 字符串）
+      markets        门槛列表，每个含：
+                       market_id  （拉 candlesticks 要用的 UUID）
+                       floor      门槛数字（如 77）
+                       result     结算结果 'yes'/'no'（None=还没结算）
+                       status     市场状态（finalized/active 等）
+
+    用法：fetch_event_markets("KXRTPRIMATE")
+    """
+    data = _get(f"{HIST_BASE_URL}/events/{event_ticker}")
+    # 注意：events 接口在 /v1/ 下，不在 /trade-api/v2 下，所以单独拼 URL
+    event = data.get("event", data)
+    raw_markets = event.get("markets", [])
+    if not raw_markets:
+        raise RuntimeError(
+            f"event '{event_ticker}' 没返回任何门槛。确认 event ticker 是否正确。"
+        )
+
+    markets = []
+    for m in raw_markets:
+        floor = m.get("floor_strike")
+        if floor is None:
+            continue
+        markets.append({
+            "market_id": m.get("id"),               # 拉 candlesticks 用
+            "ticker": m.get("ticker_name", ""),
+            "floor": float(floor),
+            "result": m.get("result"),              # 'yes'/'no'/None
+            "status": m.get("status"),
+        })
+    markets.sort(key=lambda x: x["floor"])
+    if not markets:
+        raise RuntimeError(f"'{event_ticker}' 有市场但没解析出门槛，字段可能变了。")
+
+    # 官方最终分数和结算时刻：所有门槛一致，取第一个有值的
+    final_score = None
+    settle_date = None
+    for m in raw_markets:
+        if m.get("expiration_value") is not None and final_score is None:
+            final_score = m.get("expiration_value")
+        if m.get("close_date") is not None and settle_date is None:
+            settle_date = m.get("close_date")
+
+    # 开盘时刻：取所有门槛里【最早】的 open_date（防个别门槛晚开，最早的最保险）
+    open_dates = [m.get("open_date") for m in raw_markets if m.get("open_date")]
+    open_date = min(open_dates) if open_dates else None
+
+    return {
+        "event_ticker": event_ticker,
+        "final_score": final_score,    # 官方最终 RT 分数（字符串，如 "77"）
+        "settle_date": settle_date,    # 结算时刻 ISO（如 "2026-01-12T15:00:00Z"）
+        "open_date": open_date,        # 开盘时刻 ISO（拉 candlesticks 的起点）
+        "markets": markets,
+    }
+
+def fetch_candlesticks(series_ticker: str, market_id: str,
+                       start_ts: int, end_ts: int,
+                       period_interval: int = 60) -> list[dict]:
+    """
+    拉某个门槛的历史盘口 K 线。已结算的也能拉（公开、免认证）。
+
+    series_ticker: 系列代码 = 你 config 里的 kalshi_event（如 "KXRTPRIMATE"）。
+    market_id:     门槛的 UUID（从 fetch_event_markets 拿）。
+    start_ts/end_ts: 时间范围，Unix 秒。
+    period_interval: 每根 K 线分钟数，默认 60。
+
+    返回 K 线列表，每根含 ts/yes_ask/yes_bid/last_price/volume/open_interest。
+    """
+    url = (f"{HIST_BASE_URL}/series/{series_ticker}"
+           f"/markets/{market_id}/candlesticks")
+    data = _get(url, params={
+        "start_ts": start_ts,
+        "end_ts": end_ts,
+        "period_interval": period_interval,
+    })
+
+    out = []
+    for c in data.get("candlesticks", []):
+        out.append({
+            "ts": c["end_period_ts"],
+            "yes_ask": c["yes_ask"]["close"],
+            "yes_bid": c["yes_bid"]["close"],
+            "last_price": c["price"]["close"],   # 可能 None
+            "volume": c["volume"],
+            "open_interest": c.get("open_interest"),
+        })
+    return out
+
+def iso_to_ts(iso_str: str) -> int:
+    """ISO 时间字符串（如 '2026-01-12T15:00:00Z'）→ Unix 秒。candlesticks 的 start_ts/end_ts 要用。"""
+    s = str(iso_str).replace("Z", "+00:00")
+    return int(datetime.fromisoformat(s).timestamp())

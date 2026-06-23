@@ -1,7 +1,7 @@
 """
-抓评论命令入口（薄入口：只负责串联，真正干活的能力在 src/ 里）。
+抓当前开盘电影的rt评论的命令入口（薄入口：只负责串联，真正干活的能力在 src/ 里）。
 
-它做三件事：解析命令行 → 调 collectors 抓评论并存档 → 调 analysis 体检并打印。
+它做三件事：解析命令行 → 调 collectors 抓评论和orderbook并存档 → 调 analysis 体检并打印。
 
 用法（在项目根目录运行）：
     py -m scripts.fetch_reviews --movie toy_story_5
@@ -21,7 +21,6 @@ import argparse
 from src import config
 from src.analysis.reviews import build_report, print_report
 from src.collectors.rt_reviews import fetch_reviews, save_reviews
-from src.collectors.kalshi_client import fetch_orderbook, save_orderbook
 
 
 def main():
@@ -46,19 +45,7 @@ def main():
     path = save_reviews(args.movie, reviews)
     print(f"\n💾 已存档 {len(reviews)} 条评论到: {path}")
 
-    # 顺手抓一份 Kalshi 盘口快照（和评论快照配对，为 edge 回测攒数据）。
-    # 用 try 包住：盘口抓失败（比如市场没开/已结算）不该影响评论已经存好的成果。
-    if "kalshi_event" in m:
-        try:
-            snap = fetch_orderbook(m["kalshi_event"])
-            ob_path = save_orderbook(args.movie, snap)
-            print(f"💾 已存档 {len(snap['rungs'])} 档盘口到: {ob_path}")
-        except Exception as e:
-            print(f"⚠ 盘口快照抓取失败（不影响评论存档）: {e}")
-    else:
-        print("⚠ 该片没填 kalshi_event，跳过盘口快照")
-
-    # 体检
+    # 报告
     print(f"\n📋 === {m['title']} 评论质量报告 ===")
     report = build_report(reviews)
     print_report(report)
