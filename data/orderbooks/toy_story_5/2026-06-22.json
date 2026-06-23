@@ -1,0 +1,204 @@
+{
+    "captured_at": "2026-06-22T01:39:08",
+    "event_ticker": "KXRT-TOY",
+    "rungs": [
+        {
+            "threshold": 45.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "5546.63",
+            "open_interest": "4048.14",
+            "ticker": "KXRT-TOY-45"
+        },
+        {
+            "threshold": 50.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "2338.81",
+            "open_interest": "2055.77",
+            "ticker": "KXRT-TOY-50"
+        },
+        {
+            "threshold": 55.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "2091.05",
+            "open_interest": "1897.51",
+            "ticker": "KXRT-TOY-55"
+        },
+        {
+            "threshold": 60.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "4503.29",
+            "open_interest": "3820.22",
+            "ticker": "KXRT-TOY-60"
+        },
+        {
+            "threshold": 65.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "1089.67",
+            "open_interest": "1048.62",
+            "ticker": "KXRT-TOY-65"
+        },
+        {
+            "threshold": 70.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "4024.38",
+            "open_interest": "3718.79",
+            "ticker": "KXRT-TOY-70"
+        },
+        {
+            "threshold": 75.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "6159.47",
+            "open_interest": "4089.41",
+            "ticker": "KXRT-TOY-75"
+        },
+        {
+            "threshold": 80.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "23292.47",
+            "open_interest": "16095.63",
+            "ticker": "KXRT-TOY-80"
+        },
+        {
+            "threshold": 85.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "51514.93",
+            "open_interest": "34634.28",
+            "ticker": "KXRT-TOY-85"
+        },
+        {
+            "threshold": 87.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "76443.11",
+            "open_interest": "43074.52",
+            "ticker": "KXRT-TOY-87"
+        },
+        {
+            "threshold": 90.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "152675.55",
+            "open_interest": "63665.03",
+            "ticker": "KXRT-TOY-90"
+        },
+        {
+            "threshold": 91.0,
+            "yes_ask": 99.0,
+            "no_ask": 3.0,
+            "yes_bid": 97.0,
+            "no_bid": 1.0,
+            "last_price": 99.0,
+            "volume": "31747.06",
+            "open_interest": "20307.24",
+            "ticker": "KXRT-TOY-91"
+        },
+        {
+            "threshold": 92.0,
+            "yes_ask": 98.0,
+            "no_ask": 3.0,
+            "yes_bid": 97.0,
+            "no_bid": 2.0,
+            "last_price": 97.0,
+            "volume": "219674.75",
+            "open_interest": "72256.31",
+            "ticker": "KXRT-TOY-92"
+        },
+        {
+            "threshold": 93.0,
+            "yes_ask": 80.0,
+            "no_ask": 23.0,
+            "yes_bid": 77.0,
+            "no_bid": 20.0,
+            "last_price": 80.0,
+            "volume": "84925.77",
+            "open_interest": "35181.09",
+            "ticker": "KXRT-TOY-93"
+        },
+        {
+            "threshold": 94.0,
+            "yes_ask": 3.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 97.0,
+            "last_price": 3.0,
+            "volume": "379478.61",
+            "open_interest": "293683.01",
+            "ticker": "KXRT-TOY-94"
+        },
+        {
+            "threshold": 95.0,
+            "yes_ask": 1.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 99.0,
+            "last_price": 1.0,
+            "volume": "693444.07",
+            "open_interest": "401474.75",
+            "ticker": "KXRT-TOY-95"
+        },
+        {
+            "threshold": 97.0,
+            "yes_ask": 1.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 99.0,
+            "last_price": 1.0,
+            "volume": "786686.38",
+            "open_interest": "504650.11",
+            "ticker": "KXRT-TOY-97"
+        },
+        {
+            "threshold": 99.0,
+            "yes_ask": 1.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 99.0,
+            "last_price": 1.0,
+            "volume": "326769.22",
+            "open_interest": "298518.89",
+            "ticker": "KXRT-TOY-99"
+        }
+    ]
+}

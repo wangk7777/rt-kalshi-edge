@@ -1,0 +1,125 @@
+"""
+烂番茄评论采集器（能力模块）。
+
+和 kalshi_client.py 并列：kalshi_client 抓价格，rt_reviews 抓评论，
+两者都是"和外部世界打交道、获取数据"的采集层。
+
+这个文件只提供【能力】（怎么抓、怎么存），不解析命令行、不打印报告，
+也不做打分换算（换算属于分析层 analysis/reviews.py，保持采集层干净）。
+
+数据来自 RT 的内部 API（F12 → 网络 → Fetch/XHR → 搜 reviews 找到的）。
+每部电影有一个专属 UUID，存在 config.WATCHLIST 的 rt_movie_id 字段里。
+"""
+
+from __future__ import annotations
+
+import datetime
+import html   # 标准库：把 HTML 实体（&#44; &quot; 等）解码回正常标点
+import json
+import os
+import time
+
+import requests
+
+# 伪装成正常浏览器，否则 RT 可能拒绝脚本请求
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+}
+
+# 评论快照目录（按片分子文件夹）
+SNAPSHOTS_DIR = os.path.join("data", "snapshots")
+# 历史片全量存档目录
+HISTORICAL_DIR = os.path.join("data", "historical")
+
+
+def fetch_reviews(rt_movie_id: str) -> list[dict]:
+    """
+    抓某部电影所有影评人评论，自动翻页，返回评论列表。
+
+    rt_movie_id: 这部片的 RT 内部 UUID。
+    返回：每条评论是个 dict，含以下字段：
+      critic        影评人名
+      is_top_critic 是否顶级影评人（顶级影评人意见权重高，可能领导风向）
+      media         媒体名
+      sentiment     Fresh/Rotten（RT 官方判定，结算口径就看这个）
+      score         原始打分（如 "8/10" "B" "4/5"），换算交给分析层
+      date          发布时间（ISO 字符串，如 "2026-06-21T18:41:17.000Z"）
+      quote         评论原文（已 HTML 解码）
+      url           评论原文链接（溯源用）
+    """
+    base_url = (
+        f"https://www.rottentomatoes.com/napi/rtcf/v1/movies/"
+        f"{rt_movie_id}/reviews"
+    )
+
+    all_reviews: list[dict] = []
+    has_next = True
+    cursor = ""
+
+    while has_next:
+        params = {
+            "type": "critic",     # 只要专业影评人
+            "topOnly": "false",   # 不只看顶级，要全部
+            "pageCount": 50,      # 每页 50 条
+        }
+        if cursor:
+            params["after"] = cursor   # 翻页书签
+
+        resp = requests.get(base_url, headers=HEADERS, params=params, timeout=15)
+        resp.raise_for_status()
+        data = resp.json()
+
+        for r in data.get("reviews", []):
+            sentiment = r.get("scoreSentiment")
+            critic = r.get("critic", {}) or {}      # 防止 critic 为 None
+            pub = r.get("publication", {}) or {}
+            # html.unescape 把 &#44; 还原成逗号、&quot; 还原成引号等
+            quote_raw = r.get("reviewQuote", "（无具体文字）")
+            all_reviews.append({
+                "critic": critic.get("displayName", "匿名"),
+                "is_top_critic": critic.get("isTopCritic", False),
+                "media": pub.get("name", "未知媒体"),
+                "sentiment": "Fresh 🍅" if sentiment == "POSITIVE" else "Rotten 🤢",
+                "score": r.get("originalScore", "无具体打分"),
+                "date": r.get("createDate", ""),    # 发布时间，趋势分析的命脉
+                "quote": html.unescape(quote_raw),  # 解码后的原文
+                "url": r.get("publicationReviewUrl", ""),
+            })
+
+        page_info = data.get("pageInfo", {})
+        has_next = page_info.get("hasNextPage", False)
+        cursor = page_info.get("endCursor", "")
+
+        print(f"  已抓取 {len(all_reviews)} 条...")
+        time.sleep(0.5)   # 礼貌延迟，防止被限速
+
+    return all_reviews
+
+
+def save_reviews(movie_key: str, reviews: list[dict]) -> str:
+    """
+    存【每日快照】（金标准）：正在进行的片，每天一份。
+    路径 data/snapshots/{片}/{日期}.json
+    """
+    folder = os.path.join(SNAPSHOTS_DIR, movie_key)
+    os.makedirs(folder, exist_ok=True)
+    today = datetime.date.today().isoformat()  # 例如 2026-06-21
+    path = os.path.join(folder, f"{today}.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(reviews, f, ensure_ascii=False, indent=4)
+    return path
+
+
+def save_reviews_historical(movie_key: str, reviews: list[dict]) -> str:
+    """
+    存【历史片全量】（切片重建用，有误差）：已结算的片，抓一次全量。
+    路径 data/historical/{片}_fullpull_{日期}.json
+    文件名带 fullpull 标记，和金标准快照区分开——回测时知道这是重建数据。
+    """
+    os.makedirs(HISTORICAL_DIR, exist_ok=True)
+    today = datetime.date.today().isoformat()
+    path = os.path.join(HISTORICAL_DIR, f"{movie_key}_fullpull_{today}.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(reviews, f, ensure_ascii=False, indent=4)
+    return path

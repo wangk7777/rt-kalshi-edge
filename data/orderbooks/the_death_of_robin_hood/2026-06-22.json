@@ -1,0 +1,171 @@
+{
+    "captured_at": "2026-06-22T01:42:04",
+    "event_ticker": "KXRT-DEA",
+    "rungs": [
+        {
+            "threshold": 45.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "9945.08",
+            "open_interest": "1666.56",
+            "ticker": "KXRT-DEA-45"
+        },
+        {
+            "threshold": 50.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "3428.17",
+            "open_interest": "1353.86",
+            "ticker": "KXRT-DEA-50"
+        },
+        {
+            "threshold": 55.0,
+            "yes_ask": 100.0,
+            "no_ask": 2.0,
+            "yes_bid": 98.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "4619.67",
+            "open_interest": "2901.55",
+            "ticker": "KXRT-DEA-55"
+        },
+        {
+            "threshold": 60.0,
+            "yes_ask": 100.0,
+            "no_ask": 2.0,
+            "yes_bid": 98.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "27685.90",
+            "open_interest": "12793.40",
+            "ticker": "KXRT-DEA-60"
+        },
+        {
+            "threshold": 65.0,
+            "yes_ask": 100.0,
+            "no_ask": 1.0,
+            "yes_bid": 99.0,
+            "no_bid": 0.0,
+            "last_price": 99.0,
+            "volume": "44100.31",
+            "open_interest": "25269.73",
+            "ticker": "KXRT-DEA-65"
+        },
+        {
+            "threshold": 68.0,
+            "yes_ask": 96.0,
+            "no_ask": 7.0,
+            "yes_bid": 93.0,
+            "no_bid": 4.0,
+            "last_price": 96.0,
+            "volume": "24034.67",
+            "open_interest": "10533.42",
+            "ticker": "KXRT-DEA-68"
+        },
+        {
+            "threshold": 70.0,
+            "yes_ask": 34.0,
+            "no_ask": 82.0,
+            "yes_bid": 18.0,
+            "no_bid": 66.0,
+            "last_price": 16.0,
+            "volume": "76323.90",
+            "open_interest": "24052.01",
+            "ticker": "KXRT-DEA-70"
+        },
+        {
+            "threshold": 72.0,
+            "yes_ask": 3.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 97.0,
+            "last_price": 1.0,
+            "volume": "23990.40",
+            "open_interest": "8587.67",
+            "ticker": "KXRT-DEA-72"
+        },
+        {
+            "threshold": 75.0,
+            "yes_ask": 3.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 97.0,
+            "last_price": 15.0,
+            "volume": "60926.80",
+            "open_interest": "20939.57",
+            "ticker": "KXRT-DEA-75"
+        },
+        {
+            "threshold": 80.0,
+            "yes_ask": 1.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 99.0,
+            "last_price": 1.0,
+            "volume": "55171.22",
+            "open_interest": "19171.51",
+            "ticker": "KXRT-DEA-80"
+        },
+        {
+            "threshold": 85.0,
+            "yes_ask": 2.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 98.0,
+            "last_price": 1.0,
+            "volume": "22424.41",
+            "open_interest": "11957.67",
+            "ticker": "KXRT-DEA-85"
+        },
+        {
+            "threshold": 90.0,
+            "yes_ask": 1.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 99.0,
+            "last_price": 1.0,
+            "volume": "20002.02",
+            "open_interest": "6662.20",
+            "ticker": "KXRT-DEA-90"
+        },
+        {
+            "threshold": 92.0,
+            "yes_ask": 1.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 99.0,
+            "last_price": 1.0,
+            "volume": "4306.27",
+            "open_interest": "4258.48",
+            "ticker": "KXRT-DEA-92"
+        },
+        {
+            "threshold": 95.0,
+            "yes_ask": 1.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 99.0,
+            "last_price": 1.0,
+            "volume": "2916.00",
+            "open_interest": "2916.00",
+            "ticker": "KXRT-DEA-95"
+        },
+        {
+            "threshold": 97.0,
+            "yes_ask": 1.0,
+            "no_ask": 100.0,
+            "yes_bid": 0.0,
+            "no_bid": 99.0,
+            "last_price": 1.0,
+            "volume": "193.00",
+            "open_interest": "193.00",
+            "ticker": "KXRT-DEA-97"
+        }
+    ]
+}
