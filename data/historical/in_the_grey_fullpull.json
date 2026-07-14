@@ -1,0 +1,612 @@
+[
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-06-28T18:22:24.000Z",
+        "quote": " It's a muddled and lifeless film, which not even its big-name stars can do much to resuscitate.",
+        "url": "https://www.thepost.co.nz/culture/361008339/guy-ritchie-dials-one-his-lesser-efforts"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Me gusta el cine",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-22T06:10:33.000Z",
+        "quote": "While the film could have been better developed, it still works for passing the time. \"In the Grey\" isn't Ritchie's best work, but I was still satisfied. I hope he keeps releasing his efficient thrillers every six months! [Full review in Spanish].",
+        "url": "https://megustaelcine.com/critica-en-la-zona-gris-guy-ritchie-es-imparable/"
+    },
+    {
+        "critic": "Manuel São Bento",
+        "is_top_critic": false,
+        "media": "MSB Reviews (Ghost.io)",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-12T21:39:24.000Z",
+        "quote": "There's immense artistic value in a well-acted, beautifully shot, and deeply engaging piece of entertainment that knows exactly what it wants to be and delivers it with such infectious passion.",
+        "url": "https://www.manuelsbento.com/in-the-grey-high-octane-energy-and-practical-showmanship/"
+    },
+    {
+        "critic": "Dustin Rowles",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-09T20:03:43.000Z",
+        "quote": "It’s obviously not as good as Man from U.N.C.L.E., but it has the same essential DNA: dashing men killing people while looking good doing it. Guns, forearms, and banter. What the hell else do you need?",
+        "url": "https://www.pajiba.com/film_reviews/review-guy-ritchies-in-the-grey-starring-henry-cavill-jake-gyllenhaal.php"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-06-05T15:48:41.000Z",
+        "quote": "It’s not so much that this movie blends in too much with other Ritchie features, but that it’s almost too stripped down of quirks.",
+        "url": "https://weliveentertainment.com/welivefilm/house-reviews-175-power-ballad-carolina-caroline-grey-chum/"
+    },
+    {
+        "critic": "Dionar Hidalgo",
+        "is_top_critic": false,
+        "media": "Algo Más Que Cine",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-06-04T20:39:27.000Z",
+        "quote": "Guy Ritchie delivers stylish action, strong performances and nonstop momentum. The story often gets lost in its own complexity, but the film remains consistently entertaining thanks to its energy, confidence and visual flair.",
+        "url": "https://algomasquecine.com/en-la-zona-gris-el-placer-de-una-pelicula-que-nunca-termina-de-encontrar-su-centro/"
+    },
+    {
+        "critic": "Trevor Leavell",
+        "is_top_critic": false,
+        "media": "Pop Culture Leftovers",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-04T02:04:46.000Z",
+        "quote": "As inoffensive as it is, this is a really fun film with a lot of great moments. Though, it's hard not to be bewildered by its structure. ",
+        "url": "https://www.cinefied.com/post/in-the-grey-review"
+    },
+    {
+        "critic": "Yasser Medina",
+        "is_top_critic": false,
+        "media": "Cinefilia",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-06-03T16:49:37.000Z",
+        "quote": "Moreover, it is a conventional and predictable action thriller that meanders too much between strategic plans and the operatives played by Jake Gyllenhaal and Henry Cavill in a carefree manner. [Full review in Spanish]",
+        "url": "https://www.cinefilia.blog/2026/06/en-la-zona-gris-2026-critica.html"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-02T23:43:11.000Z",
+        "quote": "Seriously, that final half-hour is a beast.",
+        "url": "https://decider.com/2026/06/02/in-the-grey-digital-movie-review-stream-it-or-skip-it/"
+    },
+    {
+        "critic": "Louisa Moore",
+        "is_top_critic": false,
+        "media": "Screen Zealots",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-29T19:52:20.000Z",
+        "quote": "Underneath all that style, there’s surprisingly little substance holding this film together. There's a lot of wasted time spent trying to convince the audience how cool it is.",
+        "url": "https://screenzealots.com/2026/05/28/in-the-grey/"
+    },
+    {
+        "critic": "M.N. Miller",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-05-26T05:42:07.000Z",
+        "quote": "In the Grey finds Jake Gyllenhaal, Henry Cavill, and Eiza González trapped in a generic Guy Ritchie picture that survives almost entirely on rhythm, swagger, personality, and repetition.... I said almost.",
+        "url": "https://geekvibesnation.com/in-the-grey-review/"
+    },
+    {
+        "critic": "Mark Jackson",
+        "is_top_critic": false,
+        "media": "Epoch Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-05-26T04:06:11.000Z",
+        "quote": "Due to the main cast members having undeniable charisma, \"In the Grey\" provides just enough second half fun to prevent this review from dipping below 3 stars.",
+        "url": "https://www.theepochtimes.com/bright/in-the-grey-guy-ritchies-overly-slick-mildly-fun-thriller-6027087"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-25T20:16:04.000Z",
+        "quote": "If you are looking for a consistently entertaining  movie with attractive people in attractive places doing impossible things with extreme effectiveness and efficiency to fulfill your fantasies of competence, this movie is a must see.",
+        "url": "https://sarahgvincentviews.com/movies/in-the-grey/"
+    },
+    {
+        "critic": "Vincent Mancini",
+        "is_top_critic": false,
+        "media": "The #Content Report (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-05-22T16:37:44.000Z",
+        "quote": "Look, is it a *good* movie? No, the lead is miscast and there's no real villain. But Guy Ritchie can still film a pleasant enough hangout and the scenery is great.",
+        "url": "https://open.substack.com/pub/vincemancini/p/in-the-grey-review"
+    },
+    {
+        "critic": "Joseph Tomastik",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2026-05-21T03:43:13.000Z",
+        "quote": "I think this is the point for me where the modern Guy Ritchie formula has officially gotten stale, as the spark of his other recent movies just isn’t here.",
+        "url": "https://loudandclearreviews.com/in-the-grey-movie-review/"
+    },
+    {
+        "critic": "Sandie Angulo Chen",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-05-20T18:47:47.000Z",
+        "quote": "This entertaining if predictable thriller is fun, but it lacks the originality and character depth of Ritchie's best films.",
+        "url": "https://www.commonsensemedia.org/movie-reviews/in-the-grey"
+    },
+    {
+        "critic": "Dan Mecca",
+        "is_top_critic": false,
+        "media": "The Film Stage",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-20T10:45:08.000Z",
+        "quote": " In the Grey moves fast, is fun, and subverts just enough of the action genre tropes in which it is wallowing.",
+        "url": "https://thefilmstage.com/in-the-grey-review-a-reflection-on-the-strange-career-of-guy-ritchie/"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Talking Films",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-05-20T00:00:29.000Z",
+        "quote": "Guy Ritchie's latest movie packs the charismatic energy of Henry Cavill and Jake Gyllenhaal.",
+        "url": "https://talkingfilms.net/in-the-grey-review-guy-ritchies-latest-movie-packs-the-charismatic-energy-of-henry-cavill-and-jake-gyllenhaal/"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-05-19T20:59:14.000Z",
+        "quote": "Guy Ritchie is just making films to make films at this point, apparently inspired by nothing but a paycheck and collaborating with new and old faces",
+        "url": "https://www.flickeringmyth.com/movie-review-in-the-grey-2026/"
+    },
+    {
+        "critic": "Alan French",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-05-19T20:13:59.000Z",
+        "quote": "Henry Cavill and Jake Gyllenhaal get up to some fun shenanigans for Eiza González. Sadly, this is no Savages, and instead comes across as a rather dull action flick for Guy Ritchie.",
+        "url": "https://fandomwire.com/in-the-grey-review/"
+    },
+    {
+        "critic": "George Bate",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-05-19T16:38:32.000Z",
+        "quote": "In the Grey, as the title suggests, exists very much in the grey, bolstering an impressive cast and periodic bursts of Ritchie’s trademark style yet marred by excessive exposition and dull characters.",
+        "url": "https://screenanarchy.com/2026/05/in-the-grey-review-guy-ritchies-heist-thriller-talks-itself-into-tedium.html"
+    },
+    {
+        "critic": "Nicholas Brooks",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Rotten 🤢",
+        "score": "6/10",
+        "date": "2026-05-18T20:14:26.000Z",
+        "quote": "The characters are flat, and there's not a lot of time between the info dumping and action to let it all breathe. ",
+        "url": "https://www.cbr.com/in-the-grey-review/"
+    },
+    {
+        "critic": "Erick Estrada",
+        "is_top_critic": false,
+        "media": "Cinegarage",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-18T19:58:41.000Z",
+        "quote": "What we have is just that, something like a movie in parts, but none of the parts are in good shape. We have a very good cast in a completely weak narrative, so caught up in its type of action that it ends up not saying anything. [Full review in Spanish]",
+        "url": "https://www.patreon.com/posts/en-la-zona-gris-158298704"
+    },
+    {
+        "critic": "Charles Koplinski",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-05-18T16:25:59.000Z",
+        "quote": " An effective old-school effort that today’s self-absorbed auteurs would do well to study.",
+        "url": "https://reeltalkwithchuckandpam.com/in-the-grey-chuck-recommends/"
+    },
+    {
+        "critic": "Alise Chaffins",
+        "is_top_critic": false,
+        "media": "MacGuffin or Meaning (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-05-18T14:01:52.000Z",
+        "quote": "In the Grey is a high-testosterone action flick with lots of guns, chases, beautiful people, and just enough humorous banter to make it a fun time at the cinema.",
+        "url": "https://alisechaffins.substack.com/p/in-the-grey-review-2026"
+    },
+    {
+        "critic": "Lupe Rodriguez Haas",
+        "is_top_critic": false,
+        "media": "CineMovie.tv",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-05-17T22:17:12.000Z",
+        "quote": "If it weren’t for the pretty faces on screen, Guy Ritchie’s In The Grey and its intricate plot might put viewers to sleep. Most of the interesting action doesn’t arrive until the second half.",
+        "url": "https://cinemovie.tv/index.php/new-series-and-movie-reviews/in-the-grey-review-guy-ritchie-henry-cavill-jake-gyllenhaal"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-05-17T13:14:41.000Z",
+        "quote": "The first half is an extended training exercise to numbingly distract from the exposition-heavy screenplay until finally arriving at a second half repeating the beats of the first all so some rich power broker can make their money. Who cares?",
+        "url": "https://erikthemovieman.substack.com/p/episode-651-wish-in-one-hand-and"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-17T00:04:38.000Z",
+        "quote": "Beneath the slick and stylish surface, this globetrotting crime thriller is moderately intriguing and intermittently amusing, yet offers sketchy variations on unscrupulous rogues and shady scenarios we’ve seen plenty of times before.",
+        "url": "https://cinemalogue.com/2026/05/15/in-the-grey/"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-05-16T16:29:17.000Z",
+        "quote": "“In the Grey” is a wildly entertaining action caper that mixes a Soderberghian style of storytelling with Guy Ritchie’s visual panache.",
+        "url": "https://keithandthemovies.com/2026/05/16/review-in-the-grey-2026/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "Rachel's Reviews (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-16T16:18:33.000Z",
+        "quote": "It's generic and bland. The talented actors are given no personality or much to do",
+        "url": "https://www.youtube.com/live/Bdz-1OPPd-g"
+    },
+    {
+        "critic": "Nick Rogers",
+        "is_top_critic": false,
+        "media": "Midwest Film Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-05-16T16:08:52.000Z",
+        "quote": "Guy Ritchie's streak of reliably repetitive romps comes to a screeching, over-explained halt.",
+        "url": "https://midwestfilmjournal.com/2026/05/16/in-the-grey/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-05-16T12:49:15.000Z",
+        "quote": "Anyone who enjoys Ritchie's now-annual adventures can safely surrender to this one, whether in a movie theater now or on a lazy couch-bound Sunday sometime in the future.",
+        "url": "https://www.avclub.com/in-the-grey-review"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-16T02:29:55.000Z",
+        "quote": "It’s a one way ticket to Dullsville. Population: this poor, poor cast.",
+        "url": "https://www.thewrap.com/creative-content/movies/in-the-grey-review-guy-ritchie-jake-gyllenhaal-henry-cavill/"
+    },
+    {
+        "critic": "Thelma Adams",
+        "is_top_critic": true,
+        "media": "AARP Movies for Grownups",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-05-15T22:59:47.000Z",
+        "quote": "This lethal ensemble thriller is fun without slipping into slapstick, going where so many movies have gone before with bravado: After the first-hour of largely stylish set-up, the movie bursts into life in the final half-hour.",
+        "url": "https://www.aarp.org/entertainment/television/what-to-watch-best-new-movies-shows-streaming.html"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-15T22:59:25.000Z",
+        "quote": "In the Grey is an unimaginative action flick about slick attorneys, outlaw operatives, and crooked billionaires fighting over debts. The performances are smug or stiff. The so-called boss lady ends up being a damsel in distress.",
+        "url": "https://culturemixonline.com/review-in-the-grey-2026-starring-jake-gyllenhaal-henry-cavill-and-eiza-gonzalez/"
+    },
+    {
+        "critic": "Johnny Oleksinski",
+        "is_top_critic": false,
+        "media": "New York Post",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-05-15T22:08:09.000Z",
+        "quote": "In The Grey is, well, in the gray. The leads have some so-so jokes they don’t do much with, and their characters are bland. You long for Hugh Grant to burst in and impart some personality.",
+        "url": "https://nypost.com/2026/05/15/entertainment/in-the-grey-review-guy-ritchie-is-stuck-making-the-same-damn-movie/"
+    },
+    {
+        "critic": "Bilge Ebiri",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-15T22:06:43.000Z",
+        "quote": "Ritchie does retain some visual panache, but his characters feel dead on arrival. ",
+        "url": "https://www.vulture.com/article/in-the-grey-review-gyllenhaal-and-cavill-go-full-guy-ritchie.html"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-05-15T21:57:42.000Z",
+        "quote": "Filled with never-ending voice over and exposition, utterly vapid and personality-free characters, and dull action beats, In the Grey is a low point for director Guy Ritchie.",
+        "url": "https://www.ign.com/articles/in-the-grey-review-henry-cavill-jake-gyllenhaal/"
+    },
+    {
+        "critic": "Frank Scheck",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-15T21:49:59.000Z",
+        "quote": "It all goes down easily, especially since the 98-minute film doesn’t smack of Ritchie’s usual bloat. On the other hand, the jagged continuity and glaring plot holes indicate that it may be as short as it is only because of extensive editing.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/in-the-grey-review-jake-gyllenhaal-henry-cavill-guy-ritchie-1236596910/"
+    },
+    {
+        "critic": "Michael Cook",
+        "is_top_critic": false,
+        "media": "KLRT-TV ",
+        "sentiment": "Rotten 🤢",
+        "score": "6.5/10",
+        "date": "2026-05-15T21:06:44.000Z",
+        "quote": "The first 45 minutes of this film you're just kinda lost, it's exposition after exposition. This movie is a misfire from Guy Ritchie who is usually a good action director. ",
+        "url": "https://www.fox16.com/video/at-the-movies-film-critic-reviews-in-the-grey-remarkably-bright-creatures/11795722/"
+    },
+    {
+        "critic": "Marcelo Stiletano",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-05-15T20:32:40.000Z",
+        "quote": "What unfolds here is a flat, basic, and unimaginative equivalent of an episode of Pretenders. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/en-la-zona-gris-es-un-palido-thriller-que-sus-estrellas-protagonicas-interpretan-casi-a-reglamento-nid14052026/"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "The Travers Take",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-05-15T20:07:20.000Z",
+        "quote": "A sexy, snappy Eiza Gonzáles steals the show from costars Jake Gyllenhaal and Henry Cavill, but this Guy Ritchie mission impossible is not that bad, just generically, disposably ordinary, a good way to kill time while nodding off on a flyover.",
+        "url": "https://www.thetraverstake.com/in-the-grey/"
+    },
+    {
+        "critic": "Matt Zoller Seitz",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2026-05-15T19:50:23.000Z",
+        "quote": "Ritchie and Steven Soderbergh might be the only major filmmakers left who share the belief that not only can entertainment be art, it has a better shot at being received as both if the makers don’t think in those terms.",
+        "url": "https://www.rogerebert.com/reviews/in-the-grey-jake-gyllenhaal-henry-cavill-guy-ritchie-movie-review-2026"
+    },
+    {
+        "critic": "Benjamin Lee",
+        "is_top_critic": false,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-05-15T19:27:53.000Z",
+        "quote": "One of the season’s more pleasurable pieces of pulp. I fear for the day Ritchie will stop getting funding for his zippy and sleek yet commercially mishandled and criminally underseen larks.",
+        "url": "https://www.theguardian.com/film/2026/may/15/in-the-grey-movie-review-guy-ritchie"
+    },
+    {
+        "critic": "Mike DeAngelo",
+        "is_top_critic": false,
+        "media": "The Playlist",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2026-05-15T19:24:25.000Z",
+        "quote": "Ultimately, you get an acceptable thriller with some sharp lines, two leads you like, and far too much scaffolding for what arrives in return. Not a disaster, but no sign of peak Ritchie either. It is, in a way, fitting that it ends up in the grey.",
+        "url": "https://theplaylist.net/in-the-grey-review-guy-ritchie-jake-gyllenhaal-henry-cavill-20260515/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-15T19:24:15.000Z",
+        "quote": "A dull, by-the-numbers and increasingly preposterous crime thriller that's low on thrills, suspense and intrigue.  It's a disappointing misfire despite the terrific ensemble cast.",
+        "url": "http://nycmovieguru.com/may15th26.html#inthegrey"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-05-15T19:06:52.000Z",
+        "quote": "Ritchie has always been a somewhat vibes-based director. ... This is a movie of very carefully popped collars and rolled sleeves, of impeccable layering for combat in any clime.",
+        "url": "https://www.thebulwark.com/p/in-the-grey-review"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-05-15T18:15:59.000Z",
+        "quote": "In the Grey is neither good nor particularly bad. It’s one of those movies that exists in the obscure middle ground, where you can see the possibilities for something better, but it never quite achieves its potential.",
+        "url": "https://www.deepfocusreview.com/reviews/in-the-grey/"
+    },
+    {
+        "critic": "Glenn Kenny",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-15T17:29:53.000Z",
+        "quote": "Cavill and Gyllenhaal never utter words to that effect — as it happens, a substantial amount of their dialogue is just quasi-homoerotic teasing — but when they pull off one extraction coup after another, you can see the satisfaction in their eyes.",
+        "url": "https://www.nytimes.com/2026/05/15/movies/in-the-grey-review.html"
+    },
+    {
+        "critic": "Robert Brian Taylor",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-05-15T16:58:49.000Z",
+        "quote": "I'm never one to complain about a 98-minute action movie, but, in the end, In the Grey feels rushed.",
+        "url": "https://collider.com/in-the-grey-review-henry-cavill-jake-gyllenhaal-guy-ritchie/"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2026-05-15T16:04:05.000Z",
+        "quote": "Eiza González, Jake Gyllenhaal, and Henry Cavill save a stylish but formulaic action romp. Guy Ritchie's In the Grey has little substance in a by-the-numbers bullet barrage with constant voice-over narration.",
+        "url": "https://movieweb.com/in-the-grey-review/"
+    },
+    {
+        "critic": "Josh Bate",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-05-15T14:03:53.000Z",
+        "quote": "With particular attention paid to character dynamics, Guy Ritchie returns to what he does best.",
+        "url": "https://screenrant.com/in-the-grey-2026-movie-review/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-05-15T14:00:05.000Z",
+        "quote": "There's a lot of setup in In the Grey but not much in the way of payoff.",
+        "url": "http://www.markreviewsmovies.com/reviews/I/inthegrey.htm"
+    },
+    {
+        "critic": "Chris Barsanti",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-05-15T13:28:23.000Z",
+        "quote": "At some point before the truncated-seeming finale, the film is just chasing its own tail.",
+        "url": "https://www.slantmagazine.com/film/in-the-grey-review-jake-gyllenhaal-henry-cavill-guy-ritchie/"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-05-15T05:48:49.000Z",
+        "quote": "There’s no grey area with In the Grey, as it’s squarely one of the weakest films of Ritchie’s career. ",
+        "url": "https://punchdrunkcritics.com/2026/05/review-in-the-grey/"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-05-15T05:26:26.000Z",
+        "quote": "Why this movie was left to no marketing will never make sense BUT its fun! Henry, Jake , & Eiza are entertaining",
+        "url": "https://youtu.be/gP0EhgBmymc"
+    },
+    {
+        "critic": "Danielle Solzman",
+        "is_top_critic": false,
+        "media": "Solzy at the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-05-15T04:33:52.000Z",
+        "quote": "In the Grey is a solid but not-quite-memorable entry in Guy Ritchie’s filmography.",
+        "url": "https://solzyatthemovies.com/2026/05/14/in-the-grey-power-money-and-the-space-between-law-and-chaos/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-05-15T02:46:41.000Z",
+        "quote": "There’s a blast of violence waiting at the end of the effort, but it takes some work to stay involved in the convoluted, undercooked screenplay and lifeless performances.",
+        "url": "https://www.blu-ray.com/In-the-Grey/1834508/#Review"
+    },
+    {
+        "critic": "Juanma Fernández París",
+        "is_top_critic": false,
+        "media": "El Nuevo Día (Puerto Rico)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-05-14T20:02:05.000Z",
+        "quote": "The main reason to see this film is to see Gyllenhaal and Cavill in action. [Full review in Spanish]",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/in-the-grey-desperdicia-el-potencial-de-su-trio-estelar/"
+    },
+    {
+        "critic": "Simon Foster",
+        "is_top_critic": false,
+        "media": "Screen-Space (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-05-14T07:29:47.000Z",
+        "quote": "About as generic a slice of action spectacle to grace the smaller multiplex screens as we’ve seen in some time.",
+        "url": "https://screenspace.substack.com/p/remembering-the-acid-tongued-rose"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-05-14T04:25:39.000Z",
+        "quote": "It may not sit alongside [Guy Ritchie'] very best work, but it serves as a stylish reminder that when he stays in his lane [...] few filmmakers make crime capers feel this effortlessly cool.",
+        "url": "https://www.theaureview.com/watch/film-review-in-the-grey/"
+    }
+]

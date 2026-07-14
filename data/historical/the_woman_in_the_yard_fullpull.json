@@ -1,0 +1,852 @@
+[
+    {
+        "critic": "Max Allen",
+        "is_top_critic": false,
+        "media": "Horror Movie Talk",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2025-12-04T18:22:12.000Z",
+        "quote": "The cinematography is strikingly beautiful for such a low effort film. While the acting ranges from really good at times to borderline over-acting, the script does not do our actors any favors.",
+        "url": "https://www.horrormovietalk.com/2025/04/09/the-woman-in-the-yard-review/"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Me gusta el cine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-17T03:50:45.000Z",
+        "quote": "I appreciate that it tries to convey something, and although I still think it's worth watching — especially now that it's available on streaming —I can't help but think that something better could have been done with this premise.[Full review in Spanish].",
+        "url": "https://megustaelcine.com/critica-la-mujer-de-las-sombras-hbo-max-sobrellevando-el-dolor/"
+    },
+    {
+        "critic": "Adam Nayman",
+        "is_top_critic": true,
+        "media": "Sight & Sound",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-05T01:17:07.000Z",
+        "quote": "A movie that works best as a guided tour through treacherous physical and psychic space – one that emerges out the other side in the vicinity of grace, for Ramona, and also for the audience.  \n\n",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/woman-yard-not-your-garden-variety-trauma-horror"
+    },
+    {
+        "critic": "Pedro Gallego",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-10-09T17:16:29.000Z",
+        "quote": "Collet-Serra's style has impact and pace, but the story demands a stillness and restraint that aren't prioritized here. [Full review in Spanish]",
+        "url": "https://www.espinof.com/criticas/peliculas-terror-polemicas-ano-firmada-veterano-genero-acaba-estrenarse-sorpresa-espana"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-29T01:30:26.000Z",
+        "quote": "An intriguing character study about grief, isolation, and troubled family legacies is buried beneath genre cliches in this lumbering atmospheric thriller.",
+        "url": "https://cinemalogue.com/2025/03/28/capsule-reviews-for-march-28-2/"
+    },
+    {
+        "critic": "Matthew Koss",
+        "is_top_critic": false,
+        "media": "The Wandering Screen (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2025-08-17T20:25:04.000Z",
+        "quote": "Stylistically and tonally, The Woman in the Yard works. I just wish there had been more substance to the story.",
+        "url": "https://youtu.be/fRbcRwT_7mk"
+    },
+    {
+        "critic": "Karina Adelgaard",
+        "is_top_critic": false,
+        "media": "Heaven of Horror",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-08-11T13:48:03.000Z",
+        "quote": "THE WOMAN IN THE YARD is a psychological horror movie that might seem very simple on the surface. However, in order to truly enjoy and understand it, you have to look beyond what’s shown and understand what’s being told.",
+        "url": "https://www.heavenofhorror.com/reviews/the-woman-in-the-yard-horror-thriller/"
+    },
+    {
+        "critic": "Steve Murray",
+        "is_top_critic": false,
+        "media": "ArtsATL",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-07T21:53:51.000Z",
+        "quote": "Neither the thoughtful nor the scary parts of the movie totally succeed. Still, getting a chance to watch Deadwyler do her thing is always a plus.",
+        "url": "https://www.artsatl.org/danielle-deadwyler-makes-woman-in-the-yard-worth-the-watch/"
+    },
+    {
+        "critic": "Brooke Obie",
+        "is_top_critic": false,
+        "media": "Black Girl Watching ",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-07T00:10:45.000Z",
+        "quote": "Though the ending is a bit sloppy, the beautifully shot & almost great film is still a worthwhile watch as it explores the horrors of grief & mental health. Deadwyler is so close to getting the role that will make this industry stand up and pay attention.",
+        "url": "https://blackgirlwatching.substack.com/p/top-10-black-films"
+    },
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "0/4",
+        "date": "2025-08-04T15:49:57.000Z",
+        "quote": "...an absolutely worthless misfire that wouldn’t even have worked as a five-minute short.",
+        "url": "https://reelfilm.com/the-woman-in-the-yard/"
+    },
+    {
+        "critic": "John Stark",
+        "is_top_critic": false,
+        "media": "Mac the Movie Guy",
+        "sentiment": "Rotten 🤢",
+        "score": "45/100",
+        "date": "2025-07-29T20:11:37.000Z",
+        "quote": "A film whose entire titular central catalyst is arguably pointless, because the films central themes of grief and isolation would have served the film better. ",
+        "url": "http://macthemovieguy.com/2025/07/14/the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Anthony Whyte",
+        "is_top_critic": false,
+        "media": "The Movie Blog",
+        "sentiment": "Rotten 🤢",
+        "score": "6.8/10",
+        "date": "2025-07-19T06:44:16.000Z",
+        "quote": "The film opens powerfully, plunging us immediately into Ramona’s pain and isolation. Danielle Deadwyler delivers an emotionally charged performance as a mother haunted by grief. ",
+        "url": "https://www.themovieblog.com/2025/03/the-woman-in-the-yard-review-thrilling-yet-frustrating/"
+    },
+    {
+        "critic": "Codie Allen",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-07-18T03:12:16.000Z",
+        "quote": "The title The Woman in the Yard might suggest a simple ghost story, but that hardly does the film justice.",
+        "url": "https://geekvibesnation.com/the-woman-in-the-yard-review/"
+    },
+    {
+        "critic": "Douglas Davidson",
+        "is_top_critic": false,
+        "media": "Elements of Madness",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-06-26T12:07:20.000Z",
+        "quote": "... merges his horror and thriller for a story that calls its shot well before its third act reveal, yet is no less compelling in the aftermath.",
+        "url": "https://elementsofmadness.com/2025/06/26/twity-hv/"
+    },
+    {
+        "critic": "Zosha Millman",
+        "is_top_critic": false,
+        "media": "Polygon",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-06-18T22:34:44.000Z",
+        "quote": "Jaume Collet-Serra and writer Sam Stefanak don’t savor the promise of Woman in the Yard’s premise. Instead, they point toward an ending like a pool player calling a pocket. Which makes it all the more disappointing that the movie can’t even sink its shot.",
+        "url": "https://www.polygon.com/horror/549113/woman-in-the-yard-ending-explained-review"
+    },
+    {
+        "critic": "Matt Brunson",
+        "is_top_critic": false,
+        "media": "Film Frenzy",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-06-09T03:50:03.000Z",
+        "quote": "The Woman in the Yard attempts to be a psychological study of depression even as it remains beholden to the horror genre, but director Jaume Collet-Serra and scripter Sam Stefanek are never able to quite make the two approaches dovetail.",
+        "url": "https://thefilmfrenzy.com/2025/06/06/view-from-the-couch-bridget-jones-mad-about-the-boy-tunnel-vision-etc/"
+    },
+    {
+        "critic": "Nick Bythrow",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-05-30T14:33:51.000Z",
+        "quote": "The Woman in the Yard offers an eerie first act filled with intrigue, which soon drags on without many scares or substance despite its good ideas.",
+        "url": "https://screenrant.com/the-woman-in-the-yard-movie-review/"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-05-27T14:52:49.000Z",
+        "quote": "Danielle Deadwyler's performance stands out as she unravels throughout the day, revealing fear and tension as she tries to protect her children.",
+        "url": "https://flickdirect.com/blu-ray-review/3217/the-woman-in-the-yard/blu-ray.ashx"
+    },
+    {
+        "critic": "Jeff Beck",
+        "is_top_critic": false,
+        "media": "The Blu Spot",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-05-26T16:14:11.000Z",
+        "quote": "There's an interesting seed of an idea in The Woman in the Yard, but the writer simply didn't know what to do with it, resulting in a remarkably disappointing supernatural horror outing that squanders its potential.",
+        "url": "https://www.thebluspot.com/single-post/the-woman-in-the-yard-a-frustrating-supernatural-horror-outing-that-squanders-its-potential-blu-ra"
+    },
+    {
+        "critic": "Matt Hudson",
+        "is_top_critic": false,
+        "media": "Bloody Awesome Movie Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-05-08T08:56:53.000Z",
+        "quote": "Better than recent Blumhouse releases and carrying a more prestigious feel, however, Deadwyler's performance cannot save a film thin of terror and high on problematic messages",
+        "url": "https://open.spotify.com/episode/4aoiAzIw0LZAgyQCdoruym?si=190563c860c84343"
+    },
+    {
+        "critic": "Ian Bunting",
+        "is_top_critic": false,
+        "media": "Daily Record (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-04-29T16:40:41.000Z",
+        "quote": "A couple of jump scares and the Woman’s appearance aside, this is pure family drama that is both bleak and instantly forgettable.",
+        "url": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/movie-review-see-should-keep-35097098"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-04-21T18:58:00.000Z",
+        "quote": "Push through its un-understated symbolism and the prevailing sense that Deadwyler is too good for this material, and you may appreciate The Woman in the Yard for the concise, well-made supernatural thriller it is. ",
+        "url": "https://decider.com/2025/04/17/the-woman-in-the-yard-streaming-movie-review/"
+    },
+    {
+        "critic": "Aglaia Berlutti",
+        "is_top_critic": false,
+        "media": "El nacional",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-04-17T16:03:39.000Z",
+        "quote": "Jaume Collet-Serra turns a typical horror story into an allegory about evil and amoral suffering. [Full Review in Spanish]",
+        "url": "https://www.elnacional.com/opinion/the-woman-in-the-yard-jaume-collet-serra-juega-con-el-simbolismo-en-el-cine-de-terror/"
+    },
+    {
+        "critic": "Dwight Brown",
+        "is_top_critic": true,
+        "media": "DwightBrownInk.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2025-04-15T22:55:04.000Z",
+        "quote": "Can creep out an audience but is less deft with freak-me-out horror.",
+        "url": "https://dwightbrownink.com/the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Casey's Movie Mania",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-04-15T08:54:15.000Z",
+        "quote": "Jaume Collet-Serra's horror comeback is an ambitious but half-baked psychological horror.",
+        "url": "https://www.caseymoviemania.com/the-woman-in-the-yard-review/"
+    },
+    {
+        "critic": "Nicole Eckrich",
+        "is_top_critic": false,
+        "media": "Willamette Week",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-04-14T21:39:25.000Z",
+        "quote": "Creature feature fans may find something redeeming in the rampage, but the whole affair is ultimately less than the sum of its parts. ",
+        "url": "https://www.wweek.com/arts/movies/2025/04/08/your-roundup-of-new-movies-former-portlander-jay-ellis-joins-pedro-pascal-and-normani-for-freaky-tales/"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-04-14T16:09:23.000Z",
+        "quote": "Deadwyler excels in this familiar folkloric parable about keeping one's inner demons at bay or else risk them consuming you. ",
+        "url": "https://www.youtube.com/watch?v=LEQB2d5XaiU"
+    },
+    {
+        "critic": "Maxance Vincent",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "A+",
+        "date": "2025-04-14T15:34:29.000Z",
+        "quote": "While I understand that some may be profoundly destabilized by The Woman in the Yard, Collet-Serra accomplishes his intended effect and guarantees you’ll never be able to wipe it off your memory.",
+        "url": "https://insessionfilm.com/movie-review-the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Kevin Harley",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-04-12T01:28:11.000Z",
+        "quote": "Stronger on its sense of contained place than its pacing, the result plays like a mid-ranking TV anthology-series mystery awkwardly stretched out for film.",
+        "url": "https://www.radiotimes.com/movie-guide/b-ifi2or/the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2025-04-09T20:30:29.000Z",
+        "quote": "About as thrilling as watching the grass grow. The potential for an interesting horror-drama is here, but the execution is flawed. The final act becomes confusing as the audience tries to decipher the woman’s identity. ",
+        "url": "https://fortworthreport.org/2025/03/29/the-woman-in-the-yard-review-about-as-thrilling-as-watching-the-grass-grow/"
+    },
+    {
+        "critic": "Dennis Schwartz",
+        "is_top_critic": false,
+        "media": "Dennis Schwartz Movie Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2025-04-08T04:53:16.000Z",
+        "quote": "More fitting as a folklore than a horror tale.",
+        "url": "https://dennisschwartzreviews.com/woman-in-the-yard-the-2025-c/"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-04-07T07:47:19.000Z",
+        "quote": "“The Woman in the Yard” is an expressionist horror film, which creates supernatural scenarios that act as metaphors for real life.",
+        "url": "https://sarahgvincentviews.com/movies/the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-04-04T19:17:39.000Z",
+        "quote": "This horror-thriller gets a bit muddled toward the end, with scares that are a little on the routine side, but it's a surprisingly sincere, neatly directed look at grief and depression. ",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-woman-in-the-yard"
+    },
+    {
+        "critic": "Alexander Mooney",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-04-03T20:56:18.000Z",
+        "quote": "The film is unafraid to capture the confusion, anguish, and frustration of parenthood, and its equal commitment to being confusing, anguished, and occasionally frustrating in its own right ... is both refreshing and ravishing.",
+        "url": "https://inreviewonline.com/2025/03/28/the-woman-in-the-yard-review/"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-04-03T14:36:26.000Z",
+        "quote": "Sadly the last third drags the film down which is a real shame considering how well it sets itself up early on.",
+        "url": "https://keithandthemovies.com/2025/04/03/review-the-woman-in-the-yard-2025/"
+    },
+    {
+        "critic": "Lindsay Traves",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-04-02T19:41:41.000Z",
+        "quote": "But its worst offense is perhaps that it continues a tired line of trauma horror and instead of bringing anything innovative [...], instead shows cowardice in its approach which undermines its own themes the same way the structure undermines its scares.",
+        "url": "https://www.pajiba.com/film_reviews/review-the-woman-in-the-yard-fails-on-a-lot-of-levels.php"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2025-04-02T17:39:45.000Z",
+        "quote": "I found myself in a waiting game mode, knowing the inevitable as far as how the film would likely conclude. Having little in the way of scares didn’t help either.",
+        "url": "https://weliveentertainment.com/welivefilm/house-reviews-144-hell-summer-woman-yard-gunman-penguin-lessons/"
+    },
+    {
+        "critic": "Tony Baker",
+        "is_top_critic": false,
+        "media": "Tony Baker Comedy",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-04-02T17:32:36.000Z",
+        "quote": "It was kind of confusing... the messaging... I really didn't vibe with.",
+        "url": "https://www.youtube.com/watch?v=RNj55VX8vUA"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-04-01T18:46:03.000Z",
+        "quote": "Simplicity is power, and the lean initial premise here is as potent as it gets... The inexorable, creeping chill of this uncanny game of What's the time, Mr Wolf? dissipates almost entirely, though, during a convoluted third act.",
+        "url": "https://www.theguardian.com/film/2025/mar/30/the-woman-in-the-yard-review-jaume-collet-serra-uncanny-chiller-loses-its-way"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-04-01T18:16:35.000Z",
+        "quote": "Like a particularly concise, purposefully elliptical short story, The Woman in the Yard quickly milks this beguiling, WTF-is-going-on-here? scenario for all the dread it’s worth.",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/woman-in-the-yard-review-danielle-deadwyler-1235301957/"
+    },
+    {
+        "critic": "Steve Greene",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-04-01T18:13:07.000Z",
+        "quote": "More unsettling than outright terrifying, The Woman in the Yard is smaller-scale horror that works as a return to fundamentals for a talented filmmaker, and is further proof of Danielle Deadwyler’s immense skill as a lead performer.",
+        "url": "https://www.ign.com/articles/the-woman-in-the-yard-review"
+    },
+    {
+        "critic": "Alison Foreman",
+        "is_top_critic": false,
+        "media": "IndieWire",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2025-03-31T21:34:31.000Z",
+        "quote": "Soaking his film in an atypical amount of sunlight, Collet-Serra forces the generally strong work of cinematographer Pawel Pogorzelski into boring monotony.",
+        "url": "https://www.indiewire.com/criticism/movies/the-friend-review-naomi-watts-1235041033/"
+    },
+    {
+        "critic": "Abbie Bernstein",
+        "is_top_critic": false,
+        "media": "Assignment X",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-03-31T21:15:21.000Z",
+        "quote": "Effectively scary but overly ambiguous.",
+        "url": "https://www.assignmentx.com/2025/movie-review-the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Helen O'Hara",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-03-31T19:05:39.000Z",
+        "quote": "It's well performed, and Collet-Serra knows his way around a beautifully timed scare, but what's most haunting is the sense that the same idea has been done better before.",
+        "url": "https://www.empireonline.com/movies/reviews/the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Daily Dead",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-03-31T18:28:54.000Z",
+        "quote": "The Woman in the Yard is too transparent, too inevitable, and too paint-by-numbers for its 85-minute duration (despite depicting depression in meaningful ways). ",
+        "url": "https://dailydead.com/review-the-woman-in-the-yard-forgets-the-horrors-of-its-tale/"
+    },
+    {
+        "critic": "Cody Leach",
+        "is_top_critic": false,
+        "media": "Cody Leach (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2025-03-31T03:24:09.000Z",
+        "quote": "Woman in the Yard aims to have a bleak and uncomfortable exploration of the worst depths of grief and depression. Perhaps it aimed too well because the end result is so miserably dark and hopeless that it's arguably irresponsible with its final stretch.",
+        "url": "https://www.youtube.com/watch?v=i64hzlHr7_c"
+    },
+    {
+        "critic": "Chris Joyce",
+        "is_top_critic": false,
+        "media": "Movies and Munchies (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-03-31T02:03:43.000Z",
+        "quote": "Beginning with emotional themes of loss, grief, regret, and anger, the story takes us on a devastating journey that excellently balances suspense, trepidation, sadness, and outright fear to take us through the gauntlet and leave us broken but satisfied.",
+        "url": "https://youtu.be/_WsZRGyx1wo"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-03-30T16:32:36.000Z",
+        "quote": "An atypical horror film that will be off-putting to some viewers, haunting to others.",
+        "url": "https://aisleseat.com/woman-in-the-yard.html"
+    },
+    {
+        "critic": "Lee McCoy",
+        "is_top_critic": false,
+        "media": "DrumDums",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-03-30T02:38:06.000Z",
+        "quote": "Woman in the Yard is an extremely effective horror film with genuine chills and flawless direction by Jaume Collet-Serra (The Shallows, Orphan). The \"woman\" has the makings of a new horror icon, but given the subject matter, I doubt a sequel would happen.",
+        "url": "https://youtu.be/c8PVnLYYjlU?si=2jSlej7kRjam3fp8"
+    },
+    {
+        "critic": "Nicolás Delgadillo",
+        "is_top_critic": false,
+        "media": "Knotfest",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-03-29T16:22:40.000Z",
+        "quote": "A stylish, well-acted horror film with a killer concept that falters under its own weight.",
+        "url": "https://knotfest.com/blogs/screen-crusades/the-woman-in-the-yard-is-an-eerie-take-on-grief-and-guilt"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-03-29T10:11:51.000Z",
+        "quote": "While not exactly a bad movie, The Woman in the Yard ultimately suffers from flying too close to the sun, causing much of its promise to melt and reveal something much more uncertain about what it’s trying to do.",
+        "url": "https://filmfeeder.co.uk/film-reviews/the-woman-in-the-yard-dir-jaume-collet-serra"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2025-03-29T06:25:23.000Z",
+        "quote": "Deadwyler rises above The Woman in the Yard's shortcomings with a haunting performance.  ",
+        "url": "https://youtu.be/LEQB2d5XaiU"
+    },
+    {
+        "critic": "Hoai-Tran Bui",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-03-29T02:41:16.000Z",
+        "quote": "A well-crafted but emotionally misguided horror movie.",
+        "url": "https://www.inverse.com/entertainment/the-woman-in-the-yard-review-blumhouse-horror"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-03-28T22:58:58.000Z",
+        "quote": "The Woman in the Yard has a mysterious title character who is shrouded in a thin black veil. This ineptly made horror film is shrouded in lousy storytelling in making a thinly veiled, bungled statement about grief and tragic deaths.",
+        "url": "https://culturemixonline.com/review-the-woman-in-the-yard-starring-danielle-deadwyler-okwui-okpokwasili-russell-hornsby-peyton-jackson-and-estella-kahiha/"
+    },
+    {
+        "critic": "tt stern-enzi",
+        "is_top_critic": false,
+        "media": "Fox19 (Cincinnati, OH)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-03-28T21:18:27.000Z",
+        "quote": "It has all of the ingredients for a really spooky time, but there's a little something else behind all the spookiness, which I want to say I appreciated, but it didn't quite hit me as much as I wanted it to.",
+        "url": "https://terrencetodd.com/2025/03/28/fox19-tts-take-on-the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-03-28T20:50:21.000Z",
+        "quote": "It is appreciated that the filmmakers are attempting a more mature, psychological, and depressing take on tired Blumhouse themes. However, this is tedious and only has enough material to function as a short",
+        "url": "https://www.flickeringmyth.com/movie-review-the-woman-in-the-yard-2025/"
+    },
+    {
+        "critic": "Jordan Hoffman",
+        "is_top_critic": true,
+        "media": "Fangoria",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-03-28T20:31:35.000Z",
+        "quote": "The Woman in the Yard succeeds (somewhat) due to Deadwyler’s sympathetic performance and Collet-Serra’s knack for sharp camera placement, evocative lighting and the occasional show-off camera move.",
+        "url": "https://www.fangoria.com/review-the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-03-28T20:24:37.000Z",
+        "quote": "Even at a brisk 85 minutes, it’s a bigger slog than a day spent mowing the grass.",
+        "url": "https://www.thedailybeast.com/obsessed/the-woman-in-the-yard-review-get-off-my-lawn-ghost-lady/"
+    },
+    {
+        "critic": "Murjani Rawls",
+        "is_top_critic": false,
+        "media": "Substream Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-03-28T20:15:09.000Z",
+        "quote": "The film acknowledges that walking in melancholy might take us to darker parts of feeling we might not be prepared to confront. But its defining statement (or many?) will leave you scratching your head. ",
+        "url": "https://substreammagazine.com/2025/03/the-woman-in-the-yard-review/"
+    },
+    {
+        "critic": "Germain Lussier",
+        "is_top_critic": false,
+        "media": "io9.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-03-28T18:56:18.000Z",
+        "quote": "As terrifying as the idea behind The Woman in the Yard is, when you realize what it’s actually about, it’s even scarier. That should be a positive thing but... it shifts the film’s expectations in such a radical way that... it doesn’t quite work.",
+        "url": "https://gizmodo.com/woman-in-the-yard-review-horror-universal-blumhouse-2000582092"
+    },
+    {
+        "critic": "Jeff Ewing",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-03-28T16:50:22.000Z",
+        "quote": "The Woman in the Yard is gorgeously shot and features an excellent performance from Danielle Deadwyler, but that can't make up for a movie that gets so lost in its own narrative.",
+        "url": "https://collider.com/the-woman-in-the-yard-review/"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2025-03-28T16:40:47.000Z",
+        "quote": "Screenwriter Sam Stefanak and director Jaume Collet-Serra seem stuck, trying to conjure up tension in a film that doesn’t have much to offer.",
+        "url": "https://www.theonlycritic.com/post/the-woman-in-the-yard-review-high-on-atmosphere-but-low-on-scares"
+    },
+    {
+        "critic": "Kristen Lopez",
+        "is_top_critic": true,
+        "media": "The Film Maven",
+        "sentiment": "Fresh 🍅",
+        "score": "C",
+        "date": "2025-03-28T16:26:57.000Z",
+        "quote": "What ends up elevating (and saving) The Woman in the Yard is some truly stellar casting that creates a sense of intimacy and warmth in a movie that isn’t afraid to become utterly nihilist.",
+        "url": "https://thefilmmaven.substack.com/p/woman-in-the-yard-review"
+    },
+    {
+        "critic": "DarkSkyLady",
+        "is_top_critic": false,
+        "media": "Nerdist",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-03-28T16:02:54.000Z",
+        "quote": "The Woman in the Yard had a promising idea lost in a script that could not follow through. ",
+        "url": "https://nerdist.com/article/the-woman-in-the-yard-horror-film-review/"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-03-28T15:53:52.000Z",
+        "quote": "A chilling exploration of grief and depression.  Pretty much exactly what I expected in terms of scares for a PG-13 Blumhouse horror, but I have to admit I watched a lot of the third act through my fingers.",
+        "url": "https://mamasgeeky.com/2025/03/the-woman-in-the-yard-review.html"
+    },
+    {
+        "critic": "Peter Sobczynski",
+        "is_top_critic": false,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-03-28T15:18:34.000Z",
+        "quote": "A choppy and meandering narrative that not even an admittedly committed lead performance by Danielle Deadwyler can help save.",
+        "url": "https://www.rogerebert.com/reviews/the-woman-in-the-yard-movie-review-2025"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2025-03-28T14:17:39.000Z",
+        "quote": "The Woman in the Yard plays so many games with what's real and what's otherworldly/delusional that it's not grounded in anything apart from trying to confound us...",
+        "url": "http://www.markreviewsmovies.com/reviews/W/womanintheyard.htm"
+    },
+    {
+        "critic": "Dan Bayer",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-03-28T12:57:44.000Z",
+        "quote": " “The Woman in the Yard” certainly isn’t awful, but it’s Deadwyler who ensures that it isn’t a mere B-movie thrill ride. In her hands, it’s also an emotional character study about the inability to move on after tragedy.",
+        "url": "https://nextbestpicture.com/the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "Mashable",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-03-28T12:25:52.000Z",
+        "quote": "How a movie likes this comes to exist, in such preposterous form, is a mystery unto itself — one far more interesting than what ends up on screen.",
+        "url": "https://mashable.com/article/the-woman-in-the-yard-review"
+    },
+    {
+        "critic": "Wendy Lee Szany",
+        "is_top_critic": false,
+        "media": "The Movie Couple",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-03-28T07:04:40.000Z",
+        "quote": "First act has enough creative scares to hook you, but the movie makes a switch in its second act and suddenly you're no longer watching a horror movie. It becomes a psychological horror exploring one's depression and grief. ",
+        "url": "https://youtu.be/otQtdMh5dv4"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-03-28T03:30:31.000Z",
+        "quote": "The Woman in the Yard, for all of its potential as a haunting Stephen King-esque nightmare vision, has about as much energy as grandma sitting in her favorite yard chair.",
+        "url": "https://punchdrunkcritics.com/2025/03/woman-in-the-yard-59876/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "7.1/10",
+        "date": "2025-03-28T02:20:53.000Z",
+        "quote": "On its terms, and especially with an ending I read as ambiguous, The Woman in the Yard is also unflinching enough to maybe count as daring, and maybe Sollet-Cerra’s most viscerally moving film.",
+        "url": "https://www.pastemagazine.com/movies/jaume-collet-serra/the-woman-in-the-yard-danielle-deadwyler-jaume-collet-serra"
+    },
+    {
+        "critic": "Joseph Tomastik",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-03-28T02:17:59.000Z",
+        "quote": "My favorite type of horror movie, where the overt threat is directly connected to the psychological state of the characters ... This just hit all my sweet spots and really shook me.",
+        "url": "https://loudandclearreviews.com/the-woman-in-the-yard-review/"
+    },
+    {
+        "critic": "Meagan Navarro",
+        "is_top_critic": true,
+        "media": "Bloody Disgusting",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2025-03-28T01:41:07.000Z",
+        "quote": "The high concept psychological horror movie is so inert that it lacks anything resembling tension or scares.",
+        "url": "https://bloody-disgusting.com/reviews/3861843/woman-in-the-yard-review/"
+    },
+    {
+        "critic": "Grant Rollings",
+        "is_top_critic": false,
+        "media": "The Sun (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-03-28T01:20:05.000Z",
+        "quote": "There were only so many times that director Jaume Collet-Serra could try to trick me into believing something was real when it wasn’t, before I couldn’t care less what was actually going on.",
+        "url": "https://www.thesun.co.uk/tv/34088016/novocaine-review-jack-quaid/"
+    },
+    {
+        "critic": "Ethan Vestby",
+        "is_top_critic": false,
+        "media": "The Film Stage",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-03-28T01:18:40.000Z",
+        "quote": "The director’s form is additionally assisted by his performers; Deadwyler’s large expressive eyes and Okpokwasili’s sharp cheekbones cast as much a spell as the occasional forays into computer-generated expressionism. ",
+        "url": "https://thefilmstage.com/the-woman-in-the-yard-review-jaume-collet-serra-makes-a-sharp-intense-return-to-horror/"
+    },
+    {
+        "critic": "Frank Scheck",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-03-28T01:18:35.000Z",
+        "quote": "The Woman in the Yard belies its disingenuously bland title with its considerable thematic ambitions. The film doesn’t fully live up to them, but it deserves credit for trying something different in an oversaturated, frequently exploitative genre.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-woman-in-the-yard-review-danielle-deadwyler-blumhouse-1236174509/"
+    },
+    {
+        "critic": "Chris Wasser",
+        "is_top_critic": false,
+        "media": "Irish Independent",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-03-28T01:09:54.000Z",
+        "quote": "Full marks to Ms Deadwyler, an awesome talent who never gives up, even when the film around her collapses in on itself.",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/the-woman-in-the-yard-review-promising-premise-of-a-spooky-intruder-falls-apart-at-the-seams/a1952649672.html"
+    },
+    {
+        "critic": "Brian Viner",
+        "is_top_critic": false,
+        "media": "Daily Mail (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-03-28T01:08:28.000Z",
+        "quote": "This is a psychological horror film which, at under an hour and a half, is well worth the price of cinema admission, if you like this sort of thing.",
+        "url": "https://www.dailymail.co.uk/tv/article-14545503/BRIAN-VINER-reviews-Working-Man.html"
+    },
+    {
+        "critic": "Hannah Strong",
+        "is_top_critic": true,
+        "media": "Little White Lies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-03-28T01:07:24.000Z",
+        "quote": "There's not enough here to sustain even a slim sub-90 minute runtime, and Collet-Serra seems lost when tasked with a project that provides little opportunity for dynamic action sequences or wild plot twists.",
+        "url": "https://lwlies.com/reviews/the-woman-in-the-yard/"
+    },
+    {
+        "critic": "Nikki Baughan",
+        "is_top_critic": false,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-03-28T01:06:33.000Z",
+        "quote": "A raw central performance from Danielle Deadwyler brings some depth to this Blumhouse thriller, which otherwise maintains a creepy atmosphere but mostly trades in familiar psychological horror tropes and an abundance of jump scares. ",
+        "url": "https://www.screendaily.com/reviews/the-woman-in-the-yard-review-danielle-deadwyler-stars-in-blumhouse-horror/5203379.article"
+    },
+    {
+        "critic": "Tim Robey",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-03-28T01:04:47.000Z",
+        "quote": "There’s little here to keep us up at night -- or from forgetting all about it by tomorrow.",
+        "url": "https://www.telegraph.co.uk/films/0/the-woman-in-the-yard-danielle-deadwyler-horror/"
+    },
+    {
+        "critic": "Mike McCahill",
+        "is_top_critic": false,
+        "media": "Guardian",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-03-28T01:03:32.000Z",
+        "quote": "For an hour or so, it’s intriguing; we don’t know where we stand exactly, and there’s an awful lot in the air. It settles shruggingly, however, and some of what is being juggled is revealed as decidedly secondhand.",
+        "url": "https://www.theguardian.com/film/2025/mar/28/the-woman-in-the-yard-review"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-03-28T01:02:21.000Z",
+        "quote": "It’s actually rare to see a horror film of the week that’s a flat-out, old-school dud. But The Woman in the Yard comes pretty close. It’s like a haunted-house movie with no tricks up its sleeve.",
+        "url": "https://variety.com/2025/film/reviews/the-woman-in-the-yard-review-danielle-deadwyler-1236349346/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2025-03-27T21:51:22.000Z",
+        "quote": "Stefanak really has more of a short story here, pushing Collet-Serra to help crank up a small inspection of pain and loss. There are sharp performances and a couple of sincere scenes, but it all feels very underwhelming.",
+        "url": "https://www.blu-ray.com/The-Woman-in-the-Yard/1833692/#Review"
+    }
+]

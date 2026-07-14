@@ -1,0 +1,2772 @@
+[
+    {
+        "critic": "Rachel Shatto",
+        "is_top_critic": false,
+        "media": "Bloody Good Horror (Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T20:41:20.000Z",
+        "quote": "Dan Trachtenberg again proves he knows how to balance reverence for the lore with not being afraid to take a big swing and give us something new.",
+        "url": "https://podcasts.apple.com/ie/podcast/alien-world-predator-badlands-horror-review/id276600697?i=1000751891038"
+    },
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-01T00:22:12.000Z",
+        "quote": "As a feat of world-building and mythology expansion, it sets the scene for more films and books to come. But it also functions pretty well as a grisly action thriller and an unlikely buddy comedy.",
+        "url": "https://www.thepost.co.nz/culture/360875814/badlands-solid-instalment-predator-revival-bravo"
+    },
+    {
+        "critic": "Lee Zumpe",
+        "is_top_critic": false,
+        "media": "Tampa Bay Newspapers",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-22T20:07:23.000Z",
+        "quote": "Predator: Badlands is a relentless high-energy, action-packed sci-fi thriller that expands franchise mythology and isn’t afraid to take narrative risks.",
+        "url": "https://www.tbnweekly.com/diversions/article_a401f3a6-c813-42b5-a319-584379348946.html"
+    },
+    {
+        "critic": "Valerie Kalfrin",
+        "is_top_critic": false,
+        "media": "AWFJ.org",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-13T00:42:00.000Z",
+        "quote": "... a surprisingly fun crowd-pleaser full of eye-popping imagery, clever fights, and entertaining chemistry.",
+        "url": "https://awfj.org/blog/2025/11/13/predator-badlands-review-by-valerie-kalfrin/"
+    },
+    {
+        "critic": "Robert W. Butler",
+        "is_top_critic": false,
+        "media": "Butler's Cinema Scene",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-02-24T22:21:37.000Z",
+        "quote": "I found “Predator: Badlands” intermittently amusing and enjoyed the way the yarn expands the whole Predator/Alien mythology. But... I found my interest waning with the repetitive mayhem.",
+        "url": "https://butlerscinemascene.com/2026/02/16/short-takes-predator-badlands-year-10/"
+    },
+    {
+        "critic": "Noah Berlatsky",
+        "is_top_critic": false,
+        "media": "Everything is Horrible (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-22T15:13:49.000Z",
+        "quote": " the film is an illustration of what you can do with hoary narratives if you’re willing to trust your audience to identify with people who aren’t quite the usual heroes.",
+        "url": "https://www.everythingishorrible.net/p/predator-badlands-makes-old-colonialism"
+    },
+    {
+        "critic": "Marlon Wallace",
+        "is_top_critic": false,
+        "media": "The M Report (WBOC.com)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-16T21:53:09.000Z",
+        "quote": "...deconstructing the brutal and merciless culture, established in the previous films. Trachtenberg is critiquing the machismo and solo warrior themes that certainly kicked off this franchise... more about embracing sensitivity and friendship...",
+        "url": "https://www.wboc.com/features/the_m_report/movie-review---predator-badlands/article_1a10dc50-005b-4068-85a9-1d3503b43d47.html"
+    },
+    {
+        "critic": "John Stark",
+        "is_top_critic": false,
+        "media": "Mac the Movie Guy",
+        "sentiment": "Rotten 🤢",
+        "score": "55/100",
+        "date": "2026-02-15T21:19:04.000Z",
+        "quote": "Predator Badlands is what happens when a studio isn’t sure what makes a franchise work,so instead of subverting convention, they instead rely heavily on tried and true, missing the potential right in front of them.",
+        "url": "http://macthemovieguy.com/2026/02/15/predator-badlands"
+    },
+    {
+        "critic": "Douglas Davidson",
+        "is_top_critic": false,
+        "media": "Elements of Madness",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-02-12T16:31:28.000Z",
+        "quote": "All of this coalesces into an absolute thrill-ride that one wants to experience immediately after it’s over.",
+        "url": "https://elementsofmadness.com/2026/02/12/pb-hv/"
+    },
+    {
+        "critic": "Dustin Chang",
+        "is_top_critic": false,
+        "media": "Floating World",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-10T14:14:37.000Z",
+        "quote": "Dan Trachtenberg continues the winning streak with Predator: Badlands is from the alien trophy hunter's point of view with his hefty Shakespearean backstory with the Oedipal complex and brotherhood and betrayal and revenge and so on.",
+        "url": "https://www.dustinchang.com/2026/02/fraternity.html"
+    },
+    {
+        "critic": "Jared Mobarak",
+        "is_top_critic": false,
+        "media": "Hey, Have You Seen ...?",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-01-16T16:18:16.000Z",
+        "quote": "Dan Trachtenberg isn't breathing new life into the Predator franchise. He's wielding what makes it great to breathe new life into a familiar genre trope.",
+        "url": "https://www.heyhaveyouseen.com/week-ending-1-16-26/#predator-badlands"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-01-09T19:04:47.000Z",
+        "quote": "Oh, and stop your whining that Predator has gone PG-13 and lost its edge. Badlands delivers the goods enough that you won’t miss the blood and guts. ",
+        "url": "https://decider.com/2026/01/06/predator-badlands-stream-it-or-skip-it/"
+    },
+    {
+        "critic": "Brian Gill",
+        "is_top_critic": false,
+        "media": "Mad About Movies Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2026-01-05T22:51:04.000Z",
+        "quote": "Wasn't expecting a Predator movie to also be one of the funniest movies of the year. An all-around great time. ",
+        "url": "https://madaboutmoviespodcast.com/episodes/2025/11/12/predator-badlands"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-12-31T23:54:48.000Z",
+        "quote": "It has a few fun moments here and there, but this entry in the overall inconsistent sci-fi/action franchise feels like a grab bag of older ideas from older movies, with little to distinguish itself. ",
+        "url": "https://www.commonsensemedia.org/movie-reviews/predator-badlands"
+    },
+    {
+        "critic": "Dan Buffa",
+        "is_top_critic": false,
+        "media": "Ramble On With Buffa (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-12-31T03:06:10.000Z",
+        "quote": "Making a classic villain change sides is a daring feat that the writer/director pulls off with precise emotion and game performances. Also some of the best action sequences of the year. ",
+        "url": "https://dailydoseofbuffa.substack.com/p/podcast-the-film-buffa-reviews-predator?utm_source=publication-search"
+    },
+    {
+        "critic": "Emily Wheeler",
+        "is_top_critic": false,
+        "media": "Emily Wheeler Movie Ops",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-12-29T01:41:53.000Z",
+        "quote": "Trachtenberg exceeds his first outing by layering a more solid story under the violent action.",
+        "url": "https://emilywheelerfilm.com/2025/12/28/predator-badlands/"
+    },
+    {
+        "critic": "Vera Wylde",
+        "is_top_critic": false,
+        "media": "Council of Geeks",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-12-26T15:32:52.000Z",
+        "quote": "Boy, Predator... that is a franchise on a roll lately.",
+        "url": "https://www.youtube.com/watch?v=xJt5UdgcwTY"
+    },
+    {
+        "critic": "Jayne Nelson",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-12-17T00:20:44.000Z",
+        "quote": "Rooting for a Predator this time may seem weird, but the big snaggle-toothed lad will soon win you over.",
+        "url": "https://www.radiotimes.com/movie-guide/b-xosif7/predator-badlands/"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-12-10T04:16:58.000Z",
+        "quote": "It gets silly a few times, and that’s okay. The action, special effects, and buddy elements make this an entertaining adventure.",
+        "url": "https://fortworthreport.org/2025/11/16/predator-badlands-review-trachtenberg-moves-the-franchise-in-a-new-direction-suitable-for-younger-audiences/"
+    },
+    {
+        "critic": "Jason Shawhan",
+        "is_top_critic": false,
+        "media": "Nashville Scene",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-12-05T23:20:58.000Z",
+        "quote": "A good monster can help smooth over all manner of cinematic oopsies, and Predator: Badlands is well aware that it needs to deliver action, thrills, sci-fi possibilities and a bunch of monsters at all times.",
+        "url": "https://www.nashvillescene.com/arts_culture/film_tv/predator-badlands-review/article_fa5da546-55e5-4584-915a-8ee781f373a9.html"
+    },
+    {
+        "critic": "Stephen A. Russell",
+        "is_top_critic": false,
+        "media": "ABC News (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-28T06:04:51.000Z",
+        "quote": "Delivering oddball comedy alongside Trachtenberg's frenetically staged action ... Badlands borrows from the Predator, Alien, Godzilla and Jurassic Park franchises, miraculously escaping feeling derivative.",
+        "url": "https://ab.co/3KsyXxx"
+    },
+    {
+        "critic": "Rob Dean",
+        "is_top_critic": false,
+        "media": "Bullz-Eye.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-26T18:53:23.000Z",
+        "quote": "\"Predator: Badlands\" is a raucously entertaining movie that truly understands how to fuel a cinematic experience with fun and wit.",
+        "url": "https://www.bullz-eye.com/2025/11/26/movie-review-predator-badlands/"
+    },
+    {
+        "critic": "Mel Valentin",
+        "is_top_critic": false,
+        "media": "That Shelf",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-25T19:34:41.000Z",
+        "quote": "Predator: Badlands only stumbles when Trachtenberg’s ambitions outstrip budget limitations and the script that too often relies on overused genre tropes rather than originating tropes of its own. ",
+        "url": "https://thatshelf.com/predator-badlands-review-the-latest-entry-breathes-new-life-into-a-familiar-franchise/"
+    },
+    {
+        "critic": "Kyle Logan",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-23T22:51:15.000Z",
+        "quote": "Bursting with astonishing blends of practical and digital effects, thrilling action, beautifully shot vistas, and equally heartfelt and humorous character dynamics.",
+        "url": "https://chicagoreader.com/film-tv/movie-review/review-predator-badlands/"
+    },
+    {
+        "critic": "Grant Watson",
+        "is_top_critic": false,
+        "media": "Fiction Machine",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-11-22T06:10:15.000Z",
+        "quote": "In effect, we’re talking about something very in the middle in terms of quality. That feels entirely appropriate: this is competent filmmaking, but ultimately it is a very average movie.",
+        "url": "https://fictionmachine.com/2025/11/21/review-predator-badlands-2025/"
+    },
+    {
+        "critic": "Robert Roten",
+        "is_top_critic": false,
+        "media": "Laramie Movie Scope",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-11-22T00:18:12.000Z",
+        "quote": "Even though there are no humans in this story, Dek and Thia are good characters. Thia is open to the wonder of this world, and remains upbeat, making her a good foil for Dek. The story is compelling and has many twists and turns.",
+        "url": "http://www.lariat.org/AtTheMovies/new/predator2.html"
+    },
+    {
+        "critic": "Adam Hlavac",
+        "is_top_critic": false,
+        "media": "Heroes Reforged (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-21T18:20:18.000Z",
+        "quote": "Good action, great storytelling, fun characters, great moments... a crowd-pleaser.",
+        "url": "https://youtu.be/wu74ZJIyS-Y"
+    },
+    {
+        "critic": "Kiko Martinez",
+        "is_top_critic": false,
+        "media": "The Cinesnob Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-11-21T07:41:53.000Z",
+        "quote": "The world-building is great. With [director Dan Trachtenberg] in charge now, anything can happen in a Predator movie.",
+        "url": "https://www.cinesnob.net/reviews/predator-badlands/"
+    },
+    {
+        "critic": "Joe Lipsett",
+        "is_top_critic": false,
+        "media": "Horror Queers Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-20T14:20:00.000Z",
+        "quote": "Dan Trachtenberg is 3/3 when it comes to Predator films. Fanning delivers comedic gold, the FX looks great and the action is solid. A little Disneyfied, but a small price to pay if we get a new entry every few years",
+        "url": "https://www.patreon.com/posts/predator-2025-143351016"
+    },
+    {
+        "critic": "Leah Schnelbach",
+        "is_top_critic": false,
+        "media": "Reactor",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-19T16:22:35.000Z",
+        "quote": "I never expected a Predator movie to be a buddy comedy? But to be fair, I also never expected a Predator movie to become a touching found family narrative. Predator: Badlands is both; the world is full of wonders.",
+        "url": "https://reactormag.com/movie-review-predator-badlands/"
+    },
+    {
+        "critic": "Nicolás Delgadillo",
+        "is_top_critic": false,
+        "media": "Knotfest",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-19T14:53:11.000Z",
+        "quote": "Moves with the confidence of someone determined to complicate and expand the mythology instead of coasting with it. ",
+        "url": "https://knotfest.com/blogs/screen-crusades/predator-badlands-gives-the-franchise-a-new-pulse?_pos=1&_psq=badlands&_ss=e&_v=1.0"
+    },
+    {
+        "critic": "Carson Timar",
+        "is_top_critic": false,
+        "media": "ClapperCast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-11-18T22:16:21.000Z",
+        "quote": "While the pitch for Predator: Badlands is obvious, the realization of the concept is far from being overly entertaining or captivating. This quickly spirals into being another generic CGI monster fight.",
+        "url": "https://www.youtube.com/watch?v=qxmrgKUHkWY"
+    },
+    {
+        "critic": "Jon Winkler",
+        "is_top_critic": false,
+        "media": "InBetweenDrafts",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-18T19:24:36.000Z",
+        "quote": "Predator: Badlands is more of a sci-fi smoothie, mixing the cartoonish creativity of a series on Toonami with the over-the-top violence of an M-rated video game.",
+        "url": "https://inbetweendrafts.com/predator-badlands-review/"
+    },
+    {
+        "critic": "Ian Bunting",
+        "is_top_critic": false,
+        "media": "Daily Record (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-18T18:23:00.000Z",
+        "quote": "Badlands continues the upward trajectory of the Predator series but, due to its more jovial tone and peeling back much of what makes its protagonist tick, may not win as many fans as Trachtenberg’s previous two outings.",
+        "url": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/movie-review-under-titular-hunters-36226826"
+    },
+    {
+        "critic": "Rachael Harper",
+        "is_top_critic": false,
+        "media": "SciFiNow",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-18T18:15:10.000Z",
+        "quote": "The action? Ferocious. The effects? Seamless. There’s a tactile heft to every explosion and every guttural roar, a blend of practical and digital work that feels like a respectful evolution rather than a glossy overhaul.",
+        "url": "https://www.scifinow.co.uk/reviews/predator-badlands-review/"
+    },
+    {
+        "critic": "Trace Thurman",
+        "is_top_critic": false,
+        "media": "Horror Queers Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-18T16:35:44.000Z",
+        "quote": "Trachtenberg plays with well-worn tropes, but they're tropes that somehow feel fresh when inserted into a Predator movie. It's a lot of fun!",
+        "url": "https://www.patreon.com/posts/predator-2025-143351016"
+    },
+    {
+        "critic": "Bob Grimm",
+        "is_top_critic": false,
+        "media": "Reno News and Review",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-18T13:28:24.000Z",
+        "quote": "One of the year's great surprises. ",
+        "url": "https://renonr.com/2025/11/17/surprising-pov-predator-badlands-offers-a-surprisingly-compelling-new-take-on-the-vicious-alien/"
+    },
+    {
+        "critic": "Ruben Peralta Rigaud",
+        "is_top_critic": false,
+        "media": "Cocalecas",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-17T22:43:21.000Z",
+        "quote": "The message that floats amidst explosions, fangs, and exoskeletons is simple: sometimes what you desire most isn't worth the price of becoming what destroyed you. [Full review in Spanish]",
+        "url": "https://cocalecas.net/2025/11/predator-badlands-critica-cazador-antiheroe/"
+    },
+    {
+        "critic": "Eileen Jones",
+        "is_top_critic": false,
+        "media": "The Jacobin",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-17T20:08:08.000Z",
+        "quote": " In keeping this franchise going, Dan Trachtenberg has done some insightful work in assessing what aspects of Predator keep a grip on our imaginations.",
+        "url": "https://jacobin.com/2025/11/predator-badlands-trachtenberg-fanning-yautja"
+    },
+    {
+        "critic": "Candice McMillan",
+        "is_top_critic": false,
+        "media": "Seattle Refined",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-17T17:16:06.000Z",
+        "quote": "They rip through synths and blow up ships, audaciously tear through foreign, antagonistic foes and give the first swashbuckling, riotous time I've ever experienced in a Predator movie.",
+        "url": "https://seattlerefined.com/lifestyle/review-predator-badlands-alien-universe-dan-trachtenberg-patrick-aison-dimitrius-schuster-koloamatangi"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-17T03:02:11.000Z",
+        "quote": "If you do not mind an extremely derivative and predictable installment that feels like \"Prey\" meets \"Tron: Ares\" (2025) meets \"Guardians of the Galaxy\" (2014), then \"Predator: Badlands\" is worth the price of a matinee.",
+        "url": "https://sarahgvincentviews.com/movies/predator-badlands/"
+    },
+    {
+        "critic": "Harris Dang",
+        "is_top_critic": false,
+        "media": "Impulse Gamer",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-17T01:31:00.000Z",
+        "quote": "Predator: Badlands is another winner from Trachtenberg who proves the franchise is in good hands. While it may take time to accommodate the tonal changes, the formula is refreshed by affable characters and unexpected heart and warmth. Recommended.",
+        "url": "https://www.impulsegamer.com/predator-badlands-film-review/"
+    },
+    {
+        "critic": "Sharai Bohannon",
+        "is_top_critic": false,
+        "media": "HorrorBuzz",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2025-11-15T23:01:25.000Z",
+        "quote": "'Predator: Badlands' does not reinvent the wheel. Most people will probably have a good time with it. Especially people who dig low-stakes action, big CGI battles, and being immersed in futuristic sci-fi worlds. ",
+        "url": "https://horrorbuzz.com/movies/predator-badlands-review/"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "The Travers Take",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-11-15T00:22:52.000Z",
+        "quote": "Elle Fanning does the monster mash and brings audiences back to theaters in droves by lacing the action with laughs ",
+        "url": "https://www.thetraverstake.com/spotlight-predator-badlands/"
+    },
+    {
+        "critic": "Rebecca Onion",
+        "is_top_critic": false,
+        "media": "Slate",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-14T21:34:25.000Z",
+        "quote": "Every franchise needs to find a way to mix things up, and Trachtenberg has done it.",
+        "url": "https://slate.com/culture/2025/11/predator-badlands-new-movie-box-office-2025-prey.html"
+    },
+    {
+        "critic": "Tony Baker",
+        "is_top_critic": false,
+        "media": "Tony Baker Comedy",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-11-14T17:49:23.000Z",
+        "quote": "I enjoyed it. It delivered. ",
+        "url": "https://www.youtube.com/watch?v=XLMsonMBojI"
+    },
+    {
+        "critic": "Victoria Luxford",
+        "is_top_critic": false,
+        "media": "Clash Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-14T16:26:43.000Z",
+        "quote": "A thoroughly enjoyable action movie that will satisfy die-hards and newcomers alike. ",
+        "url": "https://www.clashmusic.com/features/clash-film-07/"
+    },
+    {
+        "critic": "Stephen Porzio",
+        "is_top_critic": false,
+        "media": "joe.ie",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-14T13:17:06.000Z",
+        "quote": "Trachtenberg maintains the mean-and-lean ‘gang on a mission’ storytelling that made Prey a surprise hit, but places it amidst a more dazzling, fun and inventive backdrop.",
+        "url": "https://www.joe.ie/movies-tv/predator-badlands-review-best-sci-fi-movies-2025-elle-fanning-858089"
+    },
+    {
+        "critic": "Nelson Acosta",
+        "is_top_critic": false,
+        "media": "Koimoi",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-11-14T00:52:32.000Z",
+        "quote": "Dan Trachtenberg has really become the protector of the Predator franchise, and you can feel his passion pouring out to make this the best science fiction franchise it can be.",
+        "url": "https://www.koimoi.com/reviews/hollywood-movie-reviews/predator-badlands-movie-review-the-hunt-is-reborn-in-dan-trachtenbergs-best-predator-film-since-the-original/"
+    },
+    {
+        "critic": "Walter Chaw",
+        "is_top_critic": false,
+        "media": "Film Freak Central",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2025-11-13T23:28:48.000Z",
+        "quote": "It’s true, there’s a giant, beating heart in the middle of what could have been another hollow exploitation of our lamented childhoods.",
+        "url": "https://filmfreakcentral.net/2025/11/predator-badlands-2025/"
+    },
+    {
+        "critic": "Joshua Rothkopf",
+        "is_top_critic": true,
+        "media": "Los Angeles Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-13T23:23:42.000Z",
+        "quote": "If a machine — or a studio — can produce a robot as fun as Thia, there’s hope for this franchise yet.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2025-11-12/predator-badlands-review-elle-fanning-dan-trachtenberg-yautja"
+    },
+    {
+        "critic": "Ian Thomas Malone",
+        "is_top_critic": false,
+        "media": "ianthomasmalone.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-13T17:42:24.000Z",
+        "quote": "Trachtenberg delivers a solid popcorn film, entertaining work that falls well short of what we know he’s capable of. One might have hoped he’d swing a little harder for the fences after the treat that was Prey.",
+        "url": "https://ianthomasmalone.com/2025/11/predator-badlands-review-a-very-solid-safe-entry-in-the-long-running-franchise/"
+    },
+    {
+        "critic": "Ben Morganti",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-13T11:56:16.000Z",
+        "quote": "One moment topping the next, Predator: Badlands does a great job keeping audiences engaged throughout the entire story. ",
+        "url": "https://www.cbr.com/predator-badlands-review/"
+    },
+    {
+        "critic": "KT Mahe",
+        "is_top_critic": false,
+        "media": "For Your Reference Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-11-12T23:18:33.000Z",
+        "quote": "In the pursuit of power and acceptance, the spoils are granted to the lovers. Predator boasts decades of rich lore, but Badlands finds its heartbeat in the story through character dynamics and growth.",
+        "url": "https://fyrpodcast.com/episode/100m-bugonia-if-i-had-legs-id-kick-you-predator-badlands/"
+    },
+    {
+        "critic": "Oti",
+        "is_top_critic": false,
+        "media": "For Your Reference Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-12T23:17:18.000Z",
+        "quote": "A fun entry that doesn’t take itself too seriously. What we get is heart, charm, and a Predator you actually want to root for. A bold take on the franchise and it doesn’t miss.",
+        "url": "https://fyrpodcast.com/episode/100m-bugonia-if-i-had-legs-id-kick-you-predator-badlands/"
+    },
+    {
+        "critic": "Christopher Lloyd",
+        "is_top_critic": false,
+        "media": "The Film Yap",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-12T16:58:23.000Z",
+        "quote": "The gore may be toned down from earlier iterations of the franchise, but this is a slick and oddly humanistic action/adventure, considering there are no humans in the movie.",
+        "url": "https://filmyap.substack.com/p/the-av-room-indy-now-november-7"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-11-12T13:07:02.000Z",
+        "quote": "Basically a role reversal from Prey’s story only with the antagonist becoming the protagonist in an overly cutesy narrative that owes more to the world of Alien then Predator and feels more like CGI-on-CGI Jurassic vs. Transformers by the end.",
+        "url": "https://erikthemovieman.substack.com/p/episode-609-if-it-bleeds-we-can-milk"
+    },
+    {
+        "critic": "Charles Koplinski",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-11-12T04:32:59.000Z",
+        "quote": "That a life-affirming sentiment should come from a “Predator” movie is just one of many delights in “Badlands,” its tonal shift suggesting a new direction for the franchise. ",
+        "url": "https://reeltalkwithchuckandpam.com/predator-badlands-chuck-recommends/"
+    },
+    {
+        "critic": "Daniel Rester",
+        "is_top_critic": false,
+        "media": "Under the Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-11-11T23:14:53.000Z",
+        "quote": "The first two films in this series are gritty, sweaty, and bloody adult action-horror films. Some of that style remained in later entries to a lesser degree, but Predator: Badlands does away with nearly all of it in favor of slick blockbuster set pieces.",
+        "url": "https://www.undertheradarmag.com/reviews/predator_badlands"
+    },
+    {
+        "critic": "Brian Lowry",
+        "is_top_critic": false,
+        "media": "Status News",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-11-11T22:47:36.000Z",
+        "quote": "After “Prey” and the animated “Predator: Killer of Killers,” director Dan Trachtenberg adds another mindlessly entertaining wrinkle to the “Predator” mythology that nobody really needed.",
+        "url": "https://www.status.news/p/netflix-podcasts-strategy-youtube"
+    },
+    {
+        "critic": "Scott Mendelson",
+        "is_top_critic": false,
+        "media": "The Outside Scoop (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-11-11T18:26:41.000Z",
+        "quote": "Dan Trachtenberg and Patrick Aison again deliver a 'Predator' movie that skews the curve for what was previously, at best, a B-movie grindhouse franchise.",
+        "url": "https://scottmendelson.substack.com/p/scott-mendelson-reviews-predator-badlands"
+    },
+    {
+        "critic": "Jeff Ewing",
+        "is_top_critic": false,
+        "media": "The Direct",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-11T17:56:52.000Z",
+        "quote": "It boasts fine performances from Fanning and Schuster-Koloamatangi, unique creature designs, well-developed action sequences throughout, and an expansion of the universe. The franchise is in good hands.",
+        "url": "https://thedirect.com/reviews-ratings/predator-badlands-review"
+    },
+    {
+        "critic": "Chris Sawin",
+        "is_top_critic": false,
+        "media": "Bounding Into Comics",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-11-11T16:27:58.000Z",
+        "quote": "Savage, badass, and brutal, Predator: Badlands is the most action-packed Predator film yet. See this one in theaters for the best picture and sound — it’s worth every penny.",
+        "url": "https://boundingintocomics.com/movies/movie-reviews/predator-badlands-review-predator-at-its-action-packed-best"
+    },
+    {
+        "critic": "Sara Michelle Fetters",
+        "is_top_critic": true,
+        "media": "MovieFreak.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2025-11-11T02:35:16.000Z",
+        "quote": "Trachtenberg tips his hat to all of the past stories but refuses to be beholden to any of them.",
+        "url": "http://moviefreak.com/predator-badlands-2025-movie-review/"
+    },
+    {
+        "critic": "Lael Loewenstein",
+        "is_top_critic": false,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-10T22:30:03.000Z",
+        "quote": "Not only is a super fun action film with great set pieces and pretty ingenious action choreography, but it also has a surprising amount of heart. ",
+        "url": "https://laist.com/news/arts-and-entertainment/filmweek-predator-badlands-sentimental-value-die-my-love-and-more"
+    },
+    {
+        "critic": "Christy Lemire",
+        "is_top_critic": true,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-10T22:26:53.000Z",
+        "quote": "This is an incredible surprise! A big, thrilling summer popcorn movie in the middle of November. ",
+        "url": "https://laist.com/news/arts-and-entertainment/filmweek-predator-badlands-sentimental-value-die-my-love-and-more"
+    },
+    {
+        "critic": "Abhimanyu Mathur",
+        "is_top_critic": false,
+        "media": "Hindustan Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-11-10T22:26:37.000Z",
+        "quote": "Not only is this spinoff bland, but it also demystifies one of Hollywood’s most iconic characters so wastefully that it feels tragic more than anything else.",
+        "url": "https://www.hindustantimes.com/entertainment/hollywood/predator-badlands-review-dan-trachtenberg-demystifies-predator-in-bland-spinoff-prey-elle-fanning-dimitrius-101762496211556.html"
+    },
+    {
+        "critic": "Kevin Maher",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-11-10T21:19:46.000Z",
+        "quote": "A depressingly schmaltzy effort that unwisely attempts to reimagine the beastie as a sympathetic hero complete with tragic backstory about the perils of clan life on the Predator home planet of Yautja Prime. ",
+        "url": "https://www.thetimes.com/culture/film/article/predator-badlands-review-elle-fanning-0r75mcvgf"
+    },
+    {
+        "critic": "Maxance Vincent",
+        "is_top_critic": false,
+        "media": "The Cosmic Circus",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2025-11-10T20:38:38.000Z",
+        "quote": "It’s a Predator movie for the Cocomelon generation.",
+        "url": "https://thecosmiccircus.com/predator-badlands-movie-review/"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-10T20:37:24.000Z",
+        "quote": "It’s a CGI-heavy onslaught that lacks the human resonance of Prey. Still, you find yourself empathising with a murderous amber-eyed alien whose head is almost entirely made up of teeth, which is no small achievement.",
+        "url": "https://observer.co.uk/culture/film/article/wendy-ides-pick-of-other-films-train-dreams-dragonfly-predator-badlands-the-choral-and-more"
+    },
+    {
+        "critic": "Kristian M. Lin",
+        "is_top_critic": false,
+        "media": "Fort Worth Weekly",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-10T20:26:48.000Z",
+        "quote": "I find Badlands to be not as strong a piece of work as those predecessors, but its visuals do merit the screens of your multiplex.",
+        "url": "https://www.fwweekly.com/2025/11/06/predator-killing-kinds/"
+    },
+    {
+        "critic": "Tom Meek",
+        "is_top_critic": false,
+        "media": "Cambridge Day",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-11-10T20:24:01.000Z",
+        "quote": "It’s an effective blend of grim, sci-fi grit and nonchalantly ribald comedy. It swings for the fences and connects.",
+        "url": "https://www.cambridgeday.com/2025/11/09/the-fun-predator-badlands-flips-the-script-making-heroes-of-villains-from-two-sci-fi-series/"
+    },
+    {
+        "critic": "John Lui",
+        "is_top_critic": false,
+        "media": "The Straits Times (Singapore)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-10T19:38:20.000Z",
+        "quote": "Trachtenberg’s bold reinvention of the franchise makes the Predator a relatable antihero with genuine emotion.",
+        "url": "https://www.straitstimes.com/life/entertainment/franchise-villain-becomes-unlikely-hero-in-bold-sci-fi-adventure-predator-badlands"
+    },
+    {
+        "critic": "Glen Weldon",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-10T19:30:47.000Z",
+        "quote": "You're going to have a good time. Action set pieces, on point, humor that is based in behavior and attitude, not quips, not pop culture references.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5600954"
+    },
+    {
+        "critic": "Chris Klimek",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-10T19:30:45.000Z",
+        "quote": "I think the script is really good. I think Elle Fanning is wonderful. I just don't like the way this movie looks.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5600954"
+    },
+    {
+        "critic": "Ronald Young Jr.",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-10T19:30:44.000Z",
+        "quote": "Watching this [film] and seeing everything that they're establishing, I think is fine for this movie, but it was not something I was craving outside of this movie.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5600954"
+    },
+    {
+        "critic": "Joel Harley",
+        "is_top_critic": false,
+        "media": "Starburst",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-10T18:23:41.000Z",
+        "quote": "A bold action film with charm, grace and a strong emotional throughline, Badlands is perhaps the most human Predator yet. Not bad, considering there’s not a single one in the whole film.",
+        "url": "https://www.starburstmagazine.com/reviews/predator-badlands/"
+    },
+    {
+        "critic": "Emmanuel Noisette",
+        "is_top_critic": false,
+        "media": "The Movie Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-10T07:30:46.000Z",
+        "quote": "Predator Badlands is an action-packed addition to the franchise that surprisingly brings along a lot more heart than expected.",
+        "url": "https://www.themovieblog.com/2025/11/predator-badlands-review-a-fierce-new-hunt-with-heart/"
+    },
+    {
+        "critic": "Jeffrey Harris",
+        "is_top_critic": false,
+        "media": "411mania",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2025-11-10T01:58:15.000Z",
+        "quote": "The story breaks new ground for the franchise, creating an immersive, entertaining, and action-packed adventure about a Yautja warrior that genuinely works.",
+        "url": "https://411mania.com/movies/predator-badlands-review/"
+    },
+    {
+        "critic": "Travis Johnson",
+        "is_top_critic": false,
+        "media": "Blunt Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-10T01:36:23.000Z",
+        "quote": "What unfolds is a kind of sci-fi wilderness adventure, with the pair (plus a cute little CGI critter dubbed Bud, who manages to be charming rather than grating) learning to trust each other.",
+        "url": "https://bluntmag.com.au/film/review-predator-badlands-is-a-fun-adventure-designed-to-set-up-a-new-franchise/"
+    },
+    {
+        "critic": "Lupe Rodriguez Haas",
+        "is_top_critic": false,
+        "media": "CineMovie.tv",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2025-11-09T21:32:43.000Z",
+        "quote": "Predator: Badlands is a fierce evolution of the franchise — a blend of classic monster mayhem and bold storytelling that proves the hunt is far from over.",
+        "url": "https://cinemovie.tv/index.php/new-series-and-movie-reviews/predator-badlands-review-dan-trachtenberg"
+    },
+    {
+        "critic": "Adam Olinger",
+        "is_top_critic": false,
+        "media": "Adam Does Movies (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-09T18:41:46.000Z",
+        "quote": "Predator: Badlands definitely feels like a family-friendly version of Predator I don't necessarily want more of. However, it was still a very entertaining ride with plenty of action, humor and creative kills.",
+        "url": "https://youtu.be/xhrchVm5g7I"
+    },
+    {
+        "critic": "Aglaia Berlutti",
+        "is_top_critic": false,
+        "media": "El estímulo",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-09T16:14:39.000Z",
+        "quote": "Dan Trachtenberg, who already surprised audiences with Prey (2023), returns with an intelligent story that humanizes the fearsome Yautja race in a novel way. Ideal for fans and those nostalgic for the classic 1980s action film. [Full Review in Spanish]",
+        "url": "https://elestimulo.com/ub/cinemania/2025-11-05/depredador-tierras-salvajes/"
+    },
+    {
+        "critic": "Derrick Murray",
+        "is_top_critic": false,
+        "media": "NERDBOT",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-09T15:03:45.000Z",
+        "quote": "“Predator: Badlands” is the lesser [film] helmed by Trachtenberg, lacking the grit and rawness of “Prey” and the blood soaked adventure of “Killer of Killers.”...it feels more like a standard sci-fi action hero film reformatted to fit a Predator into it. ",
+        "url": "https://nerdbot.com/2025/11/07/predator-badlands-fun-sci-fi-action-hero-story-with-predator-skin/"
+    },
+    {
+        "critic": "Korey Coleman",
+        "is_top_critic": false,
+        "media": "Double Toasted",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-09T03:05:10.000Z",
+        "quote": "Dan Trachtenberg is taking really bold steps with the Predator franchise—expanding the world and making these creatures real characters.",
+        "url": "https://www.youtube.com/watch?v=AiH_W9fxdhg"
+    },
+    {
+        "critic": "James Marsh",
+        "is_top_critic": false,
+        "media": "Deep Dive Movie Reviews (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-11-09T00:26:58.000Z",
+        "quote": "Feels like a Disneyfication of the franchise, populated with cute characters and quirky sidekicks...another example of a Disney movie trying to exonerate its central villain",
+        "url": "https://www.youtube.com/watch?v=nyxA8I8_Jc0"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2025-11-08T22:23:32.000Z",
+        "quote": "The film charts a new direction for the franchise with the efficiency Wey-Yu might bring to rebranding an outmoded product without abandoning what its fans love about it...but a predator that’s not the supreme bad-guy...is a very different kind of beast.",
+        "url": "https://www.oneguysopinion.com/predator-badlands/"
+    },
+    {
+        "critic": "Rebecca Johnson",
+        "is_top_critic": false,
+        "media": "Talking Films",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-08T21:10:07.000Z",
+        "quote": "Predator: Badlands is another fantastic entry into the franchise that spurs on the lore and world building, whilst creating an entertaining blockbuster to be enjoyed by all. Elle Fanning is exceptional.",
+        "url": "https://talkingfilms.net/predator-badlands-review-another-action-packed-engaging-adventure-from-trachtenberg/"
+    },
+    {
+        "critic": "MontiLee Stormer",
+        "is_top_critic": false,
+        "media": "MovieReelist.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-11-08T20:24:02.000Z",
+        "quote": "This standalone decisively links the Predator mythology with the relentless corporate monster of the Alien franchise. If the Yautja hunts for honor, Weyland-Yutani hunts for profit, seeking alien tech to dominate the bio-weapons market (or every market). ",
+        "url": "https://moviereelist.com/review/movie-review-predator-badlands/"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "The SS Ben Hecht",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-08T18:20:23.000Z",
+        "quote": "Surprisingly, the film is a thrill, featuring some of the best action filmmaking of the year.",
+        "url": "https://stephensilver.substack.com/p/predator-badlands-is-a-pleasant-surprise"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "Rachel's Reviews (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-08T17:55:57.000Z",
+        "quote": "Tightly edited. Creative world building. I really enjoyed it",
+        "url": "https://www.youtube.com/watch?v=EnR7gHxlfKU"
+    },
+    {
+        "critic": "Joshua Mbonu",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-11-08T17:49:19.000Z",
+        "quote": "Predator: Badlands is another strong outing for Trachtenberg, not only delivering the fun ingenuity and gripping action that we’ve come to expect, but also giving a fair amount of heart that is a surprise, but a welcome one.",
+        "url": "https://insessionfilm.com/movie-review-predator-badlands/"
+    },
+    {
+        "critic": "John Urbancich",
+        "is_top_critic": false,
+        "media": "JMuvies",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-08T17:03:24.000Z",
+        "quote": "it certainly has it all: Razor-sharp grass, man-eating tree limbs, truly special effects, genuine laughs, daunting beasts, and a couple of lead actors (Dimitrius Schuster-Koloamatangi and Elle Fanning) bonding productively.",
+        "url": "https://jmuvies.blogspot.com/2025/11/crowded-weekend-includes-badlands.html"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-08T15:55:41.000Z",
+        "quote": "\"Badlands\" doesn't come close to reaching the heights of the 1987 original. But to Trachtenberg's credit, he doesn't try to. He simply shows there are a variety of stories to tell within this growing franchise. And I'm thrilled that he has the keys to it.",
+        "url": "https://keithandthemovies.com/2025/11/08/review-predator-badlands-2025/"
+    },
+    {
+        "critic": "Sean Burns",
+        "is_top_critic": false,
+        "media": "North Shore Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-11-08T13:56:35.000Z",
+        "quote": "Feels like one of those crummy ‘Star Wars’ shows on Disney Plus: dense with lore, cheaply made and aimed at children.",
+        "url": "https://northshoremovies.wpcomstaging.com/2025/11/06/review-predator-badlands/"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-08T09:38:45.000Z",
+        "quote": "The fact that Predator: Badlands works as well as it does...is a testament to Trachtenberg’s courage to spice things up without completely removing what the Predator movies have become best known for.",
+        "url": "https://filmfeeder.co.uk/film-reviews/predator-badlands-dir-dan-trachtenberg"
+    },
+    {
+        "critic": "Sean Chandler",
+        "is_top_critic": false,
+        "media": "Sean Chandler Talks About",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-11-08T04:32:57.000Z",
+        "quote": "If you can accept a Predator movie where the Predator makes friends, Badlands is a highly entertaining crowd-pleaser that takes the franchise in a fresh new direction and expands the lore.",
+        "url": "https://www.youtube.com/watch?v=L_jzUvFjcuQ"
+    },
+    {
+        "critic": "M.V. Moorhead",
+        "is_top_critic": false,
+        "media": "Less Hat, Moorhead",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-08T02:08:49.000Z",
+        "quote": "[Elle Fanning's] guileless nattering lets enough of the Wagnerian air out of the proceedings to keep things light and amusing. Better still is Schuster-Koloamatangi, a New Zealander who somehow manages to connect with the audience through the makeup.",
+        "url": "https://mvmoorhead.blogspot.com/2025/11/stalk-characters.html"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2025-11-08T01:22:34.000Z",
+        "quote": "Trachtenberg and his team understood that the best way to continue the franchise was to simply make a kick-ass movie. And that’s precisely what they’ve done.",
+        "url": "https://aisleseat.com/predator-badlands.html"
+    },
+    {
+        "critic": "Ganesh Aaglave",
+        "is_top_critic": false,
+        "media": "Firstpost",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-11-08T00:54:57.000Z",
+        "quote": "Dan Trachtenberg, who earlier delivered a breathtaking film in the form of Prey, fails to create magic with an iconic franchise due to its outdated and predictable storyline.",
+        "url": "https://www.firstpost.com/entertainment/predator-badlands-movie-review-the-legendary-sci-fi-villain-turns-bollywoodish-hero-in-an-overstretch-avatar-retelling-saga-13947945.html"
+    },
+    {
+        "critic": "Justine Smith",
+        "is_top_critic": false,
+        "media": "Little White Lies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-11-08T00:15:49.000Z",
+        "quote": "Considering the film’s attention to detail in creating a planet brimming with unusual lifeforms, it is an absolute waste to relegate the film’s climax to what looks like a dark backlot. ",
+        "url": "https://lwlies.com/reviews/predator-badlands"
+    },
+    {
+        "critic": "Shalini Langer",
+        "is_top_critic": false,
+        "media": "The Indian Express",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-11-07T23:56:01.000Z",
+        "quote": "The idea isn’t original, nor is Trachtenberg in its execution, with the film’s pace requiring it to squeeze its fights in one after another in quick succession.",
+        "url": "https://indianexpress.com/article/entertainment/movie-review/predator-badlands-movie-review-elle-fanning-shines-in-taut-film-10351208/"
+    },
+    {
+        "critic": "Abhishek Srivastava",
+        "is_top_critic": false,
+        "media": "The Times of India",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-07T23:05:59.000Z",
+        "quote": "The film feels bigger, stranger, and more emotional than previous films. It is still violent and tense, but there’s a surprising heart underneath all the action. ",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/predator-badlands/movie-review/125133655.cms"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-11-07T22:58:38.000Z",
+        "quote": "\"Badlands\" still delivers the action that fans crave, but it finds new life in the \"Predator\" series precisely by not being so precious about itself or its lore. ",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2025/11/04/predator-badlands-review-breaking-the-rules-having-a-blast/87086675007/"
+    },
+    {
+        "critic": "Dana Han-Klein",
+        "is_top_critic": false,
+        "media": "We're Watching What?!",
+        "sentiment": "Fresh 🍅",
+        "score": "3.7/5",
+        "date": "2025-11-07T22:15:17.000Z",
+        "quote": "Trachtenberg expands the lore of the universe but it lacks the originality of his first brilliant foray into the franchise: Prey. While there's some of the core of what one would expect for a Predator film, for better or for worse it humanizes the Yautja.",
+        "url": "https://youtu.be/NA6tYlHub1Q"
+    },
+    {
+        "critic": "Dustin Rowles",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-07T22:13:20.000Z",
+        "quote": "That’s the real magic of Badlands: Trachtenberg turns a character who’s been the villainous monster for nearly 40 years into a sympathetic protagonist. He gives him a name -- Dek -- and by the end of Badlands, you’ll love him.",
+        "url": "https://www.pajiba.com/film_reviews/review-dan-trachtenbergs-predator-badlands-starring-elle-fanning.php"
+    },
+    {
+        "critic": "Alex Billington",
+        "is_top_critic": false,
+        "media": "FirstShowing.net",
+        "sentiment": "Fresh 🍅",
+        "score": "8.8/10",
+        "date": "2025-11-07T22:12:29.000Z",
+        "quote": "This is exactly why it's refreshing, and honestly quite exciting, to see Trachtenberg try something completely new and take this series in a whole new direction.",
+        "url": "https://www.firstshowing.net/2025/review-predator-badlands-is-a-bold-refresh-of-this-sci-fi-franchise/"
+    },
+    {
+        "critic": "Dulcie Pearce",
+        "is_top_critic": false,
+        "media": "The Sun (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-07T22:10:12.000Z",
+        "quote": "Predator fans may feel dissatisfied by just how far-removed Badlands has travelled from the original. But doing so does pave the way for some unadulterated futuristic action that can be enjoyed entirely on its own merits, and by a whole new audience.",
+        "url": "https://www.thesun.co.uk/tvandshowbiz/37245089/predator-badlands-film-review/"
+    },
+    {
+        "critic": "Ayaan Paul Chowdhury",
+        "is_top_critic": false,
+        "media": "The Hindu",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-07T21:24:28.000Z",
+        "quote": "Cinema’s most enthusiastic murder tourist still rips, bleeds, and flexes with the swagger of a classic Yautja bloodfest, but Badlands turns the galaxy’s most macho pastime into a strangely moving study of empathy in armour.",
+        "url": "https://www.thehindu.com/entertainment/movies/predator-badlands-movie-review-a-blood-soaked-bildungsroman-for-the-galaxys-deadliest-himbo/article70251382.ece"
+    },
+    {
+        "critic": "DarkSkyLady",
+        "is_top_critic": false,
+        "media": "DarkSkyLady Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-07T21:23:16.000Z",
+        "quote": "Predator: Badlands cements that Dan Trachtenberg knows what works for the series and for moviegoers, blending action-packed entertainment with a genuine human (or Predator) story.",
+        "url": "https://darkskylady.com/predator-badlands-brings-the-destruction-to-a-new-world/"
+    },
+    {
+        "critic": "Brian Viner",
+        "is_top_critic": false,
+        "media": "Daily Mail (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-11-07T21:16:54.000Z",
+        "quote": "Director Dan Trachtenberg's 2016 film 10 Cloverfield Lane was one of the better sci-fi horror films of recent years. Predator: Badlands does not scale the same heights.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15267643/BRIAN-VINER-reviews-Nicholas-Hytners-Choral-duff-notes-sub-par-Alan-Bennett-comedy-Ralph-Fiennes-song.html"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-11-07T20:57:52.000Z",
+        "quote": "I was unengaged by it.",
+        "url": "https://www.youtube.com/watch?v=wvauJ_lqPLA&t=196s"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-07T20:42:17.000Z",
+        "quote": "Trachtenberg continues to breath fresh air into a once stagnated franchise with Predator: Badlands, an enjoyable new chapter reminding us that \"nobody, but nobody, can make it out here alone,\" even if they're vicious hunter warriors...",
+        "url": "https://www.youtube.com/watch?v=qEf3-QRoqfs"
+    },
+    {
+        "critic": "Rick Bentley",
+        "is_top_critic": false,
+        "media": "KGET-TV (Bakersfield, CA)",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-11-07T20:14:19.000Z",
+        "quote": "There is no question “Predator: Badlands” is designed to be a cinematic thrill ride. Trachtenberg never cuts corners when it comes to big fight scenes. ",
+        "url": "https://www.kget.com/community/ricks-reviews/predator-badlands-killer-addition-to-franchise/"
+    },
+    {
+        "critic": "Cris Kennedy",
+        "is_top_critic": false,
+        "media": "Inner East Review",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-07T19:46:46.000Z",
+        "quote": "Dimitrius Schuster-Koloamatangi might be aided heavily by GCI and makeup as the Yautja creature, but those artists need something to build on and his performance is a very strong scaffolding.",
+        "url": "https://www.innereastreview.com.au/story/9106477/predator-badlands-alien-action-meets-dark-comedy/"
+    },
+    {
+        "critic": "Ryan Syrek",
+        "is_top_critic": false,
+        "media": "The Reader (Omaha, NE)",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2025-11-07T19:15:55.000Z",
+        "quote": "It is, at a bare minimum, highly improbable that director Dan Trachtenberg has now squeezed three consecutive squeal-inducingly-good sci-fi spectacles out of a franchise best known for a handshake meme.",
+        "url": "https://thereader.com/2025/11/07/predator-badlands-review/"
+    },
+    {
+        "critic": "Cody Leach",
+        "is_top_critic": false,
+        "media": "Cody Leach (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-11-07T19:13:24.000Z",
+        "quote": "Badlands take a swing that could potentially alienate (pun intended) its core audience and somehow they pull it off! The action, spectacle, and classic underdog hero story makes a very entertaining crowd-pleaser that doesn't water down what fans expect.",
+        "url": "https://www.youtube.com/watch?v=bA8tl8WGXNc"
+    },
+    {
+        "critic": "Patrick McDonald",
+        "is_top_critic": false,
+        "media": "WBGR-FM (93.7 FM - Monroe, WI)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-07T18:47:21.000Z",
+        "quote": "Bare recco but Elle F. was great & the film looked amazing. My beef is ALWAYS having to develop a \"family,\" like FAST/FURIOUS, & avoiding the R Rating by making all the blood a different color during the decapitations. But a new standard for \"nice legs!\"",
+        "url": "https://youtu.be/YXGP6Chdqf0?si=SmKgE_OYclEJG34Y"
+    },
+    {
+        "critic": "Shawn Edwards",
+        "is_top_critic": false,
+        "media": "Fox 4 Kansas City",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-07T18:36:41.000Z",
+        "quote": "Predator: Badlands just works.",
+        "url": "https://www.youtube.com/watch?v=Bd-MA55C3SI&list=PLYIuAMO7HHjjMBXV3sEz6ssmoX3rvevyL&index=1"
+    },
+    {
+        "critic": "Bilge Ebiri",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-07T18:31:07.000Z",
+        "quote": "Predator: Badlands is a charming surprise.",
+        "url": "https://www.vulture.com/article/predator-badlands-review-there-are-no-bad-predator-movies.html"
+    },
+    {
+        "critic": "Damond Fudge",
+        "is_top_critic": false,
+        "media": "KCCI (Des Moines, IA)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-07T18:25:48.000Z",
+        "quote": "Predator: Badlands is an absolute blast! It’s a smart and action-packed entry to the franchise, filled with excitement, perfectly-timed comedic moments and a surprising amount of heart.",
+        "url": "https://bit.ly/43ljo13"
+    },
+    {
+        "critic": "DJ BenHaMeen",
+        "is_top_critic": false,
+        "media": "For All Nerds Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-07T18:12:19.000Z",
+        "quote": "Predator: Badlands takes the traditional action-horror angle of the franchise and trades it for a Lone Wolf and Cub type adventure starring a non English speaking alien and a humanoid robot. ",
+        "url": "https://www.youtube.com/watch?v=NVQhs4rEp2U&t=750s"
+    },
+    {
+        "critic": "Michael Cook",
+        "is_top_critic": false,
+        "media": "KLRT-TV ",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2025-11-07T17:18:11.000Z",
+        "quote": "There are deeper themes here such as friendship and how even the fiercest predator needs allies and friends to survive.  But if you want an action film, then this one is for you. ",
+        "url": "https://www.fox16.com/video/at-the-movies-film-critic-reviews-%E2%80%98predator-badlands%E2%80%99-and-%E2%80%98bugonia%E2%80%99/11241984/"
+    },
+    {
+        "critic": "Matt Singer",
+        "is_top_critic": true,
+        "media": "ScreenCrush",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-07T17:15:07.000Z",
+        "quote": "The best Predator since the first film.",
+        "url": "https://screencrush.com/predator-badlands-review/"
+    },
+    {
+        "critic": "Jonathan W. Hickman",
+        "is_top_critic": false,
+        "media": "The Newnan Times-Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-07T16:18:42.000Z",
+        "quote": "“Predator: Badlands” is the Alien-Predator mashup that fans have been craving. ",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/predator-badlands/article_f88d0481-1f10-4de8-8fa5-4c347e2fcd04.html"
+    },
+    {
+        "critic": "Odie Henderson",
+        "is_top_critic": true,
+        "media": "Boston Globe",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2025-11-07T16:12:37.000Z",
+        "quote": "Despite the danger-filled sequences, Dek’s quest for revenge, and creature-on-creature violence, this film is a screwball comedy. And not just any screwball comedy, either; “Predator: Badlands” is “It Happened One Night” with a Predator monster.",
+        "url": "https://www.bostonglobe.com/2025/11/06/arts/predator-badlands-elle-fanning/"
+    },
+    {
+        "critic": "BJ Colangelo",
+        "is_top_critic": false,
+        "media": "Fangoria",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-07T15:01:28.000Z",
+        "quote": "PREDATOR: BADLANDS is the kind of audacious, whip-smart blockbuster filmmaking that we desperately need these days, where the unique vision of someone who obviously loves making movies is allowed to make the damn film.",
+        "url": "https://www.fangoria.com/predator-badlands-review/"
+    },
+    {
+        "critic": "Andrew Parker",
+        "is_top_critic": false,
+        "media": "The Gate",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-11-07T14:53:05.000Z",
+        "quote": "It’s fine if all you want is a movie about a swarthy antihero slicing and dicing his way through an interplanetary jungle, but don’t expect much more than that.",
+        "url": "https://www.thegate.ca/film/071287/predator-badlands-review-the-hunt-is-a-little-off/"
+    },
+    {
+        "critic": "Brandon Avery",
+        "is_top_critic": false,
+        "media": "Just My Opinion Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-07T14:37:12.000Z",
+        "quote": "Heartfelt, funny, and action packed. Predator gets new life in Badlands, and I'm here for it!",
+        "url": "https://www.youtube.com/watch?v=BrNBZqpJ8tg&t=1s"
+    },
+    {
+        "critic": "Lee McCoy",
+        "is_top_critic": false,
+        "media": "DrumDums",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2025-11-07T14:30:12.000Z",
+        "quote": "Badlands has some some highly impressive action set pieces throughout that ramp up the popcorn factor. It's visually spectacular, and you actually care about Dek, who has a great arc since he's still a trainee and quite young.",
+        "url": "https://youtu.be/1C2x20zdhiI"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-07T14:27:11.000Z",
+        "quote": "A satisfying, high-octane shot of adrenaline that breathes new life into the Predator franchise.",
+        "url": "https://youtu.be/qEf3-QRoqfs"
+    },
+    {
+        "critic": "Bob Chipman",
+        "is_top_critic": false,
+        "media": "Moviebob Central",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-07T14:21:01.000Z",
+        "quote": "Surprisingly, the elevator pitch of 'Predator Versus Everything-From-Alien-BUT-The-Alien This Time' turns out to NOT be too twee for it's own good and makes for a satisfying space-monster action-figure sandbox romp.",
+        "url": "https://www.youtube.com/watch?v=gQzUfbo0Lo0"
+    },
+    {
+        "critic": "Matt Lynch",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-07T13:45:22.000Z",
+        "quote": "Badlands gets pretty close to completely demystifying a character(s) that has endured for decades... [but] the vision here is so novel compared to the rest of the franchise’s films that it’s hard to care too much.",
+        "url": "https://inreviewonline.com/2025/11/07/predator-badlands-review/"
+    },
+    {
+        "critic": "Steven Prokopy",
+        "is_top_critic": false,
+        "media": "Third Coast Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-11-07T13:32:05.000Z",
+        "quote": "I’ve never felt especially invested in this franchise until Trachtenberg got involved, and Predator: Badlands is another step in the right direction...",
+        "url": "https://thirdcoastreview.com/film-tv/2025/11/06/review-predator-badlands"
+    },
+    {
+        "critic": "Guillermo Troncoso",
+        "is_top_critic": false,
+        "media": "Screen Realm",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-07T13:27:39.000Z",
+        "quote": "Badlands may be the cuddliest Predator yet, but it still moves, still invents, and still finds sharp ways to kill. It’s a confident tonal recalibration that widens the universe, while inevitably softening a measure of the franchise’s chill.",
+        "url": "https://screenrealm.com/predator-badlands-movie-review-2025/"
+    },
+    {
+        "critic": "Troy Ribeiro",
+        "is_top_critic": false,
+        "media": "Free Press Journal (India)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/ 5",
+        "date": "2025-11-07T09:06:45.000Z",
+        "quote": "Trachtenberg’s Predator: Badlands won’t satisfy purists craving blood and brawn, but it’s a witty, self-aware reinvention of a weary franchise. Balancing parody with heart, it turns a galactic hunter into a surprisingly tender hero.",
+        "url": "https://www.freepressjournal.in/entertainment/predator-badlands-review-starring-dimitrius-schuster-koloamatangi-elle-fanning-mike-homik-is-a-monster-movie-with-a-beating-heart-and-a-slightly-confused-moral-compass"
+    },
+    {
+        "critic": "Sreeju Sudhakaran",
+        "is_top_critic": false,
+        "media": "LatestLY.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-11-07T07:37:02.000Z",
+        "quote": "Predator: Badlands is a fascinating direction for the franchise - a film that dares to find humanity in a monster, albeit at the cost of losing the fear that made the Predator legend endure. ",
+        "url": "https://www.latestly.com/entertainment/hollywood/predator-badlands-movie-review-dan-trachtenberg-reinvents-the-predator-myth-but-still-hunts-in-familiar-territory-latestly-exclusive-7192417.html"
+    },
+    {
+        "critic": "Marcelo Stiletano",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-07T05:27:50.000Z",
+        "quote": "The best thing the sixth official Predator sequel shows is a welcome spirit of openness to new scenarios and possible explorations. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/depredador-tierras-salvajes-es-la-cronica-de-una-travesia-con-mucho-de-tragedia-griega-nid06112025/"
+    },
+    {
+        "critic": "Gregory Nussen",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-11-07T03:52:35.000Z",
+        "quote": "Dan Trachtenberg's third Predator entry is exciting, but also tonally askew in ways that prevent it from hitting its stride.\n",
+        "url": "https://screenrant.com/predator-badlands-movie-review/"
+    },
+    {
+        "critic": "Russ Simmons",
+        "is_top_critic": false,
+        "media": "KKFI-FM (Kansas City)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-07T03:47:54.000Z",
+        "quote": "“Predator: Badlands” proves that old properties can seem fresh when infused with enough imagination.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-frankenstein-r-predator-badlands-pg-13-die-my-love-r-sarahs-oil-pg/"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-11-07T01:59:51.000Z",
+        "quote": "An ambitious found family survival thriller with shrewd fan service that remains satisfyingly self-contained, Predator: Badlands proves its worth. \n",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=dce9d6b0-82ba-41c2-a6d6-e2a3f4c41848"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-11-07T00:45:25.000Z",
+        "quote": "PredatorBadlands was everything I could’ve hoped for! I’m grinning ear to ear from the pure rush of adrenaline and joy this sci-fi thrill ride delivered. I’m on cloud 9",
+        "url": "https://youtu.be/k6sxhextTIQ"
+    },
+    {
+        "critic": "Britany Murphy",
+        "is_top_critic": false,
+        "media": "Muses of Media",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-07T00:07:01.000Z",
+        "quote": "Although I didn’t love Badlands as much as Prey and Killer of Killers, it’s still a thoroughly enjoyable sci-fi flick that should be seen on the biggest screen available for its top-notch action, phenomenal performances, and emotional throughlines.",
+        "url": "https://musesofmedia.ca/2025/11/06/predator-badlands-review/"
+    },
+    {
+        "critic": "George M. Thomas",
+        "is_top_critic": false,
+        "media": "Akron Beacon Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-11-06T22:43:44.000Z",
+        "quote": "Few directors have been able to drop into an established franchise – especially one as mature as “Predator” – revive it and truly make it their own. Dan Trachtenberg (\"10 Cloverfield\") has not only refreshed it, but he’s imbued it with intelligence ",
+        "url": "https://www.beaconjournal.com/story/entertainment/movies/2025/11/06/dan-trachtenberg-creates-one-of-best-entries-in-predator-franchise/87080419007/"
+    },
+    {
+        "critic": "Kyle Smith",
+        "is_top_critic": false,
+        "media": "Wall Street Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-06T22:29:51.000Z",
+        "quote": "All in good fun for a B-movie, and “P: B” does not pretend to be anything else.",
+        "url": "https://www.wsj.com/arts-culture/film/predator-badlands-review-an-ace-b-movie-581868c0"
+    },
+    {
+        "critic": "Bob Strauss",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2025-11-06T21:59:44.000Z",
+        "quote": "Inhuman though it may be, this is far-and-away the most humane of “Predators,” expanding rather than skimping on the series’ blood hunt fundamentals. ",
+        "url": "https://www.sfchronicle.com/entertainment/article/predator-badlands-review-21138118.php"
+    },
+    {
+        "critic": "Adam Nayman",
+        "is_top_critic": true,
+        "media": "Toronto Star",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-11-06T21:21:26.000Z",
+        "quote": "All of this is reasonably absorbing, with Trachtenberg once again proving a spirited -- if conventional -- purveyor of B-movie tropes and thrills, albeit in a slightly anodyne register.",
+        "url": "https://www.thestar.com/entertainment/movies/predator-badlands-is-a-surprisingly-emotional-and-spirited-sci-fi-flick/article_c6513d87-39d7-4aa3-bbb9-abf18eba4a81.html"
+    },
+    {
+        "critic": "Austin Burke",
+        "is_top_critic": false,
+        "media": "Austin Burke/Flick Fan Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-06T21:18:27.000Z",
+        "quote": "Carving a throwback-style action-comedy out of this universe is a bold, wildly inventive move, yet the oddball duo's chemistry clicks effortlessly. Emotion cuts through the chaos, but rest assured: the violence is unrelenting and uncompromising.",
+        "url": "https://youtu.be/krY3JHd7-N4"
+    },
+    {
+        "critic": "Manuel São Bento",
+        "is_top_critic": false,
+        "media": "Movies We Texted About",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-11-06T20:02:44.000Z",
+        "quote": "Predator: Badlands is an audacious exercise in reinvention that takes a risk and triumphs. It leaves us with the important message that even in the most lethal and solitary of cultures, cooperation and compassion can be the most powerful forms of survival",
+        "url": "https://movieswetextedabout.com/predator-badlands-movie-review-dan-trachtenberg-earns-the-franchise-keys-by-flipping-the-hunt/"
+    },
+    {
+        "critic": "Sabrina Ramirez",
+        "is_top_critic": false,
+        "media": "Geeks of Color",
+        "sentiment": "Fresh 🍅",
+        "score": "8.5/10",
+        "date": "2025-11-06T19:29:53.000Z",
+        "quote": "This film really fired on all cylinders, showing exactly how to create a compelling action film that transcends what we would typically expect from a blockbuster. Whatever you’re coming into this film expecting, you’ll walk away with even more.",
+        "url": "https://geeksofcolor.co/2025/11/04/predator-badlands-review/"
+    },
+    {
+        "critic": "Andrew Mack",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-06T19:28:07.000Z",
+        "quote": "Badlands doesn’t just expand the Predator mythos — it reframes it. ... Balances spectacle with soul. If Prey reminded audiences why they loved this universe, Badlands proves there are still thrilling, emotional stories left to tell in it.",
+        "url": "https://screenanarchy.com/2025/11/predator-badlands-review.html"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-06T19:27:04.000Z",
+        "quote": "Overall, Predator: Badlands kicks ass, especially if you’re a devoted fan of these films.",
+        "url": "https://punchdrunkcritics.com/2025/11/badlands-63565/"
+    },
+    {
+        "critic": "Tom Santilli",
+        "is_top_critic": false,
+        "media": "Movie Show Plus",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2025-11-06T19:20:02.000Z",
+        "quote": " ...this latest effort feels like a blatant, soulless attempt to try to broaden the series' appeal.",
+        "url": "https://www.movieshowplus.com/reviews/review-predator-badlands-proves-more-is-less"
+    },
+    {
+        "critic": "Christopher Llewellyn Reed",
+        "is_top_critic": false,
+        "media": "Film Festival Today",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-06T19:17:53.000Z",
+        "quote": "Featuring terrific action and great messaging, the movie knows what it wants to do and does it well.",
+        "url": "https://filmfestivaltoday.com/film-reviews/predator-badlands-rocks-hard"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Daily Telegraph (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-06T19:10:33.000Z",
+        "quote": "While some later fight sequences lack the awe-inducing panache displayed in the movie’s frenetic first hour, the admirable nature of Dek as a character and his evolving bond with Thia allows Badlands to deliver the goods in fine style.",
+        "url": "https://www.dailytelegraph.com.au/entertainment/movies/reviews-oscarwinner-emma-stone-is-fearless-in-bugonia-as-predator-badlands-has-a-killer-twist/news-story/66c6f0d5061775c426c932b21a7ceb2c"
+    },
+    {
+        "critic": "Lalo Ortega",
+        "is_top_critic": false,
+        "media": "Cine Premiere",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-06T19:02:54.000Z",
+        "quote": "t's Fanning's character, as well as Dek's modest personal growth, that leaves something to care about. [Full review in Spanish]",
+        "url": "https://cinepremiere.com.mx/depredador-tierras-salvajes-pelicula-critica.html"
+    },
+    {
+        "critic": "Alan Ng",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-11-06T18:59:25.000Z",
+        "quote": "What you get in the end is a typical alien hunter story. Nothing new—except that it borrows elements from the Predator and Alien franchises without featuring a single Xenomorph.",
+        "url": "https://filmthreat.com/reviews/predator-badlands-movie-review/"
+    },
+    {
+        "critic": "Robert Denerstein",
+        "is_top_critic": false,
+        "media": "Denerstein Unleashed",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-06T18:58:22.000Z",
+        "quote": "The movie's softer tone (for a Predator movie) and PG-13 rating may displease hardcore franchise fans. But Badlands is more fun than I expected. ",
+        "url": "https://denersteinunleashed.blogspot.com/2025/11/a-predator-movie-takes-fun-turn.html"
+    },
+    {
+        "critic": "Daniel Barnes",
+        "is_top_critic": false,
+        "media": "Dare Daniel",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-06T18:56:56.000Z",
+        "quote": "An unwelcome dose of YA pap aside, Trachtenberg makes another solid entry into the Predator-verse.",
+        "url": "https://daredaniel.com/2025/11/06/daniel-reviews-die-my-love-predator-badlands/"
+    },
+    {
+        "critic": "Trevor Lenzmeier",
+        "is_top_critic": false,
+        "media": "Seattle Times",
+        "sentiment": "Fresh 🍅",
+        "score": "2/4",
+        "date": "2025-11-06T18:54:26.000Z",
+        "quote": "Ultimately, “Badlands” is a fun weekend watch for your home theater — but it won’t leave a lasting impression.",
+        "url": "https://www.seattletimes.com/entertainment/movies/predator-badlands-review-hunter-becomes-hunted-with-mixed-results/"
+    },
+    {
+        "critic": "Manohla Dargis",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-06T18:49:40.000Z",
+        "quote": "In classic genre fashion, the filmmakers here are refreshing the franchise with both new ideas and elements from older installments and other touchstones.",
+        "url": "https://www.nytimes.com/2025/11/06/movies/predator-badlands-review.html"
+    },
+    {
+        "critic": "Richard Whittaker",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-06T18:47:06.000Z",
+        "quote": "Schuster-Koloamatangi plays Dek with a certain pompous exasperation that, even under layers of latex and CG, is undeniably and deliberately hilarious. If it bleeds, you can laugh at it.\n\n",
+        "url": "https://www.austinchronicle.com/screens/film-review/predator-badlands-review-how-to-keep-a-long-franchise-fresh-play-it-for-laughs/"
+    },
+    {
+        "critic": "Juanma Fernández París",
+        "is_top_critic": false,
+        "media": "El Nuevo Día (Puerto Rico)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-06T18:38:17.000Z",
+        "quote": "Although the film's script flirts with a simplistic version of the psychology of trauma and loneliness, the director's focus on having the pacing of an adventure film prevents this from undermining its premise. [Full review in Spanish]",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/el-predator-que-no-vimos-venir-llega-en-la-nueva-pelicula-predator-badlands/"
+    },
+    {
+        "critic": "Jake Wilson",
+        "is_top_critic": false,
+        "media": "Sydney Morning Herald",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-11-06T18:26:38.000Z",
+        "quote": "A Predator who learns to care: it seems like a bit much. Still, Dek softens only to a point – and the moral message of the climax is as jumbled than everything else...",
+        "url": "https://www.smh.com.au/culture/movies/elle-fanning-is-unbreakable-in-the-dystopian-new-predator-film-20251105-p5n830.html"
+    },
+    {
+        "critic": "Hilary A White",
+        "is_top_critic": false,
+        "media": "Sunday Independent (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-06T18:13:17.000Z",
+        "quote": "Trachtenberg drops the brand baggage and finds light and ­colour amid the cosmic carnage.",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/predator-badlands-review-franchise-gets-a-welcome-breath-of-fresh-air-amid-cosmic-carnage/a1861753660.html"
+    },
+    {
+        "critic": "Tim Robey",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-06T17:53:57.000Z",
+        "quote": "The energy, gruesome thrills and craziness of this flick are hard not to admire.",
+        "url": "https://www.telegraph.co.uk/films/2025/11/06/this-absurdly-fun-predator-film-is-the-craziest/"
+    },
+    {
+        "critic": "Mark Meszoros",
+        "is_top_critic": false,
+        "media": "The News-Herald (Willoughby, OH)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-11-06T17:39:38.000Z",
+        "quote": "It helps that Trachtenberg paces the film briskly, never allowing the action-heavy proceedings to become bogged down. The movie clocks in well under two hours, and we are not complaining.",
+        "url": "https://www.news-herald.com/2025/11/05/predator-badlands-review-franchises-latest-boosted-by-winning-duo/"
+    },
+    {
+        "critic": "Maitland McDonagh",
+        "is_top_critic": false,
+        "media": "MaitlandOnMovies (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-06T17:24:30.000Z",
+        "quote": "Bear with me for just a minute as I say, “Huh. 'Predator: Badlands' is a BUDDY movie!” — pretty much the last thing I expected. But it is, and kudos to all involved: It actually works.",
+        "url": "https://maitlandonmovies.substack.com/p/predator-badlands"
+    },
+    {
+        "critic": "Liz Shannon Miller",
+        "is_top_critic": true,
+        "media": "Consequence",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2025-11-06T16:13:57.000Z",
+        "quote": "Badlands flips the approach and finds something fresh and wonderful and bold as a result — as if James Cameron had made Terminator 2 entirely from the T-800’s point of view. ",
+        "url": "https://consequence.net/2025/11/predator-badlands-review-dan-trachtenberg/"
+    },
+    {
+        "critic": "Christian Toto",
+        "is_top_critic": false,
+        "media": "HollywoodInToto.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-11-06T16:08:48.000Z",
+        "quote": "Dumbed-down spinoff boasts nonstop action while upending franchise.",
+        "url": "https://www.hollywoodintoto.com/predator-badlands-review/"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-06T15:51:00.000Z",
+        "quote": "Predator: Badlands takes a couple of wild swings regarding the franchise it represents, but also functions as a terrific adventure story that features found families, a test of courage, and other complex social dynamics. ",
+        "url": "https://weliveentertainment.com/welivefilm/predator-badlands-review-violent-planet/"
+    },
+    {
+        "critic": "Josh Korngut",
+        "is_top_critic": false,
+        "media": "Exclaim!",
+        "sentiment": "Rotten 🤢",
+        "score": "6/10",
+        "date": "2025-11-06T15:50:50.000Z",
+        "quote": "Trachtenberg can't quite find balance between sincerity and fan service. ",
+        "url": "https://exclaim.ca/film/article/predator-badlands-film-review"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2025-11-06T15:20:40.000Z",
+        "quote": "It’s a sanitized, self-aware spin on a franchise that used to feel raw and dangerous. ",
+        "url": "https://www.theonlycritic.com/post/predator-badlands-review-a-franchise-lost-in-its-own-convoluted-mythology"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-11-06T15:03:43.000Z",
+        "quote": "Predator: Badlands is clever and creative in presenting this perilous planet ... and, more importantly, our Predator protagonist...",
+        "url": "http://www.markreviewsmovies.com/reviews/P/predator-badlands.htm"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-06T14:59:15.000Z",
+        "quote": "Predator: Badlands delivers strong performances and a solid finale, but sluggish pacing and weak visuals keep this hunt from being truly killer.",
+        "url": "https://flickdirect.com/movie-review/3269/predator-badlands/movie.ashx?"
+    },
+    {
+        "critic": "Jorge Rivera Rubio",
+        "is_top_critic": false,
+        "media": "QiiBO",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-06T14:35:28.000Z",
+        "quote": "An explosive adventure with top-notch science fiction, imaginative action sequences, & plenty of excitement. Trachtenberg again proves himself THE person to handle the Predator franchise, and Elle Fanning is fantastic as Thia! [Full review in Spanish]",
+        "url": "https://qiibo.com/entretenimiento/pelicula/criiticas-cine/critica-de-predator-badlands-el-verdadero-honor-en-la-caza/184004/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "7.0/10",
+        "date": "2025-11-06T14:30:21.000Z",
+        "quote": "The movie works in its moment. It seems to know that an obvious, crowd-pleasing helping of franchise nonsense at least needs to have some kind of meat, however synthetic it may secretly be.",
+        "url": "https://www.pastemagazine.com/movies/dan-trachtenberg/predator-badlands-elle-fanning-dan-trachtenberg-sequel"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2025-11-06T14:22:00.000Z",
+        "quote": "There have been worse Predator movies and a couple of better ones than Badlands. What makes the latest so maddening is that it comes oh-so-close to delivering a fully satisfying entry",
+        "url": "https://www.deepfocusreview.com/reviews/predator-badlands/"
+    },
+    {
+        "critic": "Anthony Morris",
+        "is_top_critic": false,
+        "media": "It's Better in the Dark",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-06T11:51:19.000Z",
+        "quote": "A big part of why Predator: Badlands works is that it's running against what you'd expect to get from a Predator film - but it never just ignores the franchise's violent past",
+        "url": "https://itsbetterinthedark.blogspot.com/2025/11/review-predator-badlands.html"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2025-11-06T02:07:47.000Z",
+        "quote": "Urgh. What a terrible letdown this massive, soggy slice of franchise extender turns out to be... WTF happened? ",
+        "url": "https://tinyurl.com/3ehe7xzh"
+    },
+    {
+        "critic": "Rendy Jones",
+        "is_top_critic": false,
+        "media": "Rendy Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-06T00:25:16.000Z",
+        "quote": "A decent Predator installment that pushes the series in a sharp direction. I think it's safe to say that Dan Trachtenberg has become the Predator franchise's den daddy. Rightfully so. ",
+        "url": "https://www.rendyreviews.com/movie-reviews/predator-badlands-review"
+    },
+    {
+        "critic": "Wendy Lee Szany",
+        "is_top_critic": false,
+        "media": "The Movie Couple",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-05T23:12:09.000Z",
+        "quote": "The action is non-stop from beginning to end. Exactly what I wanted to see in a Predator-led movie. The dynamic between Dek and Thia is so fun to watch and root for. Must be experience in a theater.",
+        "url": "https://youtu.be/omO7Fmxd0hY"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-11-05T22:05:15.000Z",
+        "quote": "Predator: Badlands feels like watching someone play a damn good video game on an IMAX screen. There are also reasons to believe it would work better as one",
+        "url": "https://www.flickeringmyth.com/movie-review-predator-badlands-2025/"
+    },
+    {
+        "critic": "Molly Henery",
+        "is_top_critic": false,
+        "media": "The Blogging Banshee",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2025-11-05T20:31:00.000Z",
+        "quote": "Predator: Badlands is a bold, wild swing for the franchise that delivers sci-fi action alongside a fascinating expansion of Predator lore. ",
+        "url": "https://thebloggingbanshee.com/2025/11/05/predator-badlands/"
+    },
+    {
+        "critic": "Patrick Cavanaugh",
+        "is_top_critic": false,
+        "media": "The Wolfman Cometh",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-05T20:10:03.000Z",
+        "quote": "Gets points for bringing a new perspective to the mythology, yet might delve too deep into the Disney end of the pool to fully satisfy longtime fans. ",
+        "url": "https://thewolfmancometh.com/2025/11/05/predator-badlands-review-reaction-explained-elle-fanning/"
+    },
+    {
+        "critic": "Ezequiel Boetti",
+        "is_top_critic": false,
+        "media": "Otroscines.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-05T20:01:49.000Z",
+        "quote": "Yes, the script isn't particularly emotional or complex, but it offers an intense spectacle that breathes with its own powerful energy. [Full review in Spanish]",
+        "url": "https://www.otroscines.com/post/critica-de-depredador-tierras-salvajes-predator-badlands-pelicula-dan-trachtenberg-con-elle-fanning-y-dimitrius-schuster-koloamatangi"
+    },
+    {
+        "critic": "Leo Brady",
+        "is_top_critic": false,
+        "media": "AMovieGuy.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2025-11-05T19:53:31.000Z",
+        "quote": "Predator: Badlands is the most badass movie of 2025.",
+        "url": "https://amovieguy.com/2025/11/predator-badlands/"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-11-05T19:35:07.000Z",
+        "quote": "The decision to partially reinvent what a Predator movie can be is what makes Badlands work. While it leans on familiar sci-fi tropes and doesn’t exactly revolutionize the genre, it feels fresher than the other sequels...",
+        "url": "https://www.reelviews.net/reelviews/predator-badlands"
+    },
+    {
+        "critic": "Alan French",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-05T19:25:36.000Z",
+        "quote": "Trachtenberg is now the definitive authorial voice in the series, crafting well-executed action and visual effects across multiple mediums.",
+        "url": "https://fandomwire.com/predator-badlands-review-trachtenberg/"
+    },
+    {
+        "critic": "Alistair Harkness",
+        "is_top_critic": false,
+        "media": "Scotsman",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-11-05T19:04:49.000Z",
+        "quote": "The jokey, touchy-feely, kid-friendly Predator movie no-one was asking for arrives in the form of Predator: Badlands. ",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/film-reviews-die-my-love-dragonfly-anemone-the-choral-predator-badlands-5388624"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Daily Dead",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-05T18:29:18.000Z",
+        "quote": "Predator: Badlands is more evidence of Dan Trachtenberg's magic touch ... a thrilling call to alien wilds full of heart, healing, and heroism.",
+        "url": "https://dailydead.com/review-predator-badlands-is-a-winning-franchise-recalibration/"
+    },
+    {
+        "critic": "Jorge Loser",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-11-05T18:20:40.000Z",
+        "quote": "A Predator for all audiences that strings together all the clichés of the current generic blockbuster. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-predator-badlands-una-aventura-espectacular-pero-que-infantiliza-saga-con-misma-formula-marvel-the-mandalorian_6664526_3.html"
+    },
+    {
+        "critic": "Nick Johnston",
+        "is_top_critic": false,
+        "media": "Vanyaland",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-05T18:18:33.000Z",
+        "quote": "A decent consolation prize, one that’s hampered by a nearly insurmountable conceptual burden yet still manages to be delightfully entertaining thanks to solid writing, well-crafted action, and a fun approach to the deadly ecology of its setting.",
+        "url": "https://vanyaland.com/2025/11/05/predator-badlands-review-a-good-enough-hunt/"
+    },
+    {
+        "critic": "Custodio Guerrero",
+        "is_top_critic": false,
+        "media": "Sensacine",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-05T18:08:29.000Z",
+        "quote": "...it may disappoint die-hard Predator fans looking for another Prey in Badlands, but it may also appeal to a much wider audience looking for pure, fearless entertainment. [Full review in Spanish]",
+        "url": "https://www.sensacine.com/peliculas/pelicula-326652/sensacine/"
+    },
+    {
+        "critic": "Ricardo Rosado",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-05T18:05:31.000Z",
+        "quote": "...a meticulously measured odyssey of clichés that avoids major missteps as much as any lasting success. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a69262498/predator-badlands-pelicula-critica-opinion/"
+    },
+    {
+        "critic": "Danny Minton",
+        "is_top_critic": false,
+        "media": "Houston Community Newspapers",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-11-05T17:53:31.000Z",
+        "quote": "It is definitely a film geared towards teens, but then again, I was a teen when I saw the original Predator, and much could be considered the same then.",
+        "url": "https://crunchonthis.com/2025/11/popcorn-perspectives-with-danny-minton-week-of-november-3-2025/"
+    },
+    {
+        "critic": "Peter Sobczynski",
+        "is_top_critic": false,
+        "media": "Auteurist Class (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-11-05T17:40:59.000Z",
+        "quote": "In the wake of a film as fascinating and exciting as Prey, I was frankly expecting a equally unique take here, especially coming from the same filmmaker, and I just didn’t get it here",
+        "url": "https://open.substack.com/pub/petersobczynski/p/the-new-world?r=129p34&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Eric Diaz",
+        "is_top_critic": false,
+        "media": "Nerdist",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-05T17:10:17.000Z",
+        "quote": "The final result is another winner in a series many had written off years ago.",
+        "url": "https://nerdist.com/article/predator-badlands-review-dan-trachtenberg-elle-fanning/"
+    },
+    {
+        "critic": "Chris Joyce",
+        "is_top_critic": false,
+        "media": "Movies and Munchies (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-11-05T16:40:35.000Z",
+        "quote": "Dan Trachtenberg continues to impress and show he can confidently and firmly deliver compelling and unique story arcs using familiar characters to create thrilling escapism.",
+        "url": "https://youtu.be/T0K53gECrIw"
+    },
+    {
+        "critic": "Gaius Bolling",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-05T16:15:58.000Z",
+        "quote": "Predator: Badlands proves that there is still life in this franchise and that Trachtenberg is the architect meant to advance the IP into the future. ",
+        "url": "https://geekvibesnation.com/predator-badlands-review/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-11-05T14:52:35.000Z",
+        "quote": "If you’re 12 years old, this will probably be the best movie you’ve ever seen.",
+        "url": "https://www.blu-ray.com/Predator-Badlands/1887775/#Review"
+    },
+    {
+        "critic": "Justin Clark",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-11-05T14:39:48.000Z",
+        "quote": "The action is horrifying, inventive, and heart-pounding, but it’s also the least surprising part of Predator: Badlands.",
+        "url": "https://www.slantmagazine.com/film/predator-badlands-review-elle-fanning-dan-trachtenberg/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-05T05:38:02.000Z",
+        "quote": "A sporadically exciting action thriller with some surprising moments of comedy and emotional depth. ",
+        "url": "http://nycmovieguru.com/nov7th25.html#predatorbadlands"
+    },
+    {
+        "critic": "Matt Zoller Seitz",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2025-11-05T02:44:35.000Z",
+        "quote": "The takeaway, I think, is applicable to beings all across the universe: sometimes the things you want most are not worth wanting, and until you figure that out, you’ll never be free.",
+        "url": "https://www.rogerebert.com/reviews/predator-badlands-elle-fanning-movie-review-2025"
+    },
+    {
+        "critic": "Anthony O'Connor",
+        "is_top_critic": false,
+        "media": "FILMINK (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "15/20",
+        "date": "2025-11-05T01:50:27.000Z",
+        "quote": "It zips along at a brisk pace, contains a surprising amount of pathos for a yarn set in this universe, and delivers a rollicking, sci-fi fantasy adventure with plenty of solid action and striking visuals.",
+        "url": "https://www.filmink.com.au/reviews/predator-badlands/"
+    },
+    {
+        "critic": "Jeff Nelson",
+        "is_top_critic": false,
+        "media": "WeHo Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-05T01:15:39.000Z",
+        "quote": "Predator: Badlands lacks the grit of Prey and the relentless viciousness of Killer of Killers, but it offers a unique perspective on a long-running franchise, along with meaningful stakes and effective emotional beats.",
+        "url": "https://wehotimes.com/predator-badlands-movie-review-disneys-tamed-predator-still-packs-some-thrills/"
+    },
+    {
+        "critic": "Cris Parker",
+        "is_top_critic": false,
+        "media": "3C Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-05T00:17:39.000Z",
+        "quote": "The genre pivot to Sci-fi adventure really paid off. Dan Trachtenberg gets very creative in the action & Yautja lore. It is so wildly different. Predator fans might flinch at a few choices but I dug this new franchise direction.",
+        "url": "https://youtu.be/_hyglEoXJfc?si=513OVJIqkHGkwDw0"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T23:59:23.000Z",
+        "quote": "With themes of found family and anti-hero empathy, Predator: Badlands is a departure from the usual formula of making the Predator the chief villain. This less-violent and more-comedic Predator movie is original in some areas and cliché in other areas.",
+        "url": "https://culturemixonline.com/review-predator-badlands-starring-elle-fanning-and-dimitrius-schuster-koloamatangi"
+    },
+    {
+        "critic": "Dionar Hidalgo",
+        "is_top_critic": false,
+        "media": "Algo Más Que Cine",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-11-04T23:52:35.000Z",
+        "quote": "Visually stunning and surprisingly emotional, Predator: Badlands turns the iconic hunter into a flawed hero. Dan Trachtenberg blends brutal action with heart, and Elle Fanning shines in a dual role that gives the saga a fresh, human pulse.",
+        "url": "https://algomasquecine.com/depredador-tierras-salvajes-review/"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Casey's Movie Mania",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-04T23:46:20.000Z",
+        "quote": "Prey’s Dan Trachtenberg takes a bold move of expanding an action-packed Predator movie into multiple directions with mixed results.",
+        "url": "https://www.caseymoviemania.com/predator-badlands-review/"
+    },
+    {
+        "critic": "Paul Klein",
+        "is_top_critic": false,
+        "media": "FILMHOUNDS Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T22:50:16.000Z",
+        "quote": "It’ll be controversial, but ambition and trying are not to be sniffed at and should instead be encouraged. This franchise doesn’t bleed, so no, we can’t kill it.",
+        "url": "https://filmhounds.co.uk/2025/11/predator-badlands-review/"
+    },
+    {
+        "critic": "David Crow",
+        "is_top_critic": false,
+        "media": "Den of Geek",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T22:13:50.000Z",
+        "quote": "For those who miss genre movies that played their Comic-Con conceits straight, and without a trace of self-deprecating irony, the sweeping helicopter shots of a Yautja and his robo-bae making tracks across New Zealand is like a blast from the Hall H past.",
+        "url": "https://www.denofgeek.com/movies/predator-badlands-review-sci-fi-movie/"
+    },
+    {
+        "critic": "Blake Howard",
+        "is_top_critic": false,
+        "media": "One Heat Minute",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-11-04T21:39:25.000Z",
+        "quote": "Predator: Badlands is brawny, sun-bleached pulp—closer to Milius and Conan than to brand-managed IP—anchored in the simple, elemental pleasure of a performer sweating under a suit.",
+        "url": "https://stream.redcircle.com/episodes/042c7c73-3a83-4e54-8c6a-23e8d1f871b4/stream.mp3"
+    },
+    {
+        "critic": "Perri Nemiroff",
+        "is_top_critic": true,
+        "media": "Perri Nemiroff (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-11-04T21:12:06.000Z",
+        "quote": "I don’t think I’ll ever get over the fact that we have a Predator film that’s essentially an alien and robot buddy movie. It’s so refreshing to see a film franchise dish out something so unexpected.",
+        "url": "https://youtu.be/2eDm0bHgoy0"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "BlackFilmandTV.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T20:49:52.000Z",
+        "quote": "Predator: Badlands will kick your a** and break a foot doing it. Director Dan Trachtenberg is on a roll with a superb third entry in the franchise. He continues an intriguing narrative evolution and ups the action ante with banner visual effects. ",
+        "url": "https://www.blackfilmandtv.com/news/film-review-predator-badlands"
+    },
+    {
+        "critic": "Julian Lytle",
+        "is_top_critic": false,
+        "media": "RIOTUS",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2025-11-04T20:35:24.000Z",
+        "quote": "Here, Dan Trachtenberg with Predator: Badlands has cemented himself as THE new Predator guy, and it’s in a great place.",
+        "url": "https://riot-us.com/2025/11/04/predator-badlands-review/"
+    },
+    {
+        "critic": "Fico Cangiano",
+        "is_top_critic": false,
+        "media": "CineXpress",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-04T20:17:42.000Z",
+        "quote": "Predator: Badlands is truly one-of-a-kind Yautja badassery. It  flips the franchise's usual formula & offers an interesting new angle, set within an entertaining sci-fi romp. Also the most action-packed Predator film yet. [Full review in Spanish] ",
+        "url": "https://cinexpresspr.com/2025/11/04/resena-predator-badlands/"
+    },
+    {
+        "critic": "Charles Pulliam-Moore",
+        "is_top_critic": false,
+        "media": "The Verge",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T19:59:49.000Z",
+        "quote": "As silly as Predator: Badlands is, it balances that energy out with bone-crunching fights and a handful of dramatic twists plucked right out of the Alien franchise. It makes for a solid entry that sets up a big and promising pivot for the future.",
+        "url": "https://www.theverge.com/entertainment/813146/predator-badlands-review"
+    },
+    {
+        "critic": "Mike Massie",
+        "is_top_critic": false,
+        "media": "Gone With The Twins",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-11-04T19:57:50.000Z",
+        "quote": "It may be fairy simple, feeling derivative at times of other pictures that boasted uneasy alliances and twists on who the real enemies are, but it’s spot-on for the series, staying faithful to the films that came before it.",
+        "url": "https://gonewiththetwins.com/predator-badlands-2025/"
+    },
+    {
+        "critic": "Jason Flatt",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Rotten 🤢",
+        "score": "5.5/10",
+        "date": "2025-11-04T19:54:52.000Z",
+        "quote": "Dan Trachtenberg returns to the Predator series with Predator Badlands, an okay version of a strong concept weighed down by condescending dialogue.",
+        "url": "https://butwhytho.net/2025/11/predator-badlands-review-trachtenberg/"
+    },
+    {
+        "critic": "Hoai-Tran Bui",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T19:46:00.000Z",
+        "quote": "A magic trick of a blockbuster movie.",
+        "url": "https://www.inverse.com/entertainment/predator-badlands-review"
+    },
+    {
+        "critic": "Olly Richards",
+        "is_top_critic": false,
+        "media": "Time Out",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T19:26:16.000Z",
+        "quote": "It cleverly pulls at the supposed laws of the series in a way that makes it more interesting without diluting the fearsome nature of the title character. Trachtenberg is making the franchise richer with every instalment. ",
+        "url": "https://www.timeout.com/movies/predator-badlands-review-2025"
+    },
+    {
+        "critic": "Jeffrey Lyles",
+        "is_top_critic": false,
+        "media": "Lyles' Movie Files",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2025-11-04T19:23:11.000Z",
+        "quote": "Once a franchise that felt very much like it was best left as an 80s/90s action relic now seems like it’s got plenty of surprises and various directions to go. This entry very much seems like it could be the start of a full-on spin-off to the series.",
+        "url": "https://lylesmoviefiles.com/2025/11/04/predator-badlands-review-2025/"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-11-04T19:19:58.000Z",
+        "quote": "The original is perfect. The new one is a pretty good creature feature.",
+        "url": "https://www.thebulwark.com/p/predator-badlands-review"
+    },
+    {
+        "critic": "Fred Topel",
+        "is_top_critic": false,
+        "media": "United Press International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T19:10:37.000Z",
+        "quote": "The film is obviously about Dek learning the value of teamwork and the benefits of interdependence. They also become his found family after he is rejected by his clan. Those are very human values, not Yautja, but the audience for the film will be humans.",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2025/11/04/Predator-Badlands-movie-review/5791762234860/"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T18:39:47.000Z",
+        "quote": "... pretty entertaining. ",
+        "url": "https://www.youtube.com/watch?v=-rimZ0-tnGM"
+    },
+    {
+        "critic": "Matthew Jackson",
+        "is_top_critic": false,
+        "media": "Dread Central",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T18:29:59.000Z",
+        "quote": "This is the Predator theatrical experience we’ve been waiting for.",
+        "url": "https://www.dreadcentral.com/reviews/548452/predator-badlands-review-this-is-the-sci-fi-action-spectacle-youve-been-waiting-for/"
+    },
+    {
+        "critic": "Nick De Semlyen",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T18:23:26.000Z",
+        "quote": "Badlands is big popcorn fun, a geeky commingling of lurid sci-fi, comedy and rowdy action that gets high off its own supply. ",
+        "url": "https://www.empireonline.com/movies/reviews/predator-badlands/"
+    },
+    {
+        "critic": "Samantha Nelson",
+        "is_top_critic": false,
+        "media": "Polygon",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-11-04T18:22:54.000Z",
+        "quote": "While there's plenty of CGI-packed action, there's no real tension.",
+        "url": "https://www.polygon.com/predator-badlands-disney-review/"
+    },
+    {
+        "critic": "Jarrod Jones",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2025-11-04T18:20:26.000Z",
+        "quote": "The mystique of the Predator, what it was and where it came from, was best left to the imagination; the second you start pulling at that thread, the whole idea falls apart. ",
+        "url": "https://www.avclub.com/review-predator-badlands-dan-trachtenberg-elle-fanning-dimitrius-schuster-koloamatangi"
+    },
+    {
+        "critic": "Germain Lussier",
+        "is_top_critic": false,
+        "media": "io9.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T18:03:51.000Z",
+        "quote": "Predator: Badlands is not like any Predator movie you’ve seen before, but it is still an excellent Predator movie.",
+        "url": "https://gizmodo.com/predator-badlands-review-elle-fanning-disney-2000678844"
+    },
+    {
+        "critic": "Kat Hughes",
+        "is_top_critic": false,
+        "media": "THN",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-11-04T18:02:21.000Z",
+        "quote": "Predator: Badlands takes one of sci-fi horrors most formidable warriors and neuters it entirely, pairs it with some child-baiting sidekicks, overloads it with CG, and creates a rather lacklustre movie that screams Disneyfication.\n\n",
+        "url": "https://thehollywoodnews.com/2025/11/04/predator-badlands-review-dir-dan-trachtenberg-20205/"
+    },
+    {
+        "critic": "Nagier Chambers",
+        "is_top_critic": false,
+        "media": "Big Gold Belt Media",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-11-04T17:53:34.000Z",
+        "quote": "A bold evolution of the Predator legacy — visceral, emotional, and visually jaw-dropping. Sci-fi adventure at its finest",
+        "url": "https://biggoldbelt.com/movie-tv/movie-tv-reviews/predator-badlands-movie-review/"
+    },
+    {
+        "critic": "Shakyl Lambert",
+        "is_top_critic": false,
+        "media": "CGMagazine",
+        "sentiment": "Fresh 🍅",
+        "score": "8.5/10",
+        "date": "2025-11-04T17:51:50.000Z",
+        "quote": "Rest assured, though: even with the softer rating, Badlands remains every bit as violent as the rest of the franchise.",
+        "url": "https://www.cgmagonline.com/review/movie/predator-badlands/"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:48:14.000Z",
+        "quote": "It brings something new to the franchise, making audiences not only root for the Yautja, but also fall in love with one, while still delivering on what makes it so beloved - the epic action sequences. ",
+        "url": "https://mamasgeeky.com/2025/11/predator-badlands-movie-review.html"
+    },
+    {
+        "critic": "Kourtnee Jackson",
+        "is_top_critic": false,
+        "media": "CNET",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:46:26.000Z",
+        "quote": "Trachtenberg delivers a high-energy, underdog story that marries the Predator's brutish ways with a reflective viewpoint, and gives us an ending that's not completely predictable for a sci-fi movie set in this universe. Well done. ",
+        "url": "https://www.cnet.com/culture/entertainment/predator-badlands-review-violent-funny-and-a-good-time-at-the-movies/"
+    },
+    {
+        "critic": "Kelechi Ehenulo",
+        "is_top_critic": false,
+        "media": "Movie Marker",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T17:46:18.000Z",
+        "quote": "To put it simply, it’s a legacy sequel done right, and Badlands is equal parts exciting and thrilling, a cinematic crowdpleaser that showcases the franchise still has plenty of stories and fight within it. Roll on the next hunt.",
+        "url": "https://www.moviemarker.co.uk/predator-badlands-"
+    },
+    {
+        "critic": "Luke Y. Thompson",
+        "is_top_critic": false,
+        "media": "Mortal Cinema (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:37:26.000Z",
+        "quote": "This is what the Riddick sequels should have been.\n\nThis is what After Earth should have been.\n\nThis is what Rebel Moon should have been.",
+        "url": "https://lytrules.substack.com/p/predator-badlands-review-dek-the"
+    },
+    {
+        "critic": "Karina Adelgaard",
+        "is_top_critic": false,
+        "media": "Heaven of Horror",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T17:37:25.000Z",
+        "quote": "...it’s a classic hero’s journey – but the hero is a Predator. Personally, I love this different approach. Otherwise, I could just rewatch the old movies. ",
+        "url": "https://www.heavenofhorror.com/reviews/predator-badlands-2025-sci-fi-thriller/"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-04T17:35:55.000Z",
+        "quote": "Predator: Badlands is an action-packed, killer entry into this series. This movie manages to give you what you wanted and what you didn’t know you wanted from a Predator film.",
+        "url": "https://www.comingsoon.net/movies/reviews/2054901-predator-badlands-review-the-best-predator-movie-yet"
+    },
+    {
+        "critic": "Grace Randolph",
+        "is_top_critic": false,
+        "media": "Beyond the Trailer",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:34:46.000Z",
+        "quote": "Disney is doing a great job with their Fox franchises, and Predator is perhaps their best yet. Elle Fanning is a sensation in the film, but so is newcomer Dimitrius Schuster-Koloamatangi as Dek. Dan Trachtenberg delivers a very fun sci-fi fantasy film!",
+        "url": "https://www.youtube.com/watch?v=GB044_ug0H4"
+    },
+    {
+        "critic": "Rodrigo Perez",
+        "is_top_critic": false,
+        "media": "The Playlist",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2025-11-04T17:32:10.000Z",
+        "quote": "A curious, half-successful mutation in the “Predator” bloodline, ‘Badlands’ wants to transcend the franchise’s primal instincts. Instead, it proves that sometimes survival means knowing what not to evolve. ",
+        "url": "https://theplaylist.net/predator-badlands-review-the-hunt-evolves-but-dan-trachtenbergs-sci-fi-spin-cant-escape-its-own-dna-20251104/"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Me gusta el cine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-04T17:30:43.000Z",
+        "quote": "The overall balance is positive—just barely—thanks to the film's good direction, impressive visual effects, a very fun Elle Fanning, and a satisfying expansion of the Yautja lore. [Full review in Spanish].",
+        "url": "https://megustaelcine.com/critica-depredador-tierras-salvajes-suavizando-al-yautja/"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:29:00.000Z",
+        "quote": "Reconceiving the iconic sci-fi villain as an underdog hero, Predator: Badlands is a consistently entertaining action-thriller filled with propulsive set pieces.",
+        "url": "https://www.screendaily.com/reviews/predator-badlands-review-the-iconic-sci-fi-villain-turns-hero-in-propulsive-instalment-of-long-running-franchise/5210585.article"
+    },
+    {
+        "critic": "Alistair Ryder",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-11-04T17:27:38.000Z",
+        "quote": "Dan Trachtenberg has attained a similar status to Phil Lord and Chris Miller a decade ago, taking pitches that sound disastrous and turning them into non-compromised crowd-pleasers against all the odds.",
+        "url": "https://www.looper.com/2013698/predator-badlands-review/"
+    },
+    {
+        "critic": "Mark Kennedy",
+        "is_top_critic": false,
+        "media": "Associated Press",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-11-04T17:26:39.000Z",
+        "quote": "It’s hard to underestimate Fanning here, who keeps us interested. She doesn’t just add comic relief, she adds a much-needed human element.",
+        "url": "https://apnews.com/article/predator-badlands-movie-review-8ba41d0dec022713a5374fcf22fe5d5e"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T17:25:58.000Z",
+        "quote": "Badlands upends the standard dynamic from what we’re used to in a Predator movie. The end result is a hell of a lot of fun, shifting the series into more of a thrilling adventure vs. its usual horror vibes in a way that is ultimately quite satisfying.",
+        "url": "https://movieweb.com/predator-badlands-review/"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T17:24:47.000Z",
+        "quote": "…Predator: Badlands is a fairly good franchise blockbuster, but somehow doesn’t have the unexpected freshness of Prey…the revision of the previously gratuitous violence of the predator race is the one weakness of a propulsive, enjoyable sci-fi adventure.",
+        "url": "https://film-authority.com/2025/11/04/predator-badlands"
+    },
+    {
+        "critic": "Chris Bumbray",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:24:01.000Z",
+        "quote": "It's certainly fun but its also a very sanitized version of Predator without much edge. ",
+        "url": "https://www.joblo.com/predator-badlands-review/"
+    },
+    {
+        "critic": "Jordan Farley",
+        "is_top_critic": false,
+        "media": "GamesRadar+",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-04T17:22:44.000Z",
+        "quote": "Dek is a refreshing blockbuster lead, and there's no faulting Trachtenberg's ambition in turning one of cinema's great sci-fi villains into a hero you can't help but root for.",
+        "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/predator-badlands-review/"
+    },
+    {
+        "critic": "Jeremy Mathai",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-04T17:21:38.000Z",
+        "quote": "Ultimately, time will almost certainly be kind to the most radical \"Predator\" since the 1987 original.\n",
+        "url": "https://www.slashfilm.com/2016872/predator-badlands-movie-review/"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T17:21:30.000Z",
+        "quote": "Call me a girl for wanting character arcs and motivations but I do think that Badlands shines because you understand why these Youtjas are all so determined. ",
+        "url": "https://www.themarysue.com/predator-badlands-review-dan-trachtenberg-should-always-make-predtor-movies/"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-04T17:20:11.000Z",
+        "quote": "Though this may ultimately prove more sweet in nature than many will expect, it builds a larger world of intrigue that [Dan Trachtenberg] wisely teases for future updates we can only hope he’s in charge of.",
+        "url": "https://www.theaureview.com/watch/film-review-predator-badlands/"
+    },
+    {
+        "critic": "Meagan Navarro",
+        "is_top_critic": true,
+        "media": "Bloody Disgusting",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-04T17:19:39.000Z",
+        "quote": "The Predator franchise takes a sharp detour into adventure, with its propulsive, creature-filled action matching the polarizing thrills of Yautja innovation.",
+        "url": "https://bloody-disgusting.com/reviews/3912727/predator-badlands-review-an-unlikely-heros-journey-shakes-up-the-predator-franchise/"
+    },
+    {
+        "critic": "Andrew J. Salazar",
+        "is_top_critic": false,
+        "media": "Discussing Film",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-11-04T17:17:57.000Z",
+        "quote": "Dan Trachtenberg takes the franchise to the next level in Predator: Badlands, crafting one of the most jaw-dropping sci-fi adventures of the year with a surprising amount of heart.",
+        "url": "https://discussingfilm.net/2025/11/04/predator-badlands-review-epic-sequel/"
+    },
+    {
+        "critic": "Alonso Duralde",
+        "is_top_critic": true,
+        "media": "The Film Verdict",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:17:09.000Z",
+        "quote": "Between the wise-cracking sidekick, the adorable non-verbal pet, and the protagonist who undergoes personal growth, Predator: Badlands often resembles the pilot of a vintage Saturday-morning cartoon — but that’s not necessarily a bad thing.",
+        "url": "https://thefilmverdict.com/predator-badlands-film-review/"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "8.5/10",
+        "date": "2025-11-04T17:13:07.000Z",
+        "quote": "Trachtenberg’s magnum opus far surpasses anything we might normally get from a sci-fi action film.",
+        "url": "https://edwarddouglas.substack.com/p/predator-badlands-review"
+    },
+    {
+        "critic": "Damon Wise",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:11:14.000Z",
+        "quote": "The action scenes never seem to galvanize, and somewhere along the line the predator, once a ruthless, unstoppable killing machine, has simply lost its menacing mojo. It all seems a bit, well, silly.",
+        "url": "https://deadline.com/2025/11/predator-badlands-review-elle-fanning-dimitrius-schuster-koloamatangi-1236606321/"
+    },
+    {
+        "critic": "Linda Marric",
+        "is_top_critic": true,
+        "media": "HeyUGuys",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T17:11:10.000Z",
+        "quote": "Bold, bizarre, and unexpectedly moving, it’s the kind of risk-taking sci-fi we don’t see enough of nowadays.",
+        "url": "https://www.heyuguys.com/predator-badlands-review/"
+    },
+    {
+        "critic": "Courtney Howard",
+        "is_top_critic": false,
+        "media": "Fresh Fiction",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2025-11-04T17:09:32.000Z",
+        "quote": "Housing gorgeous cinematography, a stunning showcase for make-up and immersive visual effects, as well as a perfect screwball comedy-esque leading lady performance, it’s a radical film that demands to be seen on the biggest screen possible.",
+        "url": "https://freshfiction.tv/predator-badlands-review-a-rip-roaring-revolution-for-a-fun-franchise/"
+    },
+    {
+        "critic": "Clint Cage",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-04T17:09:21.000Z",
+        "quote": "Dek and Thia are an unexpectedly fun pairing that bring a new energy to the franchise and an altogether different kind of hunt. It might not be pulling the skull and spine out of us and screaming in bloody victory, but it gets close.",
+        "url": "https://www.ign.com/articles/predator-badlands-review"
+    },
+    {
+        "critic": "Peter Debruge",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:08:45.000Z",
+        "quote": "The strongest film with “Predator” in the title since the 1987 original (Trachtenberg’s earlier “Prey” notwithstanding).",
+        "url": "https://variety.com/2025/film/reviews/predator-badlands-review-elle-fanning-1236569221/"
+    },
+    {
+        "critic": "David Ehrlich",
+        "is_top_critic": true,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-11-04T17:07:22.000Z",
+        "quote": "By reckoning with the series’ fundamental weakness rather than continuing to pretend that it’s the series’ greatest strength, Trachtenberg has made the brand richer than ever before.",
+        "url": "https://www.indiewire.com/criticism/movies/predator-badlands-movie-review-1235158691/"
+    },
+    {
+        "critic": "Barry Hertz",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:05:51.000Z",
+        "quote": "A sometimes inventive but too frequently anemic effort to expand the proudly R-rated Predator-verse into the mass-market appeal of PG sterility. ",
+        "url": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-in-predator-badlands-whoever-wins-the-audience-loses/"
+    },
+    {
+        "critic": "Mark Cassidy",
+        "is_top_critic": false,
+        "media": "ComicBookMovie.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-11-04T17:05:28.000Z",
+        "quote": "Dan Trachtenberg is 3-for-3 with Predator: Badlands, an action-packed crowd-pleaser with engaging leads and a strong emotional centre, which might be the most purely entertaining Predator movie yet.",
+        "url": "https://comicbookmovie.com/sci_fi/predator/predator-badlands-review---dan-trachtenberg-delivers-the-most-purely-entertaining-predator-movie-yet-a224652"
+    },
+    {
+        "critic": "Anthony Whyte",
+        "is_top_critic": false,
+        "media": "The Movie Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-11-04T17:04:47.000Z",
+        "quote": "Predator: Badlands is the kind of sci-fi action film that punches first and explains later, and  that's its charm. It’s feral, fresh, and surprisingly heartfelt, giving the Predator franchise something it hasn’t had in years: new blood that feels earned.",
+        "url": "https://www.themovieblog.com/2025/11/predator-badlands-review/"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:04:35.000Z",
+        "quote": "It’s really a comedic road movie at heart, with as much yuks over a mismatched pair trying to get along as yucks involving the goopy innards of cosmic mastodons.",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/predator-badlands-review-elle-fanning-1235457099/"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:04:13.000Z",
+        "quote": "Like 'Prey' before it, 'Predator: Badlands' is mainstream sci-fi filmmaking at its zenith, and it’s proof — in an era where proof is hard to find — that big, expensive action spectacles don’t have to suck.",
+        "url": "https://www.thewrap.com/predator-badlands-review-dan-trachtenberg-elle-fanning/"
+    },
+    {
+        "critic": "Richard Lawson",
+        "is_top_critic": true,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:03:08.000Z",
+        "quote": "The film simply wants to be the best version of a zillionth Predator installment that it can be. If it has to complicate -- and, yes, soften -- the branding to do that, so be it. ",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/predator-badlands-review-elle-fanning-dan-trachtenberg-1236417477/"
+    },
+    {
+        "critic": "Joonatan Itkonen",
+        "is_top_critic": false,
+        "media": "Region Free",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-11-04T17:02:22.000Z",
+        "quote": "If you want something that provides ample entertainment for the buck, Trachtenberg's latest is a breezy and fun way to spend a few hours. It won't challenge you, but it does deliver where it matters.",
+        "url": "https://regionfree.net/predator-badlands-elle-fanning-movie-review/"
+    },
+    {
+        "critic": "Ross Bonaime",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-11-04T17:02:11.000Z",
+        "quote": "Predator: Badlands might not be the shock to the system that Prey was, but it is continued proof that putting Predator in Trachtenberg's was one of the smartest moves this franchise has ever made.",
+        "url": "https://collider.com/predator-badlands-review-dan-trachtenberg-elle-fanning/"
+    },
+    {
+        "critic": "Giovanni Lago",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-11-04T17:02:08.000Z",
+        "quote": "While Trachtenberg’s depiction of the hero’s journey may not be the most inventive, it mostly delivers an entertaining experience, even if the allure of his vision for the franchise is beginning to fade.",
+        "url": "https://nextbestpicture.com/predator-badlands/"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T17:01:53.000Z",
+        "quote": "The series’ second-best installment and a rousing start to what appears to be a grand new franchise future.",
+        "url": "https://www.thedailybeast.com/obsessed/predator-badlands-is-a-balls-to-the-wall-franchise-epic/"
+    },
+    {
+        "critic": "Peter Bradshaw",
+        "is_top_critic": true,
+        "media": "Guardian",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-11-04T17:01:49.000Z",
+        "quote": "The sheer pointlessness of everything that happens subtracts the oxygen and even Fanning’s imperishable star quality can’t save it.",
+        "url": "https://www.theguardian.com/film/2025/nov/04/predator-badlands-review-elle-fanning"
+    },
+    {
+        "critic": "Roberto Tyler Ortiz",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-04T17:01:10.000Z",
+        "quote": "The movie might follow a familiar path, but the heart underneath it feels new.",
+        "url": "https://loudandclearreviews.com/predator-badlands-movie-review/"
+    },
+    {
+        "critic": "Matt Oakes",
+        "is_top_critic": false,
+        "media": "Silver Screen Riot",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-11-04T17:01:01.000Z",
+        "quote": "The action in Badlands is crisp, brutal, and shot with real clarity as are its stash of high-tech weaponry and various beasts to slay, but what makes these elements stand out is how seamlessly they all serve the story.",
+        "url": "https://silverscreenriot.com/predator-badlands/"
+    },
+    {
+        "critic": "Daniel Baptista",
+        "is_top_critic": false,
+        "media": "The Movie Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-11-04T16:51:10.000Z",
+        "quote": "Predator: Badlands is FEROCIOUSLY FUN and surprisingly sentimental. Trachtenberg delivers a wild, relentless ride that is that is sure to be the coolest film of the year.",
+        "url": "https://youtu.be/6d7XODmCUNs"
+    }
+]

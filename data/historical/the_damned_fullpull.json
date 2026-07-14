@@ -1,0 +1,782 @@
+[
+    {
+        "critic": "Paula Vázquez Prieto",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-08T02:49:35.000Z",
+        "quote": "The strategy of The Damned is fairly predictable, but working in its favor is an aesthetic that forgoes cheap shock in favor of a steadily mounting sense of unease, one that takes Eva's mind as its point of entry. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/los-malditos-un-inquietante-cuento-de-terror-en-el-helado-artico-del-siglo-xix-nid05022026/"
+    },
+    {
+        "critic": "Diego Batlle",
+        "is_top_critic": false,
+        "media": "Otroscines.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-02T21:42:49.000Z",
+        "quote": "The film is dazzling...However, in its 89 minutes...it falls somewhat short in its dramatic development and its foray into period horror (at times it feels like a watered-down Robert Eggers). [Full review in Spanish]",
+        "url": "https://www.otroscines.com/post/critica-de-los-condenados-the-damned-pelicula-de-thordur-palsson-con-odessa-young-y-joe-cole-hbo-max"
+    },
+    {
+        "critic": "Dennis Schwartz",
+        "is_top_critic": false,
+        "media": "Dennis Schwartz Movie Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-05-14T05:11:14.000Z",
+        "quote": "Young's commanding performance is most effective when the pic stays the course without becoming repetitive.",
+        "url": "https://dennisschwartzreviews.com/damned-the-2024-b/"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-05-12T17:16:00.000Z",
+        "quote": "The Damned may test your patience with its languid pace and propensity for things-that-go-boo cliches. Palsson emphasizes atmosphere over action, but doesn’t give his characters much of interest to do within those atmospherics.",
+        "url": "https://decider.com/2025/05/09/the-damned-streaming-movie-hulu-review/"
+    },
+    {
+        "critic": "Pete Vonder Haar",
+        "is_top_critic": false,
+        "media": "Houston Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-04-05T18:45:01.000Z",
+        "quote": "When gimmicks and jump scares have become the mainstream horror norm, a little 19th century spookery is just what the bloodletter ordered.",
+        "url": "https://www.houstonpress.com/arts/things-to-watch-the-damned-19675739"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-03-20T15:06:20.000Z",
+        "quote": "A moody moral fable with more than enough spooky flair to spare, The Damned is an ethical dilemma about the inherent ickiness of survival at the cost of sacrificing other humans. ",
+        "url": "https://www.youtube.com/watch?v=syDNbBaJjKs"
+    },
+    {
+        "critic": "Tara Brady",
+        "is_top_critic": true,
+        "media": "Irish Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-02-28T23:56:36.000Z",
+        "quote": "The Damned is powered along by suspicion, atmospherics and an unforgettable landscape. Young is a capable final girl, her fierceness tempered only by the hint of repressed romance.",
+        "url": "https://www.irishtimes.com/culture/film/review/2025/01/09/the-damned-review-chilly-horror-powered-along-by-suspicion-atmospherics-and-an-unforgettable-landscape/"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-02-03T23:59:01.000Z",
+        "quote": "The Damned is a 'slow burn' psychological thriller about a widow leading a group of fishermen with a 'survival of the fittest' attitude in a remote part of Iceland. It's a horror film about the evil that can come from extreme mistrust.",
+        "url": "https://culturemixonline.com/review-the-damned-2025-starring-odessa-young-joe-cole-siobhan-finneran-rory-mccann-turlough-convery-lewis-gribben-francis-magee-and-micheal-og-lane/"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Combustible Celluloid",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2025-01-24T20:35:46.000Z",
+        "quote": "The freezing, desolate arctic winter is the most important thing in the movie, the thing that makes everything work so well. ",
+        "url": "https://www.combustiblecelluloid.com/2025/damned-2025.shtml"
+    },
+    {
+        "critic": "Rebecca Sayce",
+        "is_top_critic": false,
+        "media": "Starburst",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-23T21:53:36.000Z",
+        "quote": "Coupled with the beautiful yet deadly landscape, moody lighting, and eerie score, The Damned is an effectively unsettling psychological horror that explores the monsters we can become when faced with a fight for survival.",
+        "url": "https://www.starburstmagazine.com/reviews/the-damned/"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Certified Forgotten",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-01-22T17:47:06.000Z",
+        "quote": "A 19th-century Nordic thriller rooted in dreary folklore that hardly blazes forward ... Palsson's tiny fishing community haunting bathes in slinking dread.",
+        "url": "https://podcasts.apple.com/us/podcast/uncertified-the-damned/id1466905955?i=1000683461515"
+    },
+    {
+        "critic": "Joey Keogh",
+        "is_top_critic": false,
+        "media": "Wicked Horror",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-22T15:31:05.000Z",
+        "quote": "The Damned is sparse, a shrewdly observed chiller ... [with] much to explore in the darkness.",
+        "url": "https://wickedhorror.com/horror-reviews/the-damned-is-a-ruthlessly-effective-chiller-review/"
+    },
+    {
+        "critic": "Billie Walker",
+        "is_top_critic": false,
+        "media": "Little White Lies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-01-18T01:42:47.000Z",
+        "quote": "What may have been intended as a chilling revelation, serves only as a reminder (one becoming increasingly frequent) that audiences are no longer to be trusted with the slightest inference. ",
+        "url": "https://lwlies.com/reviews/the-damned/"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-01-16T23:11:18.000Z",
+        "quote": "...The Damned feels like it could be a lost gem: a below-the-radar horror film that stays true to its indie roots while generating sufficient scares to warrant a recommendation to genre fans.",
+        "url": "https://www.reelviews.net/reelviews/damned-the"
+    },
+    {
+        "critic": "Rudy Valdez",
+        "is_top_critic": false,
+        "media": "Willamette Week",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-15T20:02:49.000Z",
+        "quote": "Seeing Young lead the story as a woman amongst a group of 19th century men was believable and refreshing. Her determination to solve the mystery with as many of her crew making it out alive keeps viewers warm in a chilling thriller. ",
+        "url": "https://www.wweek.com/arts/movies/2025/01/14/your-roundup-of-new-movies-the-brutalist-pours-the-enormous-agony-of-living-into-monoliths/"
+    },
+    {
+        "critic": "Q.V. Hough",
+        "is_top_critic": false,
+        "media": "Vague Visages",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-15T14:17:11.000Z",
+        "quote": "“‘The Damned’ is a cerebral film that should be analyzed in film theory courses.”",
+        "url": "https://vaguevisages.com/2025/01/15/the-damned-review-movie-film/"
+    },
+    {
+        "critic": "Terry Staunton",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-14T19:25:50.000Z",
+        "quote": "Young impresses as the ethical centre of the piece, and there's solid support from Joe Cole and Siobhan Finneran.",
+        "url": "https://www.radiotimes.com/movie-guide/b-7332dg/the-damned/"
+    },
+    {
+        "critic": "Eileen Jones",
+        "is_top_critic": false,
+        "media": "The Jacobin",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-14T19:01:06.000Z",
+        "quote": "With a modest budget but plenty of thrills involving spooky 19th-century ships, frozen wastelands, and ghouls from Nordic folktales, The Damned proudly carries on our Gothic horror revival.",
+        "url": "https://jacobin.com/2025/01/the-damned-horror-movie-review"
+    },
+    {
+        "critic": "Ygraine Hackett-Cantabrana",
+        "is_top_critic": false,
+        "media": "What a Scream Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-13T10:44:33.000Z",
+        "quote": "The Damned is a visually stunning and haunting unravelling of the human psyche. ",
+        "url": "https://www.whatascreampodcast.com/post/review-the-damned"
+    },
+    {
+        "critic": "Dan Scully",
+        "is_top_critic": false,
+        "media": "ScullyVision",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-13T01:05:16.000Z",
+        "quote": "The slow and steady pace is often interrupted by moments of high horror, creating a near-tangible feeling of dread that places the viewers directly into the fishermen’s damp boots.",
+        "url": "https://scullyvision.com/2025/01/13/the-damned-a-chilly-spooky-morality-play-that-validates-my-hatred-of-eels/"
+    },
+    {
+        "critic": "Stephanie Malone",
+        "is_top_critic": false,
+        "media": "Morbidly Beautiful",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-01-12T22:41:32.000Z",
+        "quote": "First-time director Thordur Palsson, working from a script he co-wrote with Jamie Hannigan, demonstrates a keen eye for atmospheric immersion and a masterful understanding of creeping terror.",
+        "url": "https://morbidlybeautiful.com/movie-night-the-damned-2025/"
+    },
+    {
+        "critic": "Linda Cook",
+        "is_top_critic": false,
+        "media": "OurQuadCities / WHBF-TV (Illinois)",
+        "sentiment": "Fresh 🍅",
+        "score": "3 1/2 stars",
+        "date": "2025-01-12T03:29:00.000Z",
+        "quote": "What's really haunting this tiny fishing community? You may not be able that to answer at the end.",
+        "url": "https://www.ourquadcities.com/news/local-news/cook-review-the-damned-is-a-chilling-study-in-terror/"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-01-11T21:32:46.000Z",
+        "quote": "Blending folklore and morality, the haunting film will chill you to the bone.",
+        "url": "https://fortworthreport.org/2025/01/03/the-damned-review-icelandic-horror-that-chills-you-to-the-bone/"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-11T02:53:49.000Z",
+        "quote": "Usually, a movie tries to execute two possible explanations then fails at making one feasible. Instead, all three options worked and were genuinely terrifying.",
+        "url": "https://sarahgvincentviews.com/movies/the-damned/"
+    },
+    {
+        "critic": "Adam Matthews ",
+        "is_top_critic": false,
+        "media": "Film Ireland Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-11T01:25:04.000Z",
+        "quote": "The Damned is a triumph of mood and atmosphere, immersing viewers in a world where every breath feels cold, every shadow harbours secrets, and every decision is weighted with endurance. ",
+        "url": "https://www.filmireland.net/review-the-damned/"
+    },
+    {
+        "critic": "Anna Smith",
+        "is_top_critic": true,
+        "media": "Time Out",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-10T22:38:39.000Z",
+        "quote": "But if you invest in its characters, it offers a thought-provoking insight into the depths of the human mind when faced with the laws of survival. It’s grim, but good.",
+        "url": "https://www.timeout.com/movies/the-damned-review-2025"
+    },
+    {
+        "critic": "Austin Burke",
+        "is_top_critic": false,
+        "media": "Austin Burke/Flick Fan Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-01-10T22:10:55.000Z",
+        "quote": "The Damned ultimately delivers on being an effective and unsettling experience that highlights its setting well. It lingers and repeats ideas too often for its own good, but the impact is there.",
+        "url": "https://youtu.be/f05P8Vj0Q6k"
+    },
+    {
+        "critic": "Ben Gibbons",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-01-10T17:43:06.000Z",
+        "quote": "The Damned is a compelling feature-length debut by director Thordur Palsson, but it does have a pacing issue that holds the film back from greatness.",
+        "url": "https://screenrant.com/the-damned-movie-review-2025/"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-09T16:27:11.000Z",
+        "quote": "The Damned is a chilling (in both senses of the word) horror-thriller that is well-made and effective in its portrayal of freezing temperatures, but occasionally falls victim to underwritten scares and a disappointing ending. ",
+        "url": "https://filmfeeder.co.uk/film-reviews/the-damned-dir-thordur-palsson"
+    },
+    {
+        "critic": "Emilie Black",
+        "is_top_critic": false,
+        "media": "Cinema Crazed",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-09T07:04:52.000Z",
+        "quote": "The Damned is a creepy slow burn film with a folk atmosphere and solid performances and cinematography.",
+        "url": "https://www.cinema-crazed.com/blog/2025/01/08/the-damned-2024/"
+    },
+    {
+        "critic": "Katie Hogan",
+        "is_top_critic": false,
+        "media": "FILMHOUNDS Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-08T20:01:46.000Z",
+        "quote": "The Damned is thankfully not plagued by jump scares and odd noises, the simple ghostly soundtrack and trickery within the frame more for a quiet horror that sends chills up your spine.",
+        "url": "https://filmhounds.co.uk/2025/01/chilling-ghost-story-the-damned-film-review/"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-01-08T18:49:04.000Z",
+        "quote": "Strength comes from the atmosphere here, which is good enough.",
+        "url": "https://weliveentertainment.com/welivefilm/house-reviews-139-damned-wallace-gromit-six-triple-eight-beatles-64/"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-01-08T15:31:51.000Z",
+        "quote": "...a truly visceral experience.",
+        "url": "https://keithandthemovies.com/2025/01/08/review-the-damned-2025/"
+    },
+    {
+        "critic": "Lee McCoy",
+        "is_top_critic": false,
+        "media": "DrumDums",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-01-07T19:52:09.000Z",
+        "quote": "The Damned is like a love letter to films like The Thing and The Fog. It's beautifully directed, is patient in showcasing dread, and Odessa Young oozes leading star power. ",
+        "url": "https://youtu.be/mvAdPIEmvyI?si=25NaQiE7r6z6WcZu"
+    },
+    {
+        "critic": "Richard Whittaker",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-07T01:17:49.000Z",
+        "quote": "What Palsson is really tackling here is that intersection between the real and the arcane.",
+        "url": "https://www.austinchronicle.com/events/film/2025-01-03/the-damned/"
+    },
+    {
+        "critic": "Christian Zilko",
+        "is_top_critic": false,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-01-06T19:35:57.000Z",
+        "quote": "A slow-burning work of psychological horror that’s more interested in exploring humanity’s capacity for guilt than jump scares or gore.",
+        "url": "https://www.indiewire.com/criticism/movies/the-damned-review-1235081944/"
+    },
+    {
+        "critic": "Jennie Kermode",
+        "is_top_critic": false,
+        "media": "Eye for Film",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-01-06T19:06:54.000Z",
+        "quote": "A deep understand of the period and cultural context gives it a weight of authenticity.",
+        "url": "https://www.eyeforfilm.co.uk/review/the-damned-2024-film-review-by-jennie-kermode"
+    },
+    {
+        "critic": "Abbie Bernstein",
+        "is_top_critic": false,
+        "media": "Assignment X",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-01-06T18:34:21.000Z",
+        "quote": "Eerie period folk horror.",
+        "url": "https://www.assignmentx.com/2025/movie-review-the-damned/"
+    },
+    {
+        "critic": "Randy Myers",
+        "is_top_critic": false,
+        "media": "San Jose Mercury News",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-01-06T18:11:16.000Z",
+        "quote": "“The Damned” is in no rush about revealing its horrors, and that works in its favor when Palsson unleashes the madness in the third act.",
+        "url": "https://www.mercurynews.com/2024/12/31/what-to-watch-a-literary-classic-just-became-a-top-flight-movie/"
+    },
+    {
+        "critic": "Andrew Murray",
+        "is_top_critic": false,
+        "media": "The Upcoming",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-06T13:12:09.000Z",
+        "quote": "The Damned is an exceedingly well-crafted period horror, which excels in delivering its icy atmosphere. Despite its sinister visuals and compelling lead performance, a hastily put-together finale stops this film from becoming another slow-burn genre gem.",
+        "url": "https://www.theupcoming.co.uk/2025/01/06/the-damned-movie-review/"
+    },
+    {
+        "critic": "Miyako Pleines",
+        "is_top_critic": false,
+        "media": "Spectrum Culture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-06T07:56:22.000Z",
+        "quote": "The Damned feels like the kind of film that would arise if Robert Eggers’ The Lighthouse had a baby with John Carpenter’s remake of The Thing.\n",
+        "url": "https://spectrumculture.com/2025/01/05/the-damned-review/"
+    },
+    {
+        "critic": "Evan Dossey",
+        "is_top_critic": false,
+        "media": "Midwest Film Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-05T02:16:04.000Z",
+        "quote": "The Damned lives in a space where its fear and horror come from Eva and her lot suffering in the cold, dark and uncontrollable world of Arctic winter",
+        "url": "https://midwestfilmjournal.com/2025/01/04/the-damned-2025/"
+    },
+    {
+        "critic": "Edwin Arnaudin",
+        "is_top_critic": false,
+        "media": "Asheville Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2025-01-04T20:08:24.000Z",
+        "quote": "At least it looks pretty.",
+        "url": "https://www.ashevillemovies.com/new/the-damned"
+    },
+    {
+        "critic": "Alissa Wilkinson",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-03T22:24:45.000Z",
+        "quote": "A period of slog reduces the story’s immersive quality, slowing momentum. What’s best about the movie, though, is how it eventually picks back up and morphs into something a bit different from straight-ahead horror. ",
+        "url": "https://www.nytimes.com/2025/01/02/movies/the-damned-review-the-very-deep-midwinter.html"
+    },
+    {
+        "critic": "Ryan Syrek",
+        "is_top_critic": false,
+        "media": "The Reader (Omaha, NE)",
+        "sentiment": "Fresh 🍅",
+        "score": "C",
+        "date": "2025-01-03T21:12:22.000Z",
+        "quote": "For a dark-and-dimly-lit, old-timey horror film about a woman going bonkers trying to survive amid gothic terror, neutral isn’t all that bad...for those of us who saw Robert Eggers’s Nosferatu.",
+        "url": "https://thereader.com/2025/01/03/the-damned-review/"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-03T19:07:04.000Z",
+        "quote": "Concise, clever, and unnerving, it’s a perfect film for the onset of winter.",
+        "url": "https://www.thedailybeast.com/obsessed/the-damned-review-new-folk-horror-thriller-will-give-you-nightmares/"
+    },
+    {
+        "critic": "Glenn Kenny",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-01-03T18:08:27.000Z",
+        "quote": "It’s a keeper, so treat yourself to a scary New Year’s celebration.",
+        "url": "https://www.rogerebert.com/reviews/the-damned-film-review-2025"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-01-03T16:32:03.000Z",
+        "quote": "Pálsson crafts a highly effective, if not familiar, horror-thriller with The Damned.",
+        "url": "https://youtu.be/syDNbBaJjKs"
+    },
+    {
+        "critic": "Michael Balderston",
+        "is_top_critic": false,
+        "media": "What To Watch",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-03T14:12:57.000Z",
+        "quote": "Palsson’s ability to create and maintain this overall sense of unease throughout while not relying on cheap scares (i.e. jump scares) is what gets me excited about his potential as a filmmaker.",
+        "url": "https://www.whattowatch.com/reviews/the-damned-review-chilly-psychological-horror-movie-stumbles-at-the-finish"
+    },
+    {
+        "critic": "Chris Joyce",
+        "is_top_critic": false,
+        "media": "Movies and Munchies (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-01-03T07:06:36.000Z",
+        "quote": "While the repetitive moments can have a dulling effect and some may be frustrated by the conclusive ending, the ride to get there is frigid, suspenseful, and ominous.",
+        "url": "https://youtu.be/JuJjIN858vQ"
+    },
+    {
+        "critic": "Michael Ward",
+        "is_top_critic": false,
+        "media": "Should I See It",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-03T05:30:23.000Z",
+        "quote": "While there is a lot to recommend here, it is unfortunate that when (Thordur) Palsson makes the deliberate intention to startle and shock the audience, The Damned sheds many of the elements that make it feel unique and different.",
+        "url": "https://www.shouldiseeit.net/reviews/2025/the-damned-2025"
+    },
+    {
+        "critic": "Charles Koplinski",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-01-03T04:19:25.000Z",
+        "quote": "In the end “The Damned” emerges as an effective thriller, as well as an intriguing moral conundrum.\n\n",
+        "url": "https://reeltalkwithchuckandpam.com/the-damned-chuck-recommends/"
+    },
+    {
+        "critic": "Chris Wasser",
+        "is_top_critic": false,
+        "media": "Sunday Independent (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-03T00:30:40.000Z",
+        "quote": "A flawed yet occasionally frightening endeavour, The Damned would probably be a better film without all the sketchy supernatural stuff. ",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/the-damned-review-icy-horror-is-a-fine-looking-heart-racing-historical-yarn/a1168279235.html"
+    },
+    {
+        "critic": "James Verniere",
+        "is_top_critic": false,
+        "media": "Boston Movie News",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-01-02T22:08:27.000Z",
+        "quote": "Icelandic director Thordur Palsson creates Robert Eggers-like atmospheric tale of a vengeful ghost driving guit-ridden sailors to their deaths. Odessa Young is a standout as station leader.",
+        "url": "https://bostonmovienews.com/2025/01/02/the-damned-ghosts-guilt-and-gore/"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-01-02T21:37:13.000Z",
+        "quote": "A tale with the power to disturb.",
+        "url": "https://aisleseat.com/the-damned.html"
+    },
+    {
+        "critic": "Peter Martin",
+        "is_top_critic": false,
+        "media": "DallasFilmNow.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5.0",
+        "date": "2025-01-02T16:07:18.000Z",
+        "quote": "Increasingly gripping. ... Without spelling everything out, The Damned relies on sturdy production values and the cover of shadows and snow to imply and suggest, making for an unsettling experience that concludes with a startling stinger. ",
+        "url": "https://dallasfilmnow.com/2025/01/02/the-damned-review-when-chills-get-deadly/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-01-02T15:04:06.000Z",
+        "quote": "Director Thordur Palsson seems especially keen on giving ... [a] sense of atmosphere ... because everything else about it feels overly familiar and half considered.\n",
+        "url": "http://www.markreviewsmovies.com/reviews/D/damned-2025.htm"
+    },
+    {
+        "critic": "Nathaniel Muir",
+        "is_top_critic": false,
+        "media": "AIPT",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-02T01:45:28.000Z",
+        "quote": "The psychological horror of The Damned is pitch perfect for the vast majority of the runtime. Even before the terror kicks in full bore, there is a dread to the story being told. \n\n",
+        "url": "https://aiptcomics.com/2025/01/01/the-damned-2024-psychological-horror/"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-01-01T22:28:46.000Z",
+        "quote": "Swapping ghosts for \"draugr\" folklore doesn't prevent this material from coming across familiarly dull",
+        "url": "https://www.flickeringmyth.com/movie-review-the-damned-2024/"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-01-01T20:22:38.000Z",
+        "quote": "Its characters inhabit an allegorical cautionary tale against xenophobia, anchored in a heavy dose of Christian guilt over not welcoming strangers. In our increasingly isolationist world, the theme resonates, but that doesn’t mean The Damned does. ",
+        "url": "https://www.deepfocusreview.com/reviews/the-damned/"
+    },
+    {
+        "critic": "Keri O'Shea",
+        "is_top_critic": false,
+        "media": "Warped Perspective",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-01T11:25:13.000Z",
+        "quote": "Are the dead vengeful? The Damned sustains a brooding ambiguity throughout, doing enough to keep us wondering.",
+        "url": "https://warped-perspective.com/2025/01/the-damned-2024/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-01-01T05:12:20.000Z",
+        "quote": "Palsson doesn’t overstay his welcome with the work, and manages to deliver a few accomplished freak-outs along the way.",
+        "url": "https://www.blu-ray.com/The-Damned/1917770/#Review"
+    },
+    {
+        "critic": "Mark Meszoros",
+        "is_top_critic": false,
+        "media": "The News-Herald (Willoughby, OH)",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-12-31T21:10:15.000Z",
+        "quote": "Inspired by the dramatic landscape of the Westfjords of Iceland in the 1800s and the region’s folklore, the psychological horror film The Damned so excels in creating a memorable atmosphere that the room where you view it may feel much colder than it is.",
+        "url": "https://www.news-herald.com/2024/12/30/the-damned-review-cold-and-bleakness-of-iceland-adds-to-horror-tale/"
+    },
+    {
+        "critic": "Nikki Baughan",
+        "is_top_critic": false,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-12-31T07:20:37.000Z",
+        "quote": "Icelandic director Thordur Palsson effectively turns this simple set-up into a chilling story of haunted psyches. The genre’s now-familiar post-trauma tropes are elevated by strong performances and a striking visual identity.",
+        "url": "https://www.screendaily.com/reviews/the-damned-review/5200233.article"
+    },
+    {
+        "critic": "Ed Gonzalez",
+        "is_top_critic": true,
+        "media": "Slant Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-12-27T18:56:18.000Z",
+        "quote": "Had we been allowed to truly sit with the characters’ prejudices, then The Damned might have earned the desperation with which it strains for contemporary resonance.",
+        "url": "https://www.slantmagazine.com/film/the-damned-review-odessa-young-thordur-palsson/"
+    },
+    {
+        "critic": "Kenneth Seward Jr.",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-12-18T19:18:59.000Z",
+        "quote": "The Damned (2024) is an intriguing horror film that creatively showcases the damaging effects of guilt. Initially frightening, thanks to a solid cast and eerie atmosphere, it has the potential to stick with viewers long after the credits roll. ",
+        "url": "https://butwhytho.net/2024/12/the-damned-2024-review-thordur-palsson/"
+    },
+    {
+        "critic": "Jim Vorel",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "7.9/10",
+        "date": "2024-12-11T15:07:29.000Z",
+        "quote": "The Damned gets by more than well enough via the elemental strength of its moral dilemma and the pristine beauty and unrelenting inhospitality of the Icelandic wilderness that is its scene-stealing star.",
+        "url": "https://www.pastemagazine.com/movies/horror-movies/the-damned-2024-review-iceland-horror-movie-fishermen-draugr-mythology-odessa-young"
+    },
+    {
+        "critic": "Latoya Austin",
+        "is_top_critic": false,
+        "media": "Movie Marker",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-01T01:16:35.000Z",
+        "quote": "First time feature director Thordur Palsson has crafted an impressively eerie, morality tale within this remote, mountainous setting which excites and unnerves in equal measure.",
+        "url": "https://moviemarker.co.uk/tribeca-film-festival-2024-the-damned/"
+    },
+    {
+        "critic": "Tina Kakadelis",
+        "is_top_critic": false,
+        "media": "Film Obsessive",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T00:04:27.000Z",
+        "quote": "While the film is fairly paint-by-numbers in terms of the expectations of the genre, it shows off first-time feature director Palsson’s keen eye for sinister stories.",
+        "url": "https://filmobsessive.com/film/film-news/festivals/tribeca-2024-who-will-save-the-damned/"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-13T10:23:24.000Z",
+        "quote": "An impressive debut feature from Palsson that makes me think Hollywood will be reaching out to use his skills on their projects in the future.\n\n\n\n",
+        "url": "https://edwarddouglas.substack.com/p/the-weekend-warrior-june-14-2024"
+    },
+    {
+        "critic": "Daniel Gorman",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-12T17:05:08.000Z",
+        "quote": "Palsson clearly has ample talent in this regard. Someone needs to tell him that it’s okay to make a horror movie that’s not a metaphor for grief or an exploration of PTSD. You can just make a scary one.",
+        "url": "https://inreviewonline.com/the-damned-thordur-palsson/"
+    },
+    {
+        "critic": "Michael Gingold",
+        "is_top_critic": false,
+        "media": "Rue Morgue Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-12T04:51:36.000Z",
+        "quote": "The film concludes leaving you wishing for something more in the resolution. Up until that point, though, THE DAMNED delivers a gripping survival saga that’s shivery in more ways than one.",
+        "url": "https://rue-morgue.com/tribeca-24-movie-reviews-the-devils-bath-the-damned-and-a-desert-take-us-to-dangerous-places/"
+    },
+    {
+        "critic": "Jeremy Mathai",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-06-10T16:35:35.000Z",
+        "quote": "\"The Damned\" certainly lives up to its evocative title. ",
+        "url": "https://www.slashfilm.com/1599234/the-damned-review-alien-meets-nightmare-on-elm-street/"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-09T15:37:26.000Z",
+        "quote": "A story told through dreams and shadows that, while often repetitive in its approach, is still effectively told.  ",
+        "url": "https://variety.com/2024/film/reviews/the-damned-review-2-1236029609/"
+    },
+    {
+        "critic": "Olga Artemyeva",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-08T20:06:32.000Z",
+        "quote": "A dark world with very few flashes of color that don't really bring any comfort. The stunning cinematography by Eli Arenson ... is supported by no less impressive and immersive sound design that leads us ... into the heart of darkness.",
+        "url": "https://screenanarchy.com/2024/06/tribeca-2024-review-the-damned-chilling-historical-horror---pun-intended.html"
+    },
+    {
+        "critic": "Kat Hughes",
+        "is_top_critic": false,
+        "media": "THN",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-07T10:26:37.000Z",
+        "quote": "Music is used sparingly to maximum effect in Thordur Palsson’s atmospheric and chilling tale of paranoia, superstition and hysteria.\n\n",
+        "url": "https://www.thehollywoodnews.com/2024/06/07/the-damned-review-dir-thordur-palsson-tribeca-2024/"
+    },
+    {
+        "critic": "Dan Bayer",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-06T23:12:30.000Z",
+        "quote": "Between the intensity of the performances and the visceral imagery, “The Damned” is an atmospheric trip into the heart of darkness, one that will chill you to the bone even in the height of summer.",
+        "url": "https://nextbestpicture.com/the-damned-2/"
+    },
+    {
+        "critic": "Chase Hutchinson",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-06T23:05:46.000Z",
+        "quote": "There are flashes of everything from The Witch to The Thing just as it carves out a distinct sense of dread in its period setting where you can feel the cold emanating from every frame.",
+        "url": "https://collider.com/the-damned-movie-review/"
+    }
+]

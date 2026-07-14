@@ -16,6 +16,7 @@
     py -m scripts.fetch_all_historical            # 只抓还没抓过的
     py -m scripts.fetch_all_historical --force    # 强制全部重抓
     py -m scripts.fetch_all_historical --movie primate   # 只抓某一部
+    py -m scripts.fetch_all_historical --force --reviews-only # 只抓评论
 """
 
 from __future__ import annotations
@@ -37,7 +38,7 @@ HISTORICAL_DIR = os.path.join("data", "historical")
 HIST_CANDLES_DIR = os.path.join("data", "historical_candlesticks")
 
 # 每部片之间的礼貌延迟（秒），别把 RT / Kalshi 惹毛限速
-DELAY_BETWEEN_MOVIES = 3
+DELAY_BETWEEN_MOVIES = 10
 
 
 def is_settled(m: dict) -> bool:
@@ -54,8 +55,7 @@ def is_settled(m: dict) -> bool:
 
 def reviews_archived(movie_key: str) -> bool:
     """评论存档已存在？historical/{片}_fullpull_*.json 有任意一个就算。"""
-    pattern = os.path.join(HISTORICAL_DIR, f"{movie_key}_fullpull_*.json")
-    return len(glob.glob(pattern)) > 0
+    return os.path.exists(os.path.join(HISTORICAL_DIR, f"{movie_key}_fullpull.json"))
 
 
 def candles_archived(movie_key: str) -> bool:
@@ -115,6 +115,8 @@ def main():
     ap.add_argument("--force", action="store_true", help="强制重抓（忽略已存档）")
     ap.add_argument("--movie", default=None, help="只抓某一部（key）")
     ap.add_argument("--interval", type=int, default=60, help="K线粒度分钟，默认60")
+    ap.add_argument("--reviews-only", action="store_true",
+                    help="只抓评论，跳过盘口（盘口数据已好时用，省时间）")
     args = ap.parse_args()
 
     # 决定要处理哪些片
@@ -154,7 +156,9 @@ def main():
                 print(f"      {grab_reviews(movie_key, m)}")
 
             # --- 盘口 ---
-            if candles_archived(movie_key) and not args.force:
+            if args.reviews_only:
+                print(f"   盘口：--reviews-only，跳过")
+            elif candles_archived(movie_key) and not args.force:
                 print(f"   盘口：已存档，跳过")
             else:
                 print(f"   盘口：抓取中...")

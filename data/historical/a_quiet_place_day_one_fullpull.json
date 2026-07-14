@@ -1,0 +1,2882 @@
+[
+    {
+        "critic": "Don Kaye",
+        "is_top_critic": false,
+        "media": "Moviefone",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2026-07-06T09:38:12.000Z",
+        "quote": "The quietly poignant half-movie that Lupita Nyong’o and Joseph Quinn star in is much more interesting that the monster movie noisily wrapped around it.",
+        "url": "https://www.moviefone.com/news/movie-review-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Jazzmin Crawley",
+        "is_top_critic": false,
+        "media": "Horror Movie Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-16T23:03:21.000Z",
+        "quote": "This new entry is a beautiful balance between horror, action, and drama that will keep the entire family engaged",
+        "url": "https://horrormovieblog.com/a-quiet-place-day-one-review-is-the-third-time-the-charm/"
+    },
+    {
+        "critic": "Adam Nayman",
+        "is_top_critic": true,
+        "media": "Sight & Sound",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-12-22T22:38:31.000Z",
+        "quote": "Despite an affecting central performance from Lupita Nyong’o and some thrilling action sequences, this apocalyptic origin story feels thin. \n\n",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/quiet-place-day-one-gimmicky-prequel-has-little-say"
+    },
+    {
+        "critic": "Grant Watson",
+        "is_top_critic": false,
+        "media": "Fiction Machine",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-09-08T00:48:05.000Z",
+        "quote": "Taken on its own merits, this is an effective and tense horror film. It is only when considered alongside the main Quiet Place narrative that it feels underwhelming and unnecessary.",
+        "url": "https://fictionmachine.com/2025/09/08/review-a-quiet-place-day-one-2024/"
+    },
+    {
+        "critic": "Stephen Garrett",
+        "is_top_critic": false,
+        "media": "Book & Film Globe",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-08-26T19:22:24.000Z",
+        "quote": "Extends a franchise that traffics in cheap jump-scare thrills, impressive vfx destruction from sci-fi beasties, and cornpone moments of personal sacrifice. ",
+        "url": "https://bookandfilmglobe.com/film/movie-review-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Matthew Koss",
+        "is_top_critic": false,
+        "media": "The Wandering Screen (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2025-08-16T00:32:31.000Z",
+        "quote": "The filmmaking is extraordinary but the storytelling doesn’t yield much connection to these new characters in a franchise that needs a fresher angle.",
+        "url": "https://youtu.be/ku2WFOXLbvk"
+    },
+    {
+        "critic": "Marta Medina Pérez",
+        "is_top_critic": false,
+        "media": "mundoCine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-08-15T17:35:07.000Z",
+        "quote": "A Quiet Place: Day One transcends conventional horror to become a deeply human, lyrical, and emotional thriller. [Full Review in Spanish]",
+        "url": "https://mundocine.es/criticas/critica-un-lugar-tranquilo-dia-1/"
+    },
+    {
+        "critic": "Marissa Hill",
+        "is_top_critic": false,
+        "media": "Shade Studios",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-07-30T00:11:57.000Z",
+        "quote": "It doesn’t overshadow the originals but expands the universe in a way that feels meaningful. It’s a tense ride, and even though it might not have the same tight-knit emotional focus as the first movie.",
+        "url": "https://shadestudios.com/film-and-tv-reviews/f/a-quiet-place-day-one-review-%E2%80%93-a-tense-and-thrilling-prequel"
+    },
+    {
+        "critic": "Guillermo Troncoso",
+        "is_top_critic": false,
+        "media": "Screen Realm",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-07-29T08:10:27.000Z",
+        "quote": "Technically well-crafted and with strong lead performances, A Quiet Place: Day One is an entertaining enough prequel, but falls short of being indispensable.",
+        "url": "https://screenrealm.com/a-quiet-place-day-one-movie-review-2024-video/"
+    },
+    {
+        "critic": "Samantha Schuster",
+        "is_top_critic": false,
+        "media": "Cinéfilo Serial",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-07-18T15:08:57.000Z",
+        "quote": "It may have some minor flaws, but in a context of desolation, it offers a plot full of hope and heart, protagonists with whom we empathize, and excellent sound, visual, and acting work that transcends mere entertainment. [Full Review in Spanish]",
+        "url": "https://cinefiloserial.com.ar/critica-de-un-lugar-en-silencio-dia-uno-de-michael-sarnoski-2024/"
+    },
+    {
+        "critic": "Julian Singleton",
+        "is_top_critic": false,
+        "media": "Cinapse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-07-11T21:21:42.000Z",
+        "quote": "With A Quiet Place: Day One, Sarnoski supercharges every aspect of this series’ tension, terror, and tenderness–creating a summer blockbuster that’s as rewarding as a romantic disaster drama as it is a suspenseful creature feature.",
+        "url": "https://cinapse.net/2024/06/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Maitland McDonagh",
+        "is_top_critic": false,
+        "media": "MaitlandOnMovies (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-20T01:14:41.000Z",
+        "quote": "Some of the greatest horror in this eminently suspenseful film comes not from the sci-fi fiction of monsters but from the very visceral imagery of how what we take for granted could be gone in an instant ... either vanished for good or irrevocably changed",
+        "url": "https://maitlandonmovies.substack.com/p/a-quiet-place-day-one"
+    },
+    {
+        "critic": "Clement Tyler Obropta",
+        "is_top_critic": false,
+        "media": "Film Inquiry",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-16T03:57:52.000Z",
+        "quote": "If you love horror movies, if you love this universe, if you love Joseph Quinn from Stranger Things, or if you just love cats, A Quiet Place: Day One delivers.",
+        "url": "https://www.filminquiry.com/a-quiet-place-day-one-review-2024/"
+    },
+    {
+        "critic": "Jeffrey Overstreet",
+        "is_top_critic": false,
+        "media": "JeffreyOverstreet.com (Ghost.io)",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-12-29T05:45:53.000Z",
+        "quote": "Sarnoski makes the scenes of human intimacy as substantial as anything I’ve yet seen in this series. But just as I did with the first two, I staggered out of the theater glad the movie hadn’t run longer, and suffering from another concussion headache.",
+        "url": "https://lookingcloser.org/blog/2024/12/28/a-quiet-place-day-one-is-a-decent-exercise-in-an-exhausting-exhausted-genre/"
+    },
+    {
+        "critic": "Alyse Wax",
+        "is_top_critic": false,
+        "media": "Screenopolis",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-27T07:11:51.000Z",
+        "quote": "Good scares, characters I cared about, and a cute cat. But what does this add to the Quiet Place mythos? Nothing, really.",
+        "url": "https://screenopolis.com/reviews/quiet-delivers-a-high-volume-of-scares/"
+    },
+    {
+        "critic": "Jeffrey Lyles",
+        "is_top_critic": false,
+        "media": "Lyles' Movie Files",
+        "sentiment": "Fresh 🍅",
+        "score": "9.5/10",
+        "date": "2024-11-26T05:29:30.000Z",
+        "quote": "A Quiet Place: Day One brings all the scares and extended tension from the original back in play with some creatively staged action sequences and engaging performances from its two leads.",
+        "url": "https://lylesmoviefiles.com/2024/11/26/a-quiet-place-day-one-review-2024/"
+    },
+    {
+        "critic": "Caroline McDonald",
+        "is_top_critic": false,
+        "media": "Deseret News (Salt Lake City)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-06T01:18:07.000Z",
+        "quote": "Nyong’o and Quinn provide emotionally breathtaking performances, and their portrayal of grief, anxiety, terror and perseverance is extraordinary. ",
+        "url": "https://www.deseret.com/entertainment/2024/07/02/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Matt Brunson",
+        "is_top_critic": false,
+        "media": "Film Frenzy",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-14T18:41:46.000Z",
+        "quote": "Gives us two protagonists absolutely worth our empathy and investment (three if you include Frodo, the most chill cat in a stressful situation since Jones watched Harry Dean Stanton get eviscerated aboard the Nostromo).",
+        "url": "https://thefilmfrenzy.com/2024/10/11/view-from-the-couch-clockwatchers-killers-a-quiet-place-day-one-etc/"
+    },
+    {
+        "critic": "Douglas Davidson",
+        "is_top_critic": false,
+        "media": "Elements of Madness",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-08T16:45:54.000Z",
+        "quote": "While I do think that certain stories should end, I will admit that \"A Quiet Place\" still has enough excitement, enough possibilities, that this third outing may just be a precursor to at least one more ... ",
+        "url": "https://elementsofmadness.com/2024/10/08/aqpdo-4k/"
+    },
+    {
+        "critic": "Christina Newland",
+        "is_top_critic": true,
+        "media": "iNews.co.uk",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-09-17T23:05:27.000Z",
+        "quote": "With a fresh vision, a new cast and a scare rate that just won’t quit, this bucks the trend for horrors with diminishing returns.",
+        "url": "https://inews.co.uk/culture/film/a-quiet-place-day-one-review-3134731"
+    },
+    {
+        "critic": "Robert W. Butler",
+        "is_top_critic": false,
+        "media": "Butler's Cinema Scene",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-09-14T04:19:19.000Z",
+        "quote": "The special effects are convincing, but Sarnoski is smart enough to know that less is more.",
+        "url": "https://butlerscinemascene.com/2024/09/03/short-takes-a-quiet-place-day-one-kinds-of-kindness-napoleon-the-directors-cut/"
+    },
+    {
+        "critic": "Rob Dean",
+        "is_top_critic": false,
+        "media": "Bullz-Eye.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-09-13T14:11:29.000Z",
+        "quote": "Sarnoski does an excellent job with the script and direction and is greatly aided by the fantastic actors. It’s a strong story with an interesting angle that finds more to explore in this world of “A Quiet Place.” ",
+        "url": "https://www.bullz-eye.com/2024/06/28/movie-review-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Noah Berlatsky",
+        "is_top_critic": false,
+        "media": "Everything is Horrible (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-09-05T21:07:16.000Z",
+        "quote": "The movie functions less as a genre justification of us vs. them, and more as a lyrical indie tribute to found family and the value of friendship, love, and life in the face of inevitable mortality.",
+        "url": "https://www.everythingishorrible.net/p/death-vs-genre-in-a-quiet-place"
+    },
+    {
+        "critic": "Victoria Alexander",
+        "is_top_critic": false,
+        "media": "FilmsInReview.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-08-30T20:51:29.000Z",
+        "quote": "I must urge the Academy Awards to make a new category: Best Performance by an Animal. This is a category that has been sadly ignored. There are a lot of working animals who deserve recognition for helping assist a star build their character.",
+        "url": "https://www.filmsinreview.com/post/a-quiet-place-day-one"
+    },
+    {
+        "critic": "Perri Nemiroff",
+        "is_top_critic": true,
+        "media": "Perri Nemiroff (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-08-23T14:19:38.000Z",
+        "quote": "Day One delivers a wildly effective big city disaster film while making the most of the franchise’s core concept and keeping the series character-first. Lupita Nyong'o's energy and fight are hugely captivating. An ace digging into character complexities.",
+        "url": "https://youtube.com/live/CPyVwtktWw0"
+    },
+    {
+        "critic": "Dan Buffa",
+        "is_top_critic": false,
+        "media": "Ramble On With Buffa (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-08-19T23:41:58.000Z",
+        "quote": "While the human actors are well drawn enough to build interest and make us care about them, it’s the alien antagonists that command the screen and garner our attention.",
+        "url": "https://dailydoseofbuffa.substack.com/p/the-film-buffa-reviews-a-quiet-place?utm_source=publication-search"
+    },
+    {
+        "critic": "Tim Miller",
+        "is_top_critic": false,
+        "media": "Cape Cod Wave Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-08-17T22:55:53.000Z",
+        "quote": "Even with Nyong’o and Quinn, and even with the movie’s emphasis on how people deal with impending death, Day One comes across as a familiar, slight, routine horror flick.",
+        "url": "https://capecodwave.com/quiet-place-horizon-uninspired-franchise-flicks-play-it-again-tim/"
+    },
+    {
+        "critic": "Maria Lattila",
+        "is_top_critic": false,
+        "media": "Film Stories",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-08-09T10:05:56.000Z",
+        "quote": "A Quiet Place: Day One is a very pleasant surprise. I’m not sure there’s much more fuel in the franchise’s tank after this, but three good films should be good enough for anyone. ",
+        "url": "https://filmstories.co.uk/reviews/a-quiet-place-day-one-review-a-worthy-stressful-prequel/"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-08-08T05:23:33.000Z",
+        "quote": "A unique marriage of the disease melodrama and alien invasion sub-genre, [this} would have been better served as an unrelated indie feature than a tacked-on franchise entry. Regardless, Lupita Nyong'o's superb performance undoubtedly enhances...",
+        "url": "https://www.youtube.com/watch?v=ppDdegpOiMk"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-08-05T14:36:42.000Z",
+        "quote": "Three movies in, and it’s quite impressive how the Quiet Place series has managed to deliver consistent quality from its seemingly singular hook. ",
+        "url": "https://filmfeeder.co.uk/film-reviews/a-quiet-place-day-one-2024-dir-michael-sarnoski"
+    },
+    {
+        "critic": "Filipe Freitas",
+        "is_top_critic": false,
+        "media": "Always Good Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-08-03T19:14:10.000Z",
+        "quote": "There’s no reason to stay invested in something so uninventive. A Quiet Place: Day One is nothing but a dull apocalyptic routine that doesn’t pay off.",
+        "url": "https://alwaysgoodmovies.com/reviews/a-quiet-place-day-one-2024"
+    },
+    {
+        "critic": "Víctor López G.",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-08-01T14:13:28.000Z",
+        "quote": "The film is another example that well-rounded characters, with earthly problems and goals and with whom it is easy to empathize, are much more important than any contemporary summer blockbuster's special effects.\n\n",
+        "url": "https://www.espinof.com/criticas/lugar-tranquilo-dia-1-grandes-sorpresas-ano-michael-sarnoski-equilibra-invasiones-a-gran-escala-cariz-intimista-saga-su-entrega-emocional"
+    },
+    {
+        "critic": "Mark Johnson",
+        "is_top_critic": false,
+        "media": "Awards Daily",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-29T14:00:08.000Z",
+        "quote": "While anchored by strong performances from Lupita Nyong’o and Joseph Quinn, Day One brought nothing new to the franchise and relied too heavily on jump scares.",
+        "url": "https://www.awardsdaily.com/2024/07/oscar-predictions-2025-good-as-golds-preview-of-the-venice-telluride-and-toronto-film-festivals/"
+    },
+    {
+        "critic": "Pete Vonder Haar",
+        "is_top_critic": false,
+        "media": "Houston Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-27T03:04:48.000Z",
+        "quote": "First: how many of these damn things are there? Whenever anyone cuts a loud fart (it doesn't happen onscreen, but you know thousands gave their lives for flatulence) there's an alien waiting to smear their blood on a wall.",
+        "url": "https://www.houstonpress.com/arts/things-to-watch-a-quiet-place-day-one-18408590"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-26T22:01:07.000Z",
+        "quote": "Surpasses expectations for a B/B-minus franchise, going hyper-focused and resisting the urge to go bigger and broader and explain, explain, explain all the whys and wherefores of what's happening. It's the best of the three films, by far.",
+        "url": "https://decider.com/2024/07/26/a-quiet-place-day-one-streaming-movie-review/"
+    },
+    {
+        "critic": "Andrew Kendall",
+        "is_top_critic": false,
+        "media": "Stabroek News",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-26T00:05:16.000Z",
+        "quote": " Lupita Nyong’o’s face is the most effective visual effect in A Quiet Place: Day One. We commit to the story and the world because her eyes tell us so, but beyond her penetrating stare little else in the film feels persuasive enough to commit to.",
+        "url": "https://www.stabroeknews.com/2024/07/07/sunday/reel-encounters/the-lethargic-tenderness-of-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Jackie K. Cooper",
+        "is_top_critic": false,
+        "media": "jackiekcooper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-07-24T01:05:25.000Z",
+        "quote": "The entertainment value centers around Nyong'o's performance, which is very good.",
+        "url": "https://www.youtube.com/watch?v=A5TDDukkMbI"
+    },
+    {
+        "critic": "Linda Cook",
+        "is_top_critic": false,
+        "media": "OurQuadCities / WHBF-TV (Illinois)",
+        "sentiment": "Fresh 🍅",
+        "score": "3 1/2 stars",
+        "date": "2024-07-21T06:42:04.000Z",
+        "quote": "It's an emotional, smart thriller/horror/sci-fi tale that sets the stage for the first two films.",
+        "url": "https://www.ourquadcities.com/news/local-news/cook-review-day-one-is-an-emotional-fast-paced-nail-biter/"
+    },
+    {
+        "critic": "Bruce R. Miller",
+        "is_top_critic": false,
+        "media": "Sioux City Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-07-21T05:24:25.000Z",
+        "quote": "The franchise – unlike many that are stretched to the limit – still has value. Putting someone of Nyong’o's caliber in the lead polishes the concept and provides the kind of sheen we haven’t seen since M. Night Shyamalan started directing.\n",
+        "url": "https://siouxcityjournal.com/life-entertainment/local/movies-tv/a-quiet-place-day-one-lupita-nyongo-review-michael-sarnoski/article_86a8b7e6-37d2-11ef-babd-9bf70308d68a.html"
+    },
+    {
+        "critic": "Mario Alegre",
+        "is_top_critic": false,
+        "media": "Próxima Tanda (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-19T04:55:20.000Z",
+        "quote": "Michael Sarnoski writes and directs the best film in the franchise so far, something that shouldn't come as a surprise to anyone who was floored by his debut feature, \"Pig\". [Full Review in Spanish]",
+        "url": "https://marioalegre.substack.com/p/la-promesa-de-kevin-costner-el-rostro"
+    },
+    {
+        "critic": "MontiLee Stormer",
+        "is_top_critic": false,
+        "media": "MovieReelist.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-18T18:38:03.000Z",
+        "quote": "A Quiet Place Day One centers itself around the human needed for companionship, strength, and a reason to go on. Samira is tired of the pain and she’s looking for one more trip to Harlem to say goodbye and let the teeth fall where they may.",
+        "url": "https://moviereelist.com/review/quiet-place-day-one/"
+    },
+    {
+        "critic": "Andrew Wyatt",
+        "is_top_critic": false,
+        "media": "The Take-Up",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-16T17:43:13.000Z",
+        "quote": "An intriguing prequel that complicates the series' nuts-and-bolts horror-thriller premise with a disquieting rumination on mortality and meaning. Plus: a very good cat.",
+        "url": "https://podcasters.spotify.com/pod/show/thetakeupstl/episodes/Queer-Classics-Little-Caesar-e2m3gva"
+    },
+    {
+        "critic": "Michael Cook",
+        "is_top_critic": false,
+        "media": "KARK-TV",
+        "sentiment": "Fresh 🍅",
+        "score": "9.5/10",
+        "date": "2024-07-15T21:01:09.000Z",
+        "quote": "There is a real emotional core to this film and a real emotional journey that Lupita Nyong'o goes through as she tries to keep herself, and her cat, alive. This film is absolutely fantastic. It's thrilling, it's terrifying., and keeps you guessing. ",
+        "url": "https://www.kark.com/arkansas-style/two-movie-reviews-and-only-one-winner/"
+    },
+    {
+        "critic": "Trace Thurman",
+        "is_top_critic": false,
+        "media": "Horror Queers Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-15T18:07:47.000Z",
+        "quote": "Director Michael Sarnoski continues the franchise's winning streak, delivering what might be the best entry yet.",
+        "url": "https://www.patreon.com/posts/quiet-place-day-107752382"
+    },
+    {
+        "critic": "Lael Loewenstein",
+        "is_top_critic": false,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-13T02:19:37.000Z",
+        "quote": "A serviceable prequel -- and that's the nicest thing I can say about it... I was invested enough, and it was OK.",
+        "url": "https://laist.com/shows/filmweek/filmweek-horizon-an-american-saga-chapter-1-daddio-a-family-affair-and-more"
+    },
+    {
+        "critic": "Troy Ribeiro",
+        "is_top_critic": false,
+        "media": "Free Press Journal (India)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5",
+        "date": "2024-07-12T09:40:56.000Z",
+        "quote": "While the plot races forward, the characters lag, offering as much depth as a slice of New York-style pizza—tasty but ultimately thin.",
+        "url": "https://www.freepressjournal.in/movie-review/a-quiet-place-day-one-review-a-silent-whisker-away-from-greatness"
+    },
+    {
+        "critic": "Armond White",
+        "is_top_critic": false,
+        "media": "National Review",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-11T20:52:24.000Z",
+        "quote": "A Quiet Place: Day One, Nyong’o agrees to her own stigmatization -- a perpetual victim archetype in another shabby enterprise.",
+        "url": "https://www.nationalreview.com/2024/07/a-quiet-places-censorship-and-race-scare-tactics/"
+    },
+    {
+        "critic": "Dwight Brown",
+        "is_top_critic": true,
+        "media": "DwightBrownInk.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-07-11T15:02:48.000Z",
+        "quote": "There isn’t wall-to-wall violence. There’s wall-to-wall expectations of it, and that’s even more chilling. ",
+        "url": " https://dwightbrownink.com/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Brett McCracken",
+        "is_top_critic": false,
+        "media": "The Gospel Coalition",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-10T15:15:04.000Z",
+        "quote": "In the film’s sci-fi world, noise is death and quiet is life. Could there be a better metaphor for the dynamics of our digital age?",
+        "url": "https://www.thegospelcoalition.org/article/church-quiet-place-deadly-noise/"
+    },
+    {
+        "critic": "Rene Sanchez",
+        "is_top_critic": false,
+        "media": "Cine Sin Fronteras",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-07-10T06:33:20.000Z",
+        "quote": "Despite Lupita Nyong'o's magnificent performance, this installment ends up lacking the tension of its two unsettling predecessors. [Full Review in Spanish]",
+        "url": "https://cinesinfronteras.com/2024/06/27/un-lugar-en-silencio-dia-uno-a-quiet-place-day-one-resena-critica-resumen-pelicula-lupita-nyongo/"
+    },
+    {
+        "critic": "Carla Renata",
+        "is_top_critic": false,
+        "media": "The Curvy Film Critic",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-10T05:59:00.000Z",
+        "quote": "Not as \"quiet' as the previous versions, this has a little more dialogue and enormously nuanced performances from Oscar winner Lupita Nyong'o and Joseph Quinn",
+        "url": "https://wp.me/p2v8yf-6wl"
+    },
+    {
+        "critic": "Stephen A. Russell",
+        "is_top_critic": false,
+        "media": "Orion's Shoulder (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-10T01:12:50.000Z",
+        "quote": "A blown-to-bits bus sequence, with shadows of ashen-faced 9/11 footage, kicks off her Odyssean quest not to get off the island, but instead to have one last slice of pizza ... This quiet determination ... lends the film a beautiful melancholy.",
+        "url": "https://bit.ly/4cOsXaU"
+    },
+    {
+        "critic": "Mel Valentin",
+        "is_top_critic": false,
+        "media": "That Shelf",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-09T22:32:32.000Z",
+        "quote": "Centring the film on a woman, specifically a Black woman’s experiences and her journey, elevates A Quiet Place: Day One from the merely imitative or reductive into something more, something arguably better.",
+        "url": "https://thatshelf.com/a-quiet-place-day-one-review-a-best-in-series-prequel/"
+    },
+    {
+        "critic": "James Preston Poole",
+        "is_top_critic": false,
+        "media": "Discussing Film",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-07-09T22:05:19.000Z",
+        "quote": " This prequel is an assured work, one that brings the action and scares while at the same time treading fertile new thematic ground. It’s invigorating to see a franchise film be this concerned about being a great movie first and brand extension second.",
+        "url": "https://discussingfilm.net/2024/06/27/a-quiet-place-day-one-review-michael-sarnoski-emotional-prequel-stands-on-its-own/"
+    },
+    {
+        "critic": "Xero Gravity",
+        "is_top_critic": false,
+        "media": "Big Gold Belt Media",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-07-09T22:04:49.000Z",
+        "quote": "\"Watching the death angels infest New York City architecture like a nest of creepy-crawly spiders is perfect. What’s the point of long leggy monsters if they don’t have buildings, crazy skylines and subway tunnels to crawl all over?!\"",
+        "url": "https://www.youtube.com/watch?v=vV-tM6D0GwM&list=PL-tfc2g37P-fRh-JhgEDKK8ZIK43BBukw&index=1"
+    },
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-07-09T16:36:49.000Z",
+        "quote": "...a watchable yet somewhat disappointing endeavor that ultimately fares best in its promising, engaging opening half hour...",
+        "url": "https://reelfilm.com/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Joe Lipsett",
+        "is_top_critic": false,
+        "media": "Horror Queers Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-09T14:34:37.000Z",
+        "quote": "A surprisingly human story about a pair of isolated individuals who just so happen to find themselves in A Quiet Place film. Lupita Nyong'o and Joseph Quinn are fantastic and the film does right by its feline co-star (the true third lead of the film!)",
+        "url": "https://www.patreon.com/posts/107752382"
+    },
+    {
+        "critic": "Emma Vine",
+        "is_top_critic": false,
+        "media": "Culturess",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-08T20:58:47.000Z",
+        "quote": "Though... Day One is equipped with a few plot defects, Michael Sarnoski’s sci-fi horror film more than makes up for it with intense action scenes, deeply moving performances, and a poignant message that emphasizes the significance of human connection.",
+        "url": "https://culturess.com/posts/a-quiet-place-day-one-is-a-surprisingly-decent-prequel-full-of-heart-01j1ty941kpf"
+    },
+    {
+        "critic": "Marcelo Paredes",
+        "is_top_critic": false,
+        "media": "Cinencuentro",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-08T16:39:16.000Z",
+        "quote": "Besides delving into the human condition and how disposable we are, A Quiet Place: Day One does not forget that it is a horror film, and while it falters a little on that end, it never falls. [Full review in Spanish]",
+        "url": "https://www.cinencuentro.com/2024/07/05/un-lugar-en-silencio-dia-uno-critica/"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-08T14:30:30.000Z",
+        "quote": "While “Day One” follows a somewhat similar blueprint as its predecessors, the human element really has an impact. Nyong’o is the essential piece, adding a very different dynamic to the horror movie protagonist.",
+        "url": "https://keithandthemovies.com/2024/07/08/review-a-quiet-place-day-one-2024/"
+    },
+    {
+        "critic": "Sarah Marrs",
+        "is_top_critic": false,
+        "media": "Lainey Gossip",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-08T02:42:32.000Z",
+        "quote": "Michael Sarnoski has perfected the trick of turning genre film into poetic cinema.",
+        "url": "https://www.laineygossip.com/review-a-quiet-place-day-one-starring-lupita-nyongo-joseph-quinn-a-near-perfect-film/78475"
+    },
+    {
+        "critic": "Reginald Ponder",
+        "is_top_critic": false,
+        "media": "vocalo.org",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-07-06T12:40:47.000Z",
+        "quote": "A Quiet Place: Day One” presented the opportunity to answer questions the first two movies didn’t exactly need to but it didn't. Maybe the filmmakers needed to give us a reason to watch “A Quiet Place Part III,” which seems likely the next step.",
+        "url": "https://vocalo.org/reel-critic-a-quiet-place-day-one-review24/"
+    },
+    {
+        "critic": "Dana Han-Klein",
+        "is_top_critic": false,
+        "media": "Out Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-06T04:49:28.000Z",
+        "quote": "Nyong’o has already proven with “Us” that she is a beyond compelling silent star. “A Quiet Place: Day One” is worth a trip to the box office for. ",
+        "url": "https://www.out.com/film/a-quiet-place-day-one-gay-movie-review"
+    },
+    {
+        "critic": "Diego Batlle",
+        "is_top_critic": false,
+        "media": "Otroscines.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-05T21:49:25.000Z",
+        "quote": "... Fine, professional, but definitively not a transcendent entry into mainstream Hollywood. [Full review in Spanish]",
+        "url": "https://www.otroscines.com/nota-20480-critica-de-un-lugar-en-silencio-dia-1-a-quiet-place-day"
+    },
+    {
+        "critic": "Devesh Sharma",
+        "is_top_critic": false,
+        "media": "Filmfare",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-07-05T21:41:23.000Z",
+        "quote": "Director Michael Sarnoski has done a huge disservice to the original product.",
+        "url": "https://www.filmfare.com/reviews/hollywood-movies/a-quiet-place-day-one-movie-review-66936.html"
+    },
+    {
+        "critic": "Megan McCluskey",
+        "is_top_critic": false,
+        "media": "TIME Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-05T21:35:07.000Z",
+        "quote": "While Day One packs a poignant punch, it's not exactly in contention for scariest movie of the year.",
+        "url": "https://time.com/6993136/a-quiet-place-day-one-horror-prequel/"
+    },
+    {
+        "critic": "Dhaval Roy",
+        "is_top_critic": false,
+        "media": "The Times of India",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-05T21:23:27.000Z",
+        "quote": "A Quiet Place: Day One is a visually stunning and suspenseful thrill ride, but narrative inconsistencies and a shift in tone hold it back from reaching the heights of its predecessors. Still, fans of the franchise will find much to enjoy.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/a-quiet-place-day-one/movie-review/111334251.cms"
+    },
+    {
+        "critic": "Noëlle D. Lilley",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-05T20:08:47.000Z",
+        "quote": "As a franchise prequel, A Quiet Place: Day One doesn’t do enough world-building, but Lupita Nyong’o makes it worth a watch.",
+        "url": "https://chicagoreader.com/film/review-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Marcelo Stiletano",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-05T17:58:16.000Z",
+        "quote": "As in with the excellent Cage-led \"Pig\", competent director Sarnoski once again seeks affirmation and traits of genuine and deep humanity amid hostile environments. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/un-lugar-en-silencio-dia-uno-es-un-logrado-comienzo-de-una-fabula-futurista-de-terror-nid04072024/"
+    },
+    {
+        "critic": "Edwin Arnaudin",
+        "is_top_critic": false,
+        "media": "Asheville Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-07-05T16:00:29.000Z",
+        "quote": "Features similar traits that plagued and uplifted its two predecessors.",
+        "url": "https://www.ashevillemovies.com/new/a-quiet-place-day-one"
+    },
+    {
+        "critic": "Rick Romancito",
+        "is_top_critic": false,
+        "media": "The Taos News",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-07-05T15:20:41.000Z",
+        "quote": "In the third entry of the “Quiet Place” franchise, death not only falls from the sky, it’s already in the eyes of cancer patients at a hospice just outside New York City.",
+        "url": "https://www.taosnews.com/tempo/reviews/quiet-place-day-one-a-bleak-look-back-at-the-beginning/article_84896032-3ade-11ef-a5ab-077482a8671e.html"
+    },
+    {
+        "critic": "Pablo O. Scholz",
+        "is_top_critic": false,
+        "media": "Clarín",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-07-05T14:20:38.000Z",
+        "quote": "A Quiet Place: Day One is very similar to the so-called blockbusters of the '80s... [Full review in Spanish]",
+        "url": "https://www.clarin.com/espectaculos/lugar-silencio-dia-ofrece-terror-muchisimas-muertes_0_JmSK7oLvow.html"
+    },
+    {
+        "critic": "Paul Salfen",
+        "is_top_critic": false,
+        "media": "AMFM Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-07-04T04:51:45.000Z",
+        "quote": "The first two (especially the first one) had a dark, mysterious, and dangerous edge, but this one seemed slow, predictable and not very scary. It’s pretty grim and doesn’t offer a happy resolutions so it’s a strange summer film.",
+        "url": "https://www.amfm-magazine.tv/a-quiet-place-day-one-movie-minute-review/"
+    },
+    {
+        "critic": "Nicolás Delgadillo",
+        "is_top_critic": false,
+        "media": "Knotfest",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-04T01:40:02.000Z",
+        "quote": "Michael Sarnoski makes the jump from indies to blockbusters with Day One, but brings his character-focused sensibilities to the apocalyptic spectacle that’s been promised. It’s the best of the franchise by far.",
+        "url": "https://knotfest.com/blogs/screen-crusades/a-quiet-place-day-one-is-the-franchises-best"
+    },
+    {
+        "critic": "Robert Denerstein",
+        "is_top_critic": false,
+        "media": "Denerstein Unleashed",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-04T00:42:56.000Z",
+        "quote": "I wouldn’t say the movie is a classic of its kind. But Sarnoski, with help from his creative sound design and effects teams, fills a fleet 99 minutes with the high-anxiety stress movies such as this are meant to deliver.",
+        "url": "https://denersteinunleashed.blogspot.com/2024/06/a-tense-new-quiet-place-movie.html"
+    },
+    {
+        "critic": "Richard Roeper",
+        "is_top_critic": true,
+        "media": "Chicago Sun-Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-07-04T00:20:20.000Z",
+        "quote": "By the time Day One reaches its beautifully rendered and deeply moving conclusion, we're all in.",
+        "url": "https://chicago.suntimes.com/movies-and-tv/2024/06/27/in-a-quiet-place-day-one-lupita-nyongo-makes-a-pulse-pounding-action-film-kind-of-poetic"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-03T23:57:00.000Z",
+        "quote": "It could have been a cheap cash-in that killed the mystery of the creepy sound-seeking monsters, but this prequel is instead a surprisingly riveting, intricately designed, even touching adventure. ",
+        "url": "https://www.commonsensemedia.org/movie-reviews/a-quiet-place-day-one"
+    },
+    {
+        "critic": "LaNeysha Campbell",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-07-03T21:58:26.000Z",
+        "quote": "A Quiet Place: Day One is worth watching. This silence-driven thriller adds layers of realism and immediacy to its suspense as it draws the audience deeper into the characters’ struggles.\n\n",
+        "url": "https://butwhytho.net/2024/06/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Edgar Ortega",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-03T20:28:05.000Z",
+        "quote": "If you’re looking for a film this summer that will deliver thrills, laughs, and heart, then A Quiet Place: Day One might be the movie for you.",
+        "url": "https://loudandclearreviews.com/a-quiet-place-day-one-2024-film-review/"
+    },
+    {
+        "critic": "Diego Peralta",
+        "is_top_critic": false,
+        "media": "Geeks of Color",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-07-03T19:25:53.000Z",
+        "quote": "A wonderful prequel that continues to give prestige to the series. Nyong’o delivers one of the best performances in a franchise studio release this year in a story that will make the viewer appreciate daily life’s slow, quiet moments. ",
+        "url": "https://geeksofcolor.co/2024/07/02/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Herald Sun (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-03T19:17:26.000Z",
+        "quote": "While not quite a match for its predecessors, this wilful winding back of the clock to explain the origins of all that make-a-noise-and-die mayhem is not without its own merits. ",
+        "url": "https://www.heraldsun.com.au/entertainment/movies/leigh-paatsch/every-glimpse-of-austin-butler-steals-show-in-the-bikeriders/news-story/d4596744773645e7683a5d1df80b44e3"
+    },
+    {
+        "critic": "Derek Sante",
+        "is_top_critic": false,
+        "media": "KSNV (Las Vegas)",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-07-03T19:06:26.000Z",
+        "quote": "There's a lot of melancholy and emotion to go with the jump scares and suspense.",
+        "url": "https://news3lv.com/news/videos/entertainment-critic-derek-sante-checks-out-the-quiet-place-day-one-my-lady-jane#"
+    },
+    {
+        "critic": "Joonatan Itkonen",
+        "is_top_critic": false,
+        "media": "Region Free",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-03T19:05:50.000Z",
+        "quote": "I haven’t felt this engaged with a depiction of the apocalypse in years. In such uncertain times, the greatest compliment I can give Day One is that it allowed me to process my own anxieties about the world through the power of cinema.",
+        "url": "https://toisto.net/a-quiet-place-day-one-review-lupita-nyongo-joseph-quinn/"
+    },
+    {
+        "critic": "Tony Baker",
+        "is_top_critic": false,
+        "media": "Tony Baker Comedy",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-03T18:21:47.000Z",
+        "quote": "I think this was the most emotional one for me. ",
+        "url": "https://www.youtube.com/watch?v=yuCiiw7g3eE"
+    },
+    {
+        "critic": "Alistair Harkness",
+        "is_top_critic": false,
+        "media": "Scotsman",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-03T16:34:51.000Z",
+        "quote": "Credulity stretching logic gaps notwithstanding, though, [Sarnoski] keeps a healthy focus on character over spectacle and, in the early set-pieces, approaches it as a proper silent film, with Lyong’o’s wonderfully expressive face speaking volumes.",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/beverly-hills-cop-axel-f-review-short-on-plot-long-on-80s-nostalgia-4687100"
+    },
+    {
+        "critic": "Lynn Venhaus",
+        "is_top_critic": false,
+        "media": "PopLifeSTL",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-07-03T16:11:21.000Z",
+        "quote": "Their unlikely, but touching, bond is the reason this series remains compelling, but also handing this project off to Sarnoski was a bold and wise move.",
+        "url": "https://poplifestl.com/a-quiet-place-day-one-keeps-alien-story-humming-with-unnerving-prequel/"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-03T14:03:47.000Z",
+        "quote": "Unlike the previous Quiet Place movies, I was never scared...  It's a good, solid piece of work but it's not on a par with the previous two installments, even though it has at its center a very good performance.",
+        "url": "https://www.youtube.com/watch?v=eYg_RlCGvm4"
+    },
+    {
+        "critic": "Rick Bentley",
+        "is_top_critic": false,
+        "media": "KGET-TV (Bakersfield, CA)",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-07-03T13:12:48.000Z",
+        "quote": "Other invasion films bank on the glory of fighting back for life, liberty and the pursuit of happiness. “A Quiet Place: Day One” is all about the human spirit. ",
+        "url": "https://www.kget.com/community/ricks-reviews/quiet-place-day-one-powered-by-lupita-nyongo/"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-03T12:03:52.000Z",
+        "quote": "A worthy companion piece to the first two Quiet Place films.",
+        "url": "https://tinyurl.com/mr3z4sk9"
+    },
+    {
+        "critic": "Sara Clements",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-03T04:13:02.000Z",
+        "quote": "Much larger in scale thanks to its setting, the film is a roller coaster ride of tension, with an immersive soundscape and engrossing apocalyptic imagery.",
+        "url": "https://www.pajiba.com/film_reviews/a-quiet-place-day-one-is-one-of-the-years-biggest-surprises.php"
+    },
+    {
+        "critic": "Cris Kennedy",
+        "is_top_critic": false,
+        "media": "Inner East Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-02T21:59:16.000Z",
+        "quote": "For the human players, this is a showcase of strong, silent performance.",
+        "url": "https://www.innereastreview.com.au/story/8675671/review-john-krasinskis-quiet-place-day-one-is-no-snoozefest/?cs=20920"
+    },
+    {
+        "critic": "Chris Sawin",
+        "is_top_critic": false,
+        "media": "Bounding Into Comics",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-07-02T20:55:43.000Z",
+        "quote": "A Quiet Place: Day One prioritizes strong performances and monster mayhem. Lupita Nyong’o and Joseph Quinn deliver exceptional performances. But the storyline is borderline idiotic and the Eric character dribbles stupidity in every direction.",
+        "url": "https://boundingintocomics.com/2024/07/02/a-quiet-place-day-one-review-a-matter-of-life-or-pizza/"
+    },
+    {
+        "critic": "Rich Cline",
+        "is_top_critic": false,
+        "media": "Shadows on the Wall",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-02T17:08:26.000Z",
+        "quote": "Writer-director Michael Sarnoski brings his internalised approach to storytelling, adding an involving twist to this prequel to John Krasinski's hushed 2018 dramatic horror.",
+        "url": "http://www.shadowsonthewall.co.uk/24/quieplac.htm"
+    },
+    {
+        "critic": "Gissane Sophia",
+        "is_top_critic": false,
+        "media": "Lady Geeks Media",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-02T16:28:44.000Z",
+        "quote": "Some might argue that a prequel wasn’t necessary. We already saw the initial invasion in A Quiet Place II, but what Day One does compellingly is how it reveals the reality of when a city as bustling and boisterous as New York is forced into silence. ",
+        "url": "https://marvelousgeeksmedia.com/2024/07/02/a-quiet-place-day-one-review-how-prequels-should-be/"
+    },
+    {
+        "critic": "Gregg Shapiro",
+        "is_top_critic": false,
+        "media": "Bay Area Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-07-02T16:20:48.000Z",
+        "quote": "Director/screenwriter Michael Sarnoski, handily proves that he's capable of delivering something on this scale. He treats the concept respectfully.",
+        "url": "https://www.ebar.com/story.php?ch=Arts%20&%20Culture&sc=Movies&id=334153&title=a_quiet_place:_day_one_-_silence_is_golden_in_the_scary_prequel"
+    },
+    {
+        "critic": "Valerie Kalfrin",
+        "is_top_critic": false,
+        "media": "AWFJ.org",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-02T16:06:53.000Z",
+        "quote": "a phenomenal film that subverts expectations in rich and affecting ways. ... a personal, poignant adventure about cherishing what matters most.",
+        "url": "https://awfj.org/blog/2024/07/01/a-quiet-place-day-one-review-by-valerie-kalfrin/"
+    },
+    {
+        "critic": "Felix Vasquez Jr.",
+        "is_top_critic": false,
+        "media": "Cinema Crazed",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-02T14:04:42.000Z",
+        "quote": "Sticks true to its themes about self-sacrifice, courage, and finding hope in even the direst circumstances.",
+        "url": "https://www.cinema-crazed.com/blog/2024/07/02/a-quiet-place-day-one-2024/"
+    },
+    {
+        "critic": "Mini Anthikad-Chhibber",
+        "is_top_critic": false,
+        "media": "The Hindu",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-02T09:56:06.000Z",
+        "quote": "With most of the apocalyptic mayhem happening off-screen, it is Lupita Nyong’o who manages to grab the eye and keep it in ‘A Quiet Place: Day One’",
+        "url": "https://www.thehindu.com/entertainment/movies/a-quiet-place-day-one-movie-review-this-prequel-is-a-quiet-riot/article68343991.ece"
+    },
+    {
+        "critic": "Alci Rengifo",
+        "is_top_critic": false,
+        "media": "Entertainment Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-01T23:51:46.000Z",
+        "quote": "Avoiding being thoughtless, “Day One” is good popcorn fun, designed to raise the heart rate for its thankfully brisk 99 minutes. ",
+        "url": "https://entertainmentvoice.com/2024/06/27/a-quiet-place-day-one-keeps-the-franchise-suspenseful-with-a-stellar-lupita-nyongo/"
+    },
+    {
+        "critic": "Juan Jose Cruz",
+        "is_top_critic": false,
+        "media": "Cine Premiere",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-01T23:25:44.000Z",
+        "quote": "A beautiful horror story marked by tension, chaos, and unexpected doses of humanity. [Full review in Spanish]",
+        "url": "https://cinepremiere.com.mx/un-lugar-en-silencio-dia-uno-critica-de-la-pelicula.html"
+    },
+    {
+        "critic": "Ruben Peralta Rigaud",
+        "is_top_critic": false,
+        "media": "Cocalecas",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-01T23:20:33.000Z",
+        "quote": "The excitement may wane a little. However, A Quiet Place: Day One has a number of strong, resonant images to offer. [Full review in Spanish]",
+        "url": "https://cocalecas.net/2024/06/critica-a-a-quiet-place-day-one-2024-de-michael-sarnoski/#google_vignette"
+    },
+    {
+        "critic": "Alejandro Alemán",
+        "is_top_critic": false,
+        "media": "El Universal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-01T23:19:17.000Z",
+        "quote": "The unnecessary prequel to A Quiet Place is saved from disaster by the great chemistry and performances of its leading couple: Lupita Nyong'o and Joseph Quinn. [Full review in Spanish]",
+        "url": "https://www.eluniversal.com.mx/opinion/alejandro-aleman/a-quiet-place-day-one-con-mas-vidas-que-un-gato/"
+    },
+    {
+        "critic": "Luis Martínez ",
+        "is_top_critic": false,
+        "media": "El Mundo (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-01T23:18:35.000Z",
+        "quote": "The film moves forward in a straight line, vehement and effective. [Full review in Spanish]",
+        "url": "https://www.elmundo.es/cultura/cine/2024/06/27/667c3ba921efa029128b45a3.html"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-01T22:48:29.000Z",
+        "quote": "This is a stylish and satisfying prequel that elegantly integrates Sam’s poet’s sensibility into the storytelling.",
+        "url": "https://www.theguardian.com/film/article/2024/jun/30/a-quiet-place-day-one-review-lupita-nyongo"
+    },
+    {
+        "critic": "Mark Jackson",
+        "is_top_critic": false,
+        "media": "Epoch Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-07-01T22:43:52.000Z",
+        "quote": "Had this prequel focused on rude people learning to shut up because otherwise radar-headed bat-Pterodactyls would eat their heads, we would've had something.",
+        "url": "https://www.theepochtimes.com/bright/a-quiet-place-day-one-the-point-of-diminishing-returns-5676816"
+    },
+    {
+        "critic": "Matt Rodriguez",
+        "is_top_critic": false,
+        "media": "Shakefire",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-07-01T21:36:20.000Z",
+        "quote": "A Quiet Place: Day One cuts through the noise to deliver an intimate and engaging story about survival.",
+        "url": "https://shakefire.net/5900/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Elliott Collins",
+        "is_top_critic": false,
+        "media": "Movie Files",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-01T21:25:03.000Z",
+        "quote": "Great human story element of survival with two great performances that really made for an emotionally satisfying experience. Unfortunately it didn’t have the same high tension filled, thrilling or scary elements as the previous films.",
+        "url": "https://youtu.be/Xkwz9EgVU84?si=njz1qoHENpjOMmIG"
+    },
+    {
+        "critic": "Tom Meek",
+        "is_top_critic": false,
+        "media": "Cambridge Day",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-07-01T20:33:53.000Z",
+        "quote": "Day One builds with purpose and fervor, but ultimately drifts into the predictable. ",
+        "url": "https://www.cambridgeday.com/2024/06/30/a-quiet-place-day-one-killer-aliens-in-nyc-that-calls-for-a-slice-of-pizza-hunted-silently/"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-07-01T18:54:00.000Z",
+        "quote": "Although some scenes are suffused with suffocating tension and there are plenty of flashy special effects sequences, Day One at times feels more like an art house movie than something made for mainstream audiences.",
+        "url": "https://www.reelviews.net/reelviews/quiet-place-a-day-one"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-07-01T18:38:59.000Z",
+        "quote": "The silent set pieces have the potential to get the best out of filmmakers or quickly slide into parody, but they've found a surprisingly emotional experience worth telling in fighting for the will to live vs. sliding into acceptance of one’s fate.",
+        "url": "https://erikthemovieman.substack.com/p/episode-484-shhhh-costner-made-a-26c"
+    },
+    {
+        "critic": "Elisabeth Vincentelli",
+        "is_top_critic": false,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-01T18:31:34.000Z",
+        "quote": "Indeed, the action set pieces are fine but also perfunctory... “Day One” is on much surer ground when dealing with the quiet that bookends the storms.",
+        "url": "https://www.nytimes.com/2024/06/27/movies/a-quiet-place-day-one-review.html"
+    },
+    {
+        "critic": "Joshua Rothkopf",
+        "is_top_critic": true,
+        "media": "Los Angeles Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-01T16:43:14.000Z",
+        "quote": "To watch “A Quiet Place: Day One” is to recalibrate your senses — not to the alien horror movie you know is in store but rather, to the intimate human drama it hangs onto.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2024-06-28/a-quiet-place-day-one-review-lupita-nyongo-joseph-quinn-postapocalyptic"
+    },
+    {
+        "critic": "Ben Wasserman",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-07-01T14:56:15.000Z",
+        "quote": "Day One is a prequel that doesn't need to exist, but makes a good case for its existence anyway. ",
+        "url": "https://www.cbr.com/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Brandon Collins",
+        "is_top_critic": false,
+        "media": "Medium Popcorn",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-01T14:16:39.000Z",
+        "quote": "Despite a lot of strong action pieces being spoiled in the trailers and not adding much to the overall lore of \"A Quiet Place\", this film was a very tense, surprisingly intimate story that provided an inspired performance by Lupita Nyong'o. ",
+        "url": "https://www.mediumpopcorn.com/episodes/bonus-mini-review-a-quiet-place-day-one"
+    },
+    {
+        "critic": "Dennis Schwartz",
+        "is_top_critic": false,
+        "media": "Dennis Schwartz Movie Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-07-01T12:12:23.000Z",
+        "quote": "Has nothing fresh to say.",
+        "url": "https://dennisschwartzreviews.com/a-quiet-place-day-one-2024/"
+    },
+    {
+        "critic": "Manuel São Bento",
+        "is_top_critic": false,
+        "media": "Movies We Texted About",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-07-01T12:11:17.000Z",
+        "quote": "The notable performances by Lupita Nyong’o, Joseph Quinn, and Alex Wolff significantly elevate the movie, with Nyong’o, in particular, delivering a powerful, intense performance that underscores the importance of finding hope and joy amid despair.",
+        "url": "https://movieswetextedabout.com/a-quiet-place-day-one-review-where-apocalyptic-horror-meets-inspiring-thematically-rich-character-arcs/"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-01T09:11:27.000Z",
+        "quote": "... turns out to be a welcome oasis of strong character and believable motivation, not qualities we expect in a summer blockbuster…getting audiences back into cinema is proving to be like herding cats; Mike Sarnoski does both here with real success.’",
+        "url": "https://film-authority.com/2024/07/01/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Sara Michelle Fetters",
+        "is_top_critic": true,
+        "media": "MovieFreak.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-07-01T05:57:50.000Z",
+        "quote": "A single act of kindness. A momentary instance of compassion. That’s all it takes to help someone in their darkest hour. Heck, it may even be enough to save the world.",
+        "url": "http://moviefreak.com/a-quiet-place-day-one-2024-movie-review/"
+    },
+    {
+        "critic": "Kshitij Rawat",
+        "is_top_critic": false,
+        "media": "Lifestyle Asia (India)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-01T04:59:21.000Z",
+        "quote": "A Quiet Place: Day One is a masterclass in horror filmmaking. It easily avoids the typical pitfalls of prequels, delivering a story that stands on its own.",
+        "url": "https://www.lifestyleasia.com/bk/entertainment/movies/a-quiet-place-day-one-movie-review-lupita-nyongo-joseph-quinn/"
+    },
+    {
+        "critic": "Ryan Oquiza",
+        "is_top_critic": false,
+        "media": "Rappler",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-01T04:23:06.000Z",
+        "quote": "Conceptually, this is genius. Put the monsters whose source of terror is noise in one of the noisiest places imaginable... I wish the people were dumber... because the process of them figuring out how to survive would have been immensely interesting.\n",
+        "url": "https://www.rappler.com/entertainment/movies/a-quiet-place-day-one-review-emotional-depth-lost-noise/"
+    },
+    {
+        "critic": "Josie Meléndez",
+        "is_top_critic": false,
+        "media": "Cinemania World Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-01T00:45:45.000Z",
+        "quote": "An adrenaline-filled thrill ride, and it's a perfect addition to the franchise. I was holding my breath throughout the entire film. ",
+        "url": "https://www.podbean.com/ew/pb-8gcrc-1655766"
+    },
+    {
+        "critic": "Michael Ward",
+        "is_top_critic": false,
+        "media": "Should I See It",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-30T19:20:37.000Z",
+        "quote": "Similarly to the previous films, you could literally hear a pin drop, and midway through the film, I found myself not wanting to hear a sound or even shift in my seat. In that regard, this movie works insanely well.",
+        "url": "https://www.shouldiseeit.net/reviews/2024/a-quiet-place-day-one-2024"
+    },
+    {
+        "critic": "Lisa Johnson Mandell",
+        "is_top_critic": false,
+        "media": "AtHomeInHollywood.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-30T19:08:48.000Z",
+        "quote": "A Quiet Place Day One is the ideal horror film for those who don’t like horror films… but also for those who love them.",
+        "url": "https://athomeinhollywood.com/2024/06/29/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Fico Cangiano",
+        "is_top_critic": false,
+        "media": "CineXpress",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-30T19:03:54.000Z",
+        "quote": "Day One is another solid entry in the franchise, that satisfies thanks to great tense action monster moments elevated by wonderful performances by Lupita Nyong'o and Joseph Quinn. That said, not as great as the two previous films. [Full review in Spanish]",
+        "url": "https://cinexpresspr.com/site/2024/06/30/resena-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Jordy Sirkin",
+        "is_top_critic": false,
+        "media": "Jordy Reviews It",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-30T18:03:53.000Z",
+        "quote": "A prequel that delivers the franchise’s signature intensity while offering a surprisingly emotional story.",
+        "url": "https://jordyreviewsit.com/2024/06/30/a-quiet-place-day-one-a-thrilling-and-emotional-apocalyptic-horror-prequel/"
+    },
+    {
+        "critic": "Dan Scully",
+        "is_top_critic": false,
+        "media": "ScullyVision",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-30T16:53:28.000Z",
+        "quote": "It’s not a bad film, but it’s a disappointingly standard entry in a series that defined itself by subverting and exceeding expectations.",
+        "url": "https://scullyvision.com/2024/06/30/a-quiet-place-day-one-isnt-bad-but-it-sure-is-disappointing/"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Me gusta el cine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-30T15:12:17.000Z",
+        "quote": "The fact that it is a prequel that does not involve any of the main characters from the previous films is a brilliant decision, since we know little or nothing about what will happen to the two main characters. Full review in Spanish.",
+        "url": "https://megustaelcine.com/critica-un-lugar-en-silencio-dia-uno-una-tensa-precuela-con-una-excelente-lupita-nyongo/"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-30T14:28:55.000Z",
+        "quote": "“A Quiet Place: Day One” is fine, but the story and special effects are beneath the cast’s capabilities. ",
+        "url": "https://sarahgvincentviews.com/movies/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Ilan Preskovsky",
+        "is_top_critic": false,
+        "media": "Channel24 (South Africa)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-30T14:07:55.000Z",
+        "quote": "A Quiet Place: Day One is a terrible film. Certainly, it's much better than most prequels, not least because it doesn't take away from the original films. But it does fall massively short of both the standards set by the series and of its own ambitions. ",
+        "url": "https://www.news24.com/life/arts-and-entertainment/film/reviews/review-a-quiet-place-day-one-screams-missed-potential-despite-its-terrifying-beauty-20240628"
+    },
+    {
+        "critic": "Korey Coleman",
+        "is_top_critic": false,
+        "media": "Double Toasted",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-30T04:50:51.000Z",
+        "quote": "It's refreshing to see an apocalyptic movie where the focus is not on cruelty, but rather on people looking after each other.",
+        "url": "https://www.youtube.com/watch?v=thyOR4-Ce-E"
+    },
+    {
+        "critic": "André Hereford",
+        "is_top_critic": false,
+        "media": "Metro Weekly (Washington, DC)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-30T01:06:26.000Z",
+        "quote": "Powered by an awards-worthy turn from Lupita Nyong'o, horror sequel 'A Quiet Place: Day One' makes some impressive noise.",
+        "url": "https://www.metroweekly.com/2024/06/a-quiet-place-day-one-delivers-the-terror-review/"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-29T21:04:47.000Z",
+        "quote": "Nyong’o and Quinn's performances are powerful and heartfelt. Sarnoski does a fantastic job of raising the tension to an unnerving level and keeping it there throughout the film.",
+        "url": "https://fortworthreport.org/2024/06/29/a-quiet-place-day-one-review-the-cats-out-of-the-bag-sarnoskis-prequel-is-frightening-and-heartfelt-start-spreading-the-news/"
+    },
+    {
+        "critic": "Joshua Starnes",
+        "is_top_critic": false,
+        "media": "Firing the Canon",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2024-06-29T17:44:05.000Z",
+        "quote": "The unbelievability of A Quiet Place’s central conceit hasn’t held the series back the way it could due to focus on characters as much as suspense. Day One takes that even further, pushing its threats to the edge of the screen to better center its humans.",
+        "url": "https://www.firingthecanon.net/blog/a-quiet-place-day-one"
+    },
+    {
+        "critic": "David Reddish",
+        "is_top_critic": false,
+        "media": "Wealth of Geeks",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-29T17:27:37.000Z",
+        "quote": "Lovers of cinema will also find solace in seeing a good, old-fashioned creature feature thriller, albeit one with some deeper thoughts buried in the dreck.\n",
+        "url": "https://wealthofgeeks.com/a-quiet-place-day-one-review-silent-cinema-gets-scary-again/?fbclid=IwZXh0bgNhZW0CMTEAAR0Tg109D_MK0bB5XbGHVjAef25xg8bplGcJt-AO2ojbL7m-GNi9exTICI0_aem_pfS2laaudsl-4R1Iv3VSjQ"
+    },
+    {
+        "critic": "Doug Jamieson",
+        "is_top_critic": false,
+        "media": "The Jam Report",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-29T16:05:00.000Z",
+        "quote": "This origin chapter plays to its own beat while still connecting to the broader world established by John Krasinski. In other words, this is precisely how a prequel should be done.",
+        "url": "http://thejamreport.com/2024/06/30/review-a-quiet-place-day-one-is-just-as-entertaining-exhilarating-and-emotional-as-whats-followed-before/"
+    },
+    {
+        "critic": "Nestor Bentancor",
+        "is_top_critic": false,
+        "media": "Nestor Cine Desde Hollywood",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-29T08:03:08.000Z",
+        "quote": "This thrilling franchise delivers another immersive big screen experience that rattles your senses and resonates in your heart.\n[Full Review in Spanish]",
+        "url": "https://youtu.be/0RJvTdQBvfE"
+    },
+    {
+        "critic": "Sarah Gopaul",
+        "is_top_critic": false,
+        "media": "Digital Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-29T04:56:31.000Z",
+        "quote": "The key to these films has always been a need to be quiet as even inconsequential noise attracts the hungry creatures... However, this movie features a surprising amount of talking, which... doesn’t feel like it’s keeping with the spirit of the franchise.",
+        "url": "https://www.digitaljournal.com/entertainment/review-a-quiet-place-day-one-strays-from-its-muted-origins/article"
+    },
+    {
+        "critic": "Steven Prokopy",
+        "is_top_critic": false,
+        "media": "Third Coast Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-29T00:21:10.000Z",
+        "quote": "Less a terrifying thrill ride and more of an introspective examination of emotional extremes.",
+        "url": "https://thirdcoastreview.com/2024/06/28/film-review-quiet-place-day-one"
+    },
+    {
+        "critic": "Julian Lytle",
+        "is_top_critic": false,
+        "media": "RIOTUS",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-06-29T00:16:55.000Z",
+        "quote": "A Quiet Place: Day One is a great theater multi-genre tentpole experience with two great lead performances that remind us of Lupita’s star power.",
+        "url": "https://riot-us.com/2024/06/28/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Peter Howell",
+        "is_top_critic": false,
+        "media": "Toronto Star",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-28T22:47:52.000Z",
+        "quote": "It’s not a bad movie, certainly one worth watching, but it’s also not as inventive as it could and should have been, considering the abundant skills of the people involved.",
+        "url": "https://www.thestar.com/entertainment/movies/a-quiet-place-day-one-brings-the-noise-and-the-monsters-to-new-york-city/article_fd9c7d10-349e-11ef-8f2f-83a526ff4884.html"
+    },
+    {
+        "critic": "Jonathan W. Hickman",
+        "is_top_critic": false,
+        "media": "The Newnan Times-Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-06-28T21:44:30.000Z",
+        "quote": "Its artful dramatic approach may not sit well with some viewers looking for a more traditionally harrowing and exciting monster movie. ",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/movie-reviews-previews/article_5edf22aa-3592-11ef-92bb-2fceb8ddac88.html"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-28T21:13:07.000Z",
+        "quote": "... follows the template of its predecessors by telling a similar story of resilience and survival with a different set of characters in a different setting. By the next day, it doesn’t have much new to say.",
+        "url": "https://cinemalogue.com/2024/06/28/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Sean Collier",
+        "is_top_critic": false,
+        "media": "Pittsburgh Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "10/10",
+        "date": "2024-06-28T20:39:44.000Z",
+        "quote": "I thought “Day One” might be good; I didn’t expect it to be moving.",
+        "url": "https://www.pittsburghmagazine.com/movie-review-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-28T20:38:25.000Z",
+        "quote": "It’s kind of a miracle that A Quiet Place: Day One is as good as it is.",
+        "url": "https://aisleseat.com/a-quiet-place-day-one.html"
+    },
+    {
+        "critic": "Alan Ng",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-06-28T20:35:17.000Z",
+        "quote": "Fun is fun, but without proper character development, Day One is more fast food than a hardy meal.",
+        "url": "https://filmthreat.com/reviews/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Kevin Carr",
+        "is_top_critic": false,
+        "media": "Fat Guys at the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-28T20:30:29.000Z",
+        "quote": "I can’t help but feel they are just retreading the same path, almost as if no one thought beyond the initial success of the first film.",
+        "url": "https://www.fatguysatthemovies.com/a-quiet-place-day-one-movie-reviewa/"
+    },
+    {
+        "critic": "Nick Johnston",
+        "is_top_critic": false,
+        "media": "Vanyaland",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-28T20:09:29.000Z",
+        "quote": "A Quiet Place: Day One fails at expanding the possibilities of the concept beyond presenting it in its most maudlin form.",
+        "url": "https://vanyaland.com/2024/06/28/a-quiet-place-day-one-review-too-sweet-too-silly/"
+    },
+    {
+        "critic": "Abbie Bernstein",
+        "is_top_critic": false,
+        "media": "Assignment X",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-28T20:06:32.000Z",
+        "quote": "The new installment expands its scope but feels more intimate.",
+        "url": "https://www.assignmentx.com/2024/movie-review-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Emma Wolfe",
+        "is_top_critic": false,
+        "media": "SpookyAstronauts",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-06-28T20:06:10.000Z",
+        "quote": "Overall, the performances were freaking phenomenal. ",
+        "url": "https://www.youtube.com/watch?v=gJc-vEBpsqs"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T20:04:50.000Z",
+        "quote": "It's a prequel that doesn't break new ground, in fact feels familiar to what you've already experienced before in this franchise. But if you're looking for something to scratch that itch, you'll probably still have yourself a good time. ",
+        "url": "https://www.youtube.com/watch?v=UwugAP98zR8"
+    },
+    {
+        "critic": "Ryan Syrek",
+        "is_top_critic": false,
+        "media": "The Reader (Omaha, NE)",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2024-06-28T20:03:55.000Z",
+        "quote": "For a world that often feels unbearable, escapism is no small thing. Instead, it dangles the prospect of summer spectacle only to deliver a nebulous meditation on death without any actual weight to it. When it comes to this series, I’ve heard enough.",
+        "url": "https://thereader.com/2024/06/28/quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Rebecca Johnson",
+        "is_top_critic": false,
+        "media": "Talking Films",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-28T20:02:26.000Z",
+        "quote": "Helmed by exceptional lead performances from Nyong’o and Quinn, brilliant technical aspects including beautiful cinematography and clever sound design and most importantly, a perfect balance of character drama and creature feature.",
+        "url": "https://talkingfilms.net/a-quiet-place-day-one-review-an-emotionally-resonant-worthwhile-prequel/"
+    },
+    {
+        "critic": "Grace Randolph",
+        "is_top_critic": false,
+        "media": "Beyond the Trailer",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T19:11:51.000Z",
+        "quote": "A very well made film, with excellent performances from Nyong'o and Quinn.  However, it's also a surprisingly sad film, and not the popcorn blockbuster one would expect during the summer movie season.  A unique but small in scope dystopian horror film.",
+        "url": "https://www.youtube.com/watch?v=isv9eIT-orI"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-28T19:03:08.000Z",
+        "quote": "Michael Sarnoski (who helmed the great Nicolas Cage indie “Pig”), manages to inject some freshness into a series that is losing some of its novelty.",
+        "url": "https://www.theonlycritic.com/post/a-quiet-place-day-one-review-thrilling-prequel-takes-horror-franchise-back-to-its-roots"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-28T18:49:41.000Z",
+        "quote": "A Quiet Place: Day One understands that humanity and raw, genuine emotion must be displayed as much as the monsters\n",
+        "url": "https://www.flickeringmyth.com/movie-review-a-quiet-place-day-one-2024/"
+    },
+    {
+        "critic": "Erick Estrada",
+        "is_top_critic": false,
+        "media": "Cinegarage",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-28T17:45:05.000Z",
+        "quote": "The movie is a bouquet of two characters escaping... if you take out the cat, there's nothing left. [Full review in Spanish]",
+        "url": "https://www.patreon.com/posts/un-lugar-en-dia-107016793"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-06-28T16:59:01.000Z",
+        "quote": "This film should be called A Quiet Kitty: The Search for Fentanyl and Pizza.",
+        "url": "https://youtu.be/ppDdegpOiMk"
+    },
+    {
+        "critic": "Sean P. Means",
+        "is_top_critic": false,
+        "media": "The Movie Cricket",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-28T16:48:31.000Z",
+        "quote": "Nyong’o holds everything steady, giving us an action heroine guided solely by the desire to experience a moment of normal life before it all comes crashing down.",
+        "url": "https://moviecricket.net/blog/2024/6/27/review-a-quiet-place-day-one-takes-viewers-to-the-beginning-of-an-alien-invasion-with-lupita-nyongo-putting-a-thoughtful-twist-on-the-survival-narrative"
+    },
+    {
+        "critic": "Amy Nicholson",
+        "is_top_critic": true,
+        "media": "Washington Post",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T16:28:27.000Z",
+        "quote": "Animal owners will snicker when Sam has to figure out how to silently open the pull-tab on a can of pet food, an unmistakable crack-rrrrip that makes all hungry creatures come running.",
+        "url": "https://www.washingtonpost.com/entertainment/movies/2024/06/28/quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Kathia Woods",
+        "is_top_critic": false,
+        "media": "The Philadelphia Tribune",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-28T15:57:30.000Z",
+        "quote": "This chapter in the saga is interesting because of the uncertainty. Its goal isn’t to solve problems, but to help remind us to value life.",
+        "url": "https://www.phillytrib.com/entertainment/movies/a-fresh-perspective-on-the-moment-the-world-fell-silent-in-a-quiet-place-day/article_39a76e01-272e-55ae-a182-b02716458f7b.html"
+    },
+    {
+        "critic": "Alan Zilberman",
+        "is_top_critic": false,
+        "media": "Spectrum Culture",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-28T15:49:23.000Z",
+        "quote": "A Quiet Place: Day One has a brusque, satisfying last shot that’s maybe the year’s best so far. It would be criminal to spoil it, so let’s just say it includes enough layers of irony to make you wonder why you are left smiling.",
+        "url": "https://spectrumculture.com/2024/06/27/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Paul Mount",
+        "is_top_critic": false,
+        "media": "Starburst",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-28T15:41:48.000Z",
+        "quote": "Scary, suspenseful and driven by two well-developed characters we genuinely care about despite the fact that, by the very nature of the film, they barely speak to one another, A Quiet Place: Day One is another assured and mature entry...",
+        "url": "https://www.starburstmagazine.com/reviews/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Rebecca Murray",
+        "is_top_critic": false,
+        "media": "Showbiz Junkies",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-28T15:25:58.000Z",
+        "quote": "It’s the quieter, emotionally fraught scenes with Lupita Nyong’o and Joseph Quinn that make A Quiet Place: Day One so compelling. That, and one amazing, superheroic cat.",
+        "url": "https://www.showbizjunkies.com/movies/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Radheyan Simonpillai",
+        "is_top_critic": true,
+        "media": "CTV's Your Morning",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T15:13:03.000Z",
+        "quote": "Lupita Nyong'o is playing more notes than we'd expect from the Quiet Place franchise. And the novelty of the franchise hasn't completely worn off. I still found myself listening to my own breath, trying not to trigger the monsters.",
+        "url": "https://www.youtube.com/watch?v=NnAt16cGbug"
+    },
+    {
+        "critic": "Prabhjot Bains",
+        "is_top_critic": false,
+        "media": "RANGE Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T15:11:44.000Z",
+        "quote": "It’s the rare prequel that defends its existence with earned emotion, offering us something to explore in between its moments of dread and suspense. ",
+        "url": "https://readrange.com/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Brian Tallerico",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-28T14:44:26.000Z",
+        "quote": "[W]hat could have been a cash grab clearly has loftier aspirations, resulting in a film that’s never boring and just provocative enough to spark big questions about what truly matters in this world when it’s falling apart.",
+        "url": "https://www.rogerebert.com/reviews/a-quiet-place-day-one-movie-review-2024"
+    },
+    {
+        "critic": "Ryan Silberstein",
+        "is_top_critic": false,
+        "media": "MovieJawn",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T14:34:58.000Z",
+        "quote": "While never invoking the pandemic (the series’ timeline would not allow it anyway), the film manages to be one of the most heartfelt and nuanced explorations on living through it.",
+        "url": "https://www.moviejawn.com/home/2024/6/28/a-quiet-place-day-one-reminds-us-the-important-of-mourning-the-before-times"
+    },
+    {
+        "critic": "Sarah McIntyre",
+        "is_top_critic": false,
+        "media": "RTÉ (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-28T14:21:47.000Z",
+        "quote": "Epic, intense and heartbreaking, A Quiet Place: Day One is a visceral gut-punch of a movie that is definitely one to see on the big screen.",
+        "url": "https://www.rte.ie/entertainment/2024/0627/1456759-a-quiet-place-day-one-is-a-visceral-gut-punch/"
+    },
+    {
+        "critic": "Hilary A White",
+        "is_top_critic": false,
+        "media": "Sunday Independent (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-28T14:13:05.000Z",
+        "quote": "It is the excellent Nyong’o, establishing herself with depth and poise in a fine prologue, where the real substance lies.",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/a-quiet-place-day-one-review-lupita-nyongo-shines-in-third-instalment-of-horror-monster-franchise/a69019677.html"
+    },
+    {
+        "critic": "Paul McGuire Grimes",
+        "is_top_critic": false,
+        "media": "Paul's Trip to the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-28T13:54:15.000Z",
+        "quote": "A Quiet Place Day One has a lean story, but it’s a taught thriller that quietly sneaks up on with an emotional ending that packs a punch.",
+        "url": "https://paulstriptothemovies.com/movie-review-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Chris Knight",
+        "is_top_critic": false,
+        "media": "National Post",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-28T13:45:11.000Z",
+        "quote": "Think of this one then as an odd Quiet Place backwater, something to keep us invested in the franchise until the next chapter arrives.",
+        "url": "https://nationalpost.com/entertainment/movies/film-review-a-quiet-place-day-one-lowers-the-stakes"
+    },
+    {
+        "critic": "Aglaia Berlutti",
+        "is_top_critic": false,
+        "media": "Hipertextual",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-06-28T12:49:32.000Z",
+        "quote": "'A Quiet Place - Day One'  cleverly narrates the beginning of the tragedy that, until now, has been the mysterious main premise of the saga. But, it avoids adding information to make its script less solid. [Full Review in Spanish]\n",
+        "url": "https://hipertextual.com/2024/06/un-lugar-tranquilo-dia-1-critica-mas-compleja-y-mejor-narrada-que-las-anteriores"
+    },
+    {
+        "critic": "Lee McCoy",
+        "is_top_critic": false,
+        "media": "DrumDums",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2024-06-28T12:00:36.000Z",
+        "quote": "Once again the QP franchise chooses a more character driven approach with the monsters in the background. We get strong, emotionally charged performances by Nyong'o and Quinn. I think there's more to tell, especially from the military resistance effort. ",
+        "url": "https://youtu.be/QzNRvTJBsYQ?si=dsf6j32L5E9YyTh-"
+    },
+    {
+        "critic": "Laura Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-28T10:23:55.000Z",
+        "quote": "...Sarnoski and his wonderful lead actress take us through the experience of living our last during a global catastrophe and finding comfort in those final moments in the companionship of a cat and the care of a stranger.",
+        "url": "https://www.reelingreviews.com/reviews/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-06-28T09:10:40.000Z",
+        "quote": "A Quiet Place: Day One is the best directed film in the frightening franchise. ",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=450027e5-e507-41c7-8b05-e5e70112dd94"
+    },
+    {
+        "critic": "Michael Gingold",
+        "is_top_critic": false,
+        "media": "Rue Morgue Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T06:24:06.000Z",
+        "quote": "It is really because we care so much about the imperiled duo that A QUIET PLACE: DAY ONE emerges as a worthy addition to this franchise.",
+        "url": "https://rue-morgue.com/movie-review-a-quiet-place-day-one-is-a-moving-metropolitan-monster-saga/"
+    },
+    {
+        "critic": "Kurt Loder",
+        "is_top_critic": false,
+        "media": "Creators Syndicate",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T06:03:33.000Z",
+        "quote": "Fans will get the rampant space aliens they crave, along with lots of other stuff. In fact, the movie is mostly other stuff, talky and sorrowful. And there's a cat too — quite a lot of cat, actually.",
+        "url": "https://www.creators.com/read/screener/06/24/a-quiet-place-day-one-diminishing-return"
+    },
+    {
+        "critic": "Jeffrey Harris",
+        "is_top_critic": false,
+        "media": "411mania",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2024-06-28T05:57:56.000Z",
+        "quote": "Director Michael Sarnoski weaves a compelling human story highlighting the bond between Eric and Samira amid such a frightening ordeal.",
+        "url": "https://411mania.com/movies/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Jeanne Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-28T05:19:48.000Z",
+        "quote": "When all is said and done, A QUIET PLACE: DAY ONE \njust isn’t the nightmarish experience it should have been. ",
+        "url": "https://www.kaplanvskaplan.com/new-releases/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "David Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T05:18:40.000Z",
+        "quote": "While the film does contain its share of jarring noises and sudden appearances by the creatures, it’s much more a story about the human spirit amid dire circumstances.\n\n",
+        "url": "https://www.kaplanvskaplan.com/new-releases/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Ruth Maramis",
+        "is_top_critic": false,
+        "media": "FlixChatter Film Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-28T03:24:40.000Z",
+        "quote": "We don't get the backstory of the alien creatures, but the genuinely moving human connection is what makes 'Day One' much more than just another boilerplate disaster flick. Fantastic performances by Nyong'o, Quinn and the cat!",
+        "url": "https://flixchatter.net/2024/06/27/flixchatter-review-a-quiet-place-day-one-2024-an-effective-creature-horror-that-blends-heartfelt-emotions-with-spine-tingling-tension/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T03:21:49.000Z",
+        "quote": "Although suspenseful, intense and well-produced, it's also repetitive and unimaginative.",
+        "url": "http://nycmovieguru.com/june28th24.html#quietplacedayone"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-28T03:19:31.000Z",
+        "quote": "It features a pair of sympathetic characters ... in a string of smartly staged and cleverly designed suspense sequences.",
+        "url": "http://www.markreviewsmovies.com/reviews/Q/quietplace-dayone.htm"
+    },
+    {
+        "critic": "Austin Burke",
+        "is_top_critic": false,
+        "media": "Austin Burke/Flick Fan Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-28T03:09:02.000Z",
+        "quote": "This entry is occasionally exciting, filled with fantastic effects, and chocked full of effective scares. The issues start with its less interesting characters. This script just doesn’t have the creativity of the first two.",
+        "url": "https://youtu.be/gJRjiWSmXQY"
+    },
+    {
+        "critic": "Nick Rogers",
+        "is_top_critic": false,
+        "media": "Midwest Film Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2024-06-28T02:55:00.000Z",
+        "quote": "Like a Hieronymous Bosch painting if he did motion art that hung in restaurants. Or the world's most high-concept, ill-conceived Samuel Beckett play. Michael Sarnoski swings & whiffs with a prequel offering a poor interpretation of the series' strengths.",
+        "url": "https://midwestfilmjournal.com/2024/06/27/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "rachelsreviews.net",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-28T01:22:57.000Z",
+        "quote": "Not only is it a rinse and repeat of the previous 2 films except in New York City but it literally provides none of the backstory the title promises.",
+        "url": "https://rachelsreviews.net/2024/06/28/a-quiet-place-day-one-review-or-shhhh-this-is-movie-is-stupid/"
+    },
+    {
+        "critic": "Christopher Lloyd",
+        "is_top_critic": false,
+        "media": "The Film Yap",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-06-28T00:45:08.000Z",
+        "quote": "The horror franchise goes retrograde to the first days of the apocalypse, with Lupita Nyong'o sent through the usual scareflick motions. A sequel content to just hit the rewind button to stuff we’ve already seen or envisioned.",
+        "url": "https://filmyap.substack.com/p/a-quiet-place-day-one"
+    },
+    {
+        "critic": "Kyle Smith",
+        "is_top_critic": false,
+        "media": "Wall Street Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T00:14:34.000Z",
+        "quote": "A Quiet Place: Day One appropriately kept me in a frozen state, afraid to so much as crinkle a page in my notebook. It’s not a popcorn flick, though: Popcorn is too noisy. It’s more of a Raisinets movie.",
+        "url": "https://www.wsj.com/arts-culture/film/a-quiet-place-day-one-review-disaster-silences-new-york-c41c8243"
+    },
+    {
+        "critic": "Miguel Ángel Romero",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-06-27T23:19:47.000Z",
+        "quote": "This film is a far cry from the first installment that thrilled us in 2018. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-un-lugar-tranquilo-dia-1-precuela-saga-terror-apocalipsis-silencio-5524607/"
+    },
+    {
+        "critic": "Linda and Al Lerner",
+        "is_top_critic": false,
+        "media": "Movies and Shakers",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T23:06:21.000Z",
+        "quote": "Director Sarnoski and Krasinski use Sam’s story to elevate the excellent character driven emotion Lupito Nyong’o brings to the camera. Day One is exhausting and somewhat entertaining, so we’ll give this prequel a not too loud cheer. \n",
+        "url": "https://moviesandshakers.com/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "David Poland",
+        "is_top_critic": false,
+        "media": "Hot Button (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T22:41:11.000Z",
+        "quote": "Samira is a great movie character, easily the most complex character that has been a part of this franchise. She is not just reacting to the threat of the death angels. She is processing her own issues through every moment of the film. ",
+        "url": "https://open.substack.com/pub/davidpoland/p/thb-562-a-quiet-place-day-one?r=7wlst&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Brandon Avery",
+        "is_top_critic": false,
+        "media": "Just My Opinion Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2024-06-27T21:49:11.000Z",
+        "quote": "Entertaining, but a disappointing letdown with too many missed opportunities to actually show what happened during day one. ",
+        "url": "https://www.justmyopinion.net/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-06-27T21:37:50.000Z",
+        "quote": "A Quiet Place: Day One offers 99 minutes of nail-biting tension and thrills that keep you entertained and holding your breath. It has a sense of humor and strong characters.",
+        "url": "https://www.comingsoon.net/movies/reviews/1782506-a-quiet-place-day-one-review-carefully-crafted-craziness"
+    },
+    {
+        "critic": "Natalia Winkelman",
+        "is_top_critic": false,
+        "media": "Boston Globe",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-27T21:24:02.000Z",
+        "quote": "“Day One” just about justifies its existence with a pair of savvy casting decisions: Lupita Nyong’o and a cat.",
+        "url": "https://www.bostonglobe.com/2024/06/27/arts/a-quiet-place-day-one-movie-review/"
+    },
+    {
+        "critic": "Justin Clark",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-27T20:55:30.000Z",
+        "quote": "Like most of this series’s best action, the big bombastic noise is often a distraction from something far more intimate, and in Day One’s case, something far more existentially beautiful.",
+        "url": "https://www.slantmagazine.com/film/a-quiet-place-day-one-review-lupita-nyongo-michael-sarnoski/"
+    },
+    {
+        "critic": "Matt Lynch",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-27T20:24:49.000Z",
+        "quote": "A Quiet Place: Day One, for better or worse, takes a somewhat different approach [than the previous entries], with varying degrees of success.",
+        "url": "https://inreviewonline.com/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Zofia Wijaszka",
+        "is_top_critic": false,
+        "media": "Nerdspin",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-06-27T20:19:53.000Z",
+        "quote": "Despite a few bumps where the scene is too long or perhaps slower, the film manages to keep the viewer engaged and throw another twist at its audience. In effect, you can’t stop watching and rooting for the survivors on their journey to safety. ",
+        "url": "https://nerdspin.com/a-quiet-place-day-one-review-rotten-tomatoes/"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-27T20:15:56.000Z",
+        "quote": "Day One does just what it sets out to, neither breaking the mold nor failing to meet the series’ expectations, but offering a sturdy and admirable spinoff with impressive performances and diverting thrills.",
+        "url": "https://www.deepfocusreview.com/reviews/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Andrea Chase",
+        "is_top_critic": false,
+        "media": "Killer Movie Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T20:11:44.000Z",
+        "quote": "Persuades us that a few moments of unexpected joy, even humor, are not a necessary narrative respite from the relentless task of staying alive, but rather an expression of what it means to be human, and therefore all the more of a necessity. ",
+        "url": "https://www.killermoviereviews.com/movie/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-27T19:50:05.000Z",
+        "quote": "“Day One,” like the two earlier films in the series, efficiently blends a human story with horror-movie tropes.  It doesn’t reinvent the wheel, but gives it another effective spin.   ",
+        "url": "https://www.oneguysopinion.com/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "Polygon",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T19:00:30.000Z",
+        "quote": "Sarnoski and his leads turn what could have easily been facile personal pursuits into the most important thing either character will ever do.",
+        "url": "https://www.polygon.com/reviews/24187509/quiet-place-day-one-review-prequel"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-27T18:52:00.000Z",
+        "quote": "\"Day One\" is notable in the way it shrinks rather than expands the \"Quiet Place\" story.",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2024/06/27/a-quiet-place-day-one-review-prequel-shrinks-movies-silent-world/74230298007/"
+    },
+    {
+        "critic": "Wendy Lee Szany",
+        "is_top_critic": false,
+        "media": "The Movie Couple",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T18:50:28.000Z",
+        "quote": "Went in with high expectations and the film exceeds it. So much more than just a horror/disaster film. There is something incredibly human and emotional about this story. Stellar sound design & cinematography. Excellent performances by Nyong'o and Quinn. ",
+        "url": "https://youtu.be/gtiRklYhYW0"
+    },
+    {
+        "critic": "Tomás Andrés Guerrero",
+        "is_top_critic": false,
+        "media": "Sensacine",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-27T18:47:49.000Z",
+        "quote": "Sarnoski, who also wrote the script, manages to turn the absurd journey of the protagonists into a surprisingly bittersweet story. [Full review in Spanish]",
+        "url": "https://www.sensacine.com/peliculas/pelicula-287892/sensacine/"
+    },
+    {
+        "critic": "Moira MacDonald",
+        "is_top_critic": false,
+        "media": "Seattle Times",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-06-27T18:47:32.000Z",
+        "quote": "Nyong’o’s prodigious talents are sadly wasted in this noisy, pointless movie, which never approaches the cleverness — or the genuine scariness — of the first two in the franchise.",
+        "url": "https://www.seattletimes.com/entertainment/movies/a-quiet-place-day-one-review-prequel-lacks-franchises-cleverness/"
+    },
+    {
+        "critic": "Michael Phillips",
+        "is_top_critic": true,
+        "media": "Chicago Tribune",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-27T18:46:19.000Z",
+        "quote": "The movie follows a clear directive reasonably well. It is nothing but peril and exhaustion and superhuman resourcefulness in the face of two species not destined to get along. ",
+        "url": "https://www.chicagotribune.com/2024/06/27/a-quiet-place-day-one-review-lupita-nyongo-takes-on-cancer-and-the-alien-out-of-towners/"
+    },
+    {
+        "critic": "Dylan Roth",
+        "is_top_critic": false,
+        "media": "Observer",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-27T18:41:26.000Z",
+        "quote": "What could have been an over-inflated expansion of a successful small-scale horror story is instead a worthy successor and a strong film in its own right. If every profitable movie must spawn a franchise, then this is exactly how it should be done. \n\n",
+        "url": "https://observer.com/2024/06/a-quiet-place-day-one-review-a-horror-prequel-with-a-surprisingly-tender-heart/"
+    },
+    {
+        "critic": "Richard Lawson",
+        "is_top_critic": true,
+        "media": "Vanity Fair",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T18:38:11.000Z",
+        "quote": "How refreshingly nice it is to watch a summertime movie that lets us sit in our feelings and grim recollections this way, and figures that an adventure in its own right.",
+        "url": "https://www.vanityfair.com/hollywood/story/a-quiet-place-day-one-movie-review"
+    },
+    {
+        "critic": "Jack King",
+        "is_top_critic": false,
+        "media": "GQ Magazine [UK]",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T18:27:40.000Z",
+        "quote": "Not only is it technically well-made, it makes you feel things, which is why people still go to the movies, by and large.",
+        "url": "https://www.gq-magazine.co.uk/article/a-quiet-place-day-one-review"
+    },
+    {
+        "critic": "Emma Kiely",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-27T18:26:45.000Z",
+        "quote": "A Quiet Place: Day One has way more to say about humanity than the trailer would have you think.",
+        "url": "https://collider.com/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-27T18:25:52.000Z",
+        "quote": "Sarnoski mostly scores with the endeavor, which retains most of the intensity of the brand name while gently opening the scope of the premise.",
+        "url": "https://www.blu-ray.com/A-Quiet-Place-Day-One/1443309/#Review"
+    },
+    {
+        "critic": "Roger Friedman",
+        "is_top_critic": false,
+        "media": "Showbiz 411",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T18:21:06.000Z",
+        "quote": "Nyongo’o gives a tour de force performance. She reminded me of Cicely Tyson, with that level of intensity and warmth. ",
+        "url": "https://www.showbiz411.com/2024/06/27/review-oscar-winner-lupita-nyongo-gives-tour-de-force-performance-in-a-quiet-place-day-one"
+    },
+    {
+        "critic": "Luke Y. Thompson",
+        "is_top_critic": false,
+        "media": "SuperHeroHype",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T18:20:06.000Z",
+        "quote": "...purely focused on the tiptoe monster evasion aspects, with little time for love, which makes it a thrilling entertainment but perhaps less memorable overall.",
+        "url": "https://www.superherohype.com/movies/577372-a-quiet-place-day-one-review-the-first-of-us"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T18:18:11.000Z",
+        "quote": "While it may not fully satisfy that primal urge that drives us to summer movies in the first place, it’s still breathes fresh air into a series in danger of becoming rote and stale. ",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/a-quiet-place-day-one-review-lupita-nyongo-1235036455/"
+    },
+    {
+        "critic": "Mike Massie",
+        "is_top_critic": false,
+        "media": "Gone With The Twins",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-06-27T18:09:29.000Z",
+        "quote": "It doesn’t really add much to the world of noise-sensitive world-conquerors, but the two leads are thoroughly entertaining to watch.",
+        "url": "https://gonewiththetwins.com/quiet-place-day-one-2024/"
+    },
+    {
+        "critic": "Germain Lussier",
+        "is_top_critic": false,
+        "media": "io9.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-27T18:07:41.000Z",
+        "quote": "I think both the first two A Quiet Place movies are scary, exciting, heartbreaking, and more. A Quiet Place: Day One, however, is none of those things. It tries to be, time and time again, but in the end, it just falls on deaf ears. The cat rules though.",
+        "url": "https://gizmodo.com/quiet-place-day-one-review-lupita-nyongo-joseph-quinn-1851564017"
+    },
+    {
+        "critic": "Lindsey Bahr",
+        "is_top_critic": true,
+        "media": "Associated Press",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-06-27T17:53:45.000Z",
+        "quote": "Ultimately “Day One” could have been set around any old apocalypse. Tethering it to the rules of A Quiet Place, a smart premise whose novelty is impossible to recreate let alone build a world upon, just holds it back.",
+        "url": "https://apnews.com/article/movie-review-a-quiet-place-day-one-3e2cc8db28b2e8dd478d093bef799886"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-27T17:37:07.000Z",
+        "quote": "A Quiet Place: Day One delivers intense action and scares, with strong performances and impressive visual effects. We still have no new information about the aliens in the franchise, but one thing's for sure: Lupita Nyong'o is incredible.",
+        "url": "https://movieweb.com/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Fred Topel",
+        "is_top_critic": false,
+        "media": "United Press International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T17:35:16.000Z",
+        "quote": "A franchise about how making noise can kill you can be just as fun as the Freddy, Jason and Chucky entries exploring clever ways those killers can terrorize new victims. Or, the Saw films, with new traps and the Final Destinations, with deadly set pieces.",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2024/06/27/Quiet-Place-Day-One-review/2861719465356/"
+    },
+    {
+        "critic": "Fran Chico",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-27T17:14:56.000Z",
+        "quote": "Despite its middle becoming repetitive and predictable, Nyong'o and Quinn's talent sustains everything between the beginning and the end. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a61436090/un-lugar-tranquilo-dia-1-critica-pelicula/"
+    },
+    {
+        "critic": "Jason Escamilla",
+        "is_top_critic": false,
+        "media": "EskimoTV",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2024-06-27T17:08:38.000Z",
+        "quote": "Despite an intriguing premise and strong performances, the film falls short of its predecessors, lacking substance, originality, and depth. A mild disappointment for fans.",
+        "url": "https://youtu.be/_EyUHx8Km4s"
+    },
+    {
+        "critic": "Sharai Bohannon",
+        "is_top_critic": false,
+        "media": "Dread Central",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T17:06:37.000Z",
+        "quote": "‘A Quiet Place: Day One’ is big, beautiful, and tense. The film expertly navigates a more interesting avenue found within this world without losing sight of the human condition.",
+        "url": "https://www.dreadcentral.com/reviews/506014/a-quiet-place-day-one-review-the-most-interesting-installment/"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-27T17:06:21.000Z",
+        "quote": "A Quiet Place: Day One is a somber entry to the series, ending on a bittersweet note that is sure to be divisive. ",
+        "url": "https://punchdrunkcritics.com/2024/06/quiet-place-54160/"
+    },
+    {
+        "critic": "John Nguyen",
+        "is_top_critic": false,
+        "media": "Nerd Reactor",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5 ",
+        "date": "2024-06-27T17:01:33.000Z",
+        "quote": "Lupita Nyong'o and Joseph Quinn are absolutely captivating in A Quiet Place: Day One. ",
+        "url": "https://youtu.be/ki3co0zMdbc"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T16:59:03.000Z",
+        "quote": "A Quiet Place: Day One is a great exploration of the human connection & how tragedies can pull even strangers together.  Lupita Nyong'o & Joseph Quinn have incredible chemistry. Use of sound is dynamic!",
+        "url": "https://mamasgeeky.com/2024/06/a-quiet-place-day-one-review.html"
+    },
+    {
+        "critic": "Trace Sauveur",
+        "is_top_critic": false,
+        "media": "AwardsWatch",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2024-06-27T16:57:47.000Z",
+        "quote": "A Quiet Place: Day One won’t go down as Sarnoski’s finest hour, but it’s the kind of stepping stone that leads a director to the film that will be.",
+        "url": "https://awardswatch.com/a-quiet-place-day-one-review-lupita-nyongo-dodges-aliens-with-her-cat-while-looking-for-pizza-in-competent-yet-unremarkable-prequel/"
+    },
+    {
+        "critic": "Josh Larsen",
+        "is_top_critic": false,
+        "media": "LarsenOnFilm",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-27T16:46:55.000Z",
+        "quote": "... has a vulnerability that’s rare in big, would-be blockbusters.",
+        "url": "https://larsenonfilm.com/a-quiet-place-day-one"
+    },
+    {
+        "critic": "Donald Clarke",
+        "is_top_critic": true,
+        "media": "Irish Times",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T16:18:28.000Z",
+        "quote": "The set pieces are well handled, but this prequel stands out most for its commitment to fleshy humanity. Nyong’o allows no mawkishness into her portrayal of someone watching the whole world catch up with her own mortal concerns. ",
+        "url": "https://www.irishtimes.com/culture/film/review/2024/06/27/a-quiet-place-day-one-gnarly-prequel-is-even-more-sombre-than-its-predecessors/"
+    },
+    {
+        "critic": "Neil Pond",
+        "is_top_critic": false,
+        "media": "Neil's Entertainment Picks",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-27T16:09:48.000Z",
+        "quote": "Ok, we get it. New York's a noisy place, a cacophony of chaotic sound, now overrun by aliens from another world. So what else is new? ",
+        "url": "http://neilsentertainmentpicks.com/2024/06/27/movie-review-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-06-27T16:09:06.000Z",
+        "quote": "An extremely satisfying extension of the ideas introduced in Krasinski’s movies, driven by a fantastic performance by Nyong’o and excellent direction from Sarnoski",
+        "url": "https://edwarddouglas.substack.com/p/a-quiet-place-day-one-review"
+    },
+    {
+        "critic": "Matt Oakes",
+        "is_top_critic": false,
+        "media": "Silver Screen Riot",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-06-27T15:55:05.000Z",
+        "quote": "If you’re going to have a movie that’s basically 90% a silent film, you can’t do much better than casting the venerable Lupita Nyong’o in the starring role.",
+        "url": "https://silverscreenriot.com/effective-a-quiet-place-day-one-expands-franchise-through-renewed-intimacy/"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Daily Dead",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T15:52:49.000Z",
+        "quote": "A Quiet Place: Part One is a striking achievement in monster cinema that provokes mayhem but promotes togetherness under the gloomiest circumstances ... Lupita Nyong'o and Joseph Quinn are a revelation together.",
+        "url": "https://dailydead.com/review-a-quiet-place-day-one-is-a-striking-achievement-in-monster-cinema/"
+    },
+    {
+        "critic": "Murjani Rawls",
+        "is_top_critic": false,
+        "media": "Substream Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T15:40:56.000Z",
+        "quote": "Sarnoski infuses ‘Day One’ with much of the ‘Quiet Place’ ingredients you’ve learned, but doubles down on more of coming to grips with the catharsis of running out of time",
+        "url": "https://substreammagazine.com/2024/06/a-quiet-place-day-one-review-lupita-nyongo-joseph-quinn/"
+    },
+    {
+        "critic": "Michael J. Casey",
+        "is_top_critic": false,
+        "media": "Michael J. Cinema",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-27T15:29:20.000Z",
+        "quote": "There are other things to nitpick, but like \"A Quiet Place II,\" none of it really amounts to anything. It just keeps your mind busy during the downtime. ",
+        "url": "https://michaeljcinema.com/2024/06/27/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-06-27T15:18:17.000Z",
+        "quote": "One part monster movie another part meditative drama about living life. All Parts Good!\nNyong'o is extraordinary & about as perfect as a performance could get! Quinn surprised me with his depth & Michael Sarnoski showcases his specialty\n",
+        "url": "https://youtu.be/XVQVSoAXERk"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T15:03:53.000Z",
+        "quote": "Movies don’t necessarily need novelty to be good, and 'A Quiet Place: Day One' puts that mentality to the test.",
+        "url": "https://www.thewrap.com/a-quiet-place-day-one-review-lupita-nyongo/"
+    },
+    {
+        "critic": "Andrew Parker",
+        "is_top_critic": false,
+        "media": "The Gate",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-06-27T15:02:46.000Z",
+        "quote": "Not only is A Quiet Place: Day One an unexpectedly excellent third entry in a franchise... but also a conversation starter about what we hold true in our lives, and things that we will take into consideration when we feel like time is running out.",
+        "url": "https://www.thegate.ca/film/066882/a-quiet-place-day-one-review-we-are-not-alone/"
+    },
+    {
+        "critic": "Hannah Strong",
+        "is_top_critic": true,
+        "media": "Little White Lies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-27T14:59:00.000Z",
+        "quote": "A Quiet Place: Day One might be a sci-fi thriller, but Frodo’s reaction to certain peril is grounded in the inalienable truth that you cannot make a cat do anything they don’t want to do.",
+        "url": "https://lwlies.com/reviews/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Christian Toto",
+        "is_top_critic": false,
+        "media": "HollywoodInToto.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-27T14:52:54.000Z",
+        "quote": "Prequel doesn't expand franchise canvas but Lupita Nyong'o saves the day.",
+        "url": "https://www.hollywoodintoto.com/quiet-place-day-one-review-nyongo/"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-27T14:46:09.000Z",
+        "quote": "With a new set of characters to follow and a continued strong grasp on creating tension, this entry fits right in with what the series has excelled at so far, making for solid spectacle entertainment, told as loudly and quietly as possible.",
+        "url": "https://weliveentertainment.com/welivefilm/a-quiet-place-day-one-review-urban-cat-mouse-shift/"
+    },
+    {
+        "critic": "M.N. Miller",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-27T14:44:19.000Z",
+        "quote": "A Quiet Place: Day One offers an escapist entertainment tailor-made for the big-screen experience, which will get your palms sweaty and your heart pumping",
+        "url": "https://insessionfilm.com/movie-review-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Reuben Baron",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-27T14:37:51.000Z",
+        "quote": "If you've seen A Quiet Place and you've seen Pig, imagine a pretty good combination of those two films and you'll find Day One will meet expectations.",
+        "url": "https://www.looper.com/1611061/a-quiet-place-day-one-movie-review/"
+    },
+    {
+        "critic": "Anton Bitel",
+        "is_top_critic": false,
+        "media": "SciFiNow",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T14:31:26.000Z",
+        "quote": "Michael Sarnoski’s mid-apocalyptic prequel brings a new dawn, and an unusual heroine, to Krasinski’s sci-fi horror. Best of the series.",
+        "url": "https://www.scifinow.co.uk/cinema/a-quiet-place-day-one-review-terrifyingly-tense-and-ultimately-affecting/"
+    },
+    {
+        "critic": "Meagan Navarro",
+        "is_top_critic": true,
+        "media": "Bloody Disgusting",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T14:24:54.000Z",
+        "quote": "Sarnoski delivers plenty of creature feature intensity and breathless suspense but it’s used more as a backdrop to a deeply affecting drama of human connection and compassion.",
+        "url": "https://bloody-disgusting.com/reviews/3818232/a-quiet-place-day-one-review-an-affecting-drama/"
+    },
+    {
+        "critic": "DarkSkyLady",
+        "is_top_critic": false,
+        "media": "Nerdist",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-06-27T14:12:09.000Z",
+        "quote": "A Quiet Place: Day One is an outstanding movie that emotionally guts you as much as it makes you jump in fright. It delivers a film that leaves audiences awash in a myriad of feelings, from terror to shock to laughter. ",
+        "url": "https://nerdist.com/article/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Shahbaz Siddiqui",
+        "is_top_critic": false,
+        "media": "The Movie Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:59:13.000Z",
+        "quote": "A Quiet Place: Day One is completely gripping and another incredible entry in the series. Balancing dread with moments of levity, Lupita Nyong’o and Joseph Quinn are SENSATIONAL together. We would die for Frodo the cat. ",
+        "url": "https://open.spotify.com/episode/6uGfVeJwIOvRmYL48SSjOa?si=d3qQhgRJRgeFyOdeGvG_QQ"
+    },
+    {
+        "critic": "Kristy Puchko",
+        "is_top_critic": true,
+        "media": "Mashable",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:57:03.000Z",
+        "quote": "A Quiet Place: Day One doesn't equal the sum of its parts. The love story at its core can't shine amid the required carnage and urban devastation demanded by the prequel's promise. ",
+        "url": "https://mashable.com/article/a-quiet-place-day-one-review"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:55:37.000Z",
+        "quote": "Despite some flaws in the movie's screenplay and film editing, A Quiet Place: Day One is an admirable prequel that will grip viewers with suspense and heartfelt humanity. Lupita Nyong'o is superb.",
+        "url": "https://culturemixonline.com/review-a-quiet-place-day-one-starring-lupita-nyongo-joseph-quinn-alex-wolff-and-djimon-hounsou/"
+    },
+    {
+        "critic": "Conor O'Donnell",
+        "is_top_critic": false,
+        "media": "The Film Stage",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-06-27T13:46:03.000Z",
+        "quote": "He escapes the confines of being just a hired gun, but in the case of A Quiet Place: Day One, Sarnoski’s tender, apocalyptic character drama keeps getting interrupted by a bunch of pesky aliens.",
+        "url": "https://thefilmstage.com/a-quiet-place-day-one-review-a-tender-uneven-franchise-origin-story-of-existential-despair/"
+    },
+    {
+        "critic": "G. Allen Johnson",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-06-27T13:39:10.000Z",
+        "quote": "\"A Quiet Place: Day One,\" which has very little story, the film actually operates as a character study as well, but with barely any dialogue, it makes Sarnoski's approach harder to pull off.",
+        "url": "https://datebook.sfchronicle.com/movies-tv/quiet-place-day-one-review-19529124"
+    },
+    {
+        "critic": "EJ Moreno",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:31:33.000Z",
+        "quote": "This is the best entry yet. The directing has a sensibility that was absent from the previous films; it's a true horror blockbuster now.",
+        "url": "https://youtu.be/EPtD6DxUyJM?si=olionmchPSgXG2nM"
+    },
+    {
+        "critic": "Jorge Loser",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T13:29:49.000Z",
+        "quote": "A sequel focused on using the rules of the saga to tell its own story, without ever losing focus, with cynic-proof sensitivity and unapologetic drama. [Full review in Spanish]",
+        "url": "https://www.espinof.com/criticas/lugar-tranquilo-dia-uno-mejor-entrega-saga-blockbuster-monstruos-que-demuestra-que-mayor-espectaculo-grandes-personajes"
+    },
+    {
+        "critic": "Alonso Duralde",
+        "is_top_critic": true,
+        "media": "The Film Verdict",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:29:35.000Z",
+        "quote": "What Day One has to offer can be found mainly in the countenance of Lupita Nyong’o, as a survivor who catches on quick that the only way to stay alive is to remain as silent as possible.",
+        "url": "https://thefilmverdict.com/a-quiet-place-day-one-film-review/"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-06-27T13:23:00.000Z",
+        "quote": "If you're wondering if Day One is a necessary entry into A Quiet Place's franchise, I will say: It is my favorite movie of the three so far. I found it breathtaking.",
+        "url": "https://www.themarysue.com/a-quiet-place-day-one-is-a-heartfelt-entry-into-the-franchise/"
+    },
+    {
+        "critic": "Ben Travis",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T13:22:14.000Z",
+        "quote": "A solid A Quiet Place entry is elevated by Lupita Nyong’o and Joseph Quinn’s affecting performances -- a surprisingly tender tale of the end of days.",
+        "url": "https://www.empireonline.com/movies/reviews/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Kevin Maher",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-06-27T13:21:04.000Z",
+        "quote": "The unpromising third instalment in a franchise that was already exhausted by Part II turns out to be the best Quiet Place yet. It’s original and inventive, yes, but thoughtful too.",
+        "url": "https://www.thetimes.com/culture/film/article/a-quiet-place-day-one-review-the-beasties-are-back-and-better-than-ever-msr8lkx3h"
+    },
+    {
+        "critic": "William Mullally",
+        "is_top_critic": false,
+        "media": "The National (UAE)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T13:18:38.000Z",
+        "quote": "It’s hard to say where this franchise may go next after this soft reboot, or how many more the formula may sustain. But A Quiet Place: Day One, at least, makes it clear what makes this engine purr.",
+        "url": "https://www.thenationalnews.com/arts-culture/film-tv/2024/06/27/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Patrick Cremona",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T13:18:35.000Z",
+        "quote": "But although there are moments of mega carnage as the aliens mercilessly rampage their way through the city, at its heart this is actually a very straightforward, intimate and... well... quiet affair...",
+        "url": "https://www.radiotimes.com/movies/quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Cary Darling",
+        "is_top_critic": false,
+        "media": "Houston Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-06-27T13:17:46.000Z",
+        "quote": "What's not so predictable is how both terrifying and moving \"A Quiet Place: Day One,\" the first big-budget movie from noted indie director Michael Sarnoski, turns out to be, especially considering the audience has been here before -- twice.",
+        "url": "https://www.houstonchronicle.com/entertainment/movies_tv/article/a-quiet-place-day-one-review-19541884.php"
+    },
+    {
+        "critic": "Jordan Hoffman",
+        "is_top_critic": true,
+        "media": "Entertainment Weekly",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-06-27T13:16:25.000Z",
+        "quote": "This isn’t uncharted ground, but it’s a rich vein for a good filmmaker to tap into. And Sarnoski does this in ways that feel earned, not exploitative. ",
+        "url": "https://ew.com/movie-reviews-a-quiet-place-day-one-touching-moments-silent-scares-8670302"
+    },
+    {
+        "critic": "Caryn James",
+        "is_top_critic": true,
+        "media": "BBC.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-27T13:16:00.000Z",
+        "quote": "As an emotional journey Day One has its moments. For a supposedly scary movie, it's a little bit sloppy.",
+        "url": "https://www.bbc.com/culture/article/20240627-a-quiet-place-day-one-review-latest-horror-leaves-common-sense-behind-along-with-suspense"
+    },
+    {
+        "critic": "Robbie Collin",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T13:14:10.000Z",
+        "quote": "The film about as bold and innovative as a third franchise entry can be, which may not be desperately, but is more than enough to keep viewers’ hearts at constant throat altitude.",
+        "url": "https://www.telegraph.co.uk/films/0/a-quiet-place-day-one-review-lupita-nyongo/"
+    },
+    {
+        "critic": "Clarisse Loughrey",
+        "is_top_critic": true,
+        "media": "Independent (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T13:13:58.000Z",
+        "quote": "It’s not scary anymore, but it’s stressful in the way that makes you dig your nails into your palm.",
+        "url": "https://www.independent.co.uk/arts-entertainment/films/reviews/a-quiet-place-day-one-review-b2568927.html"
+    },
+    {
+        "critic": "Damon Wise",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:12:03.000Z",
+        "quote": "The generous use of score suggests even the makers don’t have a lot of faith in the power of silence any more. It delivers enough frights for the time being, though, and the casting of Nyong’o carries it to the finish line.",
+        "url": "https://deadline.com/2024/06/a-quiet-place-day-one-review-lupito-nyongo-stands-out-in-melancholy-action-horror-requel-1235984567/"
+    },
+    {
+        "critic": "Aisha Harris",
+        "is_top_critic": false,
+        "media": "NPR",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:11:41.000Z",
+        "quote": "Quite simply: Nyong’o elevates the franchise. ",
+        "url": "https://www.npr.org/2024/06/18/nx-s1-5010717/a-quiet-place-day-one-review-lupita-nyongo"
+    },
+    {
+        "critic": "Chris Bumbray",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:10:03.000Z",
+        "quote": "Another solid entry into a franchise that's been surprisingly durable. ",
+        "url": "https://www.joblo.com/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Kate Erbland",
+        "is_top_critic": true,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-27T13:09:52.000Z",
+        "quote": "While it would be nice to have more moments of that sort of grace, A Quiet Place: Day One offers enough of them to stand on its own merits within the confines of other people’s stories, dreams, and nightmares. It makes its own noise.",
+        "url": "https://www.indiewire.com/criticism/movies/a-quiet-place-day-one-review-sequel-1235019869/"
+    },
+    {
+        "critic": "David Rooney",
+        "is_top_critic": true,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:09:39.000Z",
+        "quote": "It’s not often we get a post-apocalyptic saga that remains so personal, so in touch with human loss as something not just forgotten in the next jump scare but given room to linger...",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/a-quiet-place-day-one-review-lupita-nyongo-joseph-quinn-1235933652/"
+    },
+    {
+        "critic": "Gregory Ellwood",
+        "is_top_critic": false,
+        "media": "The Playlist",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-06-27T13:09:32.000Z",
+        "quote": "Michael Sarnoski is working on an auteur wavelength. He often lets the momentum stagnate just enough so the viewer can truly take in the staggering annihilation of a city now in ruins, full of death, and inherent quiet beauty.",
+        "url": "https://theplaylist.net/a-quiet-place-day-one-review-lupita-nyongo-is-superb-in-a-prequel-attempting-to-transcend-its-own-genre-20240627/"
+    },
+    {
+        "critic": "John Kirk",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Fresh 🍅",
+        "score": "B-plus",
+        "date": "2024-06-27T13:08:46.000Z",
+        "quote": "Even though much is familiar (avoid the monsters, don’t make a sound, rinse, repeat), it still has an edge-of-your-seat level of suspense. It’s an effectively scary story, and it’s through the silence of the audience that you can measure its success. ",
+        "url": "https://www.original-cin.ca/posts/2024/6/27/a-quiet-place-day-one-a-quiet-audience-is-still-the-best-litmus-test-for-this-horror-franchise"
+    },
+    {
+        "critic": "Anna Smith",
+        "is_top_critic": true,
+        "media": "Total Film",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T13:07:48.000Z",
+        "quote": "Like the previous two films, this finds the right balance between nerve-racking action and thoughtful character-building scenes. Day One is refreshing, too: Sam is in many ways an unusual hero for a mainstream thriller.",
+        "url": "https://www.gamesradar.com/entertainment/horror-movies/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Peter Debruge",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:07:24.000Z",
+        "quote": "“Day One” ought to have been the mind-blowing origin story, and instead it’s a Hallmark movie, where everyone seems to have nine lives — not just that darn cat.\n",
+        "url": "https://variety.com/2024/film/reviews/a-quiet-place-day-one-review-1236050222/"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:06:13.000Z",
+        "quote": "Day One never reaches the inspired heights of what came before, but Lupita Nyong’o and Joseph Quinn are compelling as strangers forced to work together in a devastated New York.",
+        "url": "https://www.screendaily.com/a-quiet-place-day-one-review/5194935.article"
+    },
+    {
+        "critic": "Giovanni Lago",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-27T13:06:11.000Z",
+        "quote": "This universe is inherently harsh in which to survive, as established by Krasinski’s previous films. Still, Sarnoski injects a bleakness that is quite refreshing for a horror franchise whose atmosphere is already beginning to feel too familiar.",
+        "url": "https://nextbestpicture.com/a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Mae Abdulbaki",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-27T13:06:08.000Z",
+        "quote": "Lupita Nyong'o is great, but A Quiet Place: Day One has the depth of paper and less effective scares and tension than either of the first two movies. \n",
+        "url": "https://screenrant.com/a-quiet-place-day-one-movie-review/"
+    },
+    {
+        "critic": "Barry Hertz",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:05:07.000Z",
+        "quote": "I’m all for pulling a page from T.S. Eliot and ending the world with a whimper instead of a bang, but the new prequel A Quiet Place: Day One speaks so softly as to say not much of anything at all.",
+        "url": "https://www.theglobeandmail.com/arts/film/reviews/article-underwhelming-prequel-a-quiet-place-day-one-speaks-softly-and-carries/"
+    },
+    {
+        "critic": "Hoai-Tran Bui",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:04:56.000Z",
+        "quote": "A truly singular blockbuster movie that sheds the immersive spectacle of the first movie in favor of something more tender and wistful.",
+        "url": "inverse.com/entertainment/a-quiet-place-day-one-review"
+    },
+    {
+        "critic": "Chris Evangelista",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-06-27T13:04:36.000Z",
+        "quote": "Against all odds, this is the best movie in the series. \n\n",
+        "url": "https://www.slashfilm.com/1611067/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2024-06-27T13:03:17.000Z",
+        "quote": "It’s both the best A Quiet Place movie to date and one of the best movies I’ve seen in 2024.",
+        "url": "https://www.ign.com/articles/a-quiet-place-day-one-review"
+    },
+    {
+        "critic": "Joey Magidson",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-27T13:02:13.000Z",
+        "quote": "A Quiet Place: Day One is a prequel done right.",
+        "url": "https://awardsradar.com/2024/06/27/film-review-a-quiet-place-day-one/"
+    },
+    {
+        "critic": "Peter Bradshaw",
+        "is_top_critic": true,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-27T13:02:07.000Z",
+        "quote": "It’s an efficient, if familiar, spectacle of suspense.",
+        "url": "https://www.theguardian.com/film/article/2024/jun/27/a-quiet-place-day-one-film-review-lupita-nyongo-joseph-quinn"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T13:01:52.000Z",
+        "quote": "Courtesy of an intense lead performance from Lupita Nyong’o, it packs a moderate silent-but-deadly punch.",
+        "url": "https://www.thedailybeast.com/obsessed/a-quiet-place-day-one-review-lupita-nyongo-leads-worthy-prequel?ref=author"
+    },
+    {
+        "critic": "Ian Sandwell",
+        "is_top_critic": false,
+        "media": "Digital Spy",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T13:01:01.000Z",
+        "quote": "A Quiet Place: Day One is another excellent instalment in the franchise, delivering the tense set pieces you'd expect, but also with an emotional core that you might not.",
+        "url": "https://www.digitalspy.com/movies/a61417304/a-quiet-place-day-one-review/"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T13:00:13.000Z",
+        "quote": "As the third movie in a franchise, it brings something new, but how often can we watch the deafening silence before it gets old?",
+        "url": "https://flickdirect.com/movie-review/3080/a-quiet-place-day-one/movie.ashx"
+    },
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T09:11:09.000Z",
+        "quote": "A Quiet Place: Day One... happily retains the human scale of the earlier films. Although clearly inspired by Signs, War of the Worlds, The Thing and early Alien films, it was Polanski's The Pianist I was most reminded of.",
+        "url": "https://www.stuff.co.nz/culture/350326115/quiet-place-day-one-survival-thriller-heart"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Casey's Movie Mania",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-27T02:01:04.000Z",
+        "quote": "Lupita Nyong'o, Joseph Quinn and the scene-stealing cat elevate this apocalyptic horror with a mix of subtly poignant character-driven drama.",
+        "url": "https://www.caseymoviemania.com/a-quiet-place-day-one-2024-review/"
+    },
+    {
+        "critic": "Marco Vito Oddo",
+        "is_top_critic": false,
+        "media": "We Got This Covered",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-26T20:48:34.000Z",
+        "quote": "'A Quiet Place: Day One' is a gripping prequel that balances emotional depth with thrilling suspense. Lupita Nyong'o's standout performance and the film's fresh take on the franchise make it a must-watch, despite some predictable plot points.",
+        "url": "https://wegotthiscovered.com/reviews/review-a-quiet-place-day-one-loudly-sets-lupita-nyongo-for-another-oscar/"
+    },
+    {
+        "critic": "Juanma Fernández París",
+        "is_top_critic": false,
+        "media": "El Nuevo Día (Puerto Rico)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-26T19:14:23.000Z",
+        "quote": "Although the relationship that forms between these characters is one of the most effective elements of the film, nothing beats how the script puts the protagonist's cat in danger again and again. [Full review in Spanish]",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/resena-a-quiet-place-day-1-mantiene-la-tension-al-maximo/"
+    }
+]

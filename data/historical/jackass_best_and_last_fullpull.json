@@ -1,0 +1,972 @@
+[
+    {
+        "critic": "Erick Estrada",
+        "is_top_critic": false,
+        "media": "Cinegarage",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-13T05:09:23.000Z",
+        "quote": "Here we have an interesting exercise in reflection on form and content. I think that Jackass, being the latest film, allows us to access the content through a form that we have completely known and accepted. [Full review in Spanish]",
+        "url": "https://www.patreon.com/cinegarage/posts/jackass-la-y-nos-162651023"
+    },
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-07-13T02:26:28.000Z",
+        "quote": "Amongst the stunts, the relentless obsession with their own buttholes, and the welcome repeats of greatest ever moments, there is also a poignancy and a sense of an ending about Best and Last that caught me happily unaware",
+        "url": "https://www.thepost.co.nz/culture/361037058/after-24-years-maybe-what-jackass-was-really-about"
+    },
+    {
+        "critic": "Lexi Amorello",
+        "is_top_critic": false,
+        "media": "Movie Recs by Lex",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-10T02:00:41.000Z",
+        "quote": "I laughed. I cried. I almost puked.",
+        "url": "https://www.instagram.com/p/DaDv2QcJVrL/"
+    },
+    {
+        "critic": "Andrew Dignan",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-09T23:55:05.000Z",
+        "quote": "There remains something deeply comforting in checking in one final time with the fellas and noting both how much and how little they’ve changed. ",
+        "url": "https://inreviewonline.com/2026/06/26/jackass-best-and-last-review/"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Matt Donato (Authory)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-07-08T16:12:43.000Z",
+        "quote": "Jackass: Best and Last might lean a little heavy into the highlight reel of it all, but the sicko nostalgia is sincere, and the Jackass crew earned their right to reminisce about their Hall of Fame hits.",
+        "url": "https://authory.com/MattDonato/a/ad3e85d36099c467d8b9b862e835d9dd5"
+    },
+    {
+        "critic": "Louisa Moore",
+        "is_top_critic": false,
+        "media": "Screen Zealots",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-07T19:28:02.000Z",
+        "quote": "Funny and surprisingly touching, a fitting farewell that proves the friendships behind the mayhem were always the series’ greatest stunt.",
+        "url": "https://screenzealots.com/2026/07/07/jackass-best-and-last/"
+    },
+    {
+        "critic": "Pedro Gallego",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-07-06T17:31:26.000Z",
+        "quote": "It's a fun experience that's hard to resist. [Full review in Spanish]",
+        "url": "https://www.espinof.com/criticas/jackass-mejor-para-final-tiene-recopilacion-momentos-que-pelicula-despedida-asi-otro-gran-rato-diversion-tonta-majara"
+    },
+    {
+        "critic": "Sandra Hall",
+        "is_top_critic": true,
+        "media": "Sydney Morning Herald",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-07-06T05:36:44.000Z",
+        "quote": "I think I’m safe in saying that the gross-out movie is uniquely American.",
+        "url": "https://www.smh.com.au/culture/movies/jackass-final-fling-and-a-charlie-xcx-cameo-plus-other-new-movies-out-this-week-20260701-p60bnm.html?post=p5aoui&gb=1"
+    },
+    {
+        "critic": "Connor Petrey",
+        "is_top_critic": false,
+        "media": "Pop Culture Leftovers",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-06T02:27:30.000Z",
+        "quote": "Jackass: Best and Last celebrates the last 26 years of Jackass with a glorified clip show of the best, the unaired, and a sprinkling of new stunts.",
+        "url": "https://www.cinefied.com/post/jackass-best-and-last-review"
+    },
+    {
+        "critic": "Marko Djurdjić",
+        "is_top_critic": false,
+        "media": "Exclaim!",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-07-06T01:10:29.000Z",
+        "quote": "'Best and last' takes the same jumbled approach as the pilot, a greatest hits compilation successfully masquerading as a personal tribute to everything that is 'Jackass.' ",
+        "url": "https://exclaim.ca/film/article/jackass-best-and-last-film-review"
+    },
+    {
+        "critic": "Blake Howard",
+        "is_top_critic": false,
+        "media": "One Heat Minute",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-07-03T02:23:51.000Z",
+        "quote": "These idiots love each other. That's the stunt that's always been hardest to fake.",
+        "url": "https://stream.redcircle.com/episodes/bcd67928-7c1f-4bf6-bf73-7e13054f9ed8/stream.mp3"
+    },
+    {
+        "critic": "Simon Miraudo",
+        "is_top_critic": false,
+        "media": "Movie Squad (RTRFM 92.1)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-07-03T01:19:06.000Z",
+        "quote": "Yet another triumph of the human spirit.",
+        "url": "https://rtrfm.com.au/podcasts/movie-squad/100-nights-of-hero-dead-mans-wire-and-jackass-best-and-last-movie-squad-podcast-543/"
+    },
+    {
+        "critic": "Gaius Bolling",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2026-07-02T19:52:55.000Z",
+        "quote": "Jackass: Best and Last is a worthy celebration of such an unusual brand that took the world by storm and introduced us to a band of misfits that anyone watching could relate to, even if they may not have felt like the case going in.",
+        "url": "https://geekvibesnation.com/jackass-best-and-last-review/"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Daily Telegraph (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-07-02T18:44:56.000Z",
+        "quote": "Compared to the high and hellraising quality of these flashbacks, the new material on offer in Best & Last is very hit and miss … and not for the faint of heart.",
+        "url": "https://www.dailytelegraph.com.au/entertainment/movies/review-shock-alist-cameo-in-jackass-farewell-as/news-story/615502d3593a715b71cf454fe9a699b5"
+    },
+    {
+        "critic": "Will Bjarnar",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-07-02T13:37:48.000Z",
+        "quote": "Jackass: Best and Last takes pride in the knowledge that it’s okay to move on and to revel in the glory days all at once",
+        "url": "https://insessionfilm.com/movie-review-jackass-best-and-last/"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "Splice Today",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-01T14:54:01.000Z",
+        "quote": "The new movie isn’t really defensible as a film on its own merits, but I still had a blast watching it. ",
+        "url": "https://www.splicetoday.com/moving-pictures/last-one-for-the-team"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-07-01T14:53:33.000Z",
+        "quote": "Though it’s funny in bits, the latest and last Jackass movie (or so we’re promised) is simply too repulsive to recommend to anyone other than hardcore fans. Very hardcore. With strong stomachs. And super-human gag reflex control.",
+        "url": "https://tinyurl.com/3kd6frkk"
+    },
+    {
+        "critic": "Angelo Muredda",
+        "is_top_critic": false,
+        "media": "Film Freak Central",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-30T18:30:00.000Z",
+        "quote": "If the old stuff is a little tired, the best of the new is still life-affirming in the idiosyncratically Jackass way, the sense of just getting away with a heist as palpable as ever. ",
+        "url": "https://filmfreakcentral.net/2026/06/jackass-best-and-last-2026/"
+    },
+    {
+        "critic": "Rich Cline",
+        "is_top_critic": false,
+        "media": "Shadows on the Wall",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-30T18:27:30.000Z",
+        "quote": "Now even more firmly in middle age, this crew once again call this their final movie. But this feels more nostalgic, looking back fondly on three decades of outrageously stupid antics. ",
+        "url": "http://www.shadowsonthewall.co.uk/26/jackbest.htm"
+    },
+    {
+        "critic": "Reanna Cruz",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-30T17:20:48.000Z",
+        "quote": "When the guys are doing the stupidest stunts on earth, it's still fundamentally earnest. There's an element of honesty and earnestness to it that is always there. And this one, I think, overdoes it on the sentimentality.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5871313"
+    },
+    {
+        "critic": "Ronald Young Jr.",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-30T17:20:45.000Z",
+        "quote": "To see them being young people doing these stunts, it made so much sense. It was perfect. It made me feel good to watch them look back and watch them see themselves be young. ",
+        "url": "https://www.npr.org/transcripts/nx-s1-5871313"
+    },
+    {
+        "critic": "Joe Botten",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-30T15:51:20.000Z",
+        "quote": "Every Jackass film is the same beautiful, stupid animal: no plot, no story, just ninety minutes of friends hurting each other for our amusement. I laughed the whole way through, and if you have laughed before, nothing here breaks the spell.",
+        "url": "https://loudandclearreviews.com/jackass-best-last-review/"
+    },
+    {
+        "critic": "Bilge Ebiri",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-29T21:50:54.000Z",
+        "quote": "So what if some of the new crewmembers introduced in the previous movie don’t have much to do this time around? Jackass: Best and Last recaptures the communion, and maybe that’s all that matters.",
+        "url": "https://www.vulture.com/article/jackass-best-and-last-is-neither-best-nor-probably-last.html"
+    },
+    {
+        "critic": "Dustin Rowles",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-29T21:50:21.000Z",
+        "quote": "Granted, I still laughed. A lot. I’m only human. But I cringed with pity almost as much as I laughed. And I’m glad that this is the last one.",
+        "url": "https://www.pajiba.com/film_reviews/review-jackass-best-and-last-starring-johnny-knoxville-steveo-and-poopies.php"
+    },
+    {
+        "critic": "Alci Rengifo",
+        "is_top_critic": false,
+        "media": "Entertainment Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-29T16:28:32.000Z",
+        "quote": "A twisted tradition that could still be linked to the days of Buster Keaton and also Evil Knievel, while celebrating the sheer need to shock. They genuinely loved doing it and we sense it will be hard to walk away. Age can rarely tame a truly wild heart.",
+        "url": "https://entertainmentvoice.com/2026/06/25/jackass-best-and-last-bids-a-bruised-farewell-to-a-classic-band-of-wild-boys/"
+    },
+    {
+        "critic": "Rubén Romero Santos",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-29T16:26:34.000Z",
+        "quote": "More disgusting. More revolting. Much more nostalgic. 100% Jackass. [Full review in Spanish]\n\n",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-jackass-mejor-para-final-verbena-sadica_7007750_0.html"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-29T16:25:44.000Z",
+        "quote": "What they do hammer home is the emotional farewell. ",
+        "url": "https://www.youtube.com/watch?v=uQF5SwINli8"
+    },
+    {
+        "critic": "Anthony Morris",
+        "is_top_critic": false,
+        "media": "It's Better in the Dark",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-29T15:51:54.000Z",
+        "quote": "There's a definite touch of sadness here as everyone realises that they won't get together to do this kind of thing any more. ",
+        "url": "https://itsbetterinthedark.blogspot.com/2026/06/review-jackass-best-and-last.html"
+    },
+    {
+        "critic": "Kiko Martinez",
+        "is_top_critic": false,
+        "media": "The Cinesnob Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-06-29T14:53:23.000Z",
+        "quote": "Lacks a sense of discovery that once made the franchise feel dangerous and new.\n",
+        "url": "https://www.cinesnob.net/reviews/jackass-best-and-last/"
+    },
+    {
+        "critic": "Alfred Castaneda",
+        "is_top_critic": false,
+        "media": "Shade Studios",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-29T07:32:26.000Z",
+        "quote": "Jackass was never really about thinking things through, but if this is the last hurrah, Johnny Knoxville and company can rest assured they’ve left us with a dumb, yet historic and unforgettable legacy.  ",
+        "url": "https://shadestudios.com/fashion-&-style/f/jackass-best-and-last-review"
+    },
+    {
+        "critic": "Adam Olinger",
+        "is_top_critic": false,
+        "media": "Adam Does Movies (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-28T20:05:58.000Z",
+        "quote": "Even though the boys are getting up there in age, the timeless art of groin injury lives on.",
+        "url": "https://youtu.be/ZpZt3zcWKDE"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-28T15:59:02.000Z",
+        "quote": "[I]t shows us that the team ... loved doing it all—even the stuff they surely regret—with their friends.",
+        "url": "http://www.markreviewsmovies.com/reviews/J/jackass-bestandlast.htm"
+    },
+    {
+        "critic": "George and Josh Bate",
+        "is_top_critic": false,
+        "media": "Battle Royale With Cheese",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-28T09:53:10.000Z",
+        "quote": "Those who scoff at the idea of yet another 90 minutes of grown men inflicting increasingly daring pain onto one another overlook the unexpected warmth this final and final installment has to offer.",
+        "url": "https://battleroyalewithcheese.com/2026/06/jackass-best-and-last-review/"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-28T09:17:14.000Z",
+        "quote": "What we get is still funny and even poignant enough to make you realise how much you’re going to miss these guys.",
+        "url": "https://filmfeeder.co.uk/film-reviews/jackass-best-and-last-dir-jeff-tremaine"
+    },
+    {
+        "critic": "Andrew Parker",
+        "is_top_critic": false,
+        "media": "The Gate",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-06-27T23:30:04.000Z",
+        "quote": "At one point in the early going I was gasping for breath from laughter. That feeling dissipated as Jackass: Best and Last went on, but much like they show itself, it was great while it lasted.",
+        "url": "https://www.thegate.ca/film/072900/out-of-time-reviews-episode-15-supergirl-jackass-best-and-last-in-the-hand-of-dante-couture-unidentified-blood-lines-and-camp/"
+    },
+    {
+        "critic": "Chris Bumbray",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-27T18:44:26.000Z",
+        "quote": "It's not their best, but it's fun seeing the guys one last time",
+        "url": "https://www.joblo.com/jackass-best-and-last-review/"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-27T15:15:50.000Z",
+        "quote": "The final go could have benefitted with a little more of a documentary approach in bridging the past instead of just turning into a clip show, but its hard not to find yourself laughing, cringing and looking away from these old friends one last time.",
+        "url": "https://erikthemovieman.substack.com/p/episode-663-up-up-and-go-away"
+    },
+    {
+        "critic": "Jeff Mitchell",
+        "is_top_critic": false,
+        "media": "Phoenix Film Festival",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-27T03:41:24.000Z",
+        "quote": "The greatest hits inclusions from the television series and movies wallop this legendary troupe’s feature film finale.",
+        "url": "https://www.phoenixfilmfestival.com/blog/2026/6/jackass-best-and-last-movie-review"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-27T01:22:35.000Z",
+        "quote": "That these numbskulls addicted to pain and stupidity are mostly all still friends is a heartwarming miracle in itself. Perhaps more impressive than any stunt is that there are emotions to be felt during the final send-off ",
+        "url": "https://www.flickeringmyth.com/movie-review-jackass-best-and-last-2026/"
+    },
+    {
+        "critic": "Ed Potton",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T22:08:00.000Z",
+        "quote": "It’s inventive, in a totally crass way, and also surprisingly poignant.",
+        "url": "https://www.thetimes.com/culture/film/article/jackass-best-and-last-film-review-0q5vqgnv6"
+    },
+    {
+        "critic": "Neil Pond",
+        "is_top_critic": false,
+        "media": "Parade Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T21:07:27.000Z",
+        "quote": "A daring parting salvo of unruly chaos to spice up the pedestrian mundanity of modern life, a vicarious way to live outside the prim and proper, watching others do what we’d never dare.",
+        "url": "https://parade.com/movies/jackass-best-and-last-review"
+    },
+    {
+        "critic": "Katie Walsh",
+        "is_top_critic": true,
+        "media": "Tribune News Service",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2026-06-26T20:24:35.000Z",
+        "quote": "It is also, in my heart, the best \"Jackass\" movie, because it best expresses the true meaning of \"Jackass,\" which is, of course, friendship. Friendship, and doing ill-advised things with butts.",
+        "url": "https://www.charlotteobserver.com/entertainment/article316267001.html"
+    },
+    {
+        "critic": "Ian Thomas Malone",
+        "is_top_critic": false,
+        "media": "ianthomasmalone.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T19:51:39.000Z",
+        "quote": "There’s a lot of joy to be had watching a Jackass career retrospective that almost forgives the inherent laziness of the premise and the complete irrelevance of the newer crew.",
+        "url": "https://ianthomasmalone.com/2026/06/jackass-5-review/"
+    },
+    {
+        "critic": "Dana Han-Klein",
+        "is_top_critic": false,
+        "media": "We're Watching What?!",
+        "sentiment": "Fresh 🍅",
+        "score": "4.1/5",
+        "date": "2026-06-26T19:43:11.000Z",
+        "quote": "Left the theater feeling lighter as a person (and not from losing my lunch - which was a real risk during several scenes). Jam packed with quintessential mayhem from the gang, though there are an awful lot of classic bits recycled from other viewings.",
+        "url": "https://youtu.be/tNxK2Grhjk4?si=1DHy0EQOE88Jshgi&t=512"
+    },
+    {
+        "critic": "Amy Nicholson",
+        "is_top_critic": true,
+        "media": "Los Angeles Times",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T19:34:30.000Z",
+        "quote": "I’m no sadist. They’ve suffered plenty for our amusement. Still, it’s a shame that for the first time in two and a half decades of cringe comedy, the guffaws feel forced.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-06-26/jackass-best-last-review-johnny-knoxville-steve-o-chris-pontius-ehren-mcghehey"
+    },
+    {
+        "critic": "Fran Chico",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T18:39:12.000Z",
+        "quote": "In an era marked by sequels that appeal to nostalgic emotion - such as Toy Story 5 - Jackass: Best and Last is bound to bring a tear to the eye of an entire generation. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a71738454/critica-de-jackass-lo-mejor-para-el-final-un-recordatorio-constante-de-que-el-humor-mas-efectivo-es-el-mas-cafre/"
+    },
+    {
+        "critic": "Rendy Jones",
+        "is_top_critic": false,
+        "media": "Rendy Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T18:14:05.000Z",
+        "quote": "If you thought Toy Story 5 was the only fourth sequel dropping this month that would make you cry, think again.",
+        "url": "https://www.rendyreviews.com/movie-reviews/jackass-best-and-last-review"
+    },
+    {
+        "critic": "Jess Phillips",
+        "is_top_critic": false,
+        "media": "Daily Express (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-26T17:55:42.000Z",
+        "quote": "While Jackass Best and Last might be nothing new for die-hard fans, it’s a fitting end to the film series and, ironically, a great introduction for anyone who hasn’t seen it before and wants to dive into the slapstick back catalogue.",
+        "url": "https://www.express.co.uk/entertainment/films/2221658/jackass-best-last-review-johnny-knoxville"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T17:48:28.000Z",
+        "quote": "Cinema began with a train pulling into a station. It now ends with a pair of drooping prosthetic testicles slapping against a stripper pole. Thank you for your service, Knoxville and Co. Your watch has ended.",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/jackass-best-and-last-review-1235577266/"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T16:52:33.000Z",
+        "quote": "This is the one I enjoyed the most.",
+        "url": "https://www.youtube.com/watch?v=PRqDKWkcU_g"
+    },
+    {
+        "critic": "Sergio Burstein ",
+        "is_top_critic": false,
+        "media": "Los Angeles Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T16:51:27.000Z",
+        "quote": "The closing film continues to display that furious, transgressive, and unusually artistic tendency that has always characterized an inevitably hilarious series that, understandably, has been praised by John Waters. [Full review in Spanish]",
+        "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2026-06-25/una-supergirl-agresiva-una-despedida-de-jackass-sin-concesiones-y-mas-estrenos-de-cine"
+    },
+    {
+        "critic": "Sean McGeady",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T16:18:05.000Z",
+        "quote": "Still, some things never change: shots to the crotch are funny; Lance Bangs will vomit on his camera; age comes for us all; and laughter is the best release for life’s ills. ",
+        "url": "https://www.radiotimes.com/movies/jackass-best-and-last-review/"
+    },
+    {
+        "critic": "Hannah Strong",
+        "is_top_critic": true,
+        "media": "Little White Lies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T16:14:20.000Z",
+        "quote": "It might not be the most raucous or ridiculous send off, but Best and Last feels like the finale that Jackass deserves. ",
+        "url": "https://lwlies.com/reviews/jackass-best-and-last"
+    },
+    {
+        "critic": "Brian Tallerico",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-26T14:56:28.000Z",
+        "quote": "It plays like a 25th high school reunion as new memories intertwine with old ones.",
+        "url": "https://www.rogerebert.com/reviews/jackass-5-best-and-last-johnny-knoxville-movie-review-2026"
+    },
+    {
+        "critic": "Nicolás Delgadillo",
+        "is_top_critic": false,
+        "media": "Knotfest",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T14:54:36.000Z",
+        "quote": "Reminds us that growing older doesn’t necessarily mean growing up. Sometimes, it just means taking one final hit for the boys.",
+        "url": "https://knotfest.com/blogs/screen-crusades/jackass-best-and-last-gives-us-one-final-shot-to-the-groin"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T12:50:13.000Z",
+        "quote": "How can you not be romantic about Jackass?",
+        "url": "https://www.inverse.com/entertainment/jackass-best-last-review"
+    },
+    {
+        "critic": "Cole Groth",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-26T11:32:54.000Z",
+        "quote": "Even if it isn't willing to embrace the all-out madness of their younger days, it's still a fitting, fragmented farewell to a legendary crew.",
+        "url": "https://fandomwire.com/jackass-best-and-last-review/"
+    },
+    {
+        "critic": "Sean Burns",
+        "is_top_critic": false,
+        "media": "Spliced Personality (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T08:57:54.000Z",
+        "quote": "Yet another reason the streaming era sucks, now you have to go a movie theater to see deleted scenes.",
+        "url": "https://splicedpersonality.substack.com/p/review-jackass-best-and-last"
+    },
+    {
+        "critic": "Marshall Shaffer",
+        "is_top_critic": false,
+        "media": "The Playlist",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-26T03:40:51.000Z",
+        "quote": "No other franchise film could list both an Academy Award-winning screenwriter and a butthole consultant in its closing credits, and that’s art.",
+        "url": "https://theplaylist.net/jackass-best-and-last-review-the-crews-last-movie-is-a-hilarious-highlight-reel-20260625/"
+    },
+    {
+        "critic": "Peter Sobczynski",
+        "is_top_critic": false,
+        "media": "Auteurist Class (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T00:01:02.000Z",
+        "quote": "It flirts with a genuine sense of poignance as the group find themselves trying to come to terms with the fact that they are indeed getting too old for this shit, though not before a climactic bit that tries to prove otherwise.",
+        "url": "https://open.substack.com/pub/petersobczynski/p/shake-it-off?r=129p34&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T22:57:43.000Z",
+        "quote": "Jackass: Best and Last is like an album that has an erratic mix of greatest hits and previously unreleased material. It's best not to eat while watching the most extreme parts of this gross-out comedy, which will make people cringe and laugh out loud.",
+        "url": "https://culturemixonline.com/review-jackass-best-and-last-starring-johnny-knoxville-steve-o-danger-ehren-mcghehey-chris-pontius-jason-wee-man-acuna-sean-poopies-mcinerney-and-zach-holmes/"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-25T22:50:32.000Z",
+        "quote": "Jackass: Best and Last provides 92 minutes of nonstop hilarious idiocy, delivered with a smile and a slap in the nuts.",
+        "url": "https://aisleseat.com/jackass-best-and-last.html"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2026-06-25T21:54:39.000Z",
+        "quote": "A brazen teat-squeeze from the \"Jackass\" universe, with the production merely out to be a cash machine, not a fresh round of slapstick and bullying from goofballs who’ve been hurting themselves for the entertainment of others for nearly three decades.",
+        "url": "https://www.blu-ray.com/Jackass-Best-and-Last/2067115/#Review"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-25T21:47:42.000Z",
+        "quote": " If you’re a fan, this walk down memory lane, a road paved with copious amounts of poop and vomit, will be a bittersweet farewell.",
+        "url": "https://punchdrunkcritics.com/2026/06/jackass-66868/"
+    },
+    {
+        "critic": "Lou Thomas",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T21:42:36.000Z",
+        "quote": "Part greatest hits compilation, this is fun and peppered with fresh prankery. A fine way to sign off for the smashed groins and punctured bums of America’s gross-out kings on their last big-screen blow-out.",
+        "url": "https://www.empireonline.com/movies/reviews/jackass-best-and-last/"
+    },
+    {
+        "critic": "Donald Clarke",
+        "is_top_critic": true,
+        "media": "Irish Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-25T21:15:04.000Z",
+        "quote": "Towards the close they joke about Knoxville yet again, as he did in their 2022 film Jackass Forever, claiming this is the last in the series. Then we hear a blast of We’ll Meet Again. That now feels more like a threat than a promise.",
+        "url": "https://www.irishtimes.com/culture/film/review/2026/06/25/jackass-best-and-last-johnny-knoxvilles-ageing-team-go-for-prostate-exams-and-colonoscopies/"
+    },
+    {
+        "critic": "Peter Howell",
+        "is_top_critic": false,
+        "media": "Night Vision",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-06-25T20:35:13.000Z",
+        "quote": "I’m actually a little verklempt thinking these guys won’t be nailing each other in the ‘nads anymore.",
+        "url": "https://www.nightviz.ca/single-post/jackass-best-and-last-is-as-fun-as-a-knee-to-the-nads"
+    },
+    {
+        "critic": "Derek Smith",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-06-25T20:28:19.000Z",
+        "quote": "If the last film suggested that Knoxville and company were more than ready to pass the torch, Jackass: Best and Last represents a course correction of sorts, as it proceeds as a celebration of the gonzo accomplishments of the original core group.",
+        "url": "https://www.slantmagazine.com/film/jackass-best-and-last-review-johnny-knoxville/"
+    },
+    {
+        "critic": "Mark Kennedy",
+        "is_top_critic": false,
+        "media": "Associated Press",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2026-06-25T18:46:38.000Z",
+        "quote": "Regretfully, comedian Rachel Wolfson, the first woman to join the crew, is demoted to cheerleader in the final movie; one step forward in 2022 is one step back in 2026. ",
+        "url": "https://apnews.com/article/jackass-best-last-movie-review-349e7c760c1a3266aba0078ea3f7d55f"
+    },
+    {
+        "critic": "Luke Y. Thompson",
+        "is_top_critic": false,
+        "media": "Mortal Cinema (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T18:44:06.000Z",
+        "quote": "If the jackass brand of humor is your thing, and you must know by now if it is or not, you will laugh until you cry. But you might just tear up honestly, too.",
+        "url": "https://lytrules.substack.com/p/jackass-best-and-last-review-x-men"
+    },
+    {
+        "critic": "Brandon Zachary",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-25T18:07:38.000Z",
+        "quote": "While the film can't match the heights (both metaphorical and literal) of previous entries in the series, it remains a fitting farewell for fans.",
+        "url": "https://screenrant.com/jackass-best-and-last-movie-2026-review/"
+    },
+    {
+        "critic": "Alana Anderson",
+        "is_top_critic": false,
+        "media": "metro.co.uk",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-25T17:54:33.000Z",
+        "quote": "What sets Best and Last apart from the others is the emotion. Knoxville has infamously said after each of the five films that he’s had enough, but this one actually feels like we’re waving goodbye to a beloved pioneer of slapstick comedy for good.",
+        "url": "https://metro.co.uk/2026/06/25/jackass-best-last-will-make-gag-cry-minutes-later-28888342/"
+    },
+    {
+        "critic": "Danny Leigh",
+        "is_top_critic": false,
+        "media": "Financial Times",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-25T17:46:01.000Z",
+        "quote": "The purer the gag, the more helpless your laughter. Men being struck between the legs remains the gold standard. ",
+        "url": "https://www.ft.com/content/3a8af774-a134-4894-9dca-1e4043cb9c8c"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-25T17:08:38.000Z",
+        "quote": "Best and Last functions more like a coda to the whole franchise than its own full-fledged Jackass movie. But if you love this franchise and these guys, it’s a fond farewell, complete with the requisite penises, poop and vomit along the way.",
+        "url": "https://www.ign.com/articles/jackass-best-and-last-review"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-25T17:05:39.000Z",
+        "quote": "Lazy, repetitive and unfunny. It's unabashedly lowbrow and unafraid to be offensive, juvenile and disgusting, but without a shred of wit or imagination.",
+        "url": "http://nycmovieguru.com/june26th26.html#jackass26"
+    },
+    {
+        "critic": "Shakyl Lambert",
+        "is_top_critic": false,
+        "media": "CGMagazine",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-06-25T16:44:27.000Z",
+        "quote": "By nature of it being half a clip-show, Jackass: Best and Last wasn’t going to be the best of the series, but it’s a fitting send-off for an all-time great comedy franchise.",
+        "url": "https://www.cgmagonline.com/review/movie/jackass-best-and-last-review/"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T16:38:47.000Z",
+        "quote": "Jackass: Best and Last is a cavalcade of punishment and bad decisions that would be a sweet farewell to the franchise if the cast members didn’t spend so much of the runtime covered in feces. ",
+        "url": "https://richardcrouse.ca/jackass-best-and-last-unratable-a-celebration-of-friendship-and-stupidity/"
+    },
+    {
+        "critic": "Todd Gilchrist",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T16:16:29.000Z",
+        "quote": "Leave it to these mischief makers to deliver a final chapter that serves as a requiem, a victory lap and an envelope-pusher all at once. ",
+        "url": "https://www.thewrap.com/creative-content/movies/jackass-best-and-last-review/"
+    },
+    {
+        "critic": "David Ehrlich",
+        "is_top_critic": true,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-25T15:59:59.000Z",
+        "quote": "Like any burial service worth its sentiment, “Best and Last” is largely rooted in revisiting old memories, which is a generous way of saying that it’s basically a glorified clip show with a smattering of new footage sprinkled in for good measure. ",
+        "url": "https://www.indiewire.com/criticism/movies/jackass-best-and-last-movie-review-johnny-knoxville-1235202283/"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Moviefone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T15:31:43.000Z",
+        "quote": "A celebration of the Jackass legacy that not only features some of the best classic stunts and some hilarious new ones, but also throws in a little bit of emotion as well.",
+        "url": "https://www.moviefone.com/news/movie-review-jackass-best-and-last/"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T15:29:31.000Z",
+        "quote": "Proves that nothing is eternal except the hilarity of seeing others hurt themselves for our amusement.",
+        "url": "https://www.thedailybeast.com/obsessed/jackass-best-and-last-cinemas-wildest-franchise-bids-a-gonzo-farewell/"
+    },
+    {
+        "critic": "Alistair Ryder",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-06-25T15:05:20.000Z",
+        "quote": " It's a shameless cash grab, but more shameless cash grabs should offer the amount of laughs this one does.",
+        "url": "https://www.looper.com/2201226/jackass-best-and-last-review/"
+    },
+    {
+        "critic": "James Mottram",
+        "is_top_critic": false,
+        "media": "NME (New Musical Express)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T14:40:07.000Z",
+        "quote": "While it may not be peak Jackass, this feels like a suitably anarchic way to call time on the pioneers of self-inflicted torment",
+        "url": "https://www.nme.com/reviews/film-reviews/jackass-best-and-last-review-johnny-knoxville-steve-o-3953022"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T14:06:09.000Z",
+        "quote": "It may not feature nearly as much ambition as some of the earlier entries, but for those who have grown up to some degree watching these jackasses, it’s fair to say emotions are welcome.",
+        "url": "https://weliveentertainment.com/welivefilm/jackass-best-last-review-final-frontier/"
+    },
+    {
+        "critic": "Sophie Monks Kaufman",
+        "is_top_critic": true,
+        "media": "Time Out",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-25T13:56:48.000Z",
+        "quote": "You’ve gotta have balls and heart for these torch songs to land. Jackass: Best and Last has both – and isn’t afraid to show how they hurt.",
+        "url": "https://www.timeout.com/movies/jackass-best-and-last-review-2026"
+    },
+    {
+        "critic": "Ben Kenigsberg",
+        "is_top_critic": false,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T13:55:24.000Z",
+        "quote": "It’s hard to begrudge the founders this ultimate opportunity to navel gaze. They’ve looked in every other orifice.",
+        "url": "https://www.nytimes.com/2026/06/25/movies/jackass-best-and-last-review.html"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T13:53:27.000Z",
+        "quote": "The star of the show remains Johnny Knoxville, the charismatic ringmaster whose infectious cackle will get viewers guffawing along with him -- no matter how painful the orchestrated bits clearly are.",
+        "url": "https://www.screendaily.com/reviews/jackass-best-and-last-review-johnny-knoxville-and-gang-reunite-for-gleeful-mix-of-past-highlights-and-punishing-new-stunts/5218026.article"
+    },
+    {
+        "critic": "Matt Schimkowitz",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2026-06-25T13:51:08.000Z",
+        "quote": "While the mix of old and new can be a blessing and a curse, Knoxville and the gang have earned the victory lap. They still hold a genuine connection with their audience.",
+        "url": "https://www.avclub.com/jackass-best-and-last-review"
+    },
+    {
+        "critic": "Guy Lodge",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T13:48:59.000Z",
+        "quote": "You leave “Jackass: Best and Last” believing that they’ll actually miss all this, and that’s enough to make us miss it too.",
+        "url": "https://variety.com/2026/film/reviews/jackass-best-and-last-review-1236783764/"
+    },
+    {
+        "critic": "Frank Scheck",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-25T13:47:40.000Z",
+        "quote": "While there are occasionally funny moments, these movies are emblematic of the dumbing down of America. ",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/jackass-best-and-last-review-johnny-knoxville-steve-o-1236629628/"
+    },
+    {
+        "critic": "Fred Topel",
+        "is_top_critic": false,
+        "media": "United Press International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T13:35:52.000Z",
+        "quote": "That’s Entertainment for the Jackass franchise.",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2026/06/25/Jackass-Best-and-Last-emotional-raunchy-movie-review/5611782362114/"
+    },
+    {
+        "critic": "Matt Singer",
+        "is_top_critic": true,
+        "media": "ScreenCrush",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-06-25T13:26:07.000Z",
+        "quote": "About as close as a movie has ever gotten to a best-of album from a beloved rock group.",
+        "url": "https://screencrush.com/jackass-best-and-last-review"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T13:08:35.000Z",
+        "quote": "There's no shortage of gut-busting, cringe-inducing moments as Jackass: Best and Last lives up to its title. Johnny Knoxville, Steve-O, Chris Pontius, and their whacky stunt crew are still getting kicked in the gonads 26 years later.",
+        "url": "https://movieweb.com/jackass-best-and-last-review/"
+    },
+    {
+        "critic": "Courtney Howard",
+        "is_top_critic": false,
+        "media": "Fresh Fiction",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-25T13:06:28.000Z",
+        "quote": "It gives new meaning to the term greatest hits.",
+        "url": "https://freshfiction.tv/jackass-best-and-last-review-blood-barf-and-bombastic-buffoonery-power-an-emotional-greatest-hits-collection/"
+    },
+    {
+        "critic": "Kent M. Wilhelm",
+        "is_top_critic": false,
+        "media": "The Film Stage",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T13:04:30.000Z",
+        "quote": "Best and Last works as a celebration, an introduction, and an encore.",
+        "url": "https://thefilmstage.com/jackass-best-and-last-review-knoxville-co-return-for-one-last-encore/"
+    },
+    {
+        "critic": "Liz Shannon Miller",
+        "is_top_critic": true,
+        "media": "Consequence",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2026-06-25T13:01:23.000Z",
+        "quote": "As gnarly as it is to revisit the 2010 Poo Cocktail Supreme, it's equally harrowing to watch a young Knoxville get taped into a cardboard box and then tipped down a flight of stairs.",
+        "url": "http://consequence.net/2026/06/jackass-best-and-last-review-johnny-knoxville/"
+    },
+    {
+        "critic": "Giovanni Lago",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-25T13:00:04.000Z",
+        "quote": "Even if it’s a bit maudlin in its approach to the end of this journey, seeing these men blast off in a giant cart while projected by bricks and dust is enough to get the tear ducts flowing.",
+        "url": "https://nextbestpicture.com/jackass-best-and-last/"
+    }
+]

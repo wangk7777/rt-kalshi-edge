@@ -1,5 +1,35 @@
 [
     {
+        "critic": "Lexi Amorello",
+        "is_top_critic": false,
+        "media": "Movie Recs by Lex",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-09T21:46:04.000Z",
+        "quote": "The visuals are mesmerizing, the fiery action sequences are engaging, and the emotional beats are effective, but the film's length, sluggish pacing, and familiar rhythms ultimately wear down the momentum.",
+        "url": "https://www.movierecsbylex.com/reviews/avatarfireandash"
+    },
+    {
+        "critic": "Grant Watson",
+        "is_top_critic": false,
+        "media": "Fiction Machine",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-07-04T08:19:46.000Z",
+        "quote": "How many times must I write the same Avatar review? I suppose it is ultimately down to how many times James Cameron is allowed to go back to his dizzying CGI world of Pandora, and how many times audiences choose to follow him there.",
+        "url": "https://fictionmachine.com/2026/07/04/review-avatar-fire-and-ash-2025/"
+    },
+    {
+        "critic": "Jordan Ruimy",
+        "is_top_critic": false,
+        "media": "World of Reel",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-06-23T19:56:14.000Z",
+        "quote": "The most accurate word to describe this third entry in the franchise is dull. I say that reluctantly, because I genuinely wanted to like this movie. Instead, what Cameron delivers feels like The Way of Water 2.0",
+        "url": "https://www.worldofreel.com/blog/2025/12/16/avatar-fire-and-ash-is-james-cameron-on-autopilot-reviews-are-mixed"
+    },
+    {
         "critic": "Andrew Kendall",
         "is_top_critic": false,
         "media": "Stabroek News",

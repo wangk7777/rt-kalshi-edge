@@ -1,0 +1,1162 @@
+[
+    {
+        "critic": "John Stark",
+        "is_top_critic": false,
+        "media": "Mac the Movie Guy",
+        "sentiment": "Rotten 🤢",
+        "score": "57/100",
+        "date": "2026-06-19T20:54:30.000Z",
+        "quote": "What it really needed was a stronger script with better characterization. Give me people worth caring about and these deaths would hit a lot harder.",
+        "url": "http://macthemovieguy.com/2026/06/19/whistle"
+    },
+    {
+        "critic": "Mike Usinger",
+        "is_top_critic": false,
+        "media": "Georgia Straight",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-16T16:53:51.000Z",
+        "quote": "To say too much more is to ruin the clever construct in this original-feeling Irish-Canadian coproduction where, in the vein of Talk to Me, Get Out, and Longlegs, the body count is an added bonus rather than the main draw.",
+        "url": "https://www.straight.com/movies/whistle-aims-for-something-more-than-an-endless-body-count"
+    },
+    {
+        "critic": "Aglaia Berlutti",
+        "is_top_critic": false,
+        "media": "El nacional",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-05-31T00:20:07.000Z",
+        "quote": "Coryn Hardy’s *Whistle* takes the familiar trope of the cursed object and explores it in depth from an unusual perspective: that of an instrument capable of spreading evil like an infection. [Full Review in Spanish]",
+        "url": "https://www.elnacional.com/columnas/2026/02/whistle-de-corin-hardy-terror-adolescente-para-la-generacion-z/"
+    },
+    {
+        "critic": "Karina Adelgaard",
+        "is_top_critic": false,
+        "media": "Heaven of Horror",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-05-11T08:00:53.000Z",
+        "quote": "...it has a good pace and allows for the story to be character-driven while never forgetting the element of the curse. Speaking of the curse, I felt this was one of the more intelligent approaches to having a teen horror movie with a curse. Not unlike...",
+        "url": "https://www.heavenofhorror.com/reviews/whistle-shudder-horror-movie/"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-08T18:12:51.000Z",
+        "quote": "It never distinguishes itself tonally, Hardy opting for flavorlessness that could’ve been goosed by a script that wasn’t afraid to throw in more jokes – or was aware that it’s, you know, an “Aztec death whistle” movie.  ",
+        "url": "https://decider.com/2026/05/08/whistle-movie-stream-it-or-skip-it/"
+    },
+    {
+        "critic": "Michelle Swope",
+        "is_top_critic": false,
+        "media": "Elements of Madness",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-05-06T19:59:11.000Z",
+        "quote": "Whistle features inventive scares and a fresh take on mortality accentuated by some great indie rock needle drops, and, ultimately, is a worthwhile addition to the \"teens band together to survive a horror movie\" subgenre.",
+        "url": "https://elementsofmadness.com/2026/05/06/whistle/"
+    },
+    {
+        "critic": "Rendy Jones",
+        "is_top_critic": false,
+        "media": "Autostraddle",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-26T19:00:11.000Z",
+        "quote": "Despite the film’s lack of originality, there’s at least a fresh leading sapphic romance and some solid kills.\n\n",
+        "url": "https://www.autostraddle.com/whistle-sophie-nelisse-sapphicreview/"
+    },
+    {
+        "critic": "Ian Bunting",
+        "is_top_critic": false,
+        "media": "Daily Record (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-23T21:31:55.000Z",
+        "quote": "The dynamite deaths and mournful turn from Keen see Whistle hit enough right notes to warrant a watch.",
+        "url": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/movie-review-see-horror-whistle-36879874"
+    },
+    {
+        "critic": "David Griffiths",
+        "is_top_critic": false,
+        "media": "Subculture Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-03-23T04:42:16.000Z",
+        "quote": "Whistle is one of the best horror films to surface over the past few years. It reveals Corin Hardy as a director to watch while transporting its audience back to the good old days of 90s horror – it is a must see for all horror fans.",
+        "url": "https://subcultureentertainment.com/2026/03/film-review-whistle-review-2026/"
+    },
+    {
+        "critic": "Roger Salvans",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-03-19T21:47:45.000Z",
+        "quote": "...'Whistle' functions as a contemporary horror theme park: it doesn't surprise so much with what it tells as with how it executes it, and its greatest strength lies in this blend of respect and ease towards its own influences. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a70778689/whistle-el-silbido-del-mal-critica-pelicula-opinion/"
+    },
+    {
+        "critic": "Miguel Ángel Romero",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-03-19T19:05:25.000Z",
+        "quote": "Whistle suggests that Keen's career is more alive than ever. [Full review in Spanish]\n\n",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-whistle-silbido-mal-dafne-keen-final-girl-saga-corin-hardy_6946712_3.html"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Me gusta el cine",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-03-07T04:21:59.000Z",
+        "quote": "Considering how much more could have been done with its basic idea, it's impossible not to feel a little disappointed. If they do make a sequel, I hope Hardy and his team learn from their mistakes. [Full review in Spanish].",
+        "url": "https://megustaelcine.com/critica-el-sonido-de-la-muerte-haganse-los-sordos/"
+    },
+    {
+        "critic": "Dan Tabor",
+        "is_top_critic": false,
+        "media": "Cinapse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-06T13:33:28.000Z",
+        "quote": "If you’re steeped in ’90s horror, you know exactly where this is heading, and Whistle takes you there while delivering both unhinged kills and a Gen Z emotional sensibility that gives the characters real weight.",
+        "url": "https://cinapse.net/2026/02/whistle-a-90s-horror-throwback-with-teeth/"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-03-04T21:06:54.000Z",
+        "quote": "Arguably similar to a wide variety of thematically comparable films, Whistle plays its own tune well enough, harmonizing angsty YA characterizations with moody ambience, gruesome violence, and committed performances...",
+        "url": "https://www.youtube.com/watch?v=cZNnAz5yruI"
+    },
+    {
+        "critic": "Terry Staunton",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-03-04T01:55:12.000Z",
+        "quote": "Keen hits all the right notes as the reserved but plucky heroine, and Sky Yang impresses as her dorky cousin turned man of action. ",
+        "url": "https://www.radiotimes.com/movie-guide/b-lmg2no/whistle/"
+    },
+    {
+        "critic": "DarkSkyLady",
+        "is_top_critic": false,
+        "media": "DarkSkyLady Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-28T15:11:42.000Z",
+        "quote": "Whistle is a fun time that does a fair job of balancing high school angsty drama and lurking horror. ",
+        "url": "https://darkskylady.com/whistle-blows-a-chill-that-is-more-old-than-new/"
+    },
+    {
+        "critic": "Trace Thurman",
+        "is_top_critic": false,
+        "media": "Horror Queers Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-23T22:14:30.000Z",
+        "quote": "Whistle's first two acts feel like a loving throwback to nearly every FINAL DESTINATION film, which makes it all the more disappointing that the third act feels like a boring retread of those same exact films.",
+        "url": "https://www.patreon.com/posts/whistle-2025-149557181"
+    },
+    {
+        "critic": "Matthew Simpson",
+        "is_top_critic": false,
+        "media": "Movies We Texted About",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2026-02-19T18:58:40.000Z",
+        "quote": "[T]he film isn’t exactly good, but it is occasionally very fun, and while it’s not going to be for everyone, there is a lot for horror fans at least to appreciate. ",
+        "url": "https://movieswetextedabout.com/whistle-review-film-is-a-call-to-horror-fans-but-perhaps-no-one-else/"
+    },
+    {
+        "critic": "Stephen Porzio",
+        "is_top_critic": false,
+        "media": "joe.ie",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-19T13:48:59.000Z",
+        "quote": "While Whistle lacks the humour and dread-inducing set-pieces of Final Destination Bloodlines or the odd pathos of The Monkey, it still makes for great dumb fun.",
+        "url": "https://www.joe.ie/movies-tv/whistle-movie-sequel-ending-explained-post-credit-scene-best-horror-thrillers-2026-864616"
+    },
+    {
+        "critic": "Adam Nayman",
+        "is_top_critic": true,
+        "media": "Sight & Sound",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-18T22:41:40.000Z",
+        "quote": "This generic supernatural slasher is perhaps too reflexive for its own good, but Dafne Keen and Sophie Nélisse's tentative queer romance adds some freshness.\n\n",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/whistle-gnarly-kills-abound-this-knowingly-derivative-cursed-object-horror"
+    },
+    {
+        "critic": "Rich Cline",
+        "is_top_critic": false,
+        "media": "Shadows on the Wall",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-18T20:13:29.000Z",
+        "quote": "Director Corin Hardy and writer Owen Egerton have fun with the scary stuff, especially as they play up the grisliness.",
+        "url": "http://www.shadowsonthewall.co.uk/26/whistle.htm"
+    },
+    {
+        "critic": "Alistair Harkness",
+        "is_top_critic": false,
+        "media": "Scotsman",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-17T20:22:03.000Z",
+        "quote": "Why said whistle is found in a high school is given only cursory attention by director Corin Hardy...but he also knows this is just an engine for delivering funhouse jolts, which he does with plenty of dumb-fun brio. ",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/film-reviews-goat-whistle-its-never-over-jeff-buckley-5523993"
+    },
+    {
+        "critic": "Edwin Arnaudin",
+        "is_top_critic": false,
+        "media": "Asheville Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2026-02-15T23:28:00.000Z",
+        "quote": "Serves up a handful of memorable deaths — and not much else.",
+        "url": "https://www.ashevillemovies.com/new/whistle"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-15T20:56:28.000Z",
+        "quote": "Whistle is sufficiently entertaining, as it follows a typical horror movie formula about a curse that kills people. (In this case, it's a cursed whistle.) The movie's big showdown is jumbled, but the overall story delivers scares and some unique visuals.",
+        "url": "https://culturemixonline.com/review-whistle-2026-starring-dafne-keen-sophie-nelisse-sky-yang-jhaleil-swaby-ali-skovbye-percy-hynes-white-michelle-fairley-and-nick-frost/"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-14T09:01:36.000Z",
+        "quote": "…turns out Aztec death whistles work in predictable ways, and once you’ve got the hang of the concept, there’s no real surprises, just jump scares. But the shocks are reasonably well delivered, and Whistle at least avoids any ideas above its station…",
+        "url": "https://film-authority.com/2026/02/14/whistle/"
+    },
+    {
+        "critic": "Brian Viner",
+        "is_top_critic": false,
+        "media": "Daily Mail (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-14T00:58:38.000Z",
+        "quote": "Whistle isn't a comedy but it certainly made me laugh. That said, it also has a few nicely choreographed scares and should keep even the most fearless of you well away from Aztec death whistles for the foreseeable future",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15555263/BRIAN-VINER-reviews-Crime-101-got-18-carat-cast-heist-thriller-gold-plated-cliche.html?ico=authors_pagination_desktop"
+    },
+    {
+        "critic": "Patrick Sproull",
+        "is_top_critic": false,
+        "media": "Little White Lies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-02-13T23:44:35.000Z",
+        "quote": "There was room to do something ridiculous here – it bears repeating: this is a film about a killer whistle. Why is it taking itself so seriously?",
+        "url": "https://lwlies.com/reviews/whistle"
+    },
+    {
+        "critic": "Kiko Martinez",
+        "is_top_critic": false,
+        "media": "The Cinesnob Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-02-13T22:32:35.000Z",
+        "quote": "Whistle leans so hard into the cursed object [narrative], and doesn't reframe it very well.\n",
+        "url": "https://www.cinesnob.net/reviews/whistle/"
+    },
+    {
+        "critic": "Tom Atkinson ",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-02-13T18:48:51.000Z",
+        "quote": "It’s a film with flashes of imagination and nostalgia that suggest something brighter lurking beneath the surface. Much like the whistle itself, it delivers on what it promises, and the noise it makes is hard to ignore.",
+        "url": "https://filmthreat.com/reviews/whistle-cursed-object-horror-2026-review/"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-13T17:05:47.000Z",
+        "quote": "It was fun while it lasted.",
+        "url": "https://www.youtube.com/watch?v=A7z90Ln-EK8"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-13T10:25:36.000Z",
+        "quote": "A generic but mildly entertaining supernatural slasher that sees director Corin Hardy defy the familiar and nonsensical script...with a firm approach to some enjoyable death scenes that recalls numerous similar movies from a few decades prior.",
+        "url": "https://filmfeeder.co.uk/film-reviews/whistle-dir-corin-hardy"
+    },
+    {
+        "critic": "Chris Wasser",
+        "is_top_critic": false,
+        "media": "Irish Independent",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-02-12T20:03:47.000Z",
+        "quote": "Janky visual effects lower the tone and there is a sense throughout of Hardy and Egerton making up the rules – and the dialogue – as they go along. Do ­yourself a favour and rewatch Final ­Destination instead.",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/whistle-review-derivative-horror-blows-a-neat-idea-with-terrible-dialogue-and-poor-effects/a1117755341.html"
+    },
+    {
+        "critic": "Emma Wolfe",
+        "is_top_critic": false,
+        "media": "SpookyAstronauts",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-02-12T18:38:52.000Z",
+        "quote": "I do think the gore is well worth watching it.",
+        "url": "https://www.youtube.com/watch?v=yPqSFDW0Eug"
+    },
+    {
+        "critic": "Nestor Bentancor",
+        "is_top_critic": false,
+        "media": "Nestor Cine Desde Hollywood",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-12T09:00:24.000Z",
+        "quote": "Fast-food horror that is intermittently effective but ultimately forgettable [Review in Spanish]",
+        "url": "https://youtu.be/jxEPT_TYWyo"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-02-12T07:53:54.000Z",
+        "quote": "For all its talk of destiny, Whistle ends up feeling preordained in the least exciting way: a familiar echo rather than a scream.",
+        "url": "https://www.theaureview.com/watch/film-review-whistle/"
+    },
+    {
+        "critic": "Chris Sawin",
+        "is_top_critic": false,
+        "media": "Giant Freakin Robot",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-02-11T23:02:04.000Z",
+        "quote": "Whistle‘s writing is standard and mediocre, typical of films about summoning death with percussion. However, horror fans will appreciate the creative deaths, solid acting, and an ending that leaves you wanting a sequel.",
+        "url": "https://www.giantfreakinrobot.com/ent/horror/whistle-review.html"
+    },
+    {
+        "critic": "Jake Wilson",
+        "is_top_critic": false,
+        "media": "Sydney Morning Herald",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-02-11T19:20:08.000Z",
+        "quote": "Whistle remains a wilfully routine horror movie, self-aware to the point of caution.",
+        "url": "https://www.smh.com.au/culture/movies/movies-to-watch-this-week-wuthering-heights-gets-steamy-makeover-new-horror-falls-flat-20260211-p5o1hm.html"
+    },
+    {
+        "critic": "Freda Cooper",
+        "is_top_critic": false,
+        "media": "SciFiNow",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-02-11T18:13:36.000Z",
+        "quote": "Whistle doesn’t exactly squander your time -- there are times when it’s genuinely entertaining -- but it constantly takes the easy way out. It’s such a waste.",
+        "url": "https://www.scifinow.co.uk/reviews/whistle-review-teen-horror-struggles-to-hold-a-tune/"
+    },
+    {
+        "critic": "Matt Glasby",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-11T18:12:51.000Z",
+        "quote": "It may come dressed in borrowed robes, but this is a no-holds-barred horror with real bite — and surely the start of a new franchise.",
+        "url": "https://www.empireonline.com/movies/reviews/whistle/"
+    },
+    {
+        "critic": "Martin Unsworth",
+        "is_top_critic": false,
+        "media": "Starburst",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-02-11T01:17:35.000Z",
+        "quote": "The script, by Owen Egerton, ticks all the boxes for a teen-based horror, and Björn Charpentier’s cinematography is impressively atmospheric and evocative. The story embraces the genre’s clichés and Hardy has plenty of fun with the concept along the way.",
+        "url": "https://www.starburstmagazine.com/reviews/whistle/"
+    },
+    {
+        "critic": "Abbie Bernstein",
+        "is_top_critic": false,
+        "media": "Assignment X",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-02-10T21:48:59.000Z",
+        "quote": "Whistle doesn’t try to be more than it is. Instead, it injects originality and vigor where there are openings and lives up to the better aspects of its conventions.",
+        "url": "https://www.assignmentx.com/2026/movie-review-whistle/"
+    },
+    {
+        "critic": "Mike McCahill",
+        "is_top_critic": false,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-10T19:58:21.000Z",
+        "quote": "Enough for Friday or Saturday night enjoyment, certainly.",
+        "url": "https://www.theguardian.com/film/2026/feb/10/whistle-review-cursed-artefact-horror-corin-hardy"
+    },
+    {
+        "critic": "Alise Chaffins",
+        "is_top_critic": false,
+        "media": "MacGuffin or Meaning (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-02-10T18:28:09.000Z",
+        "quote": "...a fun, blood-soaked movie filled with some gnarly kills that will satisfy most gore-hounds.",
+        "url": "https://alisechaffins.substack.com/p/whistle-review-2026"
+    },
+    {
+        "critic": "Steven Prokopy",
+        "is_top_critic": false,
+        "media": "Third Coast Review",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-02-09T23:29:47.000Z",
+        "quote": "...it certainly has it moments of creative kills and possibly even finding a way to avoid getting killed.",
+        "url": "https://thirdcoastreview.com/film-tv/2026/02/06/review-whistle"
+    },
+    {
+        "critic": "Josh Goller",
+        "is_top_critic": false,
+        "media": "Spectrum Culture",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-02-09T20:44:06.000Z",
+        "quote": "Whistle makes for a stale, by-the-numbers horror trifle that only resonates in sporadic, fleeting bursts.",
+        "url": "https://spectrumculture.com/2026/02/08/whistle-review/"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-09T18:47:16.000Z",
+        "quote": "Dime store Final Destination. ",
+        "url": "https://www.youtube.com/watch?v=l0DKQ-pHAPs&theme=dark"
+    },
+    {
+        "critic": "Sammie Purcell",
+        "is_top_critic": false,
+        "media": "Rough Draft Atlanta",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-09T15:41:49.000Z",
+        "quote": "\"Whistle\" is not quite as successful as [the movies and shows it's emulating], but it has solid performances and enough gnarly kills to be a good time. ",
+        "url": "https://roughdraftatlanta.com/2026/02/06/whistle-is-a-solid-if-not-great-teen-horror-flick/"
+    },
+    {
+        "critic": "Kat Hughes",
+        "is_top_critic": false,
+        "media": "THN",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-02-09T07:11:54.000Z",
+        "quote": "Corin Hardy’s Whistle is a perfect blend of the filmmaker and fiction, his personal flourishes and touches fleshing out a killer story to create a teen horror that cuts deep. \n\n",
+        "url": "https://thehollywoodnews.com/2026/02/09/whistle-review-dir-corin-hardy-2026/"
+    },
+    {
+        "critic": "Simon Abrams",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-02-09T06:06:31.000Z",
+        "quote": "This might have been a better movie if its creators embraced their fitful bloodthirst.",
+        "url": "https://www.rogerebert.com/reviews/whistle-dafne-keen-horror-movie-review-2026"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-08T15:36:23.000Z",
+        "quote": "At that sixty-four-minute mark, director Hardy earns his paycheck with some great special effects fueled deaths and redeemed his name. Normalize making the entire movie good.",
+        "url": "https://sarahgvincentviews.com/movies/whistle/"
+    },
+    {
+        "critic": "Branyan Towe",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2026-02-08T12:48:02.000Z",
+        "quote": "It’s not going to alter the horror genre as we know it, but Whistle will send chills down your spine and turn out to be an amusing time.",
+        "url": "https://insessionfilm.com/movie-review-whistle/"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-02-07T21:34:38.000Z",
+        "quote": "This high school horror movie doesn't add anything new to the \"cursed object\" subgenre, instead wallowing in dumb jump-scares, rubbery CGI effects, and half-drawn characters. ",
+        "url": "https://www.commonsensemedia.org/movie-reviews/whistle"
+    },
+    {
+        "critic": "Samantha McLaren",
+        "is_top_critic": false,
+        "media": "MovieJawn",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-07T19:27:44.000Z",
+        "quote": "Much like the Final Destination franchise before it, Whistle isn’t afraid to get vicious when it comes to offing teens, though it shirks the sly humor of those films in favor of a more serious exploration of survivor’s guilt and choosing life.",
+        "url": "https://www.moviejawn.com/home/2026/2/5/whistle-review"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Casey's Movie Mania",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-02-07T18:56:33.000Z",
+        "quote": "Corin Hardy's mean-spirited, Final Destination-style horror boasts some gory kills, but not enough to compensate for its shortcomings.",
+        "url": "https://www.caseymoviemania.com/whistle-review-corin-hardy/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "Rachel's Reviews (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-07T14:25:25.000Z",
+        "quote": "I've seen enough horror movies now to know when something is completely generic like Whistle. ",
+        "url": "https://www.youtube.com/watch?v=xWPjKgJgTNc"
+    },
+    {
+        "critic": "Preston Barta",
+        "is_top_critic": false,
+        "media": "Denton Record-Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-07T03:39:21.000Z",
+        "quote": "It takes the \"cursed object\" trope and injects it with fresh blood—specifically, the characters' own.",
+        "url": "https://dentonrc.com/entertainment/movies/review-horror-film-whistle-sounds-the-alarm-on-fate-and-mortality/article_304cff74-acd6-467f-8f1e-81870554e44f.html"
+    },
+    {
+        "critic": "Rachel Shatto",
+        "is_top_critic": false,
+        "media": "Pride.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-06T21:40:57.000Z",
+        "quote": "While it’s not for the faint of heart, there’s something almost cozy about 'Whistle' ... add to that one of the sweetest lesbian love stories of the year, and you have the makings of a true sapphic horror classic.",
+        "url": "https://www.pride.com/culture/movies/whistle-sophie-nelisse"
+    },
+    {
+        "critic": "Nicolás Delgadillo",
+        "is_top_critic": false,
+        "media": "Knotfest",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-06T21:23:40.000Z",
+        "quote": "A few solid ideas, some decent scares, and an aesthetic worth admiring - all hampered by a script that never quite pulls its demons together.",
+        "url": "https://knotfest.com/blogs/screen-crusades/whistle-is-a-visually-strong-but-narratively-limp-high-school-horror"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-06T21:17:23.000Z",
+        "quote": "Featuring characters whose deaths are more compelling than their lives, this lackluster supernatural horror flick is strictly for gore-seeking genre devotees.",
+        "url": "https://cinemalogue.com/2026/02/06/capsule-reviews-for-feb-6-2/"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-06T21:00:13.000Z",
+        "quote": "Even though 'Whistle' offers nothing new to the supernatural death curse genre, it’s directed by Corin Hardy, and Corin Hardy likes to go hog wild. ",
+        "url": "https://www.thewrap.com/creative-content/movies/whistle-review-dafne-keen/"
+    },
+    {
+        "critic": "Christopher Cross",
+        "is_top_critic": false,
+        "media": "Asynchronous Media",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-06T20:53:47.000Z",
+        "quote": "Whistle might not be the best at what it does, but it scratches an itch while leaving room for an entire universe of possibilities.",
+        "url": "https://asynchronousmedia.com/film-reviews/whistle-review"
+    },
+    {
+        "critic": "Chuck Bowen",
+        "is_top_critic": false,
+        "media": "Style Weekly (Richmond, VA)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-06T19:34:10.000Z",
+        "quote": "The (nonsensical) specificity feels desperate, reverse-engineered for sequences of carnage that are passable yet neutered by the vanilla CGI that continues to be the bane of the modern horror movie. ",
+        "url": "https://www.styleweekly.com/do-it-to-me-one-more-time/"
+    },
+    {
+        "critic": "Joe Lipsett",
+        "is_top_critic": false,
+        "media": "Bloody Disgusting",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-02-06T18:57:18.000Z",
+        "quote": "Whistle finds comfort in its familiarity, using the audience’s awareness of these kinds of characters and plots to quickly dispense the necessary exposition and get right to the good stuff (like its very mean and memorable deaths).",
+        "url": "https://bloody-disgusting.com/reviews/3932377/whistle-review-likeable-characters-and-great-deaths/"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-02-06T18:21:43.000Z",
+        "quote": "Though echoes of other films linger, Whistle distinguishes itself with unnerving scares, visceral gore, a standout soundtrack, and a refreshing queer narrative.",
+        "url": "https://youtu.be/cZNnAz5yruI"
+    },
+    {
+        "critic": "Cheryl Eddy",
+        "is_top_critic": false,
+        "media": "io9.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-06T16:46:21.000Z",
+        "quote": "So many horror movies trace the outline of what’s come before and end up disappointing. Whistle, at least, is a lot of fun.",
+        "url": "https://gizmodo.com/whistle-movie-review-dafne-keen-nick-frost-shudder-2000714790"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-02-06T15:19:40.000Z",
+        "quote": "The generic high‑school milieu, its coming‑of‑age shallowness, one of the most preposterous character angles I’ve seen in years – it all keeps “Whistle” from being scary, interesting, original, or at times even logical.",
+        "url": "https://keithandthemovies.com/2026/02/06/review-whistle-2026/"
+    },
+    {
+        "critic": "Bee Delores",
+        "is_top_critic": false,
+        "media": "Macabre Daily",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-02-06T15:11:25.000Z",
+        "quote": "As \"Whistle\" barrels to the finale, it’s impossible to feign interest in the characters’ fates.",
+        "url": "https://www.macabredaily.com/articles/whistle2026-barely-makes-a-sound-review"
+    },
+    {
+        "critic": "Phil Walsh",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2026-02-06T14:53:14.000Z",
+        "quote": "Whistle puts out a clarion call that is sure to appeal to horror fans, even if the story is at times derivative and predictable. ",
+        "url": "https://geekvibesnation.com/whistle-2026-review/"
+    },
+    {
+        "critic": "Oscar Goff",
+        "is_top_critic": false,
+        "media": "Boston Hassle",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-06T14:51:12.000Z",
+        "quote": "Unfortunately, the deaths here lack the ghoulish invention of the [Final] Destination films.",
+        "url": "https://bostonhassle.com/review-whistle-2025-dir-corin-hardy/"
+    },
+    {
+        "critic": "Aaron Peterson",
+        "is_top_critic": false,
+        "media": "The Hollywood Outsider",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-02-06T12:22:22.000Z",
+        "quote": "If you are here for entertainment, for smartly staged horror with a pulse, and for a budding romance that lends sincerity to the madness, Whistle delivers you comfortably to your final destination.",
+        "url": "https://www.thehollywoodoutsider.com/whistle-2026-film-review/"
+    },
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-02-06T11:17:34.000Z",
+        "quote": "...an erratic yet mostly compelling effort that exploits its premise to satisfying effect...",
+        "url": "https://reelfilm.com/whistle/"
+    },
+    {
+        "critic": "Chris Joyce",
+        "is_top_critic": false,
+        "media": "Movies and Munchies (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-02-06T07:56:27.000Z",
+        "quote": "Rushed story progressions curiously combined with a dragging pace make this clunky, adding to the dullness of stoic and robotic characterizations that lack connection, which is also a result of blatantly stealing story premises from other well-known films",
+        "url": "https://youtu.be/NzEaRwU4Ss0"
+    },
+    {
+        "critic": "Allen Almachar",
+        "is_top_critic": false,
+        "media": "The MacGuffin",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-02-06T06:12:17.000Z",
+        "quote": "No one is interesting enough for us to care about, the thrills aren’t thrilling enough, and the story isn’t compelling enough to hold our attention. ",
+        "url": "https://macguff.in/film-reviews/whistle/"
+    },
+    {
+        "critic": "Michael Gingold",
+        "is_top_critic": false,
+        "media": "Rue Morgue Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-06T05:25:09.000Z",
+        "quote": "A well-executed example of the Cursed Object formula crossed with FINAL DESTINATION, bringing some style and a little bit of heart to go with its sometimes extreme gore.",
+        "url": "https://rue-morgue.com/movie-review-youth-horror-gore-fans-can-wet-their-whistle-with-this-one/"
+    },
+    {
+        "critic": "Norman Gidney",
+        "is_top_critic": false,
+        "media": "HorrorBuzz",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-02-06T05:02:41.000Z",
+        "quote": "An entertaining, if safe piece of horror. It is at times fun, at times surprisingly gory, and even clever here and there.",
+        "url": "https://horrorbuzz.com/movies/whistle/"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-02-06T00:59:43.000Z",
+        "quote": "It doesn’t go for a tongue-in-cheek feel in revisiting the teens-in-supernatural-danger template....  But despite the straightforward approach, you’ll probably find yourself laughing at it. ",
+        "url": "https://www.oneguysopinion.com/whistle/"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-02-05T22:42:02.000Z",
+        "quote": "Director Corin Hardy (and screenwriter Owen Egerton) blew it: Whistle, which unquestionably rips off other familiar horror ideas to an embarrassing degree, is terrible",
+        "url": "https://www.flickeringmyth.com/movie-review-whistle-2026/"
+    },
+    {
+        "critic": "Richard Whittaker",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-05T21:25:59.000Z",
+        "quote": "There’s even a couple of particularly gnarly methods of death where half the fun is working out exactly what is happening to the soon-to-be-departed. ",
+        "url": "https://www.austinchronicle.com/screens/film-review/whistle-death-comes-quickly-in-this-supernatural-horror/"
+    },
+    {
+        "critic": "Thom Ernst",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-02-05T20:58:53.000Z",
+        "quote": "Structurally, this is a wait-your-turn teen horror: who goes next, and how messy will it be? There’s nothing wrong with that, as Final Destination proved. But Whistle also seems to want gravitas, and never earns the emotional weight it's reaching for.",
+        "url": "https://www.original-cin.ca/posts/2026/2/5/la97fcx9sffcb4bzj14l02la2na9l4"
+    },
+    {
+        "critic": "Ian Freer",
+        "is_top_critic": false,
+        "media": "Time Out",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-05T17:58:17.000Z",
+        "quote": "The result may not change the game but it perfectly understands the rules and delivers a tight, pacy 90 minutes of mayhem. Just put your lips together and blow. ",
+        "url": "https://www.timeout.com/movies/whistle-review-2026"
+    },
+    {
+        "critic": "Noah Berlatsky",
+        "is_top_critic": false,
+        "media": "Splice Today",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-05T16:15:21.000Z",
+        "quote": "It’s made with some thought, glee, and, surprisingly, some heart.",
+        "url": "https://www.splicetoday.com/moving-pictures/whistle-summons-an-enjoyably-hideous-fate"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-02-05T16:14:28.000Z",
+        "quote": "Whistle is a weaker example of a certain type of curse movie, given the many strong alternatives through the years. ",
+        "url": "https://movieweb.com/whistle-review/"
+    },
+    {
+        "critic": "Jason Adams",
+        "is_top_critic": false,
+        "media": "My New Plaid Pants",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-05T16:12:57.000Z",
+        "quote": "It's a bald tire of ideas whose rubber's been ripped off by every Final Destination movie before it [but] I still rode the dumb thing to its dumb end and I didn't feel totally dirty about it",
+        "url": "https://www.mynewplaidpants.com/2026/02/whistle-in-250-words.html"
+    },
+    {
+        "critic": "John Daniel Tangalin",
+        "is_top_critic": false,
+        "media": "The Cinema Spot",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-05T15:54:02.000Z",
+        "quote": "I have ten fingers and can count at least several moments where I rolled my eyes or paused to think, this is not happening.",
+        "url": "https://www.thecinemaspot.com/2026/02/05/whistle-ifc-films-shudder-non-spoiler-review-new-supernatural-teen-horror-pronounced-dead-on-arrival/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-02-05T15:00:16.000Z",
+        "quote": "In pulling from so many established concepts and clichés ... the movie ... quickly starts to feel redundant...",
+        "url": "http://www.markreviewsmovies.com/reviews/W/whistle.htm"
+    },
+    {
+        "critic": "Marco Vito Oddo",
+        "is_top_critic": false,
+        "media": "ComicBook.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-02-05T14:19:21.000Z",
+        "quote": "Whistle is a film that vibrates with promise but never quite hits the right frequency. ",
+        "url": "https://comicbook.com/movies/review/dafne-keens-horror-movie-whistle-puts-a-curse-object-spin-on-the-final-destination-formula-review/"
+    },
+    {
+        "critic": "Rebecca Johnson",
+        "is_top_critic": false,
+        "media": "Nerdspin",
+        "sentiment": "Fresh 🍅",
+        "score": "C",
+        "date": "2026-02-05T10:30:50.000Z",
+        "quote": "A completely middle of the road affair, the strong performances and inventive kill sequences help keep Whistle entertainingly afloat, but the story is bogged down by familiarity and predictability.",
+        "url": "https://nerdspin.com/whistle-review-dafne-keen-leads-predictable-slasher/"
+    },
+    {
+        "critic": "Joey Keogh",
+        "is_top_critic": false,
+        "media": "Vague Visages",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-05T09:20:26.000Z",
+        "quote": "[Corin] Hardy has his own striking and distinct visual language, which is most obvious in the death scenes, which are staged with operatic brilliance. Crucially, Whistle doesn’t cut away from the carnage either — it zooms in.",
+        "url": "https://vaguevisages.com/2026/02/04/whistle-review-movie-film-corin-hardy/"
+    },
+    {
+        "critic": "Leo Brady",
+        "is_top_critic": false,
+        "media": "AMovieGuy.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-02-05T06:55:03.000Z",
+        "quote": "It may be a familiar horror trope, but when it’s executed this well, the result is a film that plays a chilling tune. Don’t blow it- Whistle is an awesome horror movie.",
+        "url": "https://amovieguy.com/2026/02/whistle/"
+    },
+    {
+        "critic": "Courtney Howard",
+        "is_top_critic": false,
+        "media": "Fresh Fiction",
+        "sentiment": "Rotten 🤢",
+        "score": "F",
+        "date": "2026-02-05T06:50:33.000Z",
+        "quote": "Director Corin Hardy and writer Owen Egerton deliver a desperate, try-hard mash-up of Final Destination and Talk To Me. It's one of the worst, most inept horror films I’ve seen in quite some time.",
+        "url": "https://freshfiction.tv/whistle-review-a-rote-teen-horror-flick-that-blows/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-05T03:55:57.000Z",
+        "quote": "An uninspired and tedious horror thriller that's low on imagination and scares.",
+        "url": "http://nycmovieguru.com/feb6th26.html#whistle"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-02-05T02:53:50.000Z",
+        "quote": "Frighteningly familiar to Final Destination, Flatliners, and It Follows in terms of morally contemplative plot mechanics, The Nun director Corin Hardy reaps Owen Egerton’s slight script without the grim reward. \n",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=0787d021-9afe-41ea-806a-240b5b46c682"
+    },
+    {
+        "critic": "Murjani Rawls",
+        "is_top_critic": false,
+        "media": "Substream Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-04T20:47:11.000Z",
+        "quote": "The film plays a cat-and-mouse game, trying to elicit more explanation but quickly opting for another gruesome sequence - a reflex in which the dog eventually catches the car too many times. ",
+        "url": "https://substreammagazine.com/2026/02/whistle-review/"
+    },
+    {
+        "critic": "Robin Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-02-04T20:27:54.000Z",
+        "quote": "Those nostalgic for teen horror movies from 50 years ago will likely enjoy \"Whistle,\" but not me.",
+        "url": "https://www.reelingreviews.com/reviews/whistle/"
+    },
+    {
+        "critic": "Meredith Jill Brown",
+        "is_top_critic": false,
+        "media": "Upcoming Horror Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-02-04T20:21:24.000Z",
+        "quote": "An enjoyable horror flick along the lines of Happy Death Day, Speak to Me and Smile whereas there are plenty of predictable moments, yet they are all chock full of fun twists and turns around every corner. ",
+        "url": "https://www.upcominghorrormovies.com/review/whistle-2025"
+    },
+    {
+        "critic": "Tina Kakadelis",
+        "is_top_critic": false,
+        "media": "Beyond the Cinerama Dome",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-04T19:20:46.000Z",
+        "quote": "Whistle, for all its splattered blood and guts, is surprisingly determined to celebrate life. Hopefully, viewers don’t also have to discover an Aztec death whistle to come to that conclusion.",
+        "url": "https://beyondthecineramadome.com/movie-reviews/whistle-film-review"
+    },
+    {
+        "critic": "Nathaniel Muir",
+        "is_top_critic": false,
+        "media": "AIPT",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-04T19:13:51.000Z",
+        "quote": "Unlike some teen slashers, Whistle does not forget the audience needs to care for the victims. The characters are not the most nuanced, but enough backstory is given to generate interest.  ",
+        "url": "https://aiptcomics.com/2026/02/04/whistle-review-doesnt-blow-it/"
+    },
+    {
+        "critic": "J Hurtado",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-04T18:39:48.000Z",
+        "quote": "[A] textbook case of \"turn off your brain and enjoy the ride\" that never quite rises to the level of guilty pleasure. Unfortunately, this Whistle is more of a sad trombone.",
+        "url": "https://screenanarchy.com/2026/02/whistle-review.html"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-02-04T17:29:35.000Z",
+        "quote": "A fast-paced fright flick full of macabre fun.",
+        "url": "https://aisleseat.com/whistle.html"
+    },
+    {
+        "critic": "Shawn Van Horn",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-02-04T16:50:52.000Z",
+        "quote": "Whistle sports an impressive cast made up of Dafne Keen, Sophie Nélisse, and Nick Frost, only to waste such talent with the most by-the-numbers, predictable screenplay.",
+        "url": "https://collider.com/whistle-movie-review-dafne-keen-sophie-nelisse-predictable-teen-horror/"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-04T16:42:31.000Z",
+        "quote": "Has all the makings of a great horror film on paper, but unfortunately, falls flat over and over again.",
+        "url": "https://mamasgeeky.com/2026/02/whistle-movie-review.html"
+    },
+    {
+        "critic": "Lee McCoy",
+        "is_top_critic": false,
+        "media": "DrumDums",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-02-04T16:36:10.000Z",
+        "quote": "It's shot very well and there are a couple of heavily surprising kills that will definitely be 2026 standouts. I also dug the needle drops that boasted some fun 80s and 90s alt rock. ",
+        "url": "https://youtu.be/ugsavO-s4L4?si=wAZJ1N46FZZwtH-0"
+    },
+    {
+        "critic": "Brent McKnight",
+        "is_top_critic": false,
+        "media": "The Last Thing I See",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-02-04T15:15:05.000Z",
+        "quote": "Come on, moody teens, you should know better than to blow the Aztec Death Whistle by now.",
+        "url": "https://www.thelastthingisee.com/2026/02/whistle-2025-movie-review.html"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2026-02-04T15:05:05.000Z",
+        "quote": "The helmer can’t get performances where they need to be, and Egerton’s writing veers into the ridiculous one too many times, hoping to coast on the appeal of retro entertainment.",
+        "url": "https://www.blu-ray.com/Whistle/2066895/#Review"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-02-04T14:23:07.000Z",
+        "quote": "For those who like a good death scene, this movie has several of them, making it worthwhile for those moments but not altogether satisfying as a whole. Whistle isn’t a great horror movie, but there’s enough here to admire for those curious.  ",
+        "url": "https://www.deepfocusreview.com/reviews/whistle/"
+    },
+    {
+        "critic": "Laura Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2026-02-04T11:46:40.000Z",
+        "quote": " Lifting from films ranging from \"Final Destination\" to \"It Lives Inside\" to every teenage slasher flick featuring a harvest festival, \"Whistle\" works if you view it from the perspective of \"Scream\"-like self aware parody.\n",
+        "url": "https://www.reelingreviews.com/reviews/whistle/"
+    },
+    {
+        "critic": "Charles Koplinski",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4.0",
+        "date": "2026-02-04T04:40:03.000Z",
+        "quote": "A standard horror film from start to finish, Corin Hardy’s \"Whistle\" benefits from a game cast and a third act that contains some clever narrative switchbacks. ",
+        "url": "https://reeltalkwithchuckandpam.com/whistle-chuck-on-the-fence/"
+    },
+    {
+        "critic": "Perri Nemiroff",
+        "is_top_critic": true,
+        "media": "Perri Nemiroff (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-01-29T22:49:25.000Z",
+        "quote": "The death whistle comes with endless creative possibilities for scares, and Corin Hardy & Owen Egerton make the most of it. Whistle is the complete young adult horror package — great cast, clever concept, excellent execution, and a winning nostalgic feel.",
+        "url": "https://www.youtube.com/live/BzSElW7PeiY?si=DJwMyV1p25WGcIeL&t=2911"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-01-29T13:25:56.000Z",
+        "quote": "Whistle is an effective, nasty slasher that delivers a new riff on the Final Destination blueprint, finding inventive and entertaining ways to send its characters to the afterlife.",
+        "url": "https://richardcrouse.ca/whistle-3-stars-leans-into-nostalgia-for-teen-popcorn-horror/"
+    },
+    {
+        "critic": "Molly Henery",
+        "is_top_critic": false,
+        "media": "The Blogging Banshee",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-11-06T19:40:08.000Z",
+        "quote": "Whistle brings brutality back to teenage horror, delivering a nostalgic feel with modern sensibilities.",
+        "url": "https://thebloggingbanshee.com/2025/11/06/fantastic-fest-2025-review-whistle/"
+    },
+    {
+        "critic": "Matthew Jackson",
+        "is_top_critic": false,
+        "media": "Dread Central",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-10-03T05:26:09.000Z",
+        "quote": "Featuring incredible kill sequences and strong performances, Corin Hardy’s ‘Whistle’ is a deeply effective piece of teen-centric horror storytelling.",
+        "url": "https://www.dreadcentral.com/reviews/544397/whistle-is-a-high-school-horror-thrill-ride-that-mostly-runs-smooth-fantastic-fest-2025/"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Daily Dead",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-10-01T16:59:15.000Z",
+        "quote": "Whistle is, at its best, a lively and ferocious teenage slasher ditty that brings that breakneck overdrive appeal ... an engaging rearrangement of Final Destination.",
+        "url": "https://dailydead.com/fantastic-fest-2025-review-whistle-is-nasty-ya-horror-with-r-rated-kills/"
+    },
+    {
+        "critic": "Roberto Tyler Ortiz",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-30T17:07:18.000Z",
+        "quote": "By the end, Whistle feels less like a horror story and more like a frustrating exercise in wasted potential.",
+        "url": "https://loudandclearreviews.com/whistle-2025-movie-review/"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-09-29T22:43:21.000Z",
+        "quote": "Horror can turn camp very easily and we can also have horror films that don’t take their audience seriously. Whistle does none of this but instead feels like a nod to the classics while being original and fun.",
+        "url": "https://www.themarysue.com/whistle-review-dafne-keen-sophie-nelisse/"
+    },
+    {
+        "critic": "Sean Boelman",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2025-09-28T23:15:15.000Z",
+        "quote": "As both a generic knock-off and a borderline-offensive use of Latino culture, Corin Hardy’s latest film is pretty unforgivable — even by the typically very low standards of the teen horror genre.",
+        "url": "https://fandomwire.com/whistle-fantastic-fest-review/"
+    },
+    {
+        "critic": "Brandon Wainerdi",
+        "is_top_critic": false,
+        "media": "Fangoria",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-28T15:04:16.000Z",
+        "quote": "WHISTLE is simple, effective, scary, and fun. What else could you ask for? ",
+        "url": "https://www.fangoria.com/review-whistle/"
+    }
+]

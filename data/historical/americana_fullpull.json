@@ -1,0 +1,682 @@
+[
+    {
+        "critic": "Ned Lannamann",
+        "is_top_critic": false,
+        "media": "Willamette Week",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-28T01:09:50.000Z",
+        "quote": "It’s chock-full of wacky ideas but is missing the humor to make the wackiness sing.",
+        "url": "https://www.wweek.com/movies/2025/08/26/your-roundup-of-new-movies-night-always-comes-makes-portlands-darkness-fun/"
+    },
+    {
+        "critic": "Dustin Rowles",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-01-07T17:55:58.000Z",
+        "quote": "The film feels generic, less like a straight Tarantino knockoff than a rip-off of a Tarantino rip-off, like 2 Days in the Valley, than a rip-off of the real thing.",
+        "url": "https://www.pajiba.com/film_reviews/review-americana-the-other-sydney-sweeney-2025-flop.php"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-12-02T18:23:36.000Z",
+        "quote": "Americana plays out with all the cliches of the ’90s “indie” crime caper, grinding most of its cast up in the gears of its twisty, logic-deprived nonsense. ",
+        "url": "https://decider.com/2025/12/01/sydney-sweeney-americana-starz-movie-review/"
+    },
+    {
+        "critic": "Jayne Nelson",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-19T21:56:31.000Z",
+        "quote": "And so a sprawling chase movie ensues, with its eclectic cast and their interconnected storylines balancing impeccably.",
+        "url": "https://www.radiotimes.com/movie-guide/b-hqehdc/americana/"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Casey's Movie Mania",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-16T07:28:11.000Z",
+        "quote": "Halsey steals the show in Tony Tost's decent Coen Brothers and Tarantino-style neo-western.",
+        "url": "https://www.caseymoviemania.com/americana-review/"
+    },
+    {
+        "critic": "Shawn Peer",
+        "is_top_critic": false,
+        "media": "That Shelf",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-09-06T21:47:51.000Z",
+        "quote": "There are glimpses of a stronger film within Americana, but its inability to commit to a specific story and or central character results in a muddled experience that struggles to resonate with audiences. ",
+        "url": "https://thatshelf.com/americana-review-sydney-sweeneys-star-power-cant-fix-a-broken-story/"
+    },
+    {
+        "critic": "Andrew Dignan",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-09-06T17:53:24.000Z",
+        "quote": "If ever there were a time when attention was laser focused on this cast, it’s now. That said... a dog is still a dog — and Americana has fleas.",
+        "url": "https://inreviewonline.com/2025/08/15/americana-review/"
+    },
+    {
+        "critic": "Brian Cartwright",
+        "is_top_critic": false,
+        "media": "Daily Grindhouse",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2025-09-03T00:19:40.000Z",
+        "quote": "Tony Tost’s AMERICANA feels like an old friend standing in front of an open Coleman cooler in summer and simply asking us, “Beer?” Hell yeah, Tony. I’ll take a beer. ",
+        "url": "https://dailygrindhouse.com/thewire/americana-is-like-an-old-friend-a-minor-masterpiece-that-shouldnt-be-overlooked/"
+    },
+    {
+        "critic": "Jeff Mitchell",
+        "is_top_critic": false,
+        "media": "Phoenix Film Festival",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2025-09-01T18:34:09.000Z",
+        "quote": "Tost’s feature film debut is a wild, violent yarn that ties in colorful characters and an elusive shirt.",
+        "url": "https://www.phoenixfilmfestival.com/blog/2025/8/americana-movie-review"
+    },
+    {
+        "critic": "Mark Jackson",
+        "is_top_critic": false,
+        "media": "Epoch Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-08-31T01:50:45.000Z",
+        "quote": "The principal weakness of neo-Western \"Americana\" is its insistence on presenting characters a tad too colorful to be fully believable.",
+        "url": "https://www.theepochtimes.com/bright/americana-sydney-sweenys-other-currently-playing-movie-5906615"
+    },
+    {
+        "critic": "Jaylan Salah",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-08-27T12:07:14.000Z",
+        "quote": "An enjoyable watch with a solid premise, but nothing too exciting to stick in the mind long after walking away from the movie theater. ",
+        "url": "https://insessionfilm.com/movie-review-americana/"
+    },
+    {
+        "critic": "Alan Ng",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-08-26T18:22:26.000Z",
+        "quote": "What should have been a pulpy, wild western heist just ends up flat, with all the tension drained out of it.",
+        "url": "https://filmthreat.com/reviews/americana-dark-comedy-thriller-movie-review/"
+    },
+    {
+        "critic": "Kyle Logan",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-25T18:09:58.000Z",
+        "quote": "Americana delivers as an enjoyable neo-western with some things to say and requisite genre thrills, but it’s unlikely to be remembered.",
+        "url": "https://chicagoreader.com/film-tv/movie-review/review-americana/"
+    },
+    {
+        "critic": "Olga Artemyeva",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-25T15:16:22.000Z",
+        "quote": "Rooted in the authors’ clear and genuine love for cinema. ... The issue that plagues Tost’s film, though, is that it’s not just the style that’s floundering in search of identity – it’s the movie’s essence as well.",
+        "url": "https://screenanarchy.com/2025/08/americana-review.html"
+    },
+    {
+        "critic": "Rua Fay",
+        "is_top_critic": false,
+        "media": "Cinemasters",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-23T07:26:51.000Z",
+        "quote": "Although she has exhibited some strong acting throughout the years, Sweeney's time as a performer has always been followed by criticisms that she's not a strong actress, and Americana does little to disprove that.",
+        "url": "https://www.cinemasters.net/post/not-worth-the-wait-americana-rides-in-too-late"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "Splice Today",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-22T17:12:15.000Z",
+        "quote": " Part Coen homage, and part Tarantino, it’s a crime drama, featuring different elements, some more effective than others. ",
+        "url": "https://www.splicetoday.com/moving-pictures/sweeney-spies"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-08-22T12:49:01.000Z",
+        "quote": "If the western is the story America tells about itself, Americana depicts a moment in which we hunger for connection, sometimes from the wrong people and wrong places.",
+        "url": "https://www.thebulwark.com/p/americana-review"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-20T22:58:15.000Z",
+        "quote": "If 1994's Pulp Fiction and 1996's Fargo were put in a blender and fermented in South Dakota and Wyoming, it would be the lumpy comedy/drama Americana. Halsey is a standout cast member in this erratic story about people fighting over a Lakota ghost shirt.",
+        "url": "https://culturemixonline.com/review-americana-2025-starring-sydney-sweeney-paul-walter-hauser-and-halsey/"
+    },
+    {
+        "critic": "Manuel São Bento",
+        "is_top_critic": false,
+        "media": "Movies We Texted About",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-08-20T18:47:23.000Z",
+        "quote": "Tony Tost debuts with a film that reveals passion, personal identity, and a clear connection to his cultural background. With just a bit more consistency in execution, this could easily have been one of the year's most memorable movies.",
+        "url": "https://movieswetextedabout.com/americana-movie-review-the-weight-of-tradition-in-a-modern-western-key/"
+    },
+    {
+        "critic": "Sandie Angulo Chen",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-19T19:57:08.000Z",
+        "quote": "This violent, bloody tale is an uneven but entertaining blend of heist thriller, modern Western, and social commentary. ",
+        "url": "https://www.commonsensemedia.org/movie-reviews/americana"
+    },
+    {
+        "critic": "Alci Rengifo",
+        "is_top_critic": false,
+        "media": "Entertainment Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-19T18:48:51.000Z",
+        "quote": "Americana ends as a fun escape where we enjoy hanging out with the people as much as guessing who will end up with the loot.",
+        "url": "https://entertainmentvoice.com/2025/08/14/americana-goes-west-with-an-oddball-standoff-led-by-sydney-sweeney-and-halsey/"
+    },
+    {
+        "critic": "Codie Allen",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5",
+        "date": "2025-08-19T15:28:41.000Z",
+        "quote": "Americana isn’t perfect—but it is alive. It’s a film filled with flawed, messy, unforgettable characters whose humanity cuts through the myth. In a genre too often ruled by legend and symbol, that heartbeat feels like a quiet revolution.",
+        "url": "https://geekvibesnation.com/americana-review/"
+    },
+    {
+        "critic": "Brianna Zigler",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2025-08-18T19:54:56.000Z",
+        "quote": "The clichéd, forgettable work neither succeeds as a spoof nor as an earnest genre exercise by a wannabe indie-phenom wannabe.",
+        "url": "https://www.avclub.com/americana-review"
+    },
+    {
+        "critic": "Eileen Jones",
+        "is_top_critic": false,
+        "media": "The Jacobin",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-18T18:16:32.000Z",
+        "quote": "Tost has got some slick skills though, and the movie looks handsome and features some good performances, some nice scenes, and some fancy technical flourishes here and there. It just doesn’t add up to anything very memorable.",
+        "url": "https://jacobin.com/2025/08/americana-film-western-hauser-sweeney"
+    },
+    {
+        "critic": "Rubén Rosario",
+        "is_top_critic": false,
+        "media": "MiamiArtZine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-18T16:59:53.000Z",
+        "quote": "Tost struggles to balance the myriad elements he has introduced, and just as he bungles the climax because he lets it go on too long, “Americana” ends up feeling lumpy and oddly anticlimactic.",
+        "url": "https://www.miamiartzine.com/Features.php?op=Article_Popcorn+Frights+Pick+Americana+Serves+Up+Throwback+Vibes"
+    },
+    {
+        "critic": "Adam Olinger",
+        "is_top_critic": false,
+        "media": "Adam Does Movies (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-18T15:55:07.000Z",
+        "quote": "The gal from the jeans commercials is back on the big screen in a quirky, modern western. Americana offers a fresh story with a fun set of characters. The ending might not wrap up in the most satisfying of ways but the ride getting there is not too shabby",
+        "url": "https://youtu.be/SFXiUFgOR2k"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-08-18T15:19:21.000Z",
+        "quote": "It’s best viewed as a routinely funny, fittingly violent, and stylishly made caper that’s cinematically seasoned with 70s, 80s, and even a touch of early 90s flavor. ",
+        "url": "https://keithandthemovies.com/2025/08/18/review-americana-2025/"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-18T04:15:08.000Z",
+        "quote": "... subverts genre tropes while spotlighting a sharp ensemble cast in a compelling and evocative caper.",
+        "url": "https://cinemalogue.com/2025/08/15/americana/"
+    },
+    {
+        "critic": "Eric Langberg",
+        "is_top_critic": false,
+        "media": "Everything's Interesting",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-16T18:51:50.000Z",
+        "quote": "I don’t really know what to do with the Sydney Sweeney of it all, but I suppose this movie will be easy enough to ignore because it’s simply not all that good.",
+        "url": "https://medium.com/everythings-interesting/americana-review-some-fun-performances-can-t-save-this-familiar-feeling-western-cf87342eaca8?sk=9896f3b915c321d8e587582e61347c93"
+    },
+    {
+        "critic": "Joseph Tomastik",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-08-16T01:41:59.000Z",
+        "quote": "Americana has a lot more tenderness than I was expecting, which itself is buried underneath its dark undertones that condemn a lot of the traditions some classic Westerns lean further into.",
+        "url": "https://loudandclearreviews.com/americana-film-review/"
+    },
+    {
+        "critic": "David Reddish",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2025-08-15T23:53:11.000Z",
+        "quote": "Americana has parallel elements to so many classic American indie films, but like the wigs on Halsey and Sweeney, they feel like bad drag.  It ranks as one of the worst films of 2025.",
+        "url": "https://www.cbr.com/americana-review/"
+    },
+    {
+        "critic": "Mick LaSalle",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-08-15T23:32:09.000Z",
+        "quote": "Though Hauser and Sweeney can’t exactly save the movie, they keep it from derailing.",
+        "url": "https://www.sfchronicle.com/entertainment/article/americana-sydney-sweeney-review-20800063.php"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "Rachel's Reviews (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-08-15T22:11:10.000Z",
+        "quote": "Very violent. The carnage is high. The performances are excellent. If you like these kind of gritty western stories you'll like it",
+        "url": "https://www.youtube.com/watch?v=WobyA9c6gzU"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2025-08-15T20:50:24.000Z",
+        "quote": "\"Americana\" flames out when it should be lighting up. It's a sweet ballad looking for a better chorus.",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2025/08/14/americana-review-sydney-sweeney-sparkles-in-dusty-crime-drama/85655918007/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2025-08-15T20:44:04.000Z",
+        "quote": "There’s violence and a treasure multiple people are hunting for, but Tost allows the offering to slowly fall asleep instead of building to a thrilling finale.",
+        "url": "https://www.blu-ray.com/Americana/1968060/#Review"
+    },
+    {
+        "critic": "Dana Han-Klein",
+        "is_top_critic": false,
+        "media": "We're Watching What?!",
+        "sentiment": "Rotten 🤢",
+        "score": "1.9/5",
+        "date": "2025-08-15T20:19:03.000Z",
+        "quote": "A hodgepodge mess of a film that commits too hard to certain bits, demonstrating a questionable taste level. Halsey and McClarnon give elevated performances but it's not enough to save the film from its own writing pitfalls.",
+        "url": "https://youtu.be/_gUCb6fqP6M?feature=shared&t=266"
+    },
+    {
+        "critic": "Shawn Edwards",
+        "is_top_critic": false,
+        "media": "Fox 4 Kansas City",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-08-15T20:05:46.000Z",
+        "quote": "Americana is really an ensemble of silly characters thrown into unbelievable situations.",
+        "url": "https://www.youtube.com/watch?v=LhtWw_k--uc&list=PLYIuAMO7HHjjMBXV3sEz6ssmoX3rvevyL&index=2"
+    },
+    {
+        "critic": "Vincent Mancini",
+        "is_top_critic": false,
+        "media": "The #Content Report (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2025-08-15T18:27:29.000Z",
+        "quote": "Essentially your standard festival movie, with a couple good performances and a handful of interesting ideas that nonetheless never quite come together.",
+        "url": "https://open.substack.com/pub/vincemancini/p/sydney-sweeney-and-paul-walter-hauser?r=2cg5qw&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false"
+    },
+    {
+        "critic": "Jeff Ewing",
+        "is_top_critic": false,
+        "media": "That Hashtag Show",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2025-08-15T17:48:54.000Z",
+        "quote": "Sweeney, McClarnon, Halsey, and Hauser all turn in excellent, grounded portrayals, and the finale is an energetic, fist-pumping throwdown that eviscerates the patriarchy… or at least a few manifestations of it.",
+        "url": "https://www.thathashtagshow.com/reviews/americana-review-tony-tosts-twisty-western-finds-new-life-in-old-genres/"
+    },
+    {
+        "critic": "Matthew Creith",
+        "is_top_critic": false,
+        "media": "Edge Media Network",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-15T17:04:18.000Z",
+        "quote": "Of note is the unlikely chemistry between Hauser's Lefty and Sweeney's Penny Jo, although Bonnie and Clyde these two most definitely aren't. The lovebirds are just a fraction of the storylines in this whirlwind epic. ",
+        "url": "https://www.edgemedianetwork.com/story/323954"
+    },
+    {
+        "critic": "Joshua Ryan",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-08-15T16:48:28.000Z",
+        "quote": "Writer and director Tony Tost weaves an engaging thriller, perfectly blending the melancholy mundaneness of the Midwest with the bloodshed of the criminal underworld.",
+        "url": "https://fandomwire.com/americana-review/"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-08-15T16:27:43.000Z",
+        "quote": "Americana has more of the feel of a film inspired by classic westerns, as well as the deconstructionist takes handled by the Coens and Jarmusch.",
+        "url": "https://weliveentertainment.com/welivefilm/in-house-reviews-155-shin-godzilla-4k-ne-zha-ii-american-red-sonja-more/"
+    },
+    {
+        "critic": "Michael Cook",
+        "is_top_critic": false,
+        "media": "KLRT-TV ",
+        "sentiment": "Rotten 🤢",
+        "score": "6.5/10",
+        "date": "2025-08-15T16:04:14.000Z",
+        "quote": "This movie started off strong, but you could just feel the train coming off the tracks at about the halfway point. There's a fine line between a film being influenced by other sources and being derivative. This one to me is derivative. ",
+        "url": "https://www.fox16.com/video/at-the-movies-film-critic-reviews-%E2%80%98nobody-2%E2%80%99-and-%E2%80%98americana%E2%80%99/10985512/"
+    },
+    {
+        "critic": "Jason Miller",
+        "is_top_critic": false,
+        "media": "Nerdspin",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-08-15T15:29:17.000Z",
+        "quote": " Americana doesn’t reinvent the wheel, but it offers a character-rich caper with something on its mind and a style all its own.",
+        "url": "https://nerdspin.com/americana-review-sydney-sweeney-halsey-neo-western/"
+    },
+    {
+        "critic": "Ross Bonaime",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-08-15T15:02:44.000Z",
+        "quote": "A film that has its flaws and might not be the best modern neo-Western, but its empathy for its characters and their plight in improving their circumstances makes it a worthwhile proposal.",
+        "url": "https://collider.com/americana-review-sydney-sweeney-halsey-paul-walter-hauser/"
+    },
+    {
+        "critic": "Ben Wasserman",
+        "is_top_critic": false,
+        "media": "Film-Forward.com",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-08-15T14:01:47.000Z",
+        "quote": "In the vein of neo-westerns, Americana carries a regretful undertone, bringing the western genre’s themes and visuals into contemporary times but stripped of Hollywood glamour. ",
+        "url": "https://film-forward.com/crime/americana"
+    },
+    {
+        "critic": "Peter Sobczynski",
+        "is_top_critic": false,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-08-15T14:00:25.000Z",
+        "quote": "For the most part, however, ‘Americana’ is a mess—a good-looking mess, to be sure, but a mess, nonetheless. If",
+        "url": "https://www.rogerebert.com/reviews/americana-sydney-sweeney-movie-review-2025"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-08-15T13:53:40.000Z",
+        "quote": "The film's narrative has a few tricks ... but they only matter because Tost and this cast cut through them to the sad, lost, and uncertain hearts of the characters...",
+        "url": "http://www.markreviewsmovies.com/reviews/A/americana-2025.htm"
+    },
+    {
+        "critic": "Peter Debruge",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-15T01:19:32.000Z",
+        "quote": "Americana marks the arrival of a promising new imitation artist in writer-director Tony Tost, a published poet turned TV showrunner (“Damnation”) whose first feature arrives more polished that most filmmakers’ third or fourth.",
+        "url": "https://variety.com/2025/film/reviews/americana-review-1236489992/"
+    },
+    {
+        "critic": "Alex Maidy",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-08-14T19:27:35.000Z",
+        "quote": "While some will not be as enthralled by Americana, they will be impressed by Halsey, Zahn McClendon, and the prospect of the talent on display from Tony Tost and what he will make next.",
+        "url": "https://www.joblo.com/americana-review-a-solid-neo-western-starring-sydney-sweeney-and-halsey/"
+    },
+    {
+        "critic": "Ben Kenigsberg",
+        "is_top_critic": false,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-14T18:18:16.000Z",
+        "quote": "A slick and skillful debut feature from the writer-director Tony Tost.",
+        "url": "https://www.nytimes.com/2025/08/14/movies/americana-review.html"
+    },
+    {
+        "critic": "Ty Burr",
+        "is_top_critic": true,
+        "media": "Washington Post",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2025-08-14T18:12:40.000Z",
+        "quote": "Tost can’t match the oddball inspiration of his influences, and the results simply feel forced. ",
+        "url": "https://www.washingtonpost.com/entertainment/movies/2025/08/14/americana-sydney-sweeney-western-review/"
+    },
+    {
+        "critic": "Andrew Parker",
+        "is_top_critic": false,
+        "media": "The Gate",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-08-14T14:07:09.000Z",
+        "quote": "It’s more of a good time than a great movie, but in these lazy, waning days of summer when original, quality entertainment tends to be in shorter supply, Americana is a welcome change of pace.",
+        "url": "https://www.thegate.ca/film/070456/americana-review-things-to-do-in-south-dakota-when-youre-dead/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "6.7/10",
+        "date": "2025-08-14T13:52:22.000Z",
+        "quote": "Tost gives his talented cast above-average dialogue for this sort of thing. It may take a while to feel certain that he’s on the level, but the movie is more sincere than smarmy. ",
+        "url": "https://www.pastemagazine.com/movies/tony-tost/americana-movie-sydney-sweeney-paul-walter-hauser-halsey-western"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2025-08-13T22:24:28.000Z",
+        "quote": "Americana is a strong directorial debut with enough originality and technical prowess (both in front and behind the camera) that you’ll walk out hoping Tost has a follow-up ready to go.",
+        "url": "https://edwarddouglas.substack.com/p/the-weekend-warrior-81525"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-13T15:13:52.000Z",
+        "quote": "A sluggish and monotonous country-ified neo-noir that fails to innovate and, worse, to utilize its magnetic leading lady and her capable co-stars.\n",
+        "url": "https://www.thedailybeast.com/obsessed/americana-sydney-sweeney-and-her-jeans-cant-salvage-new-movie/"
+    },
+    {
+        "critic": "Mark Keizer",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2025-08-12T22:19:50.000Z",
+        "quote": "Americana feels both fresh and derivative, which only proves that the Western remains an accommodating genre as vast and open as the South Dakota prairie.",
+        "url": "https://movieweb.com/americana-review/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-12T03:50:48.000Z",
+        "quote": "Trost allows the film to be grounded in humanity, a truly special effect, while allowing the audience to care about some of the characters. Paul Walter Hauser steals the show with his moving performance. He's this generation's Philip Seymour Hoffman",
+        "url": "http://nycmovieguru.com/aug15th25.html#americana"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-11T21:44:23.000Z",
+        "quote": "Americana wants to present forgotten everyday people who possess endearingly unusual traits. But Tost’s writing is not sharp enough to allow his characters to rise above their mannerisms. ",
+        "url": "https://www.screendaily.com/reviews/americana-review-sydney-sweeney-and-paul-walter-hauser-conspire-in-western-crime-saga/5207672.article"
+    },
+    {
+        "critic": "Johnny Oleksinski",
+        "is_top_critic": false,
+        "media": "New York Post",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2025-08-11T21:29:36.000Z",
+        "quote": "A copycat Coen Brothers yarn with the depth of a tortilla.",
+        "url": "https://nypost.com/2025/08/11/entertainment/americana-review-sydney-sweeneys-new-movie-is-terrible/"
+    },
+    {
+        "critic": "Giovanni Lago",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-08-11T14:46:49.000Z",
+        "quote": "With \"Poker Face\" and now \"Americana,\" Tost proves he has a gift for creating oddball characters who get in over their heads.",
+        "url": "https://nextbestpicture.com/americana/"
+    },
+    {
+        "critic": "Joe Leydon",
+        "is_top_critic": false,
+        "media": "Cowboys & Indians Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-05-15T13:55:03.000Z",
+        "quote": "The crazy quilt of disparate characters is artfully and engrossingly entwined in \"Americana,\" writer-director Tony Tost’s impressively crafted and rousingly entertaining debut effort as a feature filmmaker.",
+        "url": "https://www.cowboysindians.com/2025/05/preview-sydney-sweeny-zahn-mcclarnon-and-halsey-in-americana/"
+    },
+    {
+        "critic": "Rafael Motamayor",
+        "is_top_critic": false,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-10-08T23:03:59.000Z",
+        "quote": "Tost’s film is charming, gritty, and all-round entertaining one that boasts gallows humor, compelling performances, and a big heart.",
+        "url": "https://www.indiewire.com/criticism/movies/americana-review-halsey-sydney-sweeney-1234820090/"
+    },
+    {
+        "critic": "Dennis Schwartz",
+        "is_top_critic": false,
+        "media": "Dennis Schwartz Movie Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2023-04-23T13:45:49.000Z",
+        "quote": "This zany modern-day Western is on target.",
+        "url": "https://dennisschwartzreviews.com/americana/"
+    },
+    {
+        "critic": "John Fink",
+        "is_top_critic": false,
+        "media": "The Film Stage",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2023-03-27T17:09:33.000Z",
+        "quote": "The film’s cast advances the film above a late-night B-movie, each having fun channeling the archetypes of the neo-westerns that came before.",
+        "url": "https://thefilmstage.com/sxsw-review-americana-plays-like-a-cover-album-of-b-movie-greatest-hits/"
+    },
+    {
+        "critic": "Justin Lowe",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2023-03-23T18:24:53.000Z",
+        "quote": "Tost’s portrayal of characters driven by unfettered greed or justifiable need gives voice to often-ignored segments of society as they strive for agency and respect — an admirable quality in any narrative genre.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/americana-review-sydney-sweeney-halsey-1235358381/"
+    },
+    {
+        "critic": "Valerie Complex",
+        "is_top_critic": true,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2023-03-22T22:47:41.000Z",
+        "quote": "Tony Tost’s direction manages to avoid the common pitfalls first-time directors encounter by overcomplicating things, but the director keeps it simple by letting characters work within their frame. ",
+        "url": "https://deadline.com/2023/03/americana-review-sydney-sweeney-paul-walter-hauser-halsey-tony-tost-1235301698/"
+    },
+    {
+        "critic": "Simon Thompson",
+        "is_top_critic": false,
+        "media": "The Playlist",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2023-03-20T00:04:41.000Z",
+        "quote": "A breath of fresh air. ",
+        "url": "https://theplaylist.net/americana-review-a-first-rate-crime-thriller-infused-with-altman-tarantino-coen-brothers-boasting-an-ensemble-cast-at-the-top-of-their-game-20230318/"
+    }
+]

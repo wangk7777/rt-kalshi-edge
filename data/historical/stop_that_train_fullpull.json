@@ -1,0 +1,562 @@
+[
+    {
+        "critic": "Kimber Myers",
+        "is_top_critic": true,
+        "media": "Crooked Marquee",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2026-07-11T21:06:06.000Z",
+        "quote": "... It’s so great to see queer joy on screen without an ounce of seriousness in a time that is tough for the community, but I just wish the movie itself had evoked more of that emotion in the audience. ",
+        "url": "https://crookedmarquee.com/review-stop-that-train/"
+    },
+    {
+        "critic": "Alec Karam",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-01T16:36:15.000Z",
+        "quote": "It remembers that the most important thing a comedy can be is funny, that sometimes all a film needs to succeed is to make you smile.",
+        "url": "https://chicagoreader.com/film-tv/movie-review/review-stop-that-train/"
+    },
+    {
+        "critic": "Rene Sanchez",
+        "is_top_critic": false,
+        "media": "Cine Sin Fronteras",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-06-29T06:37:38.000Z",
+        "quote": "A camp spectacle that celebrates drag with a delightfully absurd sense of humor. [Full Review in Spanish]",
+        "url": "https://cinesinfronteras.com/2026/06/14/resena-stop-that-train/"
+    },
+    {
+        "critic": "Carla Renata",
+        "is_top_critic": false,
+        "media": "The Curvy Film Critic",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-29T04:46:33.000Z",
+        "quote": "It's fluffy, frolicky fun that provides laughter during a time in our history where queer and trans rights are consistently under attack.  We all need a good laugh right about now and Stop!That!Train! is more than happy to oblige.",
+        "url": "https://wp.me/p2v8yf-7oP"
+    },
+    {
+        "critic": "Sean P. Means",
+        "is_top_critic": false,
+        "media": "The Movie Cricket",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2026-06-29T04:18:48.000Z",
+        "quote": "\"Airplane!\" worked so well because the stars behaved as if everything they said was deadly serious, and the cast here leans too far into the camp. ",
+        "url": "https://moviecricket.net/blog/2026/6/11/review-stop-that-train-adds-a-campy-spin-to-the-airplane-disaster-spoof-genre-with-rupauls-drag-race-alums-and-a-lot-of-cameos"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T16:06:05.000Z",
+        "quote": "While a terrific ensemble cast gives their all, this  movie runs out of laughing gas before reaching the station.",
+        "url": "https://sarahgvincentviews.com/movies/stop-that-train/"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:48:19.000Z",
+        "quote": "Recycling the disaster spoof formula or Airplane!, Stop! That! Train! is perhaps the most adept use of WOW's machine, plundering its stable of Drag personas for a ludicrous and goofy joy ride.",
+        "url": "https://www.youtube.com/watch?v=zxpfFacZow4"
+    },
+    {
+        "critic": "John Paul King",
+        "is_top_critic": false,
+        "media": "Washington Blade",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-22T22:02:42.000Z",
+        "quote": "For the rest of us, even if more of its jokes fall flat than we might hope and some of the zingers don’t have the “zing” that they should, there’s still a cumulative effect that leaves the impression of a whole being greater than its parts. ",
+        "url": "https://www.washingtonblade.com/2026/06/19/stop-that-train-movie-review/"
+    },
+    {
+        "critic": "Paul McGuire Grimes",
+        "is_top_critic": false,
+        "media": "Paul's Trip to the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-19T15:08:41.000Z",
+        "quote": "RuPaul and the queens are having fun, and there’s just enough laughs to make this an easy, breezy good time.",
+        "url": "https://paulstriptothemovies.com/movie-review-stop-that-train/"
+    },
+    {
+        "critic": "Marlon Wallace",
+        "is_top_critic": false,
+        "media": "The M Report (WBOC.com)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-16T20:36:39.000Z",
+        "quote": "Director Adam Shankman whose most successful film was Hairspray (2007) brings that same feeling and look to this film... In fact, this film might be the result of Airplane! and Hairspray having a baby.",
+        "url": "https://www.wboc.com/features/the_m_report/movie-review---stop-that-train/article_5e909efb-1563-45db-974f-14b94ba3f677.html"
+    },
+    {
+        "critic": "Hayley Croke",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-06-16T16:41:43.000Z",
+        "quote": "The funniest movie you will see this year.",
+        "url": "https://loudandclearreviews.com/stop-that-train-film-review/"
+    },
+    {
+        "critic": "Aisha Harris",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-15T19:11:31.000Z",
+        "quote": "This was the Glamazonian Express. It's not the Stank Rail. We enjoyed it. I would watch another one of these. It was very fun.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5855439"
+    },
+    {
+        "critic": "Glen Weldon",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-15T19:08:24.000Z",
+        "quote": "This movie is Airplane. Dumb jokes, celebrity cameos, and real talk, a lot of the very same gags. We got, let's be honest, a lot of the very same jokes. But it's Airplane. It was nothing but the Johnny bits, and that is a winning formula for me.\n\n",
+        "url": "https://www.npr.org/transcripts/nx-s1-5855439"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-15T03:30:00.000Z",
+        "quote": "It's a legitimately funny parody that stands on its own.",
+        "url": "http://www.markreviewsmovies.com/reviews/S/stopthattrain.htm"
+    },
+    {
+        "critic": "Andrea Chase",
+        "is_top_critic": false,
+        "media": "Killer Movie Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-14T20:31:25.000Z",
+        "quote": "The aesthetic is excess, the mood is raunchy, and the vibe is a tongue-in-cheek pushing so far that it might result in a new piercing.",
+        "url": "https://www.killermoviereviews.com/movie/stop-that-train/"
+    },
+    {
+        "critic": "Gary M. Kramer",
+        "is_top_critic": false,
+        "media": "Gay City News",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-13T11:01:55.000Z",
+        "quote": "[A]n inspired bit of lunacy....  Both witty and silly, this campy film provides a diverting 90 minutes.",
+        "url": "https://gaycitynews.com/stop-that-train-campy-ride-glamazonian-express/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "Rachel's Reviews (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-13T08:02:27.000Z",
+        "quote": "I really enjoyed it. I laughed my head off",
+        "url": "https://www.youtube.com/live/a51lKNkEXGY"
+    },
+    {
+        "critic": "Alexa Margorian",
+        "is_top_critic": false,
+        "media": "Exclaim!",
+        "sentiment": "Rotten 🤢",
+        "score": "1/10",
+        "date": "2026-06-13T03:51:56.000Z",
+        "quote": "A successful stupid joke requires a great level of intelligence that Friel and Wright's script never reaches.",
+        "url": "https://exclaim.ca/film/article/stop-that-train-review-rupaul"
+    },
+    {
+        "critic": "Thelma Adams",
+        "is_top_critic": true,
+        "media": "AARP Movies for Grownups",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-12T23:11:47.000Z",
+        "quote": "This campy comedy giddily gallops along for a summer thrill ride.",
+        "url": "https://www.aarp.org/entertainment/television/what-to-watch-best-new-movies-shows-streaming.html"
+    },
+    {
+        "critic": "Coleman Spilde",
+        "is_top_critic": false,
+        "media": "Salon.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-12T23:10:59.000Z",
+        "quote": "With a healthy dose of RuPaul’s signature wit and enough drag queen-friendly lighting to combat Hollywood’s run of dimly lit features, the team revives the disaster spoof with stylish aplomb.",
+        "url": "https://www.salon.com/2026/06/11/scary-movie-stop-that-train-cinema-spoofs-will-never-die/"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-12T21:57:26.000Z",
+        "quote": "Some cheap, stupid comedies are funny enough to get away with it, and 'Stop! That! Train!' isn’t one of them.",
+        "url": "https://www.thewrap.com/creative-content/movies/stop-that-train-review-rupaul-charles-ginger-minj-jujubee/"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "The Travers Take",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-06-12T19:02:25.000Z",
+        "quote": "This raucous runaway choo-choo comedy starring RuPaul as the POTUS we need right now is perfect fun for Pride month. Even when the jokes miss, this fan valentine never laughs at the drag queens, always with them. And that counts.",
+        "url": "https://www.thetraverstake.com/featured/stop-that-train/"
+    },
+    {
+        "critic": "Wilson Chapman",
+        "is_top_critic": false,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-12T17:12:50.000Z",
+        "quote": "A movie best enjoyed about three margaritas deep, it’s not as disposable as your average acting challenge sketch from the show, but it’s not likely to register as a comedy that can be endlessly revisited, either. ",
+        "url": "https://www.indiewire.com/criticism/movies/stop-that-train-review-rupaul-drag-race-movie-1235199062/"
+    },
+    {
+        "critic": "Kristy Puchko",
+        "is_top_critic": true,
+        "media": "Mashable",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-12T16:08:48.000Z",
+        "quote": "It's 'Airplane!' with drag queens. What more could we ask for?",
+        "url": "https://mashable.com/entertainment/stop-that-train-review"
+    },
+    {
+        "critic": "Cortlyn Kelly",
+        "is_top_critic": false,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-06-12T14:27:59.000Z",
+        "quote": "It’s the type of slop, like those chicken nuggets made from pink slime, that may taste good at first but has absolutely no nutritional value. ",
+        "url": "https://www.rogerebert.com/reviews/stop-that-train-rupaul-movie-review-2026"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-12T13:49:07.000Z",
+        "quote": "The film’s irreverent vibe balances out the uneven joke hit-to-miss ratio.",
+        "url": "https://cinemalogue.com/2026/06/12/capsule-reviews-for-june-12-3/"
+    },
+    {
+        "critic": "Katie Rife",
+        "is_top_critic": true,
+        "media": "Inverse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-12T13:13:13.000Z",
+        "quote": "Self-aware and terminally silly, the first Drag Race feature film isn’t a total trainwreck.",
+        "url": "https://www.inverse.com/entertainment/stop-that-train-review-rupaul-drag-comdy"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-12T01:52:46.000Z",
+        "quote": "The feature isn’t a much of a gut-buster either, but it does retain modest charm and touches of impishness, remaining good-natured and ready to put on a show.",
+        "url": "https://www.blu-ray.com/Stop-That-Train/2085660/#Review"
+    },
+    {
+        "critic": "Pete Hammond",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-11T23:51:48.000Z",
+        "quote": "A bit of fan service that will still provide a good enough time for the crowd who can’t get enough of RuPaul’s Drag Race.",
+        "url": "https://deadline.com/2026/06/stop-that-train-review-rupaul-drag-race-movies-airplane-1236954201/"
+    },
+    {
+        "critic": "Odie Henderson",
+        "is_top_critic": true,
+        "media": "Boston Globe",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-11T23:49:43.000Z",
+        "quote": "The actors are so full of joy, good humor, and the desire to entertain that I sincerely wished that the script by Christina Friel and Connor Wright was a lot funnier. ",
+        "url": "https://www.bostonglobe.com/2026/06/09/arts/stop-that-train-jujubee/?p1=StaffPage"
+    },
+    {
+        "critic": "Owen Myers",
+        "is_top_critic": false,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-11T23:47:59.000Z",
+        "quote": "A 90-minute madcap riot that deserves a spot in drag comedy herstory alongside White Chicks and The Adventures of Priscilla, Queen of the Desert.",
+        "url": "https://www.theguardian.com/film/2026/jun/11/stop-that-train-movie-review-rupaul"
+    },
+    {
+        "critic": "Jocelyn Noveck",
+        "is_top_critic": false,
+        "media": "Associated Press",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-06-11T23:09:47.000Z",
+        "quote": "The gags never stop. Not every one of them soars, but enough do that you’ll likely just be giggling for 90 minutes.",
+        "url": "https://apnews.com/article/stop-that-train-movie-review-d20fc1ddf13b7e4591e1a30a97984986"
+    },
+    {
+        "critic": "Samantha Allen",
+        "is_top_critic": false,
+        "media": "them.",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-11T20:51:46.000Z",
+        "quote": "... although nothing can really touch the 1980 comedy classic, this new queer comedy does a perfectly fine job of mirroring that zany tone.",
+        "url": "https://www.them.us/story/stop-that-train-high-speed-rail-review"
+    },
+    {
+        "critic": "Marisa Carpico",
+        "is_top_critic": false,
+        "media": "The Pop Break",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-11T20:27:17.000Z",
+        "quote": "While Stop! That! Train! likely isn’t destined to become a classic, it is silly enough to give audiences something fun to watch with friends during Pride Month. With the right people and, perhaps, the right amount of alcohol, it is non-stop laughs.",
+        "url": "https://thepopbreak.com/2026/06/11/stop-that-train-is-campy-fun/"
+    },
+    {
+        "critic": "Rich Cline",
+        "is_top_critic": false,
+        "media": "Shadows on the Wall",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-11T19:49:46.000Z",
+        "quote": "Sure enough, the world is definitely in need of films as ridiculous as this one, overflowing with goofy wordplay, slapstick and sight gags. Fans of RuPaul's Drag Race will also enjoy a the continuous barrage of inside running jokes and catchphrases.",
+        "url": "http://www.shadowsonthewall.co.uk/26/stopthat.htm"
+    },
+    {
+        "critic": "Randy Myers",
+        "is_top_critic": false,
+        "media": "San Jose Mercury News",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-11T19:05:27.000Z",
+        "quote": "Tosses out the right sassy quips while the drag star-dominant cast get a bodacious opportunity to dance and sing, all making this an E-ticket ride that’s impossible to sashay away from without a big smile on your face. ",
+        "url": "https://www.mercurynews.com/2026/06/11/what-to-watch-stop-that-train-is-the-silly-drag-comedy-we-need-right-now/"
+    },
+    {
+        "critic": "Chris Azzopardi",
+        "is_top_critic": false,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-11T19:04:04.000Z",
+        "quote": "Stop! That! Train! tells it to you in the most thoroughly, brazenly and exuberantly gay way, as though to say, this is the train many of us will want to be riding if it must go off the rails.",
+        "url": "https://www.nytimes.com/2026/06/11/movies/stop-that-train-review.html"
+    },
+    {
+        "critic": "Joey Moser",
+        "is_top_critic": false,
+        "media": "The Contending",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-11T18:50:40.000Z",
+        "quote": "A furiously funny stupid-a-thon",
+        "url": "https://thecontending.com/stop-that-train-review/"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-11T14:19:56.000Z",
+        "quote": "Stop! That! Train! is the shameless spiritual cousin to Airplane and other spoof movies that never met a joke it couldn’t or wouldn’t crack. Like an episode of Drag Race, it is colorful, chaotic and escapist.",
+        "url": "https://richardcrouse.ca/stop-that-train-3-%C2%BD-stars/"
+    },
+    {
+        "critic": "Brandon Zachary",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-11T13:01:32.000Z",
+        "quote": "Whatever the secret ingredient is, the result is a movie that is non-stop hilarious and unapologetically goofy. It may not be deep, it may not be compelling, but it is silly enough to be great.",
+        "url": "https://screenrant.com/stop-that-train-2026-movie-review/"
+    },
+    {
+        "critic": "Todd Gilchrist",
+        "is_top_critic": false,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-11T05:22:39.000Z",
+        "quote": "Appealing performances by Ginger Minj, Jujubee and RuPaul as the Commander in Chief keep this action comedy disaster movie on the right track even when the train of the title threatens to fly off the rails.",
+        "url": "https://variety.com/2026/film/reviews/stop-that-train-review-rupaul-1236772002/"
+    },
+    {
+        "critic": "Pat Mullen",
+        "is_top_critic": false,
+        "media": "That Shelf",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-11T00:39:16.000Z",
+        "quote": "As radical as it is raucous. It creates a space where drag queens simply exist as everyday people.",
+        "url": "https://thatshelf.com/adam-shankman-talks-stop-that-train-and-going-off-the-rails/"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-10T22:59:38.000Z",
+        "quote": "Stop! That! Train! wants to mix the campiness of RuPaul's Drag Race and the wackiness of 1980's Airplane!, but the results are inept jokes and uninteresting characters. The story tries too hard to be cute and edgy, but it's mostly boring and lazy.",
+        "url": "https://culturemixonline.com/review-stop-that-train-starring-rupaul-charles-ginger-minj-and-jujubee/"
+    },
+    {
+        "critic": "Robin Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2026-06-10T18:58:17.000Z",
+        "quote": "If we could bring back Zucker, Abrahams and Zucker one last time, Ru Paul Charles (producer and playing President Gagwell)) and her crew might have had something a lot better. But, as I said, its heart is in the right place.",
+        "url": "https://www.reelingreviews.com/reviews/stop-that-train/"
+    },
+    {
+        "critic": "Chauncey K. Robinson",
+        "is_top_critic": false,
+        "media": "People's World",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2026-06-10T17:07:20.000Z",
+        "quote": "It’s one of the \"most important\" films of our time. Well, not really, but it’s definitely the movie we need right now.",
+        "url": "https://peoplesworld.org/article/stop-that-train-review-much-needed-comic-relief-as-lgbtq-hate-escalates/"
+    },
+    {
+        "critic": "Laura Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-10T14:44:59.000Z",
+        "quote": "while 'Grimsburg' writers Christina Friel & Connor Wright never reach the comedic heights achieved by \"Airplane!'s\" Zucker, Abrahams and Zucker, director Adam Shankman and his fabulous cast deliver good-natured goofery",
+        "url": "https://www.reelingreviews.com/reviews/stop-that-train/"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-10T09:48:55.000Z",
+        "quote": "A loving tribute to the  Zucker  Brothers, it doesn't always work, but it has an impressive ability to blend many different forms of comedy into a movie that goes all out to make one laugh. (Video Review)\n",
+        "url": "https://edwarddouglas.substack.com/p/the-weekend-warrior-show-for-june-035"
+    },
+    {
+        "critic": "Jeanne Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-10T05:08:50.000Z",
+        "quote": "STOP! THAT! TRAIN! is purposefully being released during Pride month \"to bring people together and celebrate just being who you are --- gay or straight.\" It’s a wonderful sentiment for a film that is truly joyful!",
+        "url": "https://www.kaplanvskaplan.com/new-releases/stop-that-train/"
+    },
+    {
+        "critic": "David Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-10T05:07:15.000Z",
+        "quote": "STOP! THAT! TRAIN! begs for at least a second viewing because the jokes come in rapid fashion. ",
+        "url": "https://www.kaplanvskaplan.com/new-releases/stop-that-train/"
+    },
+    {
+        "critic": "Rendy Jones",
+        "is_top_critic": false,
+        "media": "Rendy Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-09T13:14:18.000Z",
+        "quote": "A charmingly chaotic ride that delivers more laughs than derailments.",
+        "url": "https://www.rendyreviews.com/movie-reviews/stop-that-train-review"
+    },
+    {
+        "critic": "Cody Dericks",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-06-08T16:34:37.000Z",
+        "quote": "With the high ratio of jokes per minute, not all of them are destined to land, and some gags linger too long, slowing down what should be a breakneck pace.",
+        "url": "https://nextbestpicture.com/stop-that-train/"
+    },
+    {
+        "critic": "Kyle Turner",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-08T12:32:38.000Z",
+        "quote": "Stop! That! Train! handles the dumbest things with just the right amount of seriousness, and it’s more than self-aware of its own silliness. ",
+        "url": "https://www.slantmagazine.com/film/stop-that-train-review-rupaul-ginger-minj-adam-shankman/"
+    },
+    {
+        "critic": "EJ Moreno",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-08T04:32:41.000Z",
+        "quote": "The perfect movie for Drag Race fans. Stupid, absurd, and impossible to resist.",
+        "url": "https://youtu.be/oJhMQFW1txo?si=ZPLPOD6Fu5YUcCUm"
+    },
+    {
+        "critic": "Luke Y. Thompson",
+        "is_top_critic": false,
+        "media": "Mortal Cinema (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-04T18:49:26.000Z",
+        "quote": "Ru shows real star power and the script is way more polished than a Drag Race sketch.",
+        "url": "https://lytrules.substack.com/p/review-battle-scary-movie-2026-vs"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-04T15:47:42.000Z",
+        "quote": "Drag queens get the laughs, not the ridicule, in this joyful comedy.",
+        "url": "https://youtu.be/zxpfFacZow4"
+    },
+    {
+        "critic": "David Rooney",
+        "is_top_critic": true,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-02T00:27:10.000Z",
+        "quote": "The heart of this action-comedy that’s really a high-concept girlfriend movie is Ginger Minj and Jujubee, their characterizations in perfect sync, their rapport endearing and their triumph-of-the-underdog arc something worth rooting for.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/stop-that-train-review-rupaul-ginger-minj-adam-shankman-1236609597/"
+    }
+]

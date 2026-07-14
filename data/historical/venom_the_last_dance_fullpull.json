@@ -1,0 +1,2252 @@
+[
+    {
+        "critic": "Don Kaye",
+        "is_top_critic": false,
+        "media": "Moviefone",
+        "sentiment": "Rotten 🤢",
+        "score": "5.5/10",
+        "date": "2026-07-08T08:04:56.000Z",
+        "quote": "Let it be the last dance indeed.",
+        "url": "https://www.moviefone.com/news/movie-review-venom-the-last-dance/"
+    },
+    {
+        "critic": "Stephen Garrett",
+        "is_top_critic": false,
+        "media": "Book & Film Globe",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-26T19:46:01.000Z",
+        "quote": "Over three proudly unserious movies, eccentric character actor Hardy has clearly reveled in this bizarre buddy comedy riff on Marvel’s fatuous superhero save-the-universe schtick.",
+        "url": "https://bookandfilmglobe.com/film/venom-dances-into-the-sunset/"
+    },
+    {
+        "critic": "Kyle Amato",
+        "is_top_critic": false,
+        "media": "Boston Hassle",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-07-31T22:23:10.000Z",
+        "quote": "How have we ended up with a Venom film trilogy that legally has nothing to do with Peter Parker or Spider-Man?",
+        "url": "https://bostonhassle.com/review-venom-the-last-dance-2024-dir-kelly-marcel/"
+    },
+    {
+        "critic": "Emmet Asher-Perrin",
+        "is_top_critic": false,
+        "media": "Reactor",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-07-28T17:49:27.000Z",
+        "quote": "While the rest of the superhero genre flails frantically [...] the Venom films have quietly done their thing to an enduring hum of enthusiasm that studios are seemingly keen to ignore because they can’t figure out the secret sauce that’s making it go.",
+        "url": "https://reactormag.com/movie-review-venom-the-last-dance/"
+    },
+    {
+        "critic": "Guillermo Troncoso",
+        "is_top_critic": false,
+        "media": "Screen Realm",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-07-27T09:49:06.000Z",
+        "quote": "Does have its moments, but it ultimately lands as another disappointing entry in Sony’s Spider-Man Universe... It wraps up in disappointingly low gear, ending the Venom trilogy with more of a murmur than the roar it deserves.",
+        "url": "https://screenrealm.com/venom-the-last-dance-movie-review-tom-hardy-2024-marvel/"
+    },
+    {
+        "critic": "Joshua Ryan",
+        "is_top_critic": false,
+        "media": "The Cosmic Circus",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-07-19T22:28:21.000Z",
+        "quote": "Exposition and dream sequences are used to provide every bit of necessary backstory, and the dialogue feels harsh and unnatural.",
+        "url": "https://thecosmiccircus.com/venom-the-last-dance-movie-review/"
+    },
+    {
+        "critic": "Vera Wylde",
+        "is_top_critic": false,
+        "media": "Council of Geeks",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-07-18T01:32:24.000Z",
+        "quote": "I enjoy these movies for what they are, which is dumb fun.",
+        "url": "https://www.youtube.com/watch?v=68_qYv7kwlw"
+    },
+    {
+        "critic": "Adam Nayman",
+        "is_top_critic": true,
+        "media": "The Ringer",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-06-17T22:32:37.000Z",
+        "quote": "The Last Dance is, finally, a bit too squishy for its own good. It’s so determined to be endearing that it gradually becomes exhausting.",
+        "url": "https://www.thestar.com/entertainment/movies/despite-tom-hardys-goofiness-venom-the-last-dance-is-a-slapdash-sentimental-franchise-finale/article_151c6584-9225-11ef-81d8-4b162526634b.html"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2025-03-21T14:54:34.000Z",
+        "quote": "A moronic melange of narrative gobbledygook, Venom: The Last Dance wouldn't be worth your time even if it were tap dancing on Marvel's headstone. ",
+        "url": "https://www.youtube.com/watch?v=fqO6WKk_PTY"
+    },
+    {
+        "critic": "Patrick Cremona",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-01-30T23:42:31.000Z",
+        "quote": "Like the previous entries, it's also something of a tonal jumble, part goofy buddy comedy, part po-faced sci-fi tale, with neither passing muster on their own, never mind awkwardly stitched together.",
+        "url": "https://www.radiotimes.com/movie-guide/b-afxtg2/venom-the-last-dance/"
+    },
+    {
+        "critic": "Nathan Chizen",
+        "is_top_critic": false,
+        "media": "Exclaim!",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2025-01-28T21:40:11.000Z",
+        "quote": "Strike three.",
+        "url": "https://exclaim.ca/film/article/venom-the-last-dance-film-review"
+    },
+    {
+        "critic": "Matt Brunson",
+        "is_top_critic": false,
+        "media": "Film Frenzy",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2025-01-28T19:59:15.000Z",
+        "quote": "The third and final entry in what has proven to be among the junkiest of all Marvel movie franchises.",
+        "url": "https://thefilmfrenzy.com/2025/01/24/view-from-the-couch-the-grifters-venom-the-last-dance-etc/"
+    },
+    {
+        "critic": "Devansh Sharma",
+        "is_top_critic": false,
+        "media": "Hindustan Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-21T19:51:28.000Z",
+        "quote": "Kelly [Marcel] peppers the film – particularly the banter between Eddie and the Venom symbiote – with moments that are sweet, funny, unconventional, and even moving",
+        "url": "https://www.hindustantimes.com/entertainment/hollywood/venom-the-last-dance-movie-review-tom-hardy-bittersweet-adieu-to-best-friend-moderately-fun-watch-101729850097526.html"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-01-21T14:03:59.000Z",
+        "quote": "Hardy brilliantly portrays Eddie and Venom as they meld into one, creating a dynamic duo that makes the Venom films engaging and entertaining to watch.",
+        "url": "https://flickdirect.com/movie-review/3172/venom-the-last-dance/movie.ashx"
+    },
+    {
+        "critic": "Douglas Davidson",
+        "is_top_critic": false,
+        "media": "Elements of Madness",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-01-21T13:37:52.000Z",
+        "quote": "... a final film in the \"Venom\" trilogy whose ambitions fail to deliver the excitement or thrills of the prior two installments while also introducing a threat to nowhere, resulting in more tedium than entertainment. ",
+        "url": "https://elementsofmadness.com/2025/01/21/venom3-hv/"
+    },
+    {
+        "critic": "Jeff Beck",
+        "is_top_critic": false,
+        "media": "The Blu Spot",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-01-20T16:06:38.000Z",
+        "quote": "The film may feature the same intriguing main characters, who provide it with some entertainment value, but it also suffers from notable problems with its antagonist, supporting characters, and overall storyline.",
+        "url": "https://www.thebluspot.com/single-post/venom-the-last-dance-a-disappointing-finale-for-the-beloved-antiheroes-4k-blu-ray"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-12-24T17:11:04.000Z",
+        "quote": "It’s all so pointlessly silly, and loud, so so very loud, and very much aware of how silly and loud it is, because that seems to be the desperately stupid goal of these films.",
+        "url": "https://decider.com/2024/12/13/venom-3-the-last-dance-streaming-movie-review/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-12-12T15:04:38.000Z",
+        "quote": "The Venom series can’t think in more imaginative terms than strategic deployment: Maybe if Hardy goes for it even harder, the greater Marvel universe will have no choice but to bend back in our direction! ",
+        "url": "https://www.avclub.com/venom-the-last-dance-review"
+    },
+    {
+        "critic": "Scott Mendelson",
+        "is_top_critic": false,
+        "media": "The Outside Scoop (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-12-11T21:42:30.000Z",
+        "quote": "The Venom series began as a lazy, cynical IP cash-in born from the wrongheaded notion that moviegoers want cinematic universes and superheroes in the abstract. It is now oddly innocent and specific, even compared to the brand it tried to emulate.",
+        "url": "https://scottmendelson.substack.com/p/venom-avoids-marvel-superhero-fatigue"
+    },
+    {
+        "critic": "Rick Bentley",
+        "is_top_critic": false,
+        "media": "KGET-TV (Bakersfield, CA)",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2024-11-24T18:26:58.000Z",
+        "quote": "As far as road trip tales go, “Venom: The Last Dance” finds a steady route. ",
+        "url": "https://www.kget.com/community/ricks-reviews/venom-the-last-dance-ends-up-being-buddy-road-trip-tale/"
+    },
+    {
+        "critic": "Gayle Sequeira",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter India",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-23T07:46:05.000Z",
+        "quote": "Playing Eddie and Venom, Tom Hardy wrings a surprising amount of sentiment from a performance that essentially involves talking to himself, and the film derives its tender tone from the notion that this partnership might finally have to come to an end.",
+        "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/venom-the-last-dance-review-a-surprisingly-potent-blend-of-silliness-and-sentimentality"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-11-22T23:37:26.000Z",
+        "quote": "An absolute car crash of a film. That's not to say that bits of it aren't entertaining... if you throw enough poop at the wall, then some of it it's gonna stick. ",
+        "url": "https://www.youtube.com/watch?v=hG8MPCA_vOw"
+    },
+    {
+        "critic": "Cris Kennedy",
+        "is_top_critic": false,
+        "media": "Inner East Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-11-22T21:50:28.000Z",
+        "quote": "Marcel does understand that humour is the key to engaging with this character, the \"buddy comedy\" interplay between Eddie and Venom, and she gives the film a light touch with plenty of charming moments.",
+        "url": "https://www.innereastreview.com.au/story/8798966/venom-the-last-dance-review-tom-hardys-charisma-carries-unlikely-buddy-comedy/?cs=20920"
+    },
+    {
+        "critic": "Nick Bhasin",
+        "is_top_critic": false,
+        "media": "Junkee",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-11-20T18:54:16.000Z",
+        "quote": "So it's entirely possible that this movie felt like a letdown because the first two were decent and Tom Hardy is delightful but everybody involved just ran out of steam and gave up and decided to bum everybody out. ",
+        "url": "https://junkee.com/articles/venom-the-last-dance-review"
+    },
+    {
+        "critic": "Jason Escamilla",
+        "is_top_critic": false,
+        "media": "EskimoTV",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2024-11-19T20:28:54.000Z",
+        "quote": "The tired dynamic between Eddie and Venom, underdeveloped new characters, and a weak central antagonist make Venom: The Last Dance the most uninspired entry in the series.",
+        "url": "https://youtu.be/SiPLA0zQ6CQ"
+    },
+    {
+        "critic": "Kip Mooney",
+        "is_top_critic": false,
+        "media": "College Movie Review",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2024-11-18T04:28:07.000Z",
+        "quote": "If this is truly the last we’ll see of this iteration of Venom, then good riddance.",
+        "url": "https://collegemoviereview.com/featured/venom-the-last-dance/"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-11-16T01:16:14.000Z",
+        "quote": "“Venom: The Last Dance” is like a graveyard for good actors’ spirits to die. Hardy, who is one of the greats, is just phoning it in and looks as if he is in this film under great duress. ",
+        "url": "https://sarahgvincentviews.com/movies/venom-the-last-dance/"
+    },
+    {
+        "critic": "Michael Cook",
+        "is_top_critic": false,
+        "media": "KLRT-TV ",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2024-11-15T23:25:50.000Z",
+        "quote": "The studio should pay you [the viewer] to watch this horrible film. It's a complete waste of time. This was just a mess of a movie. Thank goodness it's \"the last dance.\" ",
+        "url": "https://www.fox16.com/video/at-the-movies-film-critic-reviews-%E2%80%98venom-the-last-dance%E2%80%99-and-%E2%80%98conclave%E2%80%99/10162097/"
+    },
+    {
+        "critic": "MontiLee Stormer",
+        "is_top_critic": false,
+        "media": "MovieReelist.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2024-11-14T19:02:35.000Z",
+        "quote": "Venom: The Last Dance is choppy and nonsensical and isn’t even enjoyable as a hate watch. Sony even has the nerve to threaten the audience with a continuation of the worn-out series, and no one wants that.",
+        "url": "https://moviereelist.com/review/venom-3/"
+    },
+    {
+        "critic": "Wade Major",
+        "is_top_critic": false,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-11-13T00:08:14.000Z",
+        "quote": "Worst interior monologue ever -- I hope it is the last dance. ",
+        "url": "https://laist.com/shows/filmweek/filmweek-venom-the-last-dance-conclave-memoir-of-a-snail-and-more"
+    },
+    {
+        "critic": "Jared Rasic",
+        "is_top_critic": false,
+        "media": "Metro Times (Detroit, MI)",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2024-11-12T23:59:34.000Z",
+        "quote": "Basically, I like these movies more than I actually respect them.",
+        "url": "https://www.metrotimes.com/arts/four-new-movies-to-watch-in-november-in-a-theater-37832757"
+    },
+    {
+        "critic": "Dolores Quintana",
+        "is_top_critic": false,
+        "media": "Santa Monica Mirror",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-11T23:21:11.000Z",
+        "quote": "Venom: The Last Dance was very enjoyable and kind of sweet for a movie where a monster eats people’s heads. Basically, the movie is grounded in human emotion and characterization rather than spectacle which is why it is successful for me.",
+        "url": "https://smmirror.com/2024/10/film-review-venom-the-last-dance/"
+    },
+    {
+        "critic": "Ian Bunting",
+        "is_top_critic": false,
+        "media": "Daily Record (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-11T21:44:59.000Z",
+        "quote": "The Last Dance is certainly an improvement on Let There Be Carnage, though, and probably the best of the trilogy.",
+        "url": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/movie-review-discover-comic-book-34038822"
+    },
+    {
+        "critic": "Sarah Gopaul",
+        "is_top_critic": false,
+        "media": "Digital Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-11-11T20:50:42.000Z",
+        "quote": "The high points are fun, comical and often violent, ranging from amusing one-liners to well-deserved beat downs... However, there are major lulls in which the jokes fall flat and Eddie’s constant trepidation is annoying",
+        "url": "https://www.digitaljournal.com/entertainment/review-venom-the-last-dance-doesnt-find-its-rhythm/article"
+    },
+    {
+        "critic": "Matt Hudson",
+        "is_top_critic": false,
+        "media": "Bloody Awesome Movie Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-11-08T14:57:48.000Z",
+        "quote": "Venom: The Last Dance sputters to an unsatisfying conclusion that will likely leave fans of the series wishing for something more. Tom Hardy may not quite be phoning it in, but it's clear the fire has gone. Please let this be the final dance. Please.",
+        "url": "https://open.spotify.com/episode/4lgMH3RFdNzvafgxEOAIHI?si=d630bec08d9a4d13"
+    },
+    {
+        "critic": "Fausto Fernandez",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-11-08T02:00:40.000Z",
+        "quote": "A spectacular film... with a sentimental, emotional, and dramatic touch that was not expected in this departure(?) of the Lethal Protector. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a62701572/venom-el-ultimo-baile-critica-pelicula-tom-hardy/"
+    },
+    {
+        "critic": "Sean Chandler",
+        "is_top_critic": false,
+        "media": "Sean Chandler Talks About",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-11-07T19:18:51.000Z",
+        "quote": "While there is some fun to be had (in particular in the 3rd act), the story is a mess.  Three movies into this trilogy, it's disappointing they never figured out how to craft film which is both fun and coherent.",
+        "url": "https://www.youtube.com/watch?v=xIe0hhEiwXw"
+    },
+    {
+        "critic": "Rob Dean",
+        "is_top_critic": false,
+        "media": "Bullz-Eye.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-11-07T12:27:47.000Z",
+        "quote": "Marcel’s film has a ton of potential in a cast that’s clearly game and centered on a terrifically entertaining performance from Hardy. When it’s having fun, “The Last Dance” is infectiously delightful, but those moments are too far and few in between. ",
+        "url": "https://www.bullz-eye.com/2024/10/25/movie-review-venom-the-last-dance/"
+    },
+    {
+        "critic": "Lauren Veneziani",
+        "is_top_critic": false,
+        "media": "DC Film Girl",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-11-06T14:51:09.000Z",
+        "quote": "Tom Hardy clearly has a blast as Eddie/Venom and this final installment to the VENOM trilogy is hilarious and exactly what you would expect from a Venom film. The Eddie/Venom casino scene has me rolling!",
+        "url": "https://www.wbaltv.com/article/dc-film-girl-woman-of-the-hour-review/62724674"
+    },
+    {
+        "critic": "Ruben Peralta Rigaud",
+        "is_top_critic": false,
+        "media": "Cocalecas",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-11-06T00:58:32.000Z",
+        "quote": "It is forced, and too formulaic to generate any real emotion. [Full review in Spanish]",
+        "url": "https://cocalecas.net/2024/11/critica-a-venom-the-last-dance-2024-de-kelly-marcel/"
+    },
+    {
+        "critic": "Gabriela Meza",
+        "is_top_critic": false,
+        "media": "Fuera de Foco",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-11-05T21:33:07.000Z",
+        "quote": "\"The most romantic trilogy in cinema since the Before trilogy.\" ",
+        "url": "https://youtu.be/ZyxV-2sobeU"
+    },
+    {
+        "critic": "John Flickinger",
+        "is_top_critic": false,
+        "media": "The Flick Pick (Youtube)",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2024-11-05T20:35:29.000Z",
+        "quote": "Venom The Last Dance is a chaotic road trip of subplots and forgettable characters, stuck in a mid-2000s comic book vibe. Eddie and Venom’s bromance is the only highlight, but everything else feels random, abrupt, and half-hearted.",
+        "url": "https://www.youtube.com/watch?v=0Q1OLZfmhrI"
+    },
+    {
+        "critic": "Sheraz Farooqi",
+        "is_top_critic": false,
+        "media": "CinemaDebate",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-11-05T16:54:56.000Z",
+        "quote": "Undoubtedly the weakest of the trilogy. Tom Hardy does his best with a poor script but ultimately the film couldn’t decide between being a finale or a trailer for future franchises.\n\nIt’s a fun popcorn movie but after a full trilogy, audiences wants more.",
+        "url": "https://www.youtube.com/watch?v=2_OQcj3Y4FE"
+    },
+    {
+        "critic": "Juanma Fernández París",
+        "is_top_critic": false,
+        "media": "El Nuevo Día (Puerto Rico)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-05T01:06:19.000Z",
+        "quote": "Whether this Venom movie is irritating and inconsequential or entertaining and interesting depends entirely on audience expectations. [Full review in Spanish]",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/irritante-e-inconsecuente-o-entretenida-e-interesante-asi-es-la-tercera-parte-de-venom/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "rachelsreviews.net",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-11-04T22:54:11.000Z",
+        "quote": "I watch these movies to laugh. How can they not understand that? Unfortunately laughs are few and far between in Venom: The Last Dance.",
+        "url": "https://rachelsreviews.net/2024/11/04/rachels-mammoth-movie-catch-up/"
+    },
+    {
+        "critic": "Ruth Maramis",
+        "is_top_critic": false,
+        "media": "FlixChatter Film Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-11-04T21:52:16.000Z",
+        "quote": "This franchise just wouldn't work without Tom Hardy. This movie really drags whenever Eddie and/or Venom is not on screen. Overall this Venom swan song is a whirlwind of crazy fun.",
+        "url": "https://flixchatter.net/2024/11/04/flixchatter-review-venom-the-last-dance-2024-tom-hardy-bids-farewell-to-his-chatty-bombastic-symbiote-in-a-whirlwind-of-crazy-fun/"
+    },
+    {
+        "critic": "Edwin Arnaudin",
+        "is_top_critic": false,
+        "media": "Asheville Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-11-04T21:21:26.000Z",
+        "quote": "The vaudeville-style quirky banter between Venom and Eddie is arguably the best it's been in this unlikely trilogy. However, it's also the film's lone consistent redeeming element.",
+        "url": "https://www.ashevillemovies.com/new/venom-the-last-dance"
+    },
+    {
+        "critic": "JD Duran",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-11-04T18:51:25.000Z",
+        "quote": "The Eddie / Venom dynamic is once again hilarious, but this time it also comes with an existential crisis.",
+        "url": "https://insessionfilm.com/movie-podcast-review-venom-the-last-dance/"
+    },
+    {
+        "critic": "Matt Fernandez",
+        "is_top_critic": false,
+        "media": "Geeks of Color",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2024-11-04T17:39:40.000Z",
+        "quote": "As the closing chapter of this Venom trilogy, The Last Dance falters in its steps but ultimately manages to shuffle to the end of its swan song serviceably.",
+        "url": "https://geeksofcolor.co/2024/11/01/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Dennis Schwartz",
+        "is_top_critic": false,
+        "media": "Dennis Schwartz Movie Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2024-11-04T05:20:23.000Z",
+        "quote": "The third and last film in the awful Marvel movie trilogy about a helmet-headed alien with scary teeth and a large tongue.",
+        "url": "https://dennisschwartzreviews.com/venom-the-last-dance-2024-c/"
+    },
+    {
+        "critic": "Jackie K. Cooper",
+        "is_top_critic": false,
+        "media": "jackiekcooper.com",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-11-04T02:00:35.000Z",
+        "quote": "Keep moving, nothing new to see here.",
+        "url": "https://www.youtube.com/watch?v=53T8btT53q8"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-11-03T23:01:35.000Z",
+        "quote": "The third and supposedly final entry in this \"superhero\" series is more of the same: endless exposition, overreliance on visual effects and explosions, and no real characters or story. ",
+        "url": "https://www.commonsensemedia.org/movie-reviews/venom-the-last-dance"
+    },
+    {
+        "critic": "Devesh Sharma",
+        "is_top_critic": false,
+        "media": "Filmfare",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-11-03T18:24:16.000Z",
+        "quote": "Ultimately, Venom: The Last Dance is a fun-filled ride that perfectly balances humour and action, thanks to Kelly Marcel’s directorial prowess and Tom Hardy’s magnetic performance. ",
+        "url": "https://www.filmfare.com/reviews/hollywood-movies/venom-the-last-dance-movie-review-69297.html"
+    },
+    {
+        "critic": "Troy Ribeiro",
+        "is_top_critic": false,
+        "media": "Free Press Journal (India)",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-11-03T10:39:44.000Z",
+        "quote": "Sadly, the film stumbles through a series of missteps, leaving even die-hard fans of the franchise wondering if this final entry is more of a farewell dance or a half-hearted shuffle.",
+        "url": "https://www.freepressjournal.in/entertainment/venom-the-last-dance-review-tom-hardys-film-is-a-goopy-goodbye-to-symbiote-shenanigans"
+    },
+    {
+        "critic": "Laura Stott",
+        "is_top_critic": false,
+        "media": "The Sun (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-11-02T23:09:13.000Z",
+        "quote": "There's plenty of satisfying set pieces here and a great soundtrack.",
+        "url": "https://www.thesun.co.uk/tv/31298414/venom-tom-hardy-film-review/"
+    },
+    {
+        "critic": "Ganesh Aaglave",
+        "is_top_critic": false,
+        "media": "Firstpost",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-11-02T22:58:10.000Z",
+        "quote": "It’s Tom Hardy show and as expected he hits the ball out of the park with his dual role of defamed journalist Eddie Brock and his alien alter-ego Venom. ",
+        "url": "https://www.firstpost.com/entertainment/venom-the-last-dance-movie-review-the-tom-hardy-show-is-an-enjoyable-affair-but-lacks-depth-13828623.html"
+    },
+    {
+        "critic": "Robert Roten",
+        "is_top_critic": false,
+        "media": "Laramie Movie Scope",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2024-11-02T20:16:10.000Z",
+        "quote": "This is a flawed, but enjoyable movie despite its inconsistencies. It is full of humanity and good-natured fun. There are some very nice moments between Eddie and Mrs. Chen, as well as between Eddie and Martin's young son, Leaf.",
+        "url": "http://www.lariat.org/AtTheMovies/new/venom3.html"
+    },
+    {
+        "critic": "Nicola Austin",
+        "is_top_critic": false,
+        "media": "Movie Marker",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-11-02T15:05:28.000Z",
+        "quote": "Despite featuring a Venom horse and Venom dancing with Mrs Chen to ABBA, this concluding instalment disappointingly shies away from what’s made the franchise the surprise hit for Sony – the kooky but surprisingly endearing Eddie Brock/Venom dynamic.",
+        "url": "https://moviemarker.co.uk/venom-the-last-dance-★★/"
+    },
+    {
+        "critic": "Chris Sawin",
+        "is_top_critic": false,
+        "media": "Bounding Into Comics",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-11-02T13:31:31.000Z",
+        "quote": "The Last Dance is entertaining because it’s chaotic and this bizarre bromance that is way more impactful than it should be is legitimately just one guy that enjoys making silly movies that barely make sense.",
+        "url": "https://boundingintocomics.com/movies/movie-reviews/venom-the-last-dance-review-new-york-venom/"
+    },
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": ".5/4",
+        "date": "2024-11-02T12:58:45.000Z",
+        "quote": "...mostly intolerable...",
+        "url": "https://reelfilm.com/venom-the-last-dance/"
+    },
+    {
+        "critic": "Tony Baker",
+        "is_top_critic": false,
+        "media": "Tony Baker Comedy",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-11-01T18:39:13.000Z",
+        "quote": "The action meant nothing, the villain meant nothing to me...",
+        "url": "https://www.youtube.com/watch?v=wRGpPlZtZMM"
+    },
+    {
+        "critic": "Mel Valentin",
+        "is_top_critic": false,
+        "media": "That Shelf",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-11-01T18:30:05.000Z",
+        "quote": "Ultimately, the set pieces in [Venom: The Last Dance] matter far less than the central, possibly only, reason to watch any entry in the Venom series: Tom Hardy as the put-upon, losing-at-life ex-journalist and his permanent houseguest. ",
+        "url": "https://thatshelf.com/venom-the-last-dance-review-once-more-but-with-less-feeling/"
+    },
+    {
+        "critic": "Sara Michelle Fetters",
+        "is_top_critic": true,
+        "media": "MovieFreak.com",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-11-01T07:31:06.000Z",
+        "quote": "Venom: The Last Dance is not some great comic book superhero masterpiece, and neither were the first two pieces of this trilogy. But Hardy and Marcel had a game plan and they steadfastly followed it all the way to the end. I respect that.",
+        "url": "http://moviefreak.com/venom-the-last-dance-2024-movie-review/"
+    },
+    {
+        "critic": "Larushka Ivan-Zadeh",
+        "is_top_critic": true,
+        "media": "Daily Mail (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-10-31T19:13:50.000Z",
+        "quote": "The comedy is below par, the set-pieces distinctly unmemorable and the plot holes are gaping.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-13999011/The-Room-Door-review-Tilda-Julianne-BRIAN-VINER.html"
+    },
+    {
+        "critic": "Jillian Chilingerian",
+        "is_top_critic": false,
+        "media": "Offscreen Central",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-31T17:59:18.000Z",
+        "quote": "Venom: The Last Dance is a sincere finale to one of the greatest love stories ever told: an ex-journalist and his gooey glutinous alien boyfriend.\n\n",
+        "url": "https://offscreencentral.com/2024/10/31/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-31T09:24:56.000Z",
+        "quote": "The trilogy has always featured some great actors and few inspired ideas, mostly buried under a mess of generic plotting and seemingly rushed special effects. If The Last Dance is the last we see the character, then he's going out exactly as he came in.",
+        "url": "https://www.stuff.co.nz/culture/360462674/stuff-watch-best-new-movies-see-and-avoid-kiwi-cinemas-labour-weekend"
+    },
+    {
+        "critic": "Marcelo Stiletano",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-30T23:59:29.000Z",
+        "quote": "The story advances without much conviction through a trajectory that wastes formulas, jokes, and even lines that are well-known from previous experiences in this same universe. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/venom-el-ultimo-baile-es-una-muestra-mas-de-la-fatiga-creativa-de-marvel-nid24102024/"
+    },
+    {
+        "critic": "Jake Wilson",
+        "is_top_critic": false,
+        "media": "The Age (Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-30T23:20:13.000Z",
+        "quote": "Billed as the final instalment of the Venom trilogy and feels like a contractual obligation for nearly everyone concerned.",
+        "url": "https://www.theage.com.au/culture/movies/tom-hardy-s-final-monster-mash-up-has-well-and-truly-lost-its-bite-20241021-p5kjzz.html"
+    },
+    {
+        "critic": "Randy Meeks",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-10-30T19:23:54.000Z",
+        "quote": "While the antihero deserved much more than this conclusion that does not commit to epicness-turned-into-content or a '90s buddy movie, [Venom: The Last Dance] has details that deserve some attention. [Full review in Spanish]",
+        "url": "https://www.espinof.com/criticas/venom-ultimo-baile-no-decepcionara-a-fans-peliculas-anteriores-sorprende-intenta"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Herald Sun (Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-30T18:24:20.000Z",
+        "quote": "The third and final episode in the Venom saga issues a third and final reminder that the world never really needed a Venom saga in the first place. ",
+        "url": "https://www.heraldsun.com.au/entertainment/movies/leigh-paatsch/saturday-night-captures-seismic-moment-in-snl-history/news-story/e35971acde0db1f641a69c69e59edebe"
+    },
+    {
+        "critic": "Tom Beasley",
+        "is_top_critic": false,
+        "media": "The Popcorn Muncher (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-30T15:41:08.000Z",
+        "quote": "If you can’t enjoy Tom Hardy sitting in stony silence while his alien lover croons along joyfully to Space Oddity inside his head, then I don’t know what to tell you.",
+        "url": "https://thepopcornmuncher.substack.com/p/venoms-last-dance-comes-with-two"
+    },
+    {
+        "critic": "Kim Newman",
+        "is_top_critic": false,
+        "media": "SciFiNow",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-30T01:22:09.000Z",
+        "quote": "Overloaded with cartoonish CGI action scenes and non-stop patter, this is never less than entertaining – though it’s also pretty disposable.  ",
+        "url": "https://www.scifinow.co.uk/reviews/venom-the-last-dance-disposable-but-entertaining/"
+    },
+    {
+        "critic": "Sarah-Tai Black",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-30T01:13:44.000Z",
+        "quote": "The Last Dance remains steadfast in the franchise’s commitment to storytelling that, like a pot of water that never quite hits boiling point, is neither so-bad-it’s-good nor so bad it’s raucously entertaining, even if only unintentionally so.",
+        "url": "https://www.theglobeandmail.com/arts/film/reviews/article-venom-the-last-dance-is-a-clumsy-final-outing-for-the-franchise/"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-30T00:41:27.000Z",
+        "quote": "This movie is Eddie and Venom’s story. Take out all the extra plot and characters and it is still about these two needing each other. ",
+        "url": "https://www.themarysue.com/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "KT Mahe",
+        "is_top_critic": false,
+        "media": "For Your Reference Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-30T00:23:52.000Z",
+        "quote": "An adequate goodbye to a fun trilogy that dared to have fun before the world building got too serious.",
+        "url": "https://fyrpodcast.com/episode/venom-symbiote-semantics/"
+    },
+    {
+        "critic": "Oti",
+        "is_top_critic": false,
+        "media": "For Your Reference Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-30T00:23:09.000Z",
+        "quote": "A missed opportunity for a great send-off. Too many new elements made it feel like a reset instead of a finale. Still fun, but lacked the punch I hoped for.",
+        "url": "https://fyrpodcast.com/episode/venom-symbiote-semantics/"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-29T20:57:55.000Z",
+        "quote": "Venom: The Last Dance is the agonizing death rattle for what might be the most irritating series of superhero movies within the past 25 years, but it does contain one tolerable, even slightly amusing, stretch\n",
+        "url": "https://www.flickeringmyth.com/movie-review-venom-the-last-dance-2024/"
+    },
+    {
+        "critic": "Pablo O. Scholz",
+        "is_top_critic": false,
+        "media": "Clarín",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-10-29T19:19:40.000Z",
+        "quote": "Venom ran out of naphtha and gasoline in its second outing. [Full review in Spanish]",
+        "url": "https://www.clarin.com/espectaculos/termina-venom-saga-tonta-marvel-ahora-rie-multiverso_0_JG7ddytQwl.html"
+    },
+    {
+        "critic": "Rich Cline",
+        "is_top_critic": false,
+        "media": "Shadows on the Wall",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-29T19:04:25.000Z",
+        "quote": "Funny and warm, even if elements are pasted together without much regard for logic. Indeed, the narrative relies far too heavily on coincidence.",
+        "url": "http://www.shadowsonthewall.co.uk/24/venolast.htm"
+    },
+    {
+        "critic": "Mark Meszoros",
+        "is_top_critic": false,
+        "media": "The News-Herald (Willoughby, OH)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-10-29T17:54:48.000Z",
+        "quote": "There is some fun along the way, such as the moment from the promotional footage in which Venom overtakes a horse to super-charge it, but there’s nothing special to be found in The Last Dance.",
+        "url": "https://www.news-herald.com/2024/10/23/venom-the-last-dance-review-trilogy-closer-stronger-than-carnage-at-least/"
+    },
+    {
+        "critic": "David Jenkins",
+        "is_top_critic": false,
+        "media": "Little White Lies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-29T17:30:04.000Z",
+        "quote": "The film is, for the most part, a litany of bad, embarrassing or lowest-common-denominator choices, and it’s unsurprising that the love interest from previous films, Michelle Williams, has opted to cut and run with this new one. ",
+        "url": "https://lwlies.com/reviews/venom-the-last-dance/"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Me gusta el cine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-29T16:13:56.000Z",
+        "quote": "It's more of the same, just more uninspired. It feels like a forced ending, with a tone that vacillates between sentimental and ridiculous, and that never manages to develop its ideas well, even if most of them are unoriginal. Full review in Spanish.",
+        "url": "https://megustaelcine.com/critica-venom-el-ultimo-baile-un-simbiote-con-dos-pies-izquierdos/"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-10-29T04:19:11.000Z",
+        "quote": "It relies so little on real actors doing real acting that it might as well be animated. It’s loud, chaotic, and not the least bit interesting.",
+        "url": "https://www.reelviews.net/reelviews/venom-the-last-dance"
+    },
+    {
+        "critic": "Korey Coleman",
+        "is_top_critic": false,
+        "media": "Double Toasted",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-29T03:38:02.000Z",
+        "quote": "Venom: The Last Dance is an improvement over the previous two movies. I finally accept Eddie Brock and Venom as a comedy duo.",
+        "url": "https://www.youtube.com/watch?v=H5NMV2HkMPU"
+    },
+    {
+        "critic": "Rendy Jones",
+        "is_top_critic": false,
+        "media": "Rendy Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-28T22:43:52.000Z",
+        "quote": "In typical Sony/Marvel fashion, I got another horrendous mess. Also in typical Sony/Marvel fashion, I had a blast.",
+        "url": "https://rendyreviews.com/movie-reviews/venom-the-last-dance-review"
+    },
+    {
+        "critic": "Joseph Garcia",
+        "is_top_critic": false,
+        "media": "Dynamic Duel Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-28T21:00:05.000Z",
+        "quote": "The film offers a heartfelt farewell to the franchise, while unexpectedly breathing new life into it — resulting in an uneven but mostly enjoyable experience.",
+        "url": "https://www.dynamicduel.com/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Nick Hasted",
+        "is_top_critic": false,
+        "media": "The Arts Desk",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-10-28T20:35:12.000Z",
+        "quote": "Venom is a visually interesting creation, with his Alien knock-off, knife-toothed predator’s head belied by big, wet eyes, but the weightless digital punch-ups feel unreal, and being asked to shed a tear for the head-chomping lug is too much.",
+        "url": "https://www.theartsdesk.com/film/venom-last-dance-review-tom-hardys-people-eater-bows-out"
+    },
+    {
+        "critic": "Tori Preston",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-28T20:22:18.000Z",
+        "quote": "In the end, Venom: The Last Dance is just another comic book movie.",
+        "url": "https://www.pajiba.com/film_reviews/venom-the-last-dance-review-sony-squandered-a-sure-thing.php"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-28T20:17:02.000Z",
+        "quote": "Hardy is a highlight, playing Eddie as a man who has had more than enough of the party that's raging in his head, but Kelly Marcel's film is a sloppy, incoherent let-down.",
+        "url": "https://www.theguardian.com/film/2024/oct/27/venom-the-last-dance-review-tom-hardys-jaded-antihero-carries-messy-marvel-finale"
+    },
+    {
+        "critic": "Ilan Preskovsky",
+        "is_top_critic": false,
+        "media": "Channel24 (South Africa)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-28T19:48:40.000Z",
+        "quote": "As Last Dances go, then, it's less an impeccably choreographed waltz than a bizarre bit of freestyle where the most fun part is watching the dancer fall all over himself. Which is not without its appeal, but it's not enough to sustain it for two hours. ",
+        "url": "https://www.news24.com/life/arts-and-entertainment/film/reviews/review-venom-the-last-dance-is-a-chaotic-tango-of-comedy-horror-and-alien-mayhem-20241028"
+    },
+    {
+        "critic": "Nick Johnston",
+        "is_top_critic": false,
+        "media": "Vanyaland",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-28T18:03:12.000Z",
+        "quote": "Alas, there are too many competing energies here to let the movie breathe.",
+        "url": "https://vanyaland.com/2024/10/25/venom-the-last-dance-review-a-franchises-death-knull/"
+    },
+    {
+        "critic": "Tim Brennan",
+        "is_top_critic": false,
+        "media": "About Boulder",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-28T17:57:33.000Z",
+        "quote": "When Venom: The Last Dance leans into the weirdness and steps away from standard plot points, it pushes the envelope of the genre in an unexpected direction. More of that, please.",
+        "url": "https://aboutboulder.com/blog/bisexual-space-monster-rom-com-a-go-go/"
+    },
+    {
+        "critic": "Abbie Bernstein",
+        "is_top_critic": false,
+        "media": "Assignment X",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-10-28T17:56:40.000Z",
+        "quote": "The good news is that it’s energetic and fun.",
+        "url": "https://www.assignmentx.com/2024/movie-review-venom-the-last-dance/"
+    },
+    {
+        "critic": "Shawn Edwards",
+        "is_top_critic": false,
+        "media": "Fox 4 Kansas City",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-28T17:53:48.000Z",
+        "quote": "It's a popcorn movie by every definition of a popcorn movie at every level. ",
+        "url": "https://www.youtube.com/watch?v=qd-Cc710w2k&list=PLYIuAMO7HHjjMBXV3sEz6ssmoX3rvevyL&index=3"
+    },
+    {
+        "critic": "Victor Recinos",
+        "is_top_critic": false,
+        "media": "Cine Premiere",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-28T17:52:07.000Z",
+        "quote": "Tom Hardy and Kelly Marcel achieve the perfect symbiosis, making Venom 3: The Last Dance an intense and emotional closing of the trilogy for the lethal protector. [Full review in Spanish]",
+        "url": "https://cinepremiere.com.mx/venom-3-el-ultimo-baile-critica-de-la-pelicula.html"
+    },
+    {
+        "critic": "Alci Rengifo",
+        "is_top_critic": false,
+        "media": "Entertainment Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-28T17:50:09.000Z",
+        "quote": "“Venom” as a franchise works as a comic book cousin of “Lethal Weapon” or any other popular series featuring an entertaining, mismatched duo.",
+        "url": "https://entertainmentvoice.com/2024/10/24/venom-the-last-dance-gives-tom-hardy-one-final-absurdist-ride-with-his-alien-buddy/"
+    },
+    {
+        "critic": "Vincent Mancini",
+        "is_top_critic": false,
+        "media": "The #Content Report (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "B-",
+        "date": "2024-10-28T17:12:33.000Z",
+        "quote": "The weakest of the franchise by virtue of it having to do the most franchise stuff. And yet, the central concept, of Tom Hardy having an alien imaginary friend who makes him do cool stuff, still plays.",
+        "url": "https://vincemancini.substack.com/p/venom-last-dance-review-mancini?r=2cg5qw&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true&triedRedirect=true"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-10-28T17:08:47.000Z",
+        "quote": "If you didn’t like the first two movies, you won’t feel differently about this. But if these movies scratch your guilty pleasure brain like me, then have at it.",
+        "url": "https://www.comingsoon.net/movies/reviews/1870607-venom-the-last-dance-review-an-insane-guilty-pleasure"
+    },
+    {
+        "critic": "Austin Burke",
+        "is_top_critic": false,
+        "media": "Austin Burke/Flick Fan Nation",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-10-28T16:12:17.000Z",
+        "quote": "The Last Dance is cheesy, yet it showcases the relationship between our title character and his symbiote beautifully. The biggest mishap is the jumbled mess of a story, as it nonsensically jumps around for 90 minutes straight.",
+        "url": "https://youtu.be/kLrHMX2AOlk"
+    },
+    {
+        "critic": "Joshua Starnes",
+        "is_top_critic": false,
+        "media": "Firing the Canon",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2024-10-28T00:21:48.000Z",
+        "quote": "Nothing but random scenes which go nowhere but eat up screen time allowing for a technically feature length film to be attached to the appropriate numeral of related derivations to separate suckers from their money.",
+        "url": "https://www.firingthecanon.net/blog/venom-the-last-dance"
+    },
+    {
+        "critic": "Kevin Carr",
+        "is_top_critic": false,
+        "media": "Fat Guys at the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-10-27T21:34:11.000Z",
+        "quote": "A surprisingly good cast – including Tom Hardy, Juno Temple, and Chewitel Ejiofor – struggle to carry the silly script, which feels like it was written by a group of hyperactive children on a diet of sugar cereal and Pixy Stix.",
+        "url": "https://www.fatguysatthemovies.com/venom-the-last-dance-movie-review/"
+    },
+    {
+        "critic": "Diego Batlle",
+        "is_top_critic": false,
+        "media": "Otroscines.com",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-10-27T20:39:29.000Z",
+        "quote": "The movie navigates through a thematic, narrative, and visual mediocrity that isn't bothersome but is not too surprising either. [Full review in Spanish]",
+        "url": "https://www.otroscines.com/nota-20853-critica-de-venom-el-ultimo-baile-venom-the-last-dance-p"
+    },
+    {
+        "critic": "Evan Dossey",
+        "is_top_critic": false,
+        "media": "Midwest Film Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-27T19:57:26.000Z",
+        "quote": "It’s commendable that Hardy and co. managed to serve up three goofy takes on an inherently absurd character that remained emotionally honest right up until the very end",
+        "url": "https://midwestfilmjournal.com/2024/10/27/venom-the-last-dance/"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "JoySauce.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-27T15:27:45.000Z",
+        "quote": "Hardy, Marcel and co. seem to genuinely love these characters. It's unfortunate that the remaining majority of the runtime is a headache and a half, but as Marvel movies at large begin to wane in quality and cultural relevance, we'll take what we can get.",
+        "url": "https://joysauce.com/venom-the-last-dance-is-a-hilariously-sincere-road-trip/"
+    },
+    {
+        "critic": "Charlotte Simmons",
+        "is_top_critic": false,
+        "media": "We Got This Covered",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2024-10-26T22:02:50.000Z",
+        "quote": "Boarding the long-steamless train of the infamous SSU, 'Venom: The Last Dance' spreads the franchise's desperate joylessness to a nauseating degree.",
+        "url": "https://wegotthiscovered.com/reviews/review-venom-the-last-dance-is-in-cinemas-right-now-and-we-should-all-take-that-as-a-threat/"
+    },
+    {
+        "critic": "Katie Walsh",
+        "is_top_critic": true,
+        "media": "Tribune News Service",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-10-26T21:58:39.000Z",
+        "quote": "Though the concept itself is running out of gas, and it would be nice to free up Hardy to do other things, it’s a fitting sendoff for the cheeky alien with the thousand-watt grin.\n\n",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2024-10-24/venom-the-last-dance-review-tom-hardy-marvel-sony"
+    },
+    {
+        "critic": "Sarah Marrs",
+        "is_top_critic": false,
+        "media": "Lainey Gossip",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-26T19:00:27.000Z",
+        "quote": "Expect less and never be disappointed.",
+        "url": "https://www.laineygossip.com/review-venom-the-last-dance-is-about-fan-service-tom-hardys-love-of-dogs/80110"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-26T16:56:29.000Z",
+        "quote": "The bizarre choices made in several departments from the storytelling to the performances have effectively turned the once-cool character into the movie equivalent of Elon Musk repeatedly jumping on the stage at a Trump rally. ",
+        "url": "https://filmfeeder.co.uk/film-reviews/venom-the-last-dance-2024-dir-kelly-marcel"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-26T14:23:21.000Z",
+        "quote": "It still may muster up enough to satisfy the Venom die-hards (assuming they exist). But most everyone else will just be happy the series has come to an end.",
+        "url": "https://keithandthemovies.com/2024/10/26/review-venom-the-last-dance-2024/"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-26T09:09:32.000Z",
+        "quote": "…audiences will be glad to see the back of this adolescent, childish sequence of films; when the highlight of a trilogy turns out to be a clip from another movie, it’s time to pack up and go home; the Venom franchise is thankfully Knull-and-void….",
+        "url": "https://film-authority.com/2024/10/26/venom-the-last-dance/"
+    },
+    {
+        "critic": "Nelson Acosta",
+        "is_top_critic": false,
+        "media": "Koimoi",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-10-26T05:47:02.000Z",
+        "quote": "Venom: The Last Dance channels a forgotten '90s trilogy vibe, delivering laughs and action but often tipping into absurdity.",
+        "url": "https://www.koimoi.com/reviews/hollywood-movie-reviews/venom-the-last-dance-movie-review-tom-hardy-says-goodbye-to-venom-with-a-safe-and-forgettable-film-that-makes-it-clear-the-superhero-genre-is-in-crisis/"
+    },
+    {
+        "critic": "Jeffrey Harris",
+        "is_top_critic": false,
+        "media": "411mania",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2024-10-26T04:36:09.000Z",
+        "quote": "The film is another poorly thought-out attempt by Sony to create the studio's own version of the MCU, using Spider-Man family characters who cannot and will not interact with Spider-Man on the big screen. ",
+        "url": "https://411mania.com/movies/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Marya E. Gates",
+        "is_top_critic": false,
+        "media": "Cool People Have Feelings, Too. (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-26T00:58:09.000Z",
+        "quote": "This is the weakest of the three, mostly because it has too many action set pieces and not as much alone time for our favorite dysfunctional couple.",
+        "url": "https://oldfilmsflicker.substack.com/p/im-with-you-to-the-end"
+    },
+    {
+        "critic": "Whang Yee Ling",
+        "is_top_critic": false,
+        "media": "The Straits Times (Singapore)",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-10-25T23:46:53.000Z",
+        "quote": "The low-stakes adventure has nowhere to go except into the mandated comic-book action climax. It is a confusion of slimy tentacled computer-effects as Eddie/Venom, plus every character new and recurring...",
+        "url": "https://www.straitstimes.com/life/entertainment/at-the-movies-venom-the-last-dance-out-of-step-christopher-reeve-docu-an-emotional-tribute"
+    },
+    {
+        "critic": "Paul Klein",
+        "is_top_critic": false,
+        "media": "FILMHOUNDS Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-25T21:50:23.000Z",
+        "quote": "Your enjoyment of the film may depend on how much you ship SymBrock, and how much that can carry through.",
+        "url": "https://filmhounds.co.uk/2024/10/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "James Grebey",
+        "is_top_critic": false,
+        "media": "TIME Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-25T21:33:21.000Z",
+        "quote": "In a franchise full of Spider-Man wannabes, the one most associated with Spidey ended up being the most successful because it was about a true connection rather than tenuous connections between multiversal IP.",
+        "url": "https://time.com/7098770/venom-the-last-dance-sony-spider-man/"
+    },
+    {
+        "critic": "Luis Martínez ",
+        "is_top_critic": false,
+        "media": "El Mundo (Spain)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-10-25T21:03:08.000Z",
+        "quote": "So bad that it seems to be done on purpose. [Full review in Spanish]",
+        "url": "https://www.elmundo.es/cultura/cine/2024/10/24/671a7941e85ece423c8b45ac.html"
+    },
+    {
+        "critic": "Damond Fudge",
+        "is_top_critic": false,
+        "media": "KCCI (Des Moines, IA)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-25T19:01:04.000Z",
+        "quote": "Venom: The Last Dance continues the tradition of being better than the previous one. It’s a rollicking adventure that’s not only a great wrap up to these characters, but it’s simply good old fashioned entertainment for entertainment’s sake.",
+        "url": "https://bit.ly/48u7wuT"
+    },
+    {
+        "critic": "Charles Pulliam-Moore",
+        "is_top_critic": false,
+        "media": "The Verge",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-25T16:24:50.000Z",
+        "quote": "The Last Dance doesn’t exactly deliver on the iffy but intriguing comic madness Sony has been teasing, it does bring this gooey, gory bit of ridiculous adaptation to a fitting end.",
+        "url": "https://www.theverge.com/2024/10/24/24277702/venom-the-last-dance-review"
+    },
+    {
+        "critic": "Aglaia Berlutti",
+        "is_top_critic": false,
+        "media": "El estímulo",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-25T16:11:10.000Z",
+        "quote": "“Venom: The Last Dance” is the best of the trilogy. But that's not saying much, in a saga that tends toward the mediocre and boring all too often. [Full Review in Spanish]\n",
+        "url": "https://elestimulo.com/ub/cinemania/2024-10-25/asi-es-venom-el-ultimo-baile/"
+    },
+    {
+        "critic": "Jonathan W. Hickman",
+        "is_top_critic": false,
+        "media": "The Newnan Times-Herald",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-10-25T15:43:16.000Z",
+        "quote": "“The Last Dance” is a terribly uneven mix of PG-13 comic book violence and cutesy characterizations that often fall utterly flat.",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/weekend-movie-reviews/article_ef480794-92df-11ef-b43a-031c82f9c778.html"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-10-25T15:39:54.000Z",
+        "quote": "Like its predecessors, Venom: The Last Dance isn’t particularly good; also like its predecessors, however, it’s strangely watchable.",
+        "url": "https://www.thebulwark.com/p/prime-videos-election-night-plans"
+    },
+    {
+        "critic": "Leo Brady",
+        "is_top_critic": false,
+        "media": "AMovieGuy.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-10-25T15:06:54.000Z",
+        "quote": "Venom: The Last Dance attempts to provide a final stamp on this goofy saga, but only leaves us confused with bad jokes, lackluster CGI, and a mindless plot.",
+        "url": "https://amovieguy.com/2024/10/venom-the-last-dance/"
+    },
+    {
+        "critic": "Dylan Roth",
+        "is_top_critic": false,
+        "media": "Observer",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-10-25T14:52:13.000Z",
+        "quote": "This sort-of concluding chapter to the Venom trilogy skates by on Tom Hardy's charm, with things simply happening, one after another, generating zero suspense.",
+        "url": "https://observer.com/2024/10/venom-the-last-dance-review-brainless-and-disjointed/"
+    },
+    {
+        "critic": "Matt Lynch",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-25T13:46:03.000Z",
+        "quote": "A supremely silly thing that can in no way be regarded as anything but objectively bad but which nevertheless is just idiosyncratic and amusing enough to offer viewers a genuinely decent time.",
+        "url": "https://inreviewonline.com/venom-the-last-dance/"
+    },
+    {
+        "critic": "Sean Collier",
+        "is_top_critic": false,
+        "media": "Pittsburgh Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-10-25T13:29:41.000Z",
+        "quote": "I think I’m giving [the filmmakers] credit, then, by ascribing the film’s problems to apathy. If it’s not apathy, it’s incompetence.",
+        "url": "https://www.pittsburghmagazine.com/movie-review-venom-the-last-dance/"
+    },
+    {
+        "critic": "Lou Thomas",
+        "is_top_critic": false,
+        "media": "NME (New Musical Express)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-25T11:28:34.000Z",
+        "quote": "It’s not big or clever but it is enjoyable",
+        "url": "https://www.nme.com/reviews/film-reviews/venom-the-last-dance-review-tom-hardy-3806250"
+    },
+    {
+        "critic": "Joe Lipsett",
+        "is_top_critic": false,
+        "media": "Queer.Horror.Movies.",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-25T03:45:24.000Z",
+        "quote": "As a popcorn flick where you park your brain and enjoy watching Venom bite off people’s heads for an hour and forty minutes, it’s dumb fun",
+        "url": "https://www.queerhorrormovies.com/venom-the-last-dance-is-dumb-silly-fun-review/"
+    },
+    {
+        "critic": "Kurt Loder",
+        "is_top_critic": false,
+        "media": "Creators Syndicate",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-25T03:17:32.000Z",
+        "quote": "The endless space-monster battles suggest, more than anything else, digital cockroach frenzies. ",
+        "url": "https://www.creators.com/read/screener/10/24/venom-the-last-dance-not-a-moment-too-soon"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-10-25T00:45:29.000Z",
+        "quote": "An appropriately awful finale to one of the worst movie trilogies ever.",
+        "url": "https://aisleseat.com/venom-the-last-dance.html"
+    },
+    {
+        "critic": "Richard Roeper",
+        "is_top_critic": true,
+        "media": "Chicago Sun-Times",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-10-25T00:42:56.000Z",
+        "quote": "Sure, there’s a ton of PG-13 violence and lots of explosions, but their last dance is still more of an affectionate tango than a hardcore mosh.",
+        "url": "https://chicago.suntimes.com/movies-and-tv/2024/10/23/venom-the-last-dance-review-tom-hardy-movie-marvel"
+    },
+    {
+        "critic": "Amy Nicholson",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-24T23:13:35.000Z",
+        "quote": "Honestly, I’d rather watch Eddie and Venom dicker over pizza toppings than team up for something as banal as saving the planet.",
+        "url": "https://www.nytimes.com/2024/10/24/movies/venom-the-last-dance-review.html"
+    },
+    {
+        "critic": "Murjani Rawls",
+        "is_top_critic": false,
+        "media": "Substream Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-24T22:01:43.000Z",
+        "quote": "“The Last Dance” doesn’t feel like a substantive end to an overall trilogy- it often flaunts that it’s not the end of the story.  At least we know humans and aliens can co-exist!",
+        "url": "https://substreammagazine.com/2024/10/venom-the-last-dance-review-is-this-the-end-my-alien-friend/"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2024-10-24T21:40:51.000Z",
+        "quote": "For a movie claiming to be the “final” installment, it concludes with a whimper, failing to raise the stakes enough to make you care about the fate of the main character and those around him.",
+        "url": "https://www.theonlycritic.com/post/venom-the-last-dance-review-bizarre-franchise-ends-on-a-sour-note"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-24T21:10:11.000Z",
+        "quote": "Follows suit with the previous two films, embracing the ridiculous and silly, while also throwing in quite a bit of heart. It does not take itself seriously, which makes for a fun watch. ",
+        "url": "https://mamasgeeky.com/2024/10/venom-the-last-dance-review.html"
+    },
+    {
+        "critic": "Chris Knight",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2024-10-24T21:00:35.000Z",
+        "quote": "The final chapter in the story of Eddie Brock (Tom Hardy) and his alien symbiote is also the worst, little more than a long chase scene as alien and human forces try to capture Venom. ",
+        "url": "https://www.original-cin.ca/posts/2024/10/24/venom-the-last-dance-no-one-truly-no-one-will-be-shouting-for-an-encore"
+    },
+    {
+        "critic": "Dhaval Roy",
+        "is_top_critic": false,
+        "media": "The Times of India",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-24T20:37:21.000Z",
+        "quote": "The film leans heavily into fan service, and the bromance between Eddie and Venom is enjoyable. However, in terms of overall engagement and thrill, it's likely a one-time watch.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/venom-the-last-dance/movie-review/114556064.cms"
+    },
+    {
+        "critic": "Lee McCoy",
+        "is_top_critic": false,
+        "media": "DrumDums",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2024-10-24T20:34:42.000Z",
+        "quote": "Once again a character that should be foreboding and menacing is turned into a 3 Stooges sidekick. There's so many thin plotlines that don't amount to much, and we get a CGI vomit fest in the final act. Bravo.",
+        "url": "https://youtu.be/qD4ktc_tGks"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-10-24T18:13:24.000Z",
+        "quote": "More an interspecies bromance comedy than end of the world movie, Venom: The Last Dance is a frat party of a film, complete with swearing, booze, dancing and a disregard for the rules (in this case, the rules of storytelling).",
+        "url": "https://richardcrouse.ca/venom-the-last-dance-2-½-stars-more-an-interspecies-bromance-than-end-of-the-world-movie/"
+    },
+    {
+        "critic": "Andrew Parker",
+        "is_top_critic": false,
+        "media": "The Gate",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2024-10-24T18:11:58.000Z",
+        "quote": "When Hardy is on screen, Venom: The Last Dance is a bad movie, but at least a palatable one. Whenever he’s not, it’s positively unbearable.",
+        "url": "https://www.thegate.ca/film/067739/venom-the-last-dance-review-going-out-in-a-blaze-of-boring/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-10-24T18:06:43.000Z",
+        "quote": "For what’s meant to be Hardy’s swan song, the offering doesn’t carry the proper weight of finality. Or any big laughs.",
+        "url": "https://www.blu-ray.com/Venom-The-Last-Dance/1703191/#Review"
+    },
+    {
+        "critic": "Nell Minow",
+        "is_top_critic": true,
+        "media": "Movie Mom",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-10-24T18:02:33.000Z",
+        "quote": "Its foundation is still comic-book, but its heart is a goofy buddy-movie, with Eddie (Hardy) happy to call on his wisecracking “friend” Venom to kick bad-guy butt and just to keep him company.",
+        "url": "https://moviemom.com/venom-the-last-dance/"
+    },
+    {
+        "critic": "Lisa Laman",
+        "is_top_critic": false,
+        "media": "Culturess",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-24T17:50:24.000Z",
+        "quote": "The Last Dance is a better creation that’s painless to sit through.",
+        "url": "https://culturess.com/the-messy-venom-the-last-dance-uncovers-fun-improvements-on-its-middling-predecessors-01jawxzxfd1w"
+    },
+    {
+        "critic": "Susana Polo",
+        "is_top_critic": false,
+        "media": "Polygon",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-24T17:47:34.000Z",
+        "quote": "Venom: The Last Dance is so buried under its moving parts that it can’t do justice to any of them, in spite of Marcel’s efforts. ",
+        "url": "https://www.polygon.com/review/469476/venom-3-the-last-dance-tom-hardy-knull"
+    },
+    {
+        "critic": "Richard Whittaker",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-24T17:44:41.000Z",
+        "quote": "Somehow, The Last Dance is simultaneously 20 minutes too long for the script they have and 30 minutes too short for the story they want to tell. ",
+        "url": "https://www.austinchronicle.com/events/film/2024-10-25/venom-the-last-dance/"
+    },
+    {
+        "critic": "Johnny Oleksinski",
+        "is_top_critic": false,
+        "media": "New York Post",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-10-24T17:41:30.000Z",
+        "quote": "The ending means to stir our emotions, and it does inspire one: relief that it’s over.",
+        "url": "https://nypost.com/2024/10/23/entertainment/venom-the-last-dance-review-moronic-alien-trilogy-finally-ends/"
+    },
+    {
+        "critic": "Edgar Ortega",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-10-24T17:37:26.000Z",
+        "quote": "The third installment is about as good as the previous two entries in the franchise; it’s as generic as the first one, and as cartoony as the second. Venom: The Last Dance is not good, but I had a blast watching it.",
+        "url": "https://loudandclearreviews.com/venom-the-last-dance-film-review/"
+    },
+    {
+        "critic": "Kevin Maher",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-10-24T16:44:29.000Z",
+        "quote": "Sigh.",
+        "url": "https://www.thetimes.com/culture/film/article/venom-the-last-dance-film-review-tom-hardy-hwz6sqczs"
+    },
+    {
+        "critic": "Shelagh Rowan-Legg",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-24T15:38:45.000Z",
+        "quote": " Venom: The Last Dance is perhaps not as strong as the previous entry, but it keeps its focus on the best parts (Tom Hardy's incredible performance), and at least at under 2 hours, it does not overstay its welcome, which is refreshing.",
+        "url": "https://screenanarchy.com/2024/10/venom-the-last-dance-review-third-times-sort-of-the-charm.html"
+    },
+    {
+        "critic": "Chris Bumbray",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-24T15:03:54.000Z",
+        "quote": "Spins its wheels for the first hour, but has a pretty good last half hour.",
+        "url": "https://www.joblo.com/venom-the-last-dance-review-does-the-franchise-end-on-a-high/"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-24T14:40:36.000Z",
+        "quote": "One would think \"The Last Dance\" implies a big climax. Instead, we get a flaccid, predictable romp that seems to only exist to set up a fourth installment.",
+        "url": "https://youtu.be/fqO6WKk_PTY"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-10-24T14:03:22.000Z",
+        "quote": "One can feel the sense of grudging obligation behind every element of Venom: The Last Dance.",
+        "url": "http://www.markreviewsmovies.com/reviews/V/venom3.htm"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-10-24T13:40:04.000Z",
+        "quote": "Venom: The Last Dance will have you laughing and cheering out loud while also fighting boredom in a strained narrative that feels much longer than its runtime. The third and supposedly final installment can best be described as uneven.",
+        "url": "https://movieweb.com/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Brent Hankins",
+        "is_top_critic": false,
+        "media": "The Lamplight Review",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-10-24T12:30:54.000Z",
+        "quote": "There’s enough of the Eddie/Venom dynamic to keep fans engaged, but the movie’s insistence on prioritizing plot-heavy exposition and unnecessary subplots holds it back from being the chaotic, joyful mess it could have been.",
+        "url": "https://lamplightreview.com/venom-the-last-dance-movie-review/"
+    },
+    {
+        "critic": "Howard Waldstein",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Rotten 🤢",
+        "score": "1/10",
+        "date": "2024-10-24T10:04:08.000Z",
+        "quote": "Venom 3 rivals Joker 2 for worst superhero movie of all time.",
+        "url": "https://www.cbr.com/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Josh Bell",
+        "is_top_critic": false,
+        "media": "Tom's Guide",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-24T10:03:21.000Z",
+        "quote": "It's a chaotic, often incoherent plot that makes poor use of elements from the previous movies as well as mythology from Marvel's recent Venom comic books.",
+        "url": "https://www.tomsguide.com/entertainment/streaming/venom-the-last-dance-is-a-ridiculous-mess-just-like-the-rest-of-the-superhero-trilogy"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2024-10-24T07:19:59.000Z",
+        "quote": "Too moronic for it to earn the emotional weight it clearly wants to project.",
+        "url": "https://www.theaureview.com/watch/film-review-venom-the-last-dance/"
+    },
+    {
+        "critic": "Fico Cangiano",
+        "is_top_critic": false,
+        "media": "CineXpress",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-10-24T04:59:39.000Z",
+        "quote": "Tom Hardy's batshit crazy dual performance keeps being the bright spot of the franchise. The rest? Leaves much to be desired for a finale - Knull included. [Full review in Spanish]",
+        "url": "https://cinexpresspr.com/site/2024/10/24/resena-venom-the-last-dance/"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-10-24T03:36:16.000Z",
+        "quote": "Everything looks and sounds the same in what is a stamped-out popcorn-pushing time killer. It’s passable, but the creature designs look too familiar while the frenetic action scenes feature an edit about once every second, which are tough on the glazzies.",
+        "url": "https://tinyurl.com/yn39erww"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-24T03:27:13.000Z",
+        "quote": "An asinine, exhausting and tedious mess with choppy editing and not nearly enough laughs or thrills.",
+        "url": "http://nycmovieguru.com/oct25th24.html#venom3"
+    },
+    {
+        "critic": "Anthony O'Connor",
+        "is_top_critic": false,
+        "media": "FILMINK (Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "9.5/20",
+        "date": "2024-10-24T02:26:21.000Z",
+        "quote": "... an overstuffed yet somehow stunningly simplistic flick that feels more like an excuse to execute stupid but cool ideas ...",
+        "url": "https://www.filmink.com.au/reviews/venom-the-last-dance/"
+    },
+    {
+        "critic": "Jake Coyle",
+        "is_top_critic": false,
+        "media": "Associated Press",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-24T00:10:26.000Z",
+        "quote": "I kept rooting for the surprisingly lifeless “The Last Dance” to pull way back on its save-the-world plot (and its CGI) and lean more into its most potent effect: Hardy’s split-personality double act.",
+        "url": "https://apnews.com/article/venom-last-dance-movie-review-tom-hardy-5204cd5299173078220be0cdd3705967"
+    },
+    {
+        "critic": "Abby Olcese",
+        "is_top_critic": false,
+        "media": "The Pitch",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-24T00:02:45.000Z",
+        "quote": "In a series where messiness is encouraged, Venom: The Last Dance is unforgivably sloppy. ",
+        "url": "https://www.thepitchkc.com/venom-the-last-dance-forgets-its-signature-moves-and-drunkenly-stumbles-through-the-grand-finale/"
+    },
+    {
+        "critic": "Brandon Avery",
+        "is_top_critic": false,
+        "media": "Just My Opinion Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "4.5/10",
+        "date": "2024-10-23T23:56:22.000Z",
+        "quote": "Could never accept such a goofy/silly character. Venom The Last Dance is a fun, wild, hot mess. There's too much plot that's never explained. Events just happen randomly with no payoff, with a big action scene towards the end. ",
+        "url": "https://www.justmyopinion.net/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Rodrigo Perez",
+        "is_top_critic": false,
+        "media": "The Playlist",
+        "sentiment": "Rotten 🤢",
+        "score": "D-",
+        "date": "2024-10-23T23:40:39.000Z",
+        "quote": "Sony faceplants again with “Venom: The Last Dance,” a disposable lark arguably more dull than horrible but so excruciatingly tedious it circles back to atrocious.",
+        "url": "https://theplaylist.net/venom-the-last-dance-review-a-painfully-forgettable-tango-to-the-bottom-of-the-dust-heap-20241023/"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T22:52:54.000Z",
+        "quote": "Venom: The Last Dance is so sloppily made and uninteresting, it's an example of a sequel that doesn't need to exist. Talented cast members are stuck in this dull and predictable comic book movie.",
+        "url": "https://culturemixonline.com/review-venom-the-last-dance-starring-tom-hardy-chiwetel-ejiofor-juno-temple-rhys-ifans-stephen-graham-peggy-lu-and-alanna-ubach/"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-10-23T21:42:57.000Z",
+        "quote": "The bar has been lowered enough it’s excusable that it’s not very good, either, because at least it has the balls to be off-the-chain nutty, a goopy send-off to the oddest couple in all of Marvel.",
+        "url": "https://punchdrunkcritics.com/2024/10/review-venom-the-last-dance/"
+    },
+    {
+        "critic": "Christy Lemire",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-10-23T21:40:05.000Z",
+        "quote": "When it leans hard into the inherent absurdity of its wacky, mismatched buddy antics, “Venom: The Last Dance” can be a total blast. Unfortunately, that doesn’t happen nearly as often as it should. ",
+        "url": "https://www.rogerebert.com/reviews/venom-3-the-last-dance-film-review"
+    },
+    {
+        "critic": "Alonso Duralde",
+        "is_top_critic": true,
+        "media": "The Film Verdict",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T20:30:56.000Z",
+        "quote": "Narrative cinema rarely cares this little about actual narrative, transforming what’s supposed to be the concluding chapter of an ongoing saga into little more than pure sensation — blobs of color, bursts of sound.",
+        "url": "https://thefilmverdict.com/venom-the-last-dance-film-review/"
+    },
+    {
+        "critic": "Mike Massie",
+        "is_top_critic": false,
+        "media": "Gone With The Twins",
+        "sentiment": "Rotten 🤢",
+        "score": "2/10",
+        "date": "2024-10-23T20:18:12.000Z",
+        "quote": "Why are all these random concepts drummed up on a whim, with no background, no rules, and no reasons? With such pitiful writing, it’s impossible to take any of the scenarios seriously.",
+        "url": "https://gonewiththetwins.com/venom-the-last-dance-2024/"
+    },
+    {
+        "critic": "Kate Sánchez",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2024-10-23T20:04:15.000Z",
+        "quote": "While Venom: The Last Dance may be weaker than its predecessors (of which 2018’s Venom is the best), it’s still a good time, and you can tell leading man-turned-writer Tom Hardy is too.\n\n",
+        "url": "https://butwhytho.net/2024/10/venom-3-the-last-dance-review-tom-hardy/"
+    },
+    {
+        "critic": "Molly Freeman",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-23T19:53:32.000Z",
+        "quote": "Venom: The Last Dance is the perfect sendoff for Tom Hardy's Eddie Brock and Venom, wrapping up the characters' stories with deliberate care.\n\n",
+        "url": "https://screenrant.com/venom-the-last-dance-movie-review/"
+    },
+    {
+        "critic": "Giovanni Lago",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-10-23T19:52:03.000Z",
+        "quote": "We’ll miss watching Tom Hardy rock Hawaiian shirts, ride motorcycles, and argue with himself as Eddie Brock, but definitely not enough to have to sit through another one of these films again.",
+        "url": "https://nextbestpicture.com/venom-the-last-dance/"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2024-10-23T19:49:00.000Z",
+        "quote": "Its wild, its messy, its meandering, sometimes its even boring but venom horse lives up to the hype + Eddie & Venom Bromance is the savior of this trilogy..\n\nif you enjoy the others you will enjoy this",
+        "url": "https://youtu.be/9-DrBhCZDcg"
+    },
+    {
+        "critic": "Robbie Collin",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-10-23T19:45:58.000Z",
+        "quote": "As last dances go, it’s the Macarena in film form.\n\n",
+        "url": "https://www.telegraph.co.uk/films/0/venom-the-last-dance-review-tom-hardy/"
+    },
+    {
+        "critic": "Cris Parker",
+        "is_top_critic": false,
+        "media": "3C Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:45:04.000Z",
+        "quote": "I wanted to enjoy it more than I did but this film is a mess. The humor, Eddie/Venom dynamic, & Wild final battle will be enough of a good time for most just not me.",
+        "url": "https://youtu.be/QgiuU7G-624?si=tiNgntIr9yz1sHzs"
+    },
+    {
+        "critic": "Jarrod Jones",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "5.8/10",
+        "date": "2024-10-23T19:44:22.000Z",
+        "quote": "Although this enjoyably capricious version of the character doesn’t quite resemble his vicious, violent comic counterpart, there’s a reason why Venom resonates with filmgoers—this spud wants to party and, when it counts, knows how to put on a good one.",
+        "url": "https://www.pastemagazine.com/movies/venom/venom-the-last-dance-review-tom-hardy-trilogy-ending-mortality-identity"
+    },
+    {
+        "critic": "Christina Newland",
+        "is_top_critic": true,
+        "media": "iNews.co.uk",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-23T19:40:27.000Z",
+        "quote": " The film’s inability to find a single tone – comic, cathartic or otherwise – makes it feel like a failure on all fronts, and the constant intrusion of loud, obvious pop needle-drops don’t help.",
+        "url": "https://inews.co.uk/culture/film/venom-the-last-dance-review-not-unpleasant-lobotomy-3338505?srsltid=AfmBOoqE-g-XmBI_d5ZzxoI-UGnraxgUHLjrZxgV3qyRjWqBU1JA7w9A"
+    },
+    {
+        "critic": "Andrew J. Salazar",
+        "is_top_critic": false,
+        "media": "Discussing Film",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-10-23T19:38:56.000Z",
+        "quote": "While Venom: The Last Dance does try to give an emotional goodbye to Eddie Brock and Venom's hilarious \"bromance,\" too much of Tom Hardy's comedic charm is buried under Sony's unnecessary franchise setup.",
+        "url": "https://discussingfilm.net/2024/10/23/venom-the-last-dance-review-tom-hardy/"
+    },
+    {
+        "critic": "Michael Walsh",
+        "is_top_critic": false,
+        "media": "Nerdist",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-23T19:38:39.000Z",
+        "quote": "Venom: The Last Dance is an alien-invasion combined with a buddy road trip.",
+        "url": "https://nerdist.com/article/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Hoai-Tran Bui",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:38:07.000Z",
+        "quote": "Despite some truly hysterical flashes of brilliance littered throughout, The Last Dance is a disappointingly grim farewell to the Venom franchise.",
+        "url": "https://www.inverse.com/entertainment/venom-3-last-dance-review"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:35:42.000Z",
+        "quote": "The Venom effects are still nicely rendered, but the punchlines are a little shopworn, although this franchise’s penchant for truly bonkers sequences has not diminished..",
+        "url": "https://www.screendaily.com/reviews/venom-the-last-dance-review/5198431.article"
+    },
+    {
+        "critic": "Chalice Williams",
+        "is_top_critic": false,
+        "media": "Black Girl Nerds",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-23T19:33:13.000Z",
+        "quote": "'Venom: The Last Dance' is an outrageously fun and beautiful conclusion to a trilogy that we did not expect to go far.",
+        "url": "https://blackgirlnerds.com/review-tom-hardy-shines-in-venom-the-last-dance/"
+    },
+    {
+        "critic": "Jana Monji",
+        "is_top_critic": false,
+        "media": "Age of the Geek",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-23T19:32:16.000Z",
+        "quote": "Kelly Marcel triumphs in her feature film debut, incorporating music (as well as dance) to a greater degree than in the previous films in this trilogy.  Of course, Marcel's script (with story written with star Tom Hardy) leaves room for more Venom chaos. ",
+        "url": "https://wp.me/p12r6N-8a8"
+    },
+    {
+        "critic": "Olly Richards",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-23T19:27:46.000Z",
+        "quote": "The Last Dance can't find its rhythm. ",
+        "url": "https://www.empireonline.com/movies/reviews/venom-the-last-dance/"
+    },
+    {
+        "critic": "Clarisse Loughrey",
+        "is_top_critic": true,
+        "media": "Independent (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-23T19:26:38.000Z",
+        "quote": "It’s hard to say how these films will be remembered in the grand scheme of comic book history, but, with The Last Dance, we can at least be reminded that sometimes they actually managed to have fun with these things.",
+        "url": "https://www.independent.co.uk/arts-entertainment/films/reviews/venom-the-last-dance-review-b2634281.html"
+    },
+    {
+        "critic": "Jamie Graham",
+        "is_top_critic": false,
+        "media": "Total Film",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-23T19:26:15.000Z",
+        "quote": "Eventually the plot strands entwine for an extended beast-on-beast(s) climax that, like the finales of the first two movies, quickly devolves into a puddle of pixels that isn’t much fun to splash around in.",
+        "url": "https://www.gamesradar.com/entertainment/marvel-movies/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:25:01.000Z",
+        "quote": "The Last Dance goes out with neither a bang nor a whimper, simply a farewell.",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/venom-the-last-dance-review-tom-hardy-spider-man-1235138433/"
+    },
+    {
+        "critic": "Grace Randolph",
+        "is_top_critic": false,
+        "media": "Beyond the Trailer",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:24:58.000Z",
+        "quote": "Pleasant enough for fans, but no effort has been made here. Hardy is charming, Venom is funny and there are touching moments, but there's no point to the film whatsoever. Only worth watching if you need something to watch - and even then, for fans only.",
+        "url": "https://www.youtube.com/watch?v=w4IG4AsI7Zs"
+    },
+    {
+        "critic": "Ian Sandwell",
+        "is_top_critic": false,
+        "media": "Digital Spy",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-23T19:24:01.000Z",
+        "quote": "If you're fully aboard the Venom train, then Venom: The Last Dance will prove to be the most entertaining of the trilogy – and it might even make you emotional.",
+        "url": "https://www.digitalspy.com/movies/a62669460/venom-3-review-last-dance/"
+    },
+    {
+        "critic": "Damon Wise",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:21:55.000Z",
+        "quote": "It’s not the best of its kind, but by no means the worst, and even when the inevitable war breaks out between humans, xenophages and symbiotes, Marcel orchestrates the action in a surprisingly comprehensible style...",
+        "url": "https://deadline.com/2024/10/venom-the-last-dance-review-tom-hardy-1236156179/"
+    },
+    {
+        "critic": "David Ehrlich",
+        "is_top_critic": true,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2024-10-23T19:19:47.000Z",
+        "quote": "At least the film ends with a fittingly poignant/ridiculous tribute to the greatest love story ever told about a man and his symbiotic alien goo.",
+        "url": "https://www.indiewire.com/criticism/movies/venom-the-last-dance-review-1235059391/"
+    },
+    {
+        "critic": "Germain Lussier",
+        "is_top_critic": false,
+        "media": "io9.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:18:20.000Z",
+        "quote": "The most admirable thing about Venom: The Last Dance is that it tries. It really, really tries. ",
+        "url": "https://gizmodo.com/venom-3-review-the-last-dance-tom-hardy-marvel-2000515392"
+    },
+    {
+        "critic": "Liz Shannon Miller",
+        "is_top_critic": true,
+        "media": "Consequence",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2024-10-23T19:18:01.000Z",
+        "quote": "The more that The Last Dance leans into the idea of the bond between Eddie and Venom being a twisted romance, the funnier it is.",
+        "url": "https://consequence.net/2024/10/venom-the-last-dance-review-tom-hardy-sony/"
+    },
+    {
+        "critic": "David Rooney",
+        "is_top_critic": true,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:15:15.000Z",
+        "quote": "This being the concluding chapter of a trilogy, it all leads to an emotional catharsis that will no doubt satisfy fans of the earlier movies, with a sweet touch of cheesy humor to offset the melancholy. ",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/venom-the-last-dance-review-tom-hardy-marvel-1236042242/"
+    },
+    {
+        "critic": "Kristy Puchko",
+        "is_top_critic": true,
+        "media": "Mashable",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:15:04.000Z",
+        "quote": "Venom: The Last Dance is therefore one-half of a wonderful movie. Still, it's worth sticking through the rest for a totally gonzo finale that's somehow equally absurd and moving. ",
+        "url": "https://mashable.com/article/venom-the-last-dance-review"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:14:26.000Z",
+        "quote": "Watching “Venom: The Last Dance” is like watching the superhero genre die for two hours. ",
+        "url": "https://www.thewrap.com/venom-the-last-dance-review-tom-hardy/"
+    },
+    {
+        "critic": "Brian Truitt",
+        "is_top_critic": false,
+        "media": "USA Today",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-10-23T19:14:07.000Z",
+        "quote": "It’s a delightfully deranged dual performance by Hardy that doesn’t get enough credit in the greater comic-book movie canon, even if in this one the cartoonish violence is turned down in favor of forced sentimentality.",
+        "url": "https://www.usatoday.com/story/entertainment/movies/2024/10/23/venom-3-the-last-dance-movie-review/75773591007/"
+    },
+    {
+        "critic": "Benjamin Lee",
+        "is_top_critic": false,
+        "media": "Guardian",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-23T19:12:53.000Z",
+        "quote": "It’s quick and brash and seemingly aware of how goofy so much of it is but it’s also awkwardly overstuffed.",
+        "url": "https://www.theguardian.com/film/2024/oct/23/venom-the-last-dance-review-tom-hardy-marvel"
+    },
+    {
+        "critic": "Kofi Outlaw",
+        "is_top_critic": false,
+        "media": "ComicBook.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-23T19:12:50.000Z",
+        "quote": "Venom: The Last Dance is a disappointing Sony-Marvel release to go alongside Madame Web. And the odds for Kraven the Hunter to complete a single-year trifecta of Spider-Man spinoff misses are going way, way up.",
+        "url": "https://comicbook.com/movies/news/venom-the-last-dance-review-tom-hardy-reaction-explained/"
+    },
+    {
+        "critic": "Tom Jorgensen",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-10-23T19:11:25.000Z",
+        "quote": "Venom: The Last Dance trips over its own tendrils and lets a boring, generic plot, and bad action distract from the surprisingly resilient central relationship between Eddie Brock and his symbiote bestie.",
+        "url": "https://www.ign.com/articles/venom-the-last-dance-review-tom-hardy"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:09:36.000Z",
+        "quote": "The “Venom” movies are a lark and nothing more, geared to the arrested pleasure centers of fanboys: the more snark and CGI the better.",
+        "url": "https://variety.com/2024/film/reviews/venom-the-last-dance-review-tom-hardy-chiwetel-ejiofor-1236185751/"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-10-23T19:09:15.000Z",
+        "quote": "While the script is all over the place, there’s solid direction, with humor and drama rooted in sincerity. Whether it actually is the final curtain call for Hardy’s take... he’s at least going out with what may actually be 2024’s best comic book movie.",
+        "url": "https://weliveentertainment.com/welivefilm/venom-the-last-dance-review-strutting-symbiote-stuff/"
+    },
+    {
+        "critic": "Richard Lawson",
+        "is_top_critic": true,
+        "media": "Vanity Fair",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:08:16.000Z",
+        "quote": "Last Dance seems almost begging to solely be watched on airplanes, in the soporific 90 minutes between dinner service and uneasy, upright sleep. It functions best as an accidentally found object rather than something deliberately sought out.",
+        "url": "https://www.vanityfair.com/hollywood/story/venom-the-last-dance-ends-a-once-fun-series-with-a-whimper"
+    },
+    {
+        "critic": "Abe Friedtanzer",
+        "is_top_critic": false,
+        "media": "Awards Buzz",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-10-23T19:06:44.000Z",
+        "quote": "This final entry in the Venom saga doesn’t feel like it’s even trying to be coherent and the result is unsurprisingly quite disappointing.",
+        "url": "https://awardsbuzz.com/review-venom-the-last-dance-is-a-very-lackluster-conclusion-to-the-action-comedy-franchise/"
+    },
+    {
+        "critic": "Dominic Griffin",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-10-23T19:06:42.000Z",
+        "quote": "\"Venom: The Last Dance\" is the closing chapter of an unlikely trilogy, a springboard for further IP mining, and a touching send-off to the hero some of us didn't even want but will now surely miss.\n\n",
+        "url": "https://www.looper.com/1695710/venom-the-last-dance-movie-review/"
+    },
+    {
+        "critic": "Fred Topel",
+        "is_top_critic": false,
+        "media": "United Press International",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:04:54.000Z",
+        "quote": "Throws so many new elements at the franchise that it distracts from whatever scant parts of the first two that worked.",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2024/10/23/Venom-3-Last-Dance-movie-review/5561729661958/"
+    },
+    {
+        "critic": "Sean Boelman",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-10-23T19:04:43.000Z",
+        "quote": "Although Venom: The Last Dance doesn’t stoop to the embarrassing lows of this year’s earlier SSMU entry, Madame Web, it is a frustrating experience with just enough shining moments to make you realize how much more fun this should have been.",
+        "url": "https://fandomwire.com/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Joey Magidson",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-10-23T19:04:39.000Z",
+        "quote": "Venom: The Last Dance is a gloriously stupid capper to a ridiculous trilogy.",
+        "url": "https://awardsradar.com/2024/10/23/film-review-venom-the-last-dance/"
+    },
+    {
+        "critic": "Alison Willmore",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:03:56.000Z",
+        "quote": " Venom: The Last Dance isn’t a lark, but a smirk to let you know that while everyone may be aware of what it’s up to, you’re the sucker who bought the ticket.",
+        "url": "https://www.vulture.com/article/review-venom-the-last-dance-is-bad-on-purpose.html"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "Eric Goldman (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-10-23T19:03:50.000Z",
+        "quote": "Very silly and sometimes flat out stupid, but it’s also intentionally goofy. The supporting cast is given little to do but Tom Hardy’s performance and the interplay between Eddie and Venom is still very enjoyable. ",
+        "url": "https://www.youtube.com/watch?v=ANYK2KNwPW4"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-23T19:03:22.000Z",
+        "quote": "If this truly is the pair’s big-screen goodbye, at least it ends on a fittingly wacko note of pure, unadulterated sentimentality.",
+        "url": "https://www.thedailybeast.com/venom-the-last-dance-review-tom-hardy-goes-out-with-bonkers-blast/"
+    },
+    {
+        "critic": "Chris Evangelista",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-10-23T19:03:19.000Z",
+        "quote": " If this really is \"The Last Dance,\" it comes not a moment too soon.\n",
+        "url": "https://www.slashfilm.com/1695477/venom-the-last-dance-tom-hardy-marvel-movie-review/"
+    },
+    {
+        "critic": "Joonatan Itkonen",
+        "is_top_critic": false,
+        "media": "Region Free",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-10-23T19:03:15.000Z",
+        "quote": "It feels like a collection of Tik-Tok videos, except even those show more imaginative storytelling than this $120 million dud.",
+        "url": "https://regionfree.net/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Aidan Kelley",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-10-23T19:03:10.000Z",
+        "quote": "The action may be stellar, but Venom: The Last Dance continues the series' trend of failing to form a symbiotic relationship with its title character and its narrative.",
+        "url": "https://collider.com/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Matt Singer",
+        "is_top_critic": true,
+        "media": "ScreenCrush",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-10-23T19:03:02.000Z",
+        "quote": "There’s maybe ten good minutes in a 95-minute movie.",
+        "url": "https://screencrush.com/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "M.N. Miller",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-10-23T19:01:33.000Z",
+        "quote": "Kelly Marcel takes the reins in her directorial debut with the franchise's strongest effort, which, at its best, is pure punk rock comic book anarchy goodness, for better or worse.\n",
+        "url": "https://insessionfilm.com/movie-review-venom-the-last-dance/"
+    },
+    {
+        "critic": "John Nguyen",
+        "is_top_critic": false,
+        "media": "Nerd Reactor",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-23T19:01:30.000Z",
+        "quote": "Venom: The Last Dance is unintentionally hilarious, and many parts had me rolling my eyes. The friendship between Eddie Brock and Venom was fun. Sadly, the story, dialogue, and characters were mediocre.",
+        "url": "https://youtu.be/-KO8wXqAuWI"
+    },
+    {
+        "critic": "Linda Marric",
+        "is_top_critic": true,
+        "media": "HeyUGuys",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-23T19:01:17.000Z",
+        "quote": "A highly entertaining film, offering a satisfying blend of thrills, humour, and emotion. While it doesn’t reinvent the superhero genre, it leans fully into what makes Venom unique: a wild, chaotic energy that refuses to play by the rules.  ",
+        "url": "https://www.heyuguys.com/venom-the-last-dance-review/"
+    },
+    {
+        "critic": "Josh Wilding",
+        "is_top_critic": false,
+        "media": "ComicBookMovie.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-23T19:00:37.000Z",
+        "quote": "The most cinematic, monumental Venom movie to date, The Last Dance leaves room for improvement but by upping the stakes and allowing Eddie and Venom to bond, it’s epic and heartfelt enough to leave us hoping this is far from Tom Hardy’s last whirl.",
+        "url": "https://comicbookmovie.com/venom/venom-the-last-dance-review-the-most-cinematic-monumental-venom-movie-to-date-a214124"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Casey's Movie Mania",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2024-10-23T19:00:25.000Z",
+        "quote": "A futile third Venom movie that fails to give Tom Hardy's character a proper send-off.",
+        "url": "https://www.caseymoviemania.com/venom-the-last-dance-2024-review/"
+    },
+    {
+        "critic": "Jake Cole",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-23T18:59:54.000Z",
+        "quote": "As the film progresses, it consistently escalates the stakes and scale of its action, which doesn’t devolve into incomprehensible CG murk as it hurtles toward the climax.",
+        "url": "https://www.slantmagazine.com/film/venom-the-last-dance-review-tom-hardy/"
+    },
+    {
+        "critic": "Elliott Collins",
+        "is_top_critic": false,
+        "media": "Movie Files",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-23T18:52:23.000Z",
+        "quote": "In a whirlwind of chaotic creativity, Venom The Last Dance emerges as the most entertaining disaster of the trilogy, boldly embracing its bizarre charm. These films aren’t for me but it’ll leave its fans of the series amused by its peculiar tone.\n\n",
+        "url": "https://youtu.be/kzBiS6fvIfE?si=GViXudfIRbvzdGas"
+    },
+    {
+        "critic": "Soren Andersen",
+        "is_top_critic": false,
+        "media": "Seattle Times",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-10-23T17:43:48.000Z",
+        "quote": "“The Last Dance” brings nothing new to the series. In fact, it brings less than the previous two movies. ",
+        "url": "https://www.seattletimes.com/entertainment/movies/venom-the-last-dance-review-trilogys-conclusion-loses-its-way/"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-23T17:43:01.000Z",
+        "quote": "This movie could properly be titled, Venom: Things Happen. ",
+        "url": "https://www.youtube.com/watch?v=BnT5bpOeTps"
+    }
+]

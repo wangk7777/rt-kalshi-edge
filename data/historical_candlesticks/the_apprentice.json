@@ -1,0 +1,3721 @@
+{
+    "event_ticker": "RTAPPRENTICE",
+    "movie_key": "the_apprentice",
+    "final_score": "78",
+    "settle_date": "2024-10-14T14:00:00Z",
+    "captured_at": "2026-07-12T18:10:10",
+    "interval_minutes": 60,
+    "markets": [
+        {
+            "market_id": "11233654-5620-48c0-ac1d-6fe3242ee4c8",
+            "ticker": "RTAPPRENTICE-65",
+            "floor": 65.0,
+            "result": "yes",
+            "status": "finalized",
+            "candles": [
+                {
+                    "ts": 1727974800,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727978400,
+                    "yes_ask": 98,
+                    "yes_bid": 88,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727985600,
+                    "yes_ask": 99,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727996400,
+                    "yes_ask": 99,
+                    "yes_bid": 91,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728003600,
+                    "yes_ask": 99,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728007200,
+                    "yes_ask": 99,
+                    "yes_bid": 3,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728025200,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728046800,
+                    "yes_ask": 99,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728266400,
+                    "yes_ask": 99,
+                    "yes_bid": 91,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728273600,
+                    "yes_ask": 99,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728277200,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728309600,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728313200,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728320400,
+                    "yes_ask": 99,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728331200,
+                    "yes_ask": 99,
+                    "yes_bid": 91,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728342000,
+                    "yes_ask": 99,
+                    "yes_bid": 91,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728363600,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728396000,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728399600,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728403200,
+                    "yes_ask": 99,
+                    "yes_bid": 91,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728410400,
+                    "yes_ask": 99,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728414000,
+                    "yes_ask": 99,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728417600,
+                    "yes_ask": 99,
+                    "yes_bid": 4,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728421200,
+                    "yes_ask": 99,
+                    "yes_bid": 93,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728428400,
+                    "yes_ask": 99,
+                    "yes_bid": 93,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728435600,
+                    "yes_ask": 99,
+                    "yes_bid": 4,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728439200,
+                    "yes_ask": 99,
+                    "yes_bid": 93,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728442800,
+                    "yes_ask": 99,
+                    "yes_bid": 97,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728507600,
+                    "yes_ask": 99,
+                    "yes_bid": 98,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1728514800,
+                    "yes_ask": 99,
+                    "yes_bid": 96,
+                    "last_price": 95,
+                    "volume": 286,
+                    "open_interest": 286
+                },
+                {
+                    "ts": 1728536400,
+                    "yes_ask": 99,
+                    "yes_bid": 95,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 286
+                },
+                {
+                    "ts": 1728565200,
+                    "yes_ask": 99,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 286
+                },
+                {
+                    "ts": 1728568800,
+                    "yes_ask": 99,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 286
+                },
+                {
+                    "ts": 1728572400,
+                    "yes_ask": 99,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 286
+                },
+                {
+                    "ts": 1728576000,
+                    "yes_ask": 100,
+                    "yes_bid": 96,
+                    "last_price": 99,
+                    "volume": 16,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728586800,
+                    "yes_ask": 100,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728590400,
+                    "yes_ask": 100,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728594000,
+                    "yes_ask": 100,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728597600,
+                    "yes_ask": 100,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728633600,
+                    "yes_ask": 100,
+                    "yes_bid": 95,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728651600,
+                    "yes_ask": 100,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728658800,
+                    "yes_ask": 100,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728662400,
+                    "yes_ask": 100,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728680400,
+                    "yes_ask": 100,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728684000,
+                    "yes_ask": 100,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                },
+                {
+                    "ts": 1728702000,
+                    "yes_ask": 100,
+                    "yes_bid": 98,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 302
+                }
+            ]
+        },
+        {
+            "market_id": "1a2c0a28-a631-4d96-bc44-5a90f5404dd3",
+            "ticker": "RTAPPRENTICE-67",
+            "floor": 67.0,
+            "result": "yes",
+            "status": "finalized",
+            "candles": [
+                {
+                    "ts": 1727974800,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727978400,
+                    "yes_ask": 94,
+                    "yes_bid": 84,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727982000,
+                    "yes_ask": 94,
+                    "yes_bid": 84,
+                    "last_price": 94,
+                    "volume": 106,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1727985600,
+                    "yes_ask": 95,
+                    "yes_bid": 85,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1727989200,
+                    "yes_ask": 96,
+                    "yes_bid": 85,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1727996400,
+                    "yes_ask": 99,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728003600,
+                    "yes_ask": 96,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728007200,
+                    "yes_ask": 99,
+                    "yes_bid": 3,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728025200,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728046800,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728050400,
+                    "yes_ask": 98,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728104400,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728266400,
+                    "yes_ask": 99,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728273600,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728277200,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728309600,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728313200,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728320400,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728331200,
+                    "yes_ask": 99,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728342000,
+                    "yes_ask": 99,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728363600,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728396000,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728399600,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728403200,
+                    "yes_ask": 99,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728410400,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728414000,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728417600,
+                    "yes_ask": 99,
+                    "yes_bid": 4,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728421200,
+                    "yes_ask": 99,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728428400,
+                    "yes_ask": 99,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728435600,
+                    "yes_ask": 99,
+                    "yes_bid": 3,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728439200,
+                    "yes_ask": 99,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728442800,
+                    "yes_ask": 99,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728507600,
+                    "yes_ask": 99,
+                    "yes_bid": 97,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 106
+                },
+                {
+                    "ts": 1728576000,
+                    "yes_ask": 100,
+                    "yes_bid": 97,
+                    "last_price": 99,
+                    "volume": 16,
+                    "open_interest": 122
+                },
+                {
+                    "ts": 1728702000,
+                    "yes_ask": 100,
+                    "yes_bid": 98,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 122
+                },
+                {
+                    "ts": 1728914400,
+                    "yes_ask": 100,
+                    "yes_bid": 98,
+                    "last_price": 98,
+                    "volume": 92,
+                    "open_interest": 214
+                }
+            ]
+        },
+        {
+            "market_id": "87df3b04-7335-496b-ab55-ac3e7f01ebf6",
+            "ticker": "RTAPPRENTICE-70",
+            "floor": 70.0,
+            "result": "yes",
+            "status": "finalized",
+            "candles": [
+                {
+                    "ts": 1727974800,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727978400,
+                    "yes_ask": 86,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727985600,
+                    "yes_ask": 89,
+                    "yes_bid": 78,
+                    "last_price": 86,
+                    "volume": 48,
+                    "open_interest": 48
+                },
+                {
+                    "ts": 1727996400,
+                    "yes_ask": 95,
+                    "yes_bid": 85,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 48
+                },
+                {
+                    "ts": 1728003600,
+                    "yes_ask": 89,
+                    "yes_bid": 79,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 48
+                },
+                {
+                    "ts": 1728007200,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": 91,
+                    "volume": 448,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728025200,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728046800,
+                    "yes_ask": 96,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728050400,
+                    "yes_ask": 94,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728104400,
+                    "yes_ask": 96,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728266400,
+                    "yes_ask": 95,
+                    "yes_bid": 85,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728273600,
+                    "yes_ask": 96,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728277200,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728309600,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728313200,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728320400,
+                    "yes_ask": 96,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728331200,
+                    "yes_ask": 94,
+                    "yes_bid": 84,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728342000,
+                    "yes_ask": 95,
+                    "yes_bid": 85,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728363600,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728396000,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728399600,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728403200,
+                    "yes_ask": 96,
+                    "yes_bid": 85,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728410400,
+                    "yes_ask": 96,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728414000,
+                    "yes_ask": 97,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728417600,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728421200,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728428400,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728435600,
+                    "yes_ask": 99,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728439200,
+                    "yes_ask": 99,
+                    "yes_bid": 91,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728442800,
+                    "yes_ask": 99,
+                    "yes_bid": 94,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728507600,
+                    "yes_ask": 99,
+                    "yes_bid": 96,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728702000,
+                    "yes_ask": 99,
+                    "yes_bid": 98,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 496
+                },
+                {
+                    "ts": 1728914400,
+                    "yes_ask": 99,
+                    "yes_bid": 96,
+                    "last_price": 96,
+                    "volume": 54,
+                    "open_interest": 550
+                }
+            ]
+        },
+        {
+            "market_id": "5128d8a9-6ede-4a5e-9631-88b5adf20f82",
+            "ticker": "RTAPPRENTICE-72",
+            "floor": 72.0,
+            "result": "yes",
+            "status": "finalized",
+            "candles": [
+                {
+                    "ts": 1727974800,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727978400,
+                    "yes_ask": 74,
+                    "yes_bid": 64,
+                    "last_price": 74,
+                    "volume": 26,
+                    "open_interest": 26
+                },
+                {
+                    "ts": 1727982000,
+                    "yes_ask": 98,
+                    "yes_bid": 64,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 26
+                },
+                {
+                    "ts": 1727985600,
+                    "yes_ask": 78,
+                    "yes_bid": 68,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 26
+                },
+                {
+                    "ts": 1727996400,
+                    "yes_ask": 89,
+                    "yes_bid": 79,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 26
+                },
+                {
+                    "ts": 1728003600,
+                    "yes_ask": 79,
+                    "yes_bid": 69,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 26
+                },
+                {
+                    "ts": 1728007200,
+                    "yes_ask": 99,
+                    "yes_bid": 64,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 26
+                },
+                {
+                    "ts": 1728046800,
+                    "yes_ask": 87,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 26
+                },
+                {
+                    "ts": 1728050400,
+                    "yes_ask": 83,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 26
+                },
+                {
+                    "ts": 1728086400,
+                    "yes_ask": 83,
+                    "yes_bid": 77,
+                    "last_price": 83,
+                    "volume": 472,
+                    "open_interest": 498
+                },
+                {
+                    "ts": 1728104400,
+                    "yes_ask": 89,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 498
+                },
+                {
+                    "ts": 1728154800,
+                    "yes_ask": 89,
+                    "yes_bid": 76,
+                    "last_price": 89,
+                    "volume": 44,
+                    "open_interest": 542
+                },
+                {
+                    "ts": 1728180000,
+                    "yes_ask": 87,
+                    "yes_bid": 77,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 542
+                },
+                {
+                    "ts": 1728259200,
+                    "yes_ask": 87,
+                    "yes_bid": 77,
+                    "last_price": 87,
+                    "volume": 10,
+                    "open_interest": 552
+                },
+                {
+                    "ts": 1728266400,
+                    "yes_ask": 85,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 552
+                },
+                {
+                    "ts": 1728273600,
+                    "yes_ask": 86,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 552
+                },
+                {
+                    "ts": 1728277200,
+                    "yes_ask": 99,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 552
+                },
+                {
+                    "ts": 1728320400,
+                    "yes_ask": 87,
+                    "yes_bid": 77,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 552
+                },
+                {
+                    "ts": 1728324000,
+                    "yes_ask": 87,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 552
+                },
+                {
+                    "ts": 1728331200,
+                    "yes_ask": 83,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 552
+                },
+                {
+                    "ts": 1728342000,
+                    "yes_ask": 84,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 552
+                },
+                {
+                    "ts": 1728352800,
+                    "yes_ask": 87,
+                    "yes_bid": 76,
+                    "last_price": 86,
+                    "volume": 350,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728363600,
+                    "yes_ask": 99,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728403200,
+                    "yes_ask": 88,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728410400,
+                    "yes_ask": 87,
+                    "yes_bid": 77,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728414000,
+                    "yes_ask": 88,
+                    "yes_bid": 77,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728417600,
+                    "yes_ask": 99,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728421200,
+                    "yes_ask": 95,
+                    "yes_bid": 85,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728428400,
+                    "yes_ask": 96,
+                    "yes_bid": 85,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728435600,
+                    "yes_ask": 99,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728439200,
+                    "yes_ask": 96,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728475200,
+                    "yes_ask": 99,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728486000,
+                    "yes_ask": 96,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728493200,
+                    "yes_ask": 96,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728500400,
+                    "yes_ask": 98,
+                    "yes_bid": 88,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728504000,
+                    "yes_ask": 98,
+                    "yes_bid": 87,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728507600,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728568800,
+                    "yes_ask": 99,
+                    "yes_bid": 93,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728572400,
+                    "yes_ask": 99,
+                    "yes_bid": 93,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 902
+                },
+                {
+                    "ts": 1728576000,
+                    "yes_ask": 100,
+                    "yes_bid": 93,
+                    "last_price": 99,
+                    "volume": 16,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728579600,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728583200,
+                    "yes_ask": 98,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728586800,
+                    "yes_ask": 100,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728590400,
+                    "yes_ask": 100,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728594000,
+                    "yes_ask": 100,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728597600,
+                    "yes_ask": 100,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728601200,
+                    "yes_ask": 100,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728604800,
+                    "yes_ask": 100,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728608400,
+                    "yes_ask": 100,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728612000,
+                    "yes_ask": 100,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728651600,
+                    "yes_ask": 100,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728658800,
+                    "yes_ask": 100,
+                    "yes_bid": 92,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728662400,
+                    "yes_ask": 100,
+                    "yes_bid": 93,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728666000,
+                    "yes_ask": 100,
+                    "yes_bid": 93,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728669600,
+                    "yes_ask": 100,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728673200,
+                    "yes_ask": 100,
+                    "yes_bid": 93,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728676800,
+                    "yes_ask": 100,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728741600,
+                    "yes_ask": 100,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728756000,
+                    "yes_ask": 100,
+                    "yes_bid": 91,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 918
+                },
+                {
+                    "ts": 1728910800,
+                    "yes_ask": 100,
+                    "yes_bid": 92,
+                    "last_price": 91,
+                    "volume": 208,
+                    "open_interest": 1126
+                }
+            ]
+        },
+        {
+            "market_id": "c89450ed-4a99-4818-abef-767a11f72ba2",
+            "ticker": "RTAPPRENTICE-75",
+            "floor": 75.0,
+            "result": "yes",
+            "status": "finalized",
+            "candles": [
+                {
+                    "ts": 1727974800,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727978400,
+                    "yes_ask": 56,
+                    "yes_bid": 46,
+                    "last_price": 46,
+                    "volume": 6,
+                    "open_interest": 6
+                },
+                {
+                    "ts": 1727982000,
+                    "yes_ask": 98,
+                    "yes_bid": 49,
+                    "last_price": 59,
+                    "volume": 342,
+                    "open_interest": 342
+                },
+                {
+                    "ts": 1727985600,
+                    "yes_ask": 62,
+                    "yes_bid": 52,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 342
+                },
+                {
+                    "ts": 1727989200,
+                    "yes_ask": 62,
+                    "yes_bid": 52,
+                    "last_price": 62,
+                    "volume": 14,
+                    "open_interest": 356
+                },
+                {
+                    "ts": 1727992800,
+                    "yes_ask": 62,
+                    "yes_bid": 56,
+                    "last_price": 62,
+                    "volume": 6,
+                    "open_interest": 362
+                },
+                {
+                    "ts": 1727996400,
+                    "yes_ask": 80,
+                    "yes_bid": 69,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 362
+                },
+                {
+                    "ts": 1728003600,
+                    "yes_ask": 65,
+                    "yes_bid": 56,
+                    "last_price": 62,
+                    "volume": 1920,
+                    "open_interest": 1926
+                },
+                {
+                    "ts": 1728007200,
+                    "yes_ask": 65,
+                    "yes_bid": 60,
+                    "last_price": 65,
+                    "volume": 74,
+                    "open_interest": 2000
+                },
+                {
+                    "ts": 1728039600,
+                    "yes_ask": 70,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2000
+                },
+                {
+                    "ts": 1728046800,
+                    "yes_ask": 70,
+                    "yes_bid": 62,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2000
+                },
+                {
+                    "ts": 1728050400,
+                    "yes_ask": 69,
+                    "yes_bid": 62,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2000
+                },
+                {
+                    "ts": 1728057600,
+                    "yes_ask": 69,
+                    "yes_bid": 62,
+                    "last_price": 62,
+                    "volume": 60,
+                    "open_interest": 2060
+                },
+                {
+                    "ts": 1728064800,
+                    "yes_ask": 69,
+                    "yes_bid": 62,
+                    "last_price": 69,
+                    "volume": 110,
+                    "open_interest": 2170
+                },
+                {
+                    "ts": 1728075600,
+                    "yes_ask": 69,
+                    "yes_bid": 62,
+                    "last_price": 62,
+                    "volume": 50,
+                    "open_interest": 2220
+                },
+                {
+                    "ts": 1728104400,
+                    "yes_ask": 70,
+                    "yes_bid": 62,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2220
+                },
+                {
+                    "ts": 1728154800,
+                    "yes_ask": 70,
+                    "yes_bid": 62,
+                    "last_price": 70,
+                    "volume": 26,
+                    "open_interest": 2246
+                },
+                {
+                    "ts": 1728255600,
+                    "yes_ask": 70,
+                    "yes_bid": 62,
+                    "last_price": 70,
+                    "volume": 68,
+                    "open_interest": 2314
+                },
+                {
+                    "ts": 1728259200,
+                    "yes_ask": 70,
+                    "yes_bid": 62,
+                    "last_price": 62,
+                    "volume": 20,
+                    "open_interest": 2334
+                },
+                {
+                    "ts": 1728266400,
+                    "yes_ask": 70,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2334
+                },
+                {
+                    "ts": 1728273600,
+                    "yes_ask": 70,
+                    "yes_bid": 61,
+                    "last_price": 60,
+                    "volume": 46,
+                    "open_interest": 2380
+                },
+                {
+                    "ts": 1728277200,
+                    "yes_ask": 70,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2380
+                },
+                {
+                    "ts": 1728320400,
+                    "yes_ask": 70,
+                    "yes_bid": 63,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2380
+                },
+                {
+                    "ts": 1728324000,
+                    "yes_ask": 72,
+                    "yes_bid": 63,
+                    "last_price": 73,
+                    "volume": 268,
+                    "open_interest": 2648
+                },
+                {
+                    "ts": 1728331200,
+                    "yes_ask": 66,
+                    "yes_bid": 63,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2648
+                },
+                {
+                    "ts": 1728334800,
+                    "yes_ask": 66,
+                    "yes_bid": 56,
+                    "last_price": 66,
+                    "volume": 346,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728342000,
+                    "yes_ask": 68,
+                    "yes_bid": 57,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728345600,
+                    "yes_ask": 68,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728352800,
+                    "yes_ask": 72,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728363600,
+                    "yes_ask": 85,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728403200,
+                    "yes_ask": 70,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728406800,
+                    "yes_ask": 70,
+                    "yes_bid": 60,
+                    "last_price": 70,
+                    "volume": 26,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728410400,
+                    "yes_ask": 72,
+                    "yes_bid": 62,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728414000,
+                    "yes_ask": 74,
+                    "yes_bid": 64,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728417600,
+                    "yes_ask": 85,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728421200,
+                    "yes_ask": 80,
+                    "yes_bid": 70,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728428400,
+                    "yes_ask": 81,
+                    "yes_bid": 71,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2848
+                },
+                {
+                    "ts": 1728432000,
+                    "yes_ask": 81,
+                    "yes_bid": 71,
+                    "last_price": 81,
+                    "volume": 52,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728435600,
+                    "yes_ask": 99,
+                    "yes_bid": 56,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728439200,
+                    "yes_ask": 83,
+                    "yes_bid": 73,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728442800,
+                    "yes_ask": 83,
+                    "yes_bid": 72,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728475200,
+                    "yes_ask": 99,
+                    "yes_bid": 68,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728478800,
+                    "yes_ask": 99,
+                    "yes_bid": 69,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728486000,
+                    "yes_ask": 82,
+                    "yes_bid": 72,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728493200,
+                    "yes_ask": 84,
+                    "yes_bid": 73,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728500400,
+                    "yes_ask": 88,
+                    "yes_bid": 78,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728504000,
+                    "yes_ask": 86,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728507600,
+                    "yes_ask": 99,
+                    "yes_bid": 69,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728518400,
+                    "yes_ask": 89,
+                    "yes_bid": 79,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728529200,
+                    "yes_ask": 99,
+                    "yes_bid": 69,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728532800,
+                    "yes_ask": 99,
+                    "yes_bid": 69,
+                    "last_price": 69,
+                    "volume": 36,
+                    "open_interest": 2798
+                },
+                {
+                    "ts": 1728565200,
+                    "yes_ask": 99,
+                    "yes_bid": 69,
+                    "last_price": 92,
+                    "volume": 1860,
+                    "open_interest": 1328
+                },
+                {
+                    "ts": 1728568800,
+                    "yes_ask": 99,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1328
+                },
+                {
+                    "ts": 1728572400,
+                    "yes_ask": 99,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1328
+                },
+                {
+                    "ts": 1728576000,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1328
+                },
+                {
+                    "ts": 1728579600,
+                    "yes_ask": 89,
+                    "yes_bid": 79,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1328
+                },
+                {
+                    "ts": 1728583200,
+                    "yes_ask": 88,
+                    "yes_bid": 78,
+                    "last_price": 88,
+                    "volume": 78,
+                    "open_interest": 1406
+                },
+                {
+                    "ts": 1728586800,
+                    "yes_ask": 90,
+                    "yes_bid": 69,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1406
+                },
+                {
+                    "ts": 1728590400,
+                    "yes_ask": 97,
+                    "yes_bid": 87,
+                    "last_price": 90,
+                    "volume": 146,
+                    "open_interest": 1406
+                },
+                {
+                    "ts": 1728594000,
+                    "yes_ask": 97,
+                    "yes_bid": 87,
+                    "last_price": 97,
+                    "volume": 10,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728597600,
+                    "yes_ask": 97,
+                    "yes_bid": 87,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728601200,
+                    "yes_ask": 97,
+                    "yes_bid": 87,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728604800,
+                    "yes_ask": 98,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728608400,
+                    "yes_ask": 98,
+                    "yes_bid": 88,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728612000,
+                    "yes_ask": 98,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728615600,
+                    "yes_ask": 99,
+                    "yes_bid": 85,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728651600,
+                    "yes_ask": 96,
+                    "yes_bid": 87,
+                    "last_price": 87,
+                    "volume": 290,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728658800,
+                    "yes_ask": 96,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728662400,
+                    "yes_ask": 96,
+                    "yes_bid": 89,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728666000,
+                    "yes_ask": 95,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728669600,
+                    "yes_ask": 96,
+                    "yes_bid": 70,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728673200,
+                    "yes_ask": 97,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728676800,
+                    "yes_ask": 96,
+                    "yes_bid": 70,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728680400,
+                    "yes_ask": 94,
+                    "yes_bid": 72,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728684000,
+                    "yes_ask": 92,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1416
+                },
+                {
+                    "ts": 1728687600,
+                    "yes_ask": 94,
+                    "yes_bid": 78,
+                    "last_price": 92,
+                    "volume": 10,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728691200,
+                    "yes_ask": 92,
+                    "yes_bid": 80,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728694800,
+                    "yes_ask": 92,
+                    "yes_bid": 74,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728698400,
+                    "yes_ask": 91,
+                    "yes_bid": 75,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728705600,
+                    "yes_ask": 93,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728709200,
+                    "yes_ask": 93,
+                    "yes_bid": 73,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728738000,
+                    "yes_ask": 93,
+                    "yes_bid": 73,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728741600,
+                    "yes_ask": 93,
+                    "yes_bid": 73,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728748800,
+                    "yes_ask": 99,
+                    "yes_bid": 68,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728759600,
+                    "yes_ask": 99,
+                    "yes_bid": 69,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728817200,
+                    "yes_ask": 99,
+                    "yes_bid": 68,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728824400,
+                    "yes_ask": 99,
+                    "yes_bid": 83,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728842400,
+                    "yes_ask": 99,
+                    "yes_bid": 84,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1426
+                },
+                {
+                    "ts": 1728846000,
+                    "yes_ask": 99,
+                    "yes_bid": 68,
+                    "last_price": 99,
+                    "volume": 4,
+                    "open_interest": 1430
+                },
+                {
+                    "ts": 1728860400,
+                    "yes_ask": 99,
+                    "yes_bid": 85,
+                    "last_price": 85,
+                    "volume": 12,
+                    "open_interest": 1442
+                },
+                {
+                    "ts": 1728864000,
+                    "yes_ask": 99,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1442
+                },
+                {
+                    "ts": 1728867600,
+                    "yes_ask": 99,
+                    "yes_bid": 85,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1442
+                },
+                {
+                    "ts": 1728882000,
+                    "yes_ask": 99,
+                    "yes_bid": 68,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1442
+                },
+                {
+                    "ts": 1728910800,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1442
+                },
+                {
+                    "ts": 1728914400,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": 90,
+                    "volume": 6,
+                    "open_interest": 1448
+                }
+            ]
+        },
+        {
+            "market_id": "a0ec10f3-fd8b-4d2c-8e58-0bef9c0c5e92",
+            "ticker": "RTAPPRENTICE-77",
+            "floor": 77.0,
+            "result": "yes",
+            "status": "finalized",
+            "candles": [
+                {
+                    "ts": 1727974800,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727978400,
+                    "yes_ask": 43,
+                    "yes_bid": 32,
+                    "last_price": 32,
+                    "volume": 14,
+                    "open_interest": 14
+                },
+                {
+                    "ts": 1727982000,
+                    "yes_ask": 97,
+                    "yes_bid": 33,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 14
+                },
+                {
+                    "ts": 1727985600,
+                    "yes_ask": 47,
+                    "yes_bid": 36,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 14
+                },
+                {
+                    "ts": 1727989200,
+                    "yes_ask": 47,
+                    "yes_bid": 39,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 14
+                },
+                {
+                    "ts": 1727992800,
+                    "yes_ask": 47,
+                    "yes_bid": 43,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 14
+                },
+                {
+                    "ts": 1727996400,
+                    "yes_ask": 70,
+                    "yes_bid": 60,
+                    "last_price": 54,
+                    "volume": 4200,
+                    "open_interest": 4200
+                },
+                {
+                    "ts": 1728003600,
+                    "yes_ask": 56,
+                    "yes_bid": 46,
+                    "last_price": 53,
+                    "volume": 1560,
+                    "open_interest": 4200
+                },
+                {
+                    "ts": 1728007200,
+                    "yes_ask": 60,
+                    "yes_bid": 43,
+                    "last_price": 56,
+                    "volume": 240,
+                    "open_interest": 4440
+                },
+                {
+                    "ts": 1728046800,
+                    "yes_ask": 60,
+                    "yes_bid": 54,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4440
+                },
+                {
+                    "ts": 1728050400,
+                    "yes_ask": 57,
+                    "yes_bid": 54,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4440
+                },
+                {
+                    "ts": 1728057600,
+                    "yes_ask": 57,
+                    "yes_bid": 54,
+                    "last_price": 54,
+                    "volume": 60,
+                    "open_interest": 4440
+                },
+                {
+                    "ts": 1728075600,
+                    "yes_ask": 57,
+                    "yes_bid": 54,
+                    "last_price": 54,
+                    "volume": 88,
+                    "open_interest": 4446
+                },
+                {
+                    "ts": 1728086400,
+                    "yes_ask": 57,
+                    "yes_bid": 54,
+                    "last_price": 57,
+                    "volume": 68,
+                    "open_interest": 4514
+                },
+                {
+                    "ts": 1728104400,
+                    "yes_ask": 60,
+                    "yes_bid": 54,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4514
+                },
+                {
+                    "ts": 1728180000,
+                    "yes_ask": 65,
+                    "yes_bid": 54,
+                    "last_price": 60,
+                    "volume": 440,
+                    "open_interest": 4954
+                },
+                {
+                    "ts": 1728223200,
+                    "yes_ask": 64,
+                    "yes_bid": 54,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4954
+                },
+                {
+                    "ts": 1728266400,
+                    "yes_ask": 61,
+                    "yes_bid": 53,
+                    "last_price": 54,
+                    "volume": 1674,
+                    "open_interest": 6154
+                },
+                {
+                    "ts": 1728270000,
+                    "yes_ask": 61,
+                    "yes_bid": 52,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6154
+                },
+                {
+                    "ts": 1728273600,
+                    "yes_ask": 63,
+                    "yes_bid": 53,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6154
+                },
+                {
+                    "ts": 1728277200,
+                    "yes_ask": 64,
+                    "yes_bid": 52,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6154
+                },
+                {
+                    "ts": 1728320400,
+                    "yes_ask": 64,
+                    "yes_bid": 55,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6154
+                },
+                {
+                    "ts": 1728324000,
+                    "yes_ask": 64,
+                    "yes_bid": 55,
+                    "last_price": 52,
+                    "volume": 890,
+                    "open_interest": 6804
+                },
+                {
+                    "ts": 1728331200,
+                    "yes_ask": 56,
+                    "yes_bid": 55,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6804
+                },
+                {
+                    "ts": 1728334800,
+                    "yes_ask": 56,
+                    "yes_bid": 46,
+                    "last_price": 56,
+                    "volume": 28,
+                    "open_interest": 6832
+                },
+                {
+                    "ts": 1728342000,
+                    "yes_ask": 59,
+                    "yes_bid": 49,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6832
+                },
+                {
+                    "ts": 1728345600,
+                    "yes_ask": 59,
+                    "yes_bid": 50,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6832
+                },
+                {
+                    "ts": 1728349200,
+                    "yes_ask": 59,
+                    "yes_bid": 50,
+                    "last_price": 59,
+                    "volume": 18,
+                    "open_interest": 6850
+                },
+                {
+                    "ts": 1728403200,
+                    "yes_ask": 59,
+                    "yes_bid": 51,
+                    "last_price": 59,
+                    "volume": 120,
+                    "open_interest": 6850
+                },
+                {
+                    "ts": 1728406800,
+                    "yes_ask": 61,
+                    "yes_bid": 51,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6850
+                },
+                {
+                    "ts": 1728410400,
+                    "yes_ask": 64,
+                    "yes_bid": 54,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6850
+                },
+                {
+                    "ts": 1728414000,
+                    "yes_ask": 66,
+                    "yes_bid": 56,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6850
+                },
+                {
+                    "ts": 1728417600,
+                    "yes_ask": 79,
+                    "yes_bid": 54,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6850
+                },
+                {
+                    "ts": 1728421200,
+                    "yes_ask": 74,
+                    "yes_bid": 63,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6850
+                },
+                {
+                    "ts": 1728428400,
+                    "yes_ask": 75,
+                    "yes_bid": 65,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6850
+                },
+                {
+                    "ts": 1728432000,
+                    "yes_ask": 75,
+                    "yes_bid": 65,
+                    "last_price": 75,
+                    "volume": 2,
+                    "open_interest": 6852
+                },
+                {
+                    "ts": 1728435600,
+                    "yes_ask": 84,
+                    "yes_bid": 54,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6852
+                },
+                {
+                    "ts": 1728439200,
+                    "yes_ask": 77,
+                    "yes_bid": 67,
+                    "last_price": 54,
+                    "volume": 4,
+                    "open_interest": 6856
+                },
+                {
+                    "ts": 1728446400,
+                    "yes_ask": 77,
+                    "yes_bid": 67,
+                    "last_price": 77,
+                    "volume": 2,
+                    "open_interest": 6858
+                },
+                {
+                    "ts": 1728475200,
+                    "yes_ask": 77,
+                    "yes_bid": 54,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6858
+                },
+                {
+                    "ts": 1728478800,
+                    "yes_ask": 77,
+                    "yes_bid": 55,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6858
+                },
+                {
+                    "ts": 1728486000,
+                    "yes_ask": 72,
+                    "yes_bid": 62,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6858
+                },
+                {
+                    "ts": 1728493200,
+                    "yes_ask": 74,
+                    "yes_bid": 64,
+                    "last_price": 74,
+                    "volume": 12,
+                    "open_interest": 6870
+                },
+                {
+                    "ts": 1728500400,
+                    "yes_ask": 77,
+                    "yes_bid": 71,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6870
+                },
+                {
+                    "ts": 1728504000,
+                    "yes_ask": 77,
+                    "yes_bid": 68,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6870
+                },
+                {
+                    "ts": 1728507600,
+                    "yes_ask": 77,
+                    "yes_bid": 55,
+                    "last_price": 70,
+                    "volume": 190,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728514800,
+                    "yes_ask": 99,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728518400,
+                    "yes_ask": 82,
+                    "yes_bid": 72,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728529200,
+                    "yes_ask": 99,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728532800,
+                    "yes_ask": 98,
+                    "yes_bid": 61,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728540000,
+                    "yes_ask": 99,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728565200,
+                    "yes_ask": 99,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728568800,
+                    "yes_ask": 94,
+                    "yes_bid": 86,
+                    "last_price": 86,
+                    "volume": 1560,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728572400,
+                    "yes_ask": 94,
+                    "yes_bid": 86,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728576000,
+                    "yes_ask": 95,
+                    "yes_bid": 86,
+                    "last_price": 86,
+                    "volume": 66,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728579600,
+                    "yes_ask": 66,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728583200,
+                    "yes_ask": 63,
+                    "yes_bid": 60,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 6680
+                },
+                {
+                    "ts": 1728586800,
+                    "yes_ask": 98,
+                    "yes_bid": 60,
+                    "last_price": 66,
+                    "volume": 1440,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728590400,
+                    "yes_ask": 84,
+                    "yes_bid": 74,
+                    "last_price": 81,
+                    "volume": 374,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728594000,
+                    "yes_ask": 84,
+                    "yes_bid": 74,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728597600,
+                    "yes_ask": 85,
+                    "yes_bid": 74,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728601200,
+                    "yes_ask": 86,
+                    "yes_bid": 76,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728604800,
+                    "yes_ask": 98,
+                    "yes_bid": 70,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728608400,
+                    "yes_ask": 87,
+                    "yes_bid": 77,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728612000,
+                    "yes_ask": 98,
+                    "yes_bid": 70,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728615600,
+                    "yes_ask": 99,
+                    "yes_bid": 69,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728644400,
+                    "yes_ask": 99,
+                    "yes_bid": 55,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728651600,
+                    "yes_ask": 73,
+                    "yes_bid": 55,
+                    "last_price": 64,
+                    "volume": 1932,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728655200,
+                    "yes_ask": 73,
+                    "yes_bid": 63,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728658800,
+                    "yes_ask": 73,
+                    "yes_bid": 70,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8120
+                },
+                {
+                    "ts": 1728662400,
+                    "yes_ask": 73,
+                    "yes_bid": 72,
+                    "last_price": 73,
+                    "volume": 2,
+                    "open_interest": 8122
+                },
+                {
+                    "ts": 1728666000,
+                    "yes_ask": 75,
+                    "yes_bid": 74,
+                    "last_price": 73,
+                    "volume": 344,
+                    "open_interest": 8122
+                },
+                {
+                    "ts": 1728669600,
+                    "yes_ask": 84,
+                    "yes_bid": 61,
+                    "last_price": 75,
+                    "volume": 380,
+                    "open_interest": 8502
+                },
+                {
+                    "ts": 1728673200,
+                    "yes_ask": 84,
+                    "yes_bid": 74,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8502
+                },
+                {
+                    "ts": 1728676800,
+                    "yes_ask": 79,
+                    "yes_bid": 61,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 8502
+                },
+                {
+                    "ts": 1728680400,
+                    "yes_ask": 77,
+                    "yes_bid": 45,
+                    "last_price": 41,
+                    "volume": 2118,
+                    "open_interest": 10508
+                },
+                {
+                    "ts": 1728684000,
+                    "yes_ask": 55,
+                    "yes_bid": 42,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 10508
+                },
+                {
+                    "ts": 1728687600,
+                    "yes_ask": 52,
+                    "yes_bid": 42,
+                    "last_price": 54,
+                    "volume": 6,
+                    "open_interest": 10508
+                },
+                {
+                    "ts": 1728691200,
+                    "yes_ask": 54,
+                    "yes_bid": 42,
+                    "last_price": 42,
+                    "volume": 26,
+                    "open_interest": 10534
+                },
+                {
+                    "ts": 1728694800,
+                    "yes_ask": 42,
+                    "yes_bid": 27,
+                    "last_price": 33,
+                    "volume": 5072,
+                    "open_interest": 5480
+                },
+                {
+                    "ts": 1728698400,
+                    "yes_ask": 39,
+                    "yes_bid": 28,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5480
+                },
+                {
+                    "ts": 1728702000,
+                    "yes_ask": 39,
+                    "yes_bid": 24,
+                    "last_price": 25,
+                    "volume": 212,
+                    "open_interest": 5500
+                },
+                {
+                    "ts": 1728705600,
+                    "yes_ask": 38,
+                    "yes_bid": 25,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5500
+                },
+                {
+                    "ts": 1728709200,
+                    "yes_ask": 45,
+                    "yes_bid": 24,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5500
+                },
+                {
+                    "ts": 1728738000,
+                    "yes_ask": 45,
+                    "yes_bid": 24,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5500
+                },
+                {
+                    "ts": 1728741600,
+                    "yes_ask": 32,
+                    "yes_bid": 12,
+                    "last_price": 22,
+                    "volume": 3000,
+                    "open_interest": 5340
+                },
+                {
+                    "ts": 1728748800,
+                    "yes_ask": 99,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5340
+                },
+                {
+                    "ts": 1728752400,
+                    "yes_ask": 22,
+                    "yes_bid": 8,
+                    "last_price": 27,
+                    "volume": 26,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728756000,
+                    "yes_ask": 15,
+                    "yes_bid": 12,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728759600,
+                    "yes_ask": 29,
+                    "yes_bid": 13,
+                    "last_price": 15,
+                    "volume": 2366,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728763200,
+                    "yes_ask": 31,
+                    "yes_bid": 14,
+                    "last_price": 31,
+                    "volume": 32,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728770400,
+                    "yes_ask": 31,
+                    "yes_bid": 16,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728774000,
+                    "yes_ask": 30,
+                    "yes_bid": 17,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728784800,
+                    "yes_ask": 69,
+                    "yes_bid": 17,
+                    "last_price": 31,
+                    "volume": 362,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728806400,
+                    "yes_ask": 69,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728824400,
+                    "yes_ask": 68,
+                    "yes_bid": 30,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728842400,
+                    "yes_ask": 68,
+                    "yes_bid": 38,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728846000,
+                    "yes_ask": 94,
+                    "yes_bid": 3,
+                    "last_price": 68,
+                    "volume": 500,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728856800,
+                    "yes_ask": 96,
+                    "yes_bid": 3,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728864000,
+                    "yes_ask": 90,
+                    "yes_bid": 51,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728867600,
+                    "yes_ask": 96,
+                    "yes_bid": 51,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728882000,
+                    "yes_ask": 96,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5314
+                },
+                {
+                    "ts": 1728910800,
+                    "yes_ask": 99,
+                    "yes_bid": 90,
+                    "last_price": 96,
+                    "volume": 802,
+                    "open_interest": 5314
+                }
+            ]
+        },
+        {
+            "market_id": "73bf4979-2df7-4b55-81f0-0ee2f63b8438",
+            "ticker": "RTAPPRENTICE-80",
+            "floor": 80.0,
+            "result": "no",
+            "status": "finalized",
+            "candles": [
+                {
+                    "ts": 1727974800,
+                    "yes_ask": 50,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727978400,
+                    "yes_ask": 24,
+                    "yes_bid": 14,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727985600,
+                    "yes_ask": 26,
+                    "yes_bid": 16,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 0
+                },
+                {
+                    "ts": 1727989200,
+                    "yes_ask": 26,
+                    "yes_bid": 16,
+                    "last_price": 26,
+                    "volume": 2,
+                    "open_interest": 2
+                },
+                {
+                    "ts": 1727996400,
+                    "yes_ask": 27,
+                    "yes_bid": 17,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2
+                },
+                {
+                    "ts": 1728003600,
+                    "yes_ask": 22,
+                    "yes_bid": 12,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2
+                },
+                {
+                    "ts": 1728007200,
+                    "yes_ask": 50,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2
+                },
+                {
+                    "ts": 1728046800,
+                    "yes_ask": 25,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2
+                },
+                {
+                    "ts": 1728050400,
+                    "yes_ask": 25,
+                    "yes_bid": 15,
+                    "last_price": 15,
+                    "volume": 22,
+                    "open_interest": 22
+                },
+                {
+                    "ts": 1728252000,
+                    "yes_ask": 25,
+                    "yes_bid": 15,
+                    "last_price": 25,
+                    "volume": 190,
+                    "open_interest": 192
+                },
+                {
+                    "ts": 1728266400,
+                    "yes_ask": 24,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 192
+                },
+                {
+                    "ts": 1728273600,
+                    "yes_ask": 25,
+                    "yes_bid": 18,
+                    "last_price": 25,
+                    "volume": 510,
+                    "open_interest": 702
+                },
+                {
+                    "ts": 1728277200,
+                    "yes_ask": 50,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 702
+                },
+                {
+                    "ts": 1728309600,
+                    "yes_ask": 98,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 702
+                },
+                {
+                    "ts": 1728313200,
+                    "yes_ask": 98,
+                    "yes_bid": 15,
+                    "last_price": 15,
+                    "volume": 72,
+                    "open_interest": 774
+                },
+                {
+                    "ts": 1728316800,
+                    "yes_ask": 97,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 774
+                },
+                {
+                    "ts": 1728320400,
+                    "yes_ask": 29,
+                    "yes_bid": 19,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 774
+                },
+                {
+                    "ts": 1728324000,
+                    "yes_ask": 29,
+                    "yes_bid": 18,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 774
+                },
+                {
+                    "ts": 1728331200,
+                    "yes_ask": 26,
+                    "yes_bid": 15,
+                    "last_price": 29,
+                    "volume": 328,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728342000,
+                    "yes_ask": 27,
+                    "yes_bid": 17,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728363600,
+                    "yes_ask": 97,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728396000,
+                    "yes_ask": 96,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728399600,
+                    "yes_ask": 96,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728403200,
+                    "yes_ask": 28,
+                    "yes_bid": 17,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728410400,
+                    "yes_ask": 29,
+                    "yes_bid": 19,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728414000,
+                    "yes_ask": 30,
+                    "yes_bid": 19,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728417600,
+                    "yes_ask": 96,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728421200,
+                    "yes_ask": 33,
+                    "yes_bid": 22,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728428400,
+                    "yes_ask": 33,
+                    "yes_bid": 23,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728435600,
+                    "yes_ask": 96,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728439200,
+                    "yes_ask": 34,
+                    "yes_bid": 24,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728442800,
+                    "yes_ask": 25,
+                    "yes_bid": 23,
+                    "last_price": 24,
+                    "volume": 240,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728475200,
+                    "yes_ask": 25,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728486000,
+                    "yes_ask": 25,
+                    "yes_bid": 21,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728493200,
+                    "yes_ask": 25,
+                    "yes_bid": 22,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728500400,
+                    "yes_ask": 30,
+                    "yes_bid": 25,
+                    "last_price": 25,
+                    "volume": 100,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728504000,
+                    "yes_ask": 30,
+                    "yes_bid": 24,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728507600,
+                    "yes_ask": 30,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728518400,
+                    "yes_ask": 30,
+                    "yes_bid": 25,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728522000,
+                    "yes_ask": 30,
+                    "yes_bid": 25,
+                    "last_price": 25,
+                    "volume": 130,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728529200,
+                    "yes_ask": 30,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 1102
+                },
+                {
+                    "ts": 1728565200,
+                    "yes_ask": 97,
+                    "yes_bid": 15,
+                    "last_price": 31,
+                    "volume": 380,
+                    "open_interest": 1242
+                },
+                {
+                    "ts": 1728568800,
+                    "yes_ask": 50,
+                    "yes_bid": 40,
+                    "last_price": 39,
+                    "volume": 1800,
+                    "open_interest": 3042
+                },
+                {
+                    "ts": 1728572400,
+                    "yes_ask": 52,
+                    "yes_bid": 42,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 3042
+                },
+                {
+                    "ts": 1728576000,
+                    "yes_ask": 58,
+                    "yes_bid": 48,
+                    "last_price": 55,
+                    "volume": 1950,
+                    "open_interest": 4952
+                },
+                {
+                    "ts": 1728579600,
+                    "yes_ask": 25,
+                    "yes_bid": 15,
+                    "last_price": 35,
+                    "volume": 1940,
+                    "open_interest": 3012
+                },
+                {
+                    "ts": 1728583200,
+                    "yes_ask": 19,
+                    "yes_bid": 9,
+                    "last_price": 19,
+                    "volume": 1594,
+                    "open_interest": 2974
+                },
+                {
+                    "ts": 1728586800,
+                    "yes_ask": 96,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 2974
+                },
+                {
+                    "ts": 1728590400,
+                    "yes_ask": 37,
+                    "yes_bid": 27,
+                    "last_price": 25,
+                    "volume": 2070,
+                    "open_interest": 4464
+                },
+                {
+                    "ts": 1728594000,
+                    "yes_ask": 31,
+                    "yes_bid": 21,
+                    "last_price": 31,
+                    "volume": 1954,
+                    "open_interest": 5098
+                },
+                {
+                    "ts": 1728597600,
+                    "yes_ask": 33,
+                    "yes_bid": 23,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5098
+                },
+                {
+                    "ts": 1728601200,
+                    "yes_ask": 37,
+                    "yes_bid": 28,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5098
+                },
+                {
+                    "ts": 1728604800,
+                    "yes_ask": 36,
+                    "yes_bid": 21,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5098
+                },
+                {
+                    "ts": 1728608400,
+                    "yes_ask": 36,
+                    "yes_bid": 32,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5098
+                },
+                {
+                    "ts": 1728612000,
+                    "yes_ask": 36,
+                    "yes_bid": 21,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5098
+                },
+                {
+                    "ts": 1728615600,
+                    "yes_ask": 37,
+                    "yes_bid": 20,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5098
+                },
+                {
+                    "ts": 1728644400,
+                    "yes_ask": 37,
+                    "yes_bid": 12,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5098
+                },
+                {
+                    "ts": 1728651600,
+                    "yes_ask": 25,
+                    "yes_bid": 12,
+                    "last_price": 13,
+                    "volume": 1560,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728655200,
+                    "yes_ask": 22,
+                    "yes_bid": 12,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728658800,
+                    "yes_ask": 22,
+                    "yes_bid": 14,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728662400,
+                    "yes_ask": 22,
+                    "yes_bid": 14,
+                    "last_price": 22,
+                    "volume": 42,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728666000,
+                    "yes_ask": 21,
+                    "yes_bid": 15,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728669600,
+                    "yes_ask": 21,
+                    "yes_bid": 5,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728673200,
+                    "yes_ask": 19,
+                    "yes_bid": 9,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728676800,
+                    "yes_ask": 20,
+                    "yes_bid": 2,
+                    "last_price": 19,
+                    "volume": 98,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728680400,
+                    "yes_ask": 18,
+                    "yes_bid": 4,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728684000,
+                    "yes_ask": 18,
+                    "yes_bid": 6,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728687600,
+                    "yes_ask": 18,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728691200,
+                    "yes_ask": 18,
+                    "yes_bid": 4,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728694800,
+                    "yes_ask": 18,
+                    "yes_bid": 2,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728698400,
+                    "yes_ask": 15,
+                    "yes_bid": 3,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728702000,
+                    "yes_ask": 10,
+                    "yes_bid": 3,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728705600,
+                    "yes_ask": 10,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728756000,
+                    "yes_ask": 9,
+                    "yes_bid": 1,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4568
+                },
+                {
+                    "ts": 1728759600,
+                    "yes_ask": 9,
+                    "yes_bid": 0,
+                    "last_price": 1,
+                    "volume": 16,
+                    "open_interest": 4584
+                },
+                {
+                    "ts": 1728766800,
+                    "yes_ask": 9,
+                    "yes_bid": 3,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 4584
+                },
+                {
+                    "ts": 1728770400,
+                    "yes_ask": 5,
+                    "yes_bid": 3,
+                    "last_price": 5,
+                    "volume": 8,
+                    "open_interest": 4592
+                },
+                {
+                    "ts": 1728784800,
+                    "yes_ask": 5,
+                    "yes_bid": 0,
+                    "last_price": 3,
+                    "volume": 92,
+                    "open_interest": 4592
+                },
+                {
+                    "ts": 1728835200,
+                    "yes_ask": 9,
+                    "yes_bid": 0,
+                    "last_price": 9,
+                    "volume": 708,
+                    "open_interest": 5300
+                },
+                {
+                    "ts": 1728838800,
+                    "yes_ask": 8,
+                    "yes_bid": 0,
+                    "last_price": 9,
+                    "volume": 100,
+                    "open_interest": 5400
+                },
+                {
+                    "ts": 1728871200,
+                    "yes_ask": 8,
+                    "yes_bid": 0,
+                    "last_price": 8,
+                    "volume": 234,
+                    "open_interest": 5400
+                },
+                {
+                    "ts": 1728882000,
+                    "yes_ask": 9,
+                    "yes_bid": 0,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5400
+                },
+                {
+                    "ts": 1728910800,
+                    "yes_ask": 8,
+                    "yes_bid": 0,
+                    "last_price": null,
+                    "volume": 0,
+                    "open_interest": 5400
+                }
+            ]
+        }
+    ]
+}

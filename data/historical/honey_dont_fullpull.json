@@ -1,0 +1,1782 @@
+[
+    {
+        "critic": "James Croot",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-05T01:38:43.000Z",
+        "quote": "Honey Don’t! won’t be for everyone, but you’ll be missing out on some deliciously dark laughs and another eye-catching performance from one of Hollywood’s hottest actors.",
+        "url": "https://www.thepost.co.nz/culture/360973657/honey-dont-more-proof-why-margaret-qualley-young-queen-hollywood"
+    },
+    {
+        "critic": "Morgan Shaunette",
+        "is_top_critic": false,
+        "media": "Willamette Week",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-28T01:09:06.000Z",
+        "quote": "There are moments of brilliance within the mystery, but it’s too slight and unfocused to be truly satisfying.",
+        "url": "https://www.wweek.com/movies/2025/08/26/your-roundup-of-new-movies-night-always-comes-makes-portlands-darkness-fun/"
+    },
+    {
+        "critic": "Robert W. Butler",
+        "is_top_critic": false,
+        "media": "Butler's Cinema Scene",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2026-02-24T22:20:36.000Z",
+        "quote": "It’s fun… until it wears out its welcome.",
+        "url": "https://butlerscinemascene.com/2026/02/09/short-take-the-survivor-honey-dont/"
+    },
+    {
+        "critic": "Matt Brunson",
+        "is_top_critic": false,
+        "media": "Film Frenzy",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-12-06T05:57:11.000Z",
+        "quote": "Honey Don’t! is a fraction or two better than last year’s Drive-Away Dolls, with a weaker storyline but stronger dialogue and more interesting characterizations.",
+        "url": "https://thefilmfrenzy.com/2025/12/05/view-from-the-couch-honey-dont-manhattan-melodrama-relay-etc/"
+    },
+    {
+        "critic": "Douglas Davidson",
+        "is_top_critic": false,
+        "media": "Elements of Madness",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-11-15T12:02:47.000Z",
+        "quote": "Being straight-forward compared to \"Dolls\" doesn’t make it simpler, just that there’re fewer threads to follow, fewer knots to untangle, and a great deal more red herrings.",
+        "url": "https://elementsofmadness.com/2025/11/15/honeydont-hv/"
+    },
+    {
+        "critic": "Armond White",
+        "is_top_critic": false,
+        "media": "National Review",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-10-18T02:53:08.000Z",
+        "quote": "Refusing to understand others when you can merely ridicule them, Coen and Cooke over-politicize their own conceit.",
+        "url": "https://www.nationalreview.com/2025/10/ethan-coens-pulped-fiction-politics/"
+    },
+    {
+        "critic": "Sean P. Means",
+        "is_top_critic": false,
+        "media": "The Movie Cricket",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2025-10-13T05:51:13.000Z",
+        "quote": "If we can’t get the Coen brothers back together, can we at least give Joel temporary custody of Margaret Qualley?",
+        "url": "https://moviecricket.net/blog/2025/8/21/review-honey-dont-is-comedy-noir-that-director-ethan-coen-doesnt-handle-as-gracefully-as-he-used-to-with-his-brother"
+    },
+    {
+        "critic": "Pete Vonder Haar",
+        "is_top_critic": false,
+        "media": "Houston Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-10-10T14:51:05.000Z",
+        "quote": "As much as you may not want to hand it to a guy who looks like Chris Evans, he’s shown a great knack for playing scumbags. Reverend Devlin continues that trend, further proving Evans’ ability to pivot from America’s Ass to simply an American ass.",
+        "url": "https://www.houstonpress.com/arts/review-honey-dont-21081011/"
+    },
+    {
+        "critic": "Karina Adelgaard",
+        "is_top_critic": false,
+        "media": "Heaven of Horror",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-10-08T14:23:14.000Z",
+        "quote": "I enjoyed DRIVE-AWAY DOLLS but wasn’t crazy about all the choices in terms of vibe and style. In that sense, HONEY DON'T! worked much better for me. ",
+        "url": "https://womentainment.com/honey-dont-movie-review/"
+    },
+    {
+        "critic": "Sarah Gopaul",
+        "is_top_critic": false,
+        "media": "Digital Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-10-08T02:33:15.000Z",
+        "quote": "The picture feels like the raunchy version of a more conventional Coen brothers’ movie... However, considering there isn’t a lot to the plot, perhaps all the time in the bedroom could’ve been better spent developing the story.",
+        "url": "https://www.digitaljournal.com/entertainment/review-honey-dont-might-be-too-sexy/article"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-10-07T19:35:22.000Z",
+        "quote": "It’s tempting to simply judge Honey Don’t as little more than a faded mimeograph of a Coen Bros. comedy.",
+        "url": "https://decider.com/2025/10/04/honey-dont-peacock-streaming-movie-review-stream-it-or-skip-it/"
+    },
+    {
+        "critic": "Guy Lodge",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-10-07T08:23:59.000Z",
+        "quote": "Even a minor ﻿joint such as Burn After Reading has more snap, ﻿swagger and tonal conviction than this aimless doodle -- not to mention more ﻿jokes. ﻿The siblings might be out of sync, but on his own, Ethan Coen seems out of sorts.",
+        "url": "https://observer.co.uk/culture/film/article/honey-dont-is-a-coen-car-crash-review"
+    },
+    {
+        "critic": "Filipe Freitas",
+        "is_top_critic": false,
+        "media": "Always Good Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-10-04T20:59:37.000Z",
+        "quote": "A pedestrian neo-noir detective comedy weighed down by a basic script and textbook psychology.",
+        "url": "https://alwaysgoodmovies.com/reviews/honey-dont-2025"
+    },
+    {
+        "critic": "Cole Groth",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2025-10-03T19:31:45.000Z",
+        "quote": "By the end, it feels like you’ve watched the first half of an awful miniseries that you would rather turn off than continue.",
+        "url": "https://fandomwire.com/honey-dont-review/"
+    },
+    {
+        "critic": "David Walsh",
+        "is_top_critic": false,
+        "media": "World Socialist Web Site",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2025-09-21T23:50:36.000Z",
+        "quote": "The attitudes of the creators ... are terribly smug and supercilious. This is the complacent upper middle class portraying itself as tolerant and liberated and everyone else in America as backward and perpetually led by the nose.",
+        "url": "https://www.wsws.org/en/articles/2025/09/20/qqhp-s20.html"
+    },
+    {
+        "critic": "Dionar Hidalgo",
+        "is_top_critic": false,
+        "media": "Algo Más Que Cine",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2025-09-20T19:41:48.000Z",
+        "quote": "A quirky noir with strong performances from Qualley and Plaza, Honey Don’t! entertains briefly but collapses under its own chaotic plot and uneven humor.",
+        "url": "https://algomasquecine.com/honey-dont-review/"
+    },
+    {
+        "critic": "Alistair Ryder",
+        "is_top_critic": false,
+        "media": "Vague Visages",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-09-18T13:58:31.000Z",
+        "quote": "a flat, uninspired retread of Coen's most beloved films, executed without any semblance of imagination or inspiration.",
+        "url": "https://vaguevisages.com/2025/09/13/honey-dont-essay-movie-film-ethan-coen-new-queer-canon/"
+    },
+    {
+        "critic": "Sammie Purcell",
+        "is_top_critic": false,
+        "media": "Rough Draft Atlanta",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-09-09T14:40:32.000Z",
+        "quote": "Should have worked, but didn’t – that could be the tagline for “Honey Don’t!”",
+        "url": "https://roughdraftatlanta.com/2025/08/22/honey-dont-should-work-but-just-doesnt-hit-the-mark/"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Casey's Movie Mania",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-09T06:39:01.000Z",
+        "quote": "Margaret Qualley's vibrant performance shines in Ethan Coen's uneven, though colourful vignette-style neo-noir comedy.",
+        "url": "https://www.caseymoviemania.com/honey-dont-review/"
+    },
+    {
+        "critic": "Tom Shone",
+        "is_top_critic": false,
+        "media": "Sunday Times (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-09T00:46:13.000Z",
+        "quote": "Coen has gone back to his happy place but this time he’s not taken the audience with him.",
+        "url": "https://www.thetimes.com/culture/film/article/orlando-bloom-the-cut-honey-dont-reviews-bp5nf9nct"
+    },
+    {
+        "critic": "James Saynor",
+        "is_top_critic": false,
+        "media": "The Arts Desk",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-08T21:35:04.000Z",
+        "quote": "Honey Don’t! has its droll moments and reminders of happy days in dark cinemas of old, but it’s unlikely that even its modest maker would see it as much more than a squib – a thinking person’s drive-in movie in the desert.",
+        "url": "https://www.theartsdesk.com/film/honey-don%E2%80%99t-review-film-noir-bright-sun"
+    },
+    {
+        "critic": "Colin Biggs",
+        "is_top_critic": false,
+        "media": "That Shelf",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-09-06T21:51:48.000Z",
+        "quote": "Much like my qualm with Drive-Away Dolls, large sections of [Honey Don't!] just aren’t funny. The script is a loosely tied ball of yarn.",
+        "url": "https://thatshelf.com/honey-dont-review-a-madcap-misfire/"
+    },
+    {
+        "critic": "John McDonald",
+        "is_top_critic": false,
+        "media": "johnmcdonald.net.au",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-06T02:51:13.000Z",
+        "quote": "This, presumably, is Coen and Cooke’s idea of a B-movie, but it’s too slick and self-aware to be an authentic B, and too devoid of drama.",
+        "url": "https://www.everythingthe.com/p/honey-dont"
+    },
+    {
+        "critic": "Christina Newland",
+        "is_top_critic": true,
+        "media": "iNews.co.uk",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-05T21:40:53.000Z",
+        "quote": "Lightweight and forgettable.",
+        "url": "https://inews.co.uk/culture/film/honey-dont-review-falls-flat-ethan-coen-lost-touch-3895383"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-09-05T21:07:36.000Z",
+        "quote": "One of those movies, like Super Bad, in which the title reviews the film. ",
+        "url": "https://www.youtube.com/watch?v=SV-FgvIb-Bg"
+    },
+    {
+        "critic": "Helen O'Hara",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-05T20:01:06.000Z",
+        "quote": "There are colourful characters and cool moments to keep you entertained on the road to nowhere, but they can’t disguise the fact that this is a shaggy-dog story with no real point.",
+        "url": "https://www.empireonline.com/movies/reviews/honey-dont/"
+    },
+    {
+        "critic": "Victoria Luxford",
+        "is_top_critic": false,
+        "media": "Clash Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-09-05T08:45:16.000Z",
+        "quote": "The type of Noir tale that would have been commonplace when The Coens made their name in the ‘90s, Honey Don’t! doesn’t capture the old Coens magic but creates enough sizzle to please fans of indie weirdness. ",
+        "url": "https://www.clashmusic.com/columns/clash-film-02/"
+    },
+    {
+        "critic": "Linda Cook",
+        "is_top_critic": false,
+        "media": "OurQuadCities / WHBF-TV (Illinois)",
+        "sentiment": "Fresh 🍅",
+        "score": "2 1/2 stars",
+        "date": "2025-09-05T02:32:14.000Z",
+        "quote": "It has its moments, but not enough to be noteworthy.",
+        "url": "https://www.ourquadcities.com/news/local-news/cook-review-honey-dont-has-its-moments-but-not-enough-to-be-noteworthy/"
+    },
+    {
+        "critic": "Clarisse Loughrey",
+        "is_top_critic": true,
+        "media": "Independent (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-04T21:55:58.000Z",
+        "quote": "While Honey Don’t! prods at something new and quite poignant, an idea about how survivors see themselves and that loaded word “victimhood”, it ultimately struggles to make much sense out of itself and its oddball cast.",
+        "url": "https://www.the-independent.com/arts-entertainment/films/reviews/honey-dont-review-uk-release-b2819090.html"
+    },
+    {
+        "critic": "Sergio Burstein ",
+        "is_top_critic": false,
+        "media": "Los Angeles Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-04T19:11:42.000Z",
+        "quote": "What remains here are the bursts of violence that, despite being brilliantly structured, aren't tolerated by all audiences, but which, unlike the carnal instances, still manage to remain relevant to the plot's evolution. [Full review in Spanish]",
+        "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2025-08-21/criticas-unas-lesbianas-muy-activas-unos-amigos-conflictivos-y-mas-estrenos-de-cine"
+    },
+    {
+        "critic": "Tara Brady",
+        "is_top_critic": true,
+        "media": "Irish Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-04T17:56:16.000Z",
+        "quote": "But the film’s self-aware, queered-up take on noir cliches ultimately amounts to nothing like momentum. Trashy stories need plots and character development, too.",
+        "url": "https://www.irishtimes.com/culture/film/review/2025/09/04/honey-dont-review-this-queered-up-take-on-noir-cliches-amounts-to-nothing/"
+    },
+    {
+        "critic": "Danny Leigh",
+        "is_top_critic": false,
+        "media": "Financial Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-04T17:30:02.000Z",
+        "quote": "The film plays like zany black comedy, all gormless faces and Looney Tunes violence. What story there is, though, springs from childhood domestic abuse. The result is exactly as jarring at it sounds. ",
+        "url": "https://www.ft.com/content/e7344e8d-ec65-4702-a25f-65d1fe1656b2"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2025-09-04T09:42:41.000Z",
+        "quote": "A giant apathetic shrug of a movie that doesn’t even seem interested in recapturing that idiosyncratic Coen energy, let alone actually delivering something that will capture a modicum of the viewer’s interest.",
+        "url": "https://filmfeeder.co.uk/film-reviews/honey-dont-dir-ethan-coen"
+    },
+    {
+        "critic": "Kevin Carr",
+        "is_top_critic": false,
+        "media": "Fat Guys at the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-04T05:02:01.000Z",
+        "quote": "The story explores some intriguing elements, but its connective tissue is flimsy, delivering a rambling mystery that keeps having to remind you what the mystery actually is.",
+        "url": "https://www.fatguysatthemovies.com/honey-dont-movie-review/"
+    },
+    {
+        "critic": "Randy Myers",
+        "is_top_critic": false,
+        "media": "San Jose Mercury News",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-09-03T20:32:41.000Z",
+        "quote": "While the joyously unabashed queerness and delicious production details along with Qualley and Evans all-in performances are undeniably cool and effective, all I can say is honey just wait, and stream this one. ",
+        "url": "https://www.mercurynews.com/2025/08/29/what-to-watch-are-honey-dont-relay-worth-a-long-weekend-look/"
+    },
+    {
+        "critic": "Stephen Romei",
+        "is_top_critic": false,
+        "media": "The Australian",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-02T19:17:07.000Z",
+        "quote": "The director throws a lot of dead bodies in the air but doesn’t land them in a convincing storytelling way.",
+        "url": "https://www.theaustralian.com.au/arts/review/less-tight-less-intelligent-less-funny-joel-coens-new-film-falls-short/news-story/e6a81e6056570d759670a0b44203c3fe"
+    },
+    {
+        "critic": "John Paul King",
+        "is_top_critic": false,
+        "media": "Washington Blade",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-02T18:33:35.000Z",
+        "quote": "It’s a wild-and-wooly, ludicrous tale, a self-aware exercise in style which winds its bemusedly hard-edged mystery around a core that mirrors both the cynicism and the romance of its hard-boiled neo-noir inspirations. ",
+        "url": "https://www.washingtonblade.com/2025/08/30/qualley-shines-sexy-neo-nor-honey-dont/"
+    },
+    {
+        "critic": "Brogan Luke Bouwhuis",
+        "is_top_critic": false,
+        "media": "InBetweenDrafts",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-09-02T14:43:17.000Z",
+        "quote": "Qualley gives an outstanding performance as the fast-talking PI, and even people who aren’t won over by the film should have no problem finding joy in her part in it.",
+        "url": "https://inbetweendrafts.com/honey-dont-review/"
+    },
+    {
+        "critic": "Rob Gonsalves",
+        "is_top_critic": false,
+        "media": "Rob's Movie Vault",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-09-02T13:48:57.000Z",
+        "quote": "The tone and the themes are, and end up, at odds, and we’re not sure what our ultimate feelings should be. Maybe Coen and Cooke intended that. If so, hats off. ",
+        "url": "https://robsmovievault.wordpress.com/2025/08/24/honey-dont/"
+    },
+    {
+        "critic": "Brent Hankins",
+        "is_top_critic": false,
+        "media": "The Lamplight Review",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2025-09-01T13:32:49.000Z",
+        "quote": "Honey Don’t! has a charismatic lead performance and a filmmaker with an established track record for this kind of material; that it never quite comes together feels almost maddening. ",
+        "url": "https://lamplightreview.com/movie-review-honey-dont-margaret-qualley/"
+    },
+    {
+        "critic": "Charles Koplinski",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-30T02:11:56.000Z",
+        "quote": "The characters and the energetic cast salvage “Honey.”",
+        "url": "https://reeltalkwithchuckandpam.com/honey-dont-chuck-on-the-fence/"
+    },
+    {
+        "critic": "Coleman Spilde",
+        "is_top_critic": false,
+        "media": "Salon.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-29T22:14:02.000Z",
+        "quote": "Deftly walking the line between exploitation and control in Honey Dont!, Qualley authoritatively states that she’s in charge of how and when she’ll be desired, becoming a subversive screen siren for a new, all-too-prudish age.",
+        "url": "https://www.salon.com/2025/08/23/honey-dont-margaret-qualley-is-in-total-control/"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-08-29T20:22:15.000Z",
+        "quote": "Funny, clever, well-acted, and genuinely subverts the expectations of audiences in a way that made my eyebrows arch in appreciation.",
+        "url": "https://www.thebulwark.com/p/the-end-of-the-superhero-boom"
+    },
+    {
+        "critic": "Michael Nordine",
+        "is_top_critic": false,
+        "media": "Movie Brief",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-29T13:51:04.000Z",
+        "quote": "Feels, for better and for worse, like a fully realized Ethan Coen movie.",
+        "url": "https://www.moviebrief.com/articles/in-brief-august-2025"
+    },
+    {
+        "critic": "Jared Rasic",
+        "is_top_critic": false,
+        "media": "Metro Times (Detroit, MI)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-28T19:32:11.000Z",
+        "quote": "I love watching Qualley and Aubrey Plaza teaming up to kick ass and chew scenery, but the tones and themes are too disparate to make the sun-soaked neo-noir film feel like anything more than a scattered and brief diversion. ",
+        "url": "https://www.metrotimes.com/arts/ethan-coen-and-ron-howard-drift-off-course-with-honey-dont-and-eden-40341084"
+    },
+    {
+        "critic": "Walter Chaw",
+        "is_top_critic": false,
+        "media": "Film Freak Central",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2025-08-28T19:00:25.000Z",
+        "quote": "Honey Don’t! is a contemptuous film that’s contemptuous of you. It thinks so little of its audience, in fact, that it punishes its characters to teach us a cautionary lesson about our callous insensitivity. At least it’s got “irony” nailed.",
+        "url": "https://filmfreakcentral.net/2025/08/honey-dont-2025/"
+    },
+    {
+        "critic": "Kyle Logan",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-28T14:44:16.000Z",
+        "quote": "The slight twinge of too-cruel violence and a somewhat disappointing finale can’t take away from the film’s general success as a fast-paced crime comedy that’s full of laugh-out-loud scenes. ",
+        "url": "https://chicagoreader.com/film-tv/movie-review/review-honey-dont/"
+    },
+    {
+        "critic": "Nicolás Delgadillo",
+        "is_top_critic": false,
+        "media": "Knotfest",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-27T23:54:10.000Z",
+        "quote": "Honey Don’t! doesn’t reinvent the wheel, but it spins it with sleek and modern style.",
+        "url": "https://knotfest.com/blogs/screen-crusades/honey-dont-finds-the-sweet-spot-between-noir-comedy-and-americana-1?srsltid=AfmBOoqkxqzKyJXU-mZAc1ekTZ9m0Hiqt5C7Gl3sU0cA9StB9eME352P"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-27T22:57:47.000Z",
+        "quote": "Honey Don't! is a drifting and unfocused comedy/drama with an identity crisis made worse by sloppy filmmaking. This jumbled story (about a deadpan-talking private detective investigating a series of crimes) makes one misstep after another. ",
+        "url": "https://culturemixonline.com/review-honey-dont-starring-margaret-qualley-aubrey-plaza-and-chris-evans/"
+    },
+    {
+        "critic": "Seth Freilich",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-27T22:34:57.000Z",
+        "quote": "Here, a bit of the slapstick has been traded in for some extra pulp, and while their recipe still isn’t fully baked, it’s a move in the right direction.",
+        "url": "https://www.pajiba.com/film_reviews/margaret-qualley-and-aubrey-plaza-are-electric-in-the-otherwise-iffy-honey-dont.php"
+    },
+    {
+        "critic": "Jake Wilson",
+        "is_top_critic": false,
+        "media": "Sydney Morning Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-27T20:39:41.000Z",
+        "quote": "As a whole, Honey Don’t! is a lot like its heroine: flip, cynical, distrustful of emotion, but not short on bravado and willing to let its guard down once in a while.",
+        "url": "https://www.smh.com.au/culture/movies/aubrey-plaza-steals-the-show-in-coen-s-chaotic-lesbian-noir-caper-20250826-p5mpzz.html"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Daily Telegraph (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-27T18:53:51.000Z",
+        "quote": "Style definitely wins out over substance here, a deal consummately sealed by Qualley’s casually confident presence.",
+        "url": "https://www.dailytelegraph.com.au/entertainment/movies/review-its-style-over-substance-but-margaret-qualley-is-luminous-in-noir-thriller-honey-dont/news-story/fc1b21928816177815bd5ce848704497"
+    },
+    {
+        "critic": "Margot Harrison",
+        "is_top_critic": false,
+        "media": "Seven Days (VT)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-08-27T18:51:24.000Z",
+        "quote": "...Honey Don't! is fine for a late-summer diversion, but it feels like a collection of quirky gestures in search of a point.",
+        "url": "https://www.sevendaysvt.com/on-screen/movie-review-ethan-coens-retro-thriller-honey-dont-44326262"
+    },
+    {
+        "critic": "Maxance Vincent",
+        "is_top_critic": false,
+        "media": "Film Speak",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-08-27T17:36:55.000Z",
+        "quote": "Honey Don’t! is a dynamic, and often amusing B-movie that doesn’t require much from the audience, but try to enjoy the vibes that Coen and Cooke have to offer.",
+        "url": "https://filmspeak.net/movie-reviews/2025/8/26/honey-dont-review-ethan-coen-makes-a-mildly-amusing-b-movie"
+    },
+    {
+        "critic": "Nadine Whitney",
+        "is_top_critic": false,
+        "media": "The Curb",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2025-08-27T12:18:30.000Z",
+        "quote": "Honey Don’t! is a movie that scuppers itself in a bewildering number of ways. How can one of the defining luminaries of the caper genre steer a project straight into a wall of bad choices?",
+        "url": "https://www.thecurb.com.au/honey-dont-review-ethan-coen/"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-27T04:48:00.000Z",
+        "quote": "The salty presence of Margaret Qualley as an old-school, small-town private investigator is the main draw of Honey Don't!, an enjoyable, low-key comedy noir whodunnit from Ethan Coen, marking a big improvement on Drive Away Dolls.",
+        "url": "https://tinyurl.com/4spb9a53"
+    },
+    {
+        "critic": "Anthony Morris",
+        "is_top_critic": false,
+        "media": "It's Better in the Dark",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-26T14:21:08.000Z",
+        "quote": "Honey Don't! is a decent small town noir investing heavily in the idea that a bunch of steamy lesbian sex - or ogling, or even just banter - can make up for its flaws. Better films have skated by on less.",
+        "url": "https://itsbetterinthedark.blogspot.com/2025/08/review-honey-dont.html"
+    },
+    {
+        "critic": "Alise Chaffins",
+        "is_top_critic": false,
+        "media": "MacGuffin or Meaning (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-08-26T13:11:03.000Z",
+        "quote": "Most of the individual components are interesting - some are funny, some are salacious, some are gruesome - but there is never quite enough of a narrative through line, or even a thematic thread, to tie them all together. ",
+        "url": "https://alisechaffins.substack.com/p/honey-dont-review-2025"
+    },
+    {
+        "critic": "Cain Noble-Davies",
+        "is_top_critic": false,
+        "media": "FILMINK (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "14/20",
+        "date": "2025-08-26T08:20:56.000Z",
+        "quote": "… performances are top-shelf, the quips and occasionally brutal fight scenes are enjoyable …",
+        "url": "https://www.filmink.com.au/reviews/honey-dont/"
+    },
+    {
+        "critic": "Alison Gillmor",
+        "is_top_critic": false,
+        "media": "Winnipeg Free Press",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-08-25T21:02:15.000Z",
+        "quote": "The film ends up feeling a bit like Honey’s ideal sexual encounter: it’s dirty, fast and fun while it lasts, and then immediately forgotten.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/movies/2025/08/22/ethan-coens-latest-comedy-caper-gives-it-a-go-but-ends-up-falling-flat"
+    },
+    {
+        "critic": "Adam Nayman",
+        "is_top_critic": true,
+        "media": "The New Republic",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-25T20:46:22.000Z",
+        "quote": "For all its very real charms—not least of which is the frank, fleshy tenor of its sex scenes—Honey Don’t! doesn’t fully work, even on its own scaled-back terms. ",
+        "url": "https://newrepublic.com/article/199360/honey-dont-dressed-no-place-go"
+    },
+    {
+        "critic": "Jason Flatt",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Fresh 🍅",
+        "score": "8.5/10",
+        "date": "2025-08-25T20:19:33.000Z",
+        "quote": "Honey Don’t is a splendid subversion of crime dramas and a great piece of queer art.",
+        "url": "https://butwhytho.net/2025/08/honey-dont-review-aubrey-plaza-chris-evans/"
+    },
+    {
+        "critic": "Sam Adams",
+        "is_top_critic": true,
+        "media": "Slate",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-25T19:58:22.000Z",
+        "quote": "Half a dozen or so good jokes notwithstanding, the movie is a slog, shockingly bereft of even the Coens’ baseline virtues. ",
+        "url": "https://slate.com/culture/2025/08/honey-dont-movie-ethan-coen-brothers-margaret-qualley.html"
+    },
+    {
+        "critic": "Abbie Bernstein",
+        "is_top_critic": false,
+        "media": "Assignment X",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-08-25T19:08:22.000Z",
+        "quote": "Honey Don't is largely diverting, and it’s beautifully made, but the final effect is somewhere between a short dark comedy thriller movie and an extended film noir sketch.",
+        "url": "https://www.assignmentx.com/2025/movie-review-honey-dont/"
+    },
+    {
+        "critic": "Luis Bond",
+        "is_top_critic": false,
+        "media": "Diario las Américas",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-25T18:11:07.000Z",
+        "quote": "Beneath absurd situations, eccentric characters, convoluted crimes, and an arid backdrop, the film explores—between jokes—sensitive and relevant themes such as domestic violence, religious manipulation, homophobia... [Full Review in Spanish]",
+        "url": "https://www.diariolasamericas.com/cultura/pelicula-honey-dont-el-deseo-y-la-sangre-n5381330"
+    },
+    {
+        "critic": "Rick Bentley",
+        "is_top_critic": false,
+        "media": "KGET-TV (Bakersfield, CA)",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2025-08-25T17:42:12.000Z",
+        "quote": "Coen and Cooke never settle on whether “Honey Don’t!” is designed to be a classic whodunit or a parody of the genre. There are moments of comedy, but they come across as last-minute additions to give the movie some life.",
+        "url": "https://www.kget.com/community/ricks-reviews/honey-dont-never-lives-up-to-its-potential/"
+    },
+    {
+        "critic": "Lauren Veneziani",
+        "is_top_critic": false,
+        "media": "WBAL-TV (Baltimore)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-08-25T13:22:24.000Z",
+        "quote": "Margaret Qualley and Aubrey Plaza are a match made in cinematic heaven.",
+        "url": "https://www.wbaltv.com/article/riverdale-actor-stars-in-the-map-that-leads-to-you/65878498"
+    },
+    {
+        "critic": "Mark Jackson",
+        "is_top_critic": false,
+        "media": "Epoch Times",
+        "sentiment": "Rotten 🤢",
+        "score": ".5/5",
+        "date": "2025-08-25T08:12:33.000Z",
+        "quote": "Maybe it's not a bad thing for us to get an occasional whiff—like the gag-worthy waft of skunk-roadkill that got inside my motorcycle helmet last weekend and snapped me out of a dangerous daydream—of just how decadent things are getting these days.",
+        "url": "https://www.theepochtimes.com/bright/honey-dont-honey-dont-go-see-this-coen-brother-film-5905069"
+    },
+    {
+        "critic": "Sara Michelle Fetters",
+        "is_top_critic": true,
+        "media": "MovieFreak.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2025-08-25T06:55:37.000Z",
+        "quote": "It’s sleazy and virtuous at the same time, and — while I hope this won’t be the case — I suspect I’ll be in the minority in finding this latest blood-soaked confection to be delicious.",
+        "url": "http://moviefreak.com/honey-dont-2025-movie-review/"
+    },
+    {
+        "critic": "Sean Burns",
+        "is_top_critic": false,
+        "media": "WBUR’s Arts & Culture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-25T05:56:23.000Z",
+        "quote": "Too slapdash to get a handle on. Nothing in the picture connects.",
+        "url": "https://www.wbur.org/news/2025/08/21/margaret-qualley-aubrey-plaza-honey-dont-ethan-coen-tricia-cooke-film-review"
+    },
+    {
+        "critic": "Scott Tobias",
+        "is_top_critic": true,
+        "media": "The Reveal",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-08-25T02:10:56.000Z",
+        "quote": "The Coens never made a film anywhere near as bad as Honey Don’t! ",
+        "url": "https://thereveal.film/in-review-honey-dont-eden/"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-24T20:17:46.000Z",
+        "quote": "“Honey Don’t!” is another sexy, political entry wrapped in a sun drenched neo noir. If it feels random, it is not, but like any mystery, Coen and Cooke throw a lot of pieces in the air to see if you will solve the whodunnit before Honey. ",
+        "url": "https://sarahgvincentviews.com/movies/honey-dont/"
+    },
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2025-08-24T16:31:14.000Z",
+        "quote": "...a shaggy, from-from-streamlined endeavor that grows more and more interminable as it unfolds...",
+        "url": "https://reelfilm.com/honey-dont/"
+    },
+    {
+        "critic": "Caralynn Matassa",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2025-08-24T14:51:21.000Z",
+        "quote": "The ending attempts to bring things full circle, but instead ends up feeling like audiences have wasted their time on a story that ultimately meant nothing and goes nowhere, without more than a few chuckle-worthy moments in between.",
+        "url": "https://www.cbr.com/honey-dont-review/"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-08-24T01:12:26.000Z",
+        "quote": "The second in a proposed lesbian B-movie trilogy from writer/director Ethan Coen and co-writer Tricia Cooke, this one lacks the spark of the first entry, Drive-Away Dolls. It's amusing, but it's also disconnected and aimless.",
+        "url": "https://www.commonsensemedia.org/movie-reviews/honey-dont"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "0.5/4",
+        "date": "2025-08-23T20:55:32.000Z",
+        "quote": "There are now multiple sources to suggest the Coens are not the same without each other as this film hits a new low with scattershot, meandering, unfunny subplotting on top of a hat-on-a-hat mystery that makes you go ‘WHAT?’",
+        "url": "https://erikthemovieman.substack.com/p/episode-589-ethan-dont-justdont"
+    },
+    {
+        "critic": "Edwin Arnaudin",
+        "is_top_critic": false,
+        "media": "Asheville Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-08-23T19:46:50.000Z",
+        "quote": "Cinematic junk food.",
+        "url": "https://www.ashevillemovies.com/new/honey-dont"
+    },
+    {
+        "critic": "Christopher Lloyd",
+        "is_top_critic": false,
+        "media": "The Film Yap",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2025-08-23T14:44:36.000Z",
+        "quote": "More like \"Honey, Please Don't!\" The second in Ethan Coen's \"lesbian crime trilogy\" is even worse, despite the confident swagger of Margaret Qualley as a Bakersfield P.I. Unfunny and unsurprising, it feels like an old straight dude's take on queer cinema.",
+        "url": "https://filmyap.substack.com/p/the-av-room-indy-now-august-22"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "Rachel's Reviews (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-23T06:18:39.000Z",
+        "quote": "It's sexy but I need more than that",
+        "url": "https://www.youtube.com/watch?v=tGn5c81Okic"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2025-08-23T03:10:06.000Z",
+        "quote": "A disjointed would-be comic thriller that winds up pretty much an incoherent mess, filled with plenty of gruesomely-dispatched corpses but making precious little sense.",
+        "url": "https://www.oneguysopinion.com/honey-dont/"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-08-23T01:13:38.000Z",
+        "quote": "Come for the loose vibe, fun performances, and queer themes and you’ll find a lot to savor.",
+        "url": "https://aisleseat.com/honey-dont.html"
+    },
+    {
+        "critic": "Abe Friedtanzer",
+        "is_top_critic": false,
+        "media": "Awards Buzz",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-08-22T23:47:59.000Z",
+        "quote": "This film doesn’t present a coherent version of its narrative, leaving far too much unsaid and unexplored to be remotely satisfying.",
+        "url": "https://awardsbuzz.com/"
+    },
+    {
+        "critic": "Kyle Smith",
+        "is_top_critic": false,
+        "media": "Wall Street Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-22T21:19:28.000Z",
+        "quote": "Each character falls flat, as do the supporting roles. This matters quite a bit, because Mr. Coen and Ms. Cooke’s plot is such a muddle that they more or less expect us to dismiss it. ",
+        "url": "https://www.wsj.com/arts-culture/film/honey-dont-review-bittersweet-crime-comedy-ce398926"
+    },
+    {
+        "critic": "Dana Han-Klein",
+        "is_top_critic": false,
+        "media": "We're Watching What?!",
+        "sentiment": "Rotten 🤢",
+        "score": "1.7/5",
+        "date": "2025-08-22T21:18:15.000Z",
+        "quote": "An unfulfilling film that feels like a bootleg copy of Cohen and Cooke's earlier and more successful work. Between a seemingly intentional directional choice of hollow performances and a sloppy plot, an actual bee sting would be preferable to watching it.",
+        "url": "https://youtu.be/nuKs87l623A?feature=shared&t=437"
+    },
+    {
+        "critic": "Jess Saunders",
+        "is_top_critic": false,
+        "media": "MovieJawn",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-22T20:22:59.000Z",
+        "quote": "While full of a sleek style and a tight runtime, Ethan Coen’s newest outing with wife Tricia Cooke, Honey Don’t! fails to get its various parts to harmonize together to create anything worth revisiting.",
+        "url": "https://www.moviejawn.com/home/2025/8/21/honey-dont-review"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-22T19:59:36.000Z",
+        "quote": "Arguably, Honey Don't plays like a familiar Coen Bros. narrative with its comedic intentions hampered by the effects of a benzodiazepine, and yet, Ethan Coen's continued vicarious meanderings through wife and co-writer Tricia Cooke's queer perspective...",
+        "url": "https://www.youtube.com/watch?v=WkYHn-3oEXg"
+    },
+    {
+        "critic": "Jacob Mauceri",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2025-08-22T19:49:14.000Z",
+        "quote": "Honey Don’t! is an irredeemable mess of a film and I cannot in good faith recommend it to you.",
+        "url": "https://insessionfilm.com/movie-review-honey-dont/"
+    },
+    {
+        "critic": "Tom Meek",
+        "is_top_critic": false,
+        "media": "Cambridge Day",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-08-22T19:45:42.000Z",
+        "quote": "Coen and Cooke dial up the noir aspect and concoct something more worthy of Qualley’s onscreen allure. ",
+        "url": "https://www.cambridgeday.com/2025/08/21/honey-dont-has-a-detective-who-stands-out-against-drab-settings-luckily-for-these-coens/"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-08-22T19:41:47.000Z",
+        "quote": "The film is a cheesy, delicious mess that succeeds on multiple levels—from its shocking deaths and over-the-top performances to its unabashed mix of sex and female nudity, a rarity in 2020s cinema. It’s playful, prurient, and refreshingly unpretentious.",
+        "url": "https://www.reelviews.net/reelviews/honey-don-t"
+    },
+    {
+        "critic": "Odie Henderson",
+        "is_top_critic": true,
+        "media": "Boston Globe",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2025-08-22T19:33:34.000Z",
+        "quote": "The title answers the question of whether you should see this uninvolving neo-noir from Ethan Coen and Tricia Cooke.",
+        "url": "https://www.bostonglobe.com/2025/08/21/arts/honey-dont-margaret-qualley/"
+    },
+    {
+        "critic": "Lisa Laman",
+        "is_top_critic": false,
+        "media": "The Spool",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-22T19:26:25.000Z",
+        "quote": "Alas, Honey Don’t!, while not devoid of Ethan Coen charms or queer gal joys, left even this lesbian cinema lover cold.",
+        "url": "https://thespool.net/reviews/movies/film-review-honey-dont-focus-features-2025-margaret-qualley-aubrey-plaza/"
+    },
+    {
+        "critic": "Will Bjarnar",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2025-08-22T18:53:18.000Z",
+        "quote": "Qualley and Plaza are both afforded showcase-level duties but not even their camp-adjacent powers can save what remains a piece that is ultimately too basic to ever evolve beyond the feel of a passion project gone sideways.",
+        "url": "https://geekvibesnation.com/honey-dont-review/"
+    },
+    {
+        "critic": "Chuck Bowen",
+        "is_top_critic": false,
+        "media": "Style Weekly (Richmond, VA)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-22T18:36:11.000Z",
+        "quote": "This is a wounded, tangy movie, a pocket noir with a pulse.",
+        "url": "https://www.styleweekly.com/fatale-instinct/"
+    },
+    {
+        "critic": "Steven Prokopy",
+        "is_top_critic": false,
+        "media": "Third Coast Review",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-08-22T17:56:06.000Z",
+        "quote": "Honey Don’t won’t set the crime genre on fire the way other Coen brothers films did, but as a showcase for Qualley and Plaza, I was fully engaged in this funny, sexy, sometimes devious little movie.",
+        "url": "https://thirdcoastreview.com/film-tv/2025/08/22/review-honey-dont"
+    },
+    {
+        "critic": "Kevin Slane",
+        "is_top_critic": false,
+        "media": "Boston.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-08-22T17:30:53.000Z",
+        "quote": "“Drive-Away Dolls,” was a fun but disjointed genre exercise, coasting on ambience and the strength of individual scenes. “Honey Don’t!” plays in a similar register, but with diminishing returns.",
+        "url": "https://www.boston.com/culture/movie-reviews/2025/08/22/honey-dont-movie-review/"
+    },
+    {
+        "critic": "Rain Jokinen",
+        "is_top_critic": false,
+        "media": "MullingMovies.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-22T17:29:45.000Z",
+        "quote": "If Ethan Coen needs to get a third one of these out of his system, fine. But I don't think we, as a nation, deserve any more than that. We've been through enough.\n",
+        "url": "https://www.mullingmovies.com/2025/08/weekend-mullings-honey-dont-eden.html"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "The SS Ben Hecht",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-22T17:17:53.000Z",
+        "quote": "Despite a winning lead performance from Qualley, the mystery is both nonsensical and not very interesting, while its resolution is nothing short of mind-boggling.",
+        "url": "https://stephensilver.substack.com/p/fin-honey-dont-shows-lightning-doesnt"
+    },
+    {
+        "critic": "Christy Lemire",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-08-22T16:24:44.000Z",
+        "quote": "‘Honey Don’t! The title sounds teasing, but ultimately serves as a warning.",
+        "url": "https://www.rogerebert.com/reviews/honey-dont-ethan-coen-film-review-2025"
+    },
+    {
+        "critic": "Joshua Bogatin",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-22T16:24:43.000Z",
+        "quote": "[Not] a movie we need, but it’s one that’s alright for us to have... It’s pleasant, yet never overly so, and these days, with cinema as bland as it is, Honey Don’t!‘s messiness feels like a virtue.",
+        "url": "https://inreviewonline.com/2025/08/22/honey-dont-review/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-08-22T14:01:14.000Z",
+        "quote": "Honey possesses just enough potential to deserve more and better...",
+        "url": "http://markreviewsmovies.com/reviews/H/honeydont.htm"
+    },
+    {
+        "critic": "Sean Collier",
+        "is_top_critic": false,
+        "media": "Pittsburgh Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2025-08-22T13:41:49.000Z",
+        "quote": "If I didn’t know better, I’d say that Honey Don’t! was born out of Ethan Coen trying to see how fast he could write a script.",
+        "url": "https://www.pittsburghmagazine.com/movie-review-honey-dont/"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-22T13:31:55.000Z",
+        "quote": "... squanders its esteemed cast in a low-stakes story that becomes overwhelmed with quirks at the expense of generating meaningful suspense or intrigue.",
+        "url": "https://cinemalogue.com/2025/08/22/honey-dont/"
+    },
+    {
+        "critic": "Oscar Goff",
+        "is_top_critic": false,
+        "media": "Boston Hassle",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-22T12:17:48.000Z",
+        "quote": "Despite all of these individually promising elements, the film itself, on a fundamental level, simply does not work.",
+        "url": "https://bostonhassle.com/review-honey-dont-2025-dir-ethan-coen/"
+    },
+    {
+        "critic": "Prabhjot Bains",
+        "is_top_critic": false,
+        "media": "RANGE Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-22T11:19:21.000Z",
+        "quote": "While there exists a more full-bodied version of Honey Don’t!, where its noirish tale is as interesting as the personalities populating it, it reminds us that no one can capture the quirks and oddities of small-town America quite like a Coen brother.",
+        "url": "https://readrange.com/honey-dont-review/"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-08-22T06:20:34.000Z",
+        "quote": "Qualley’s offbeat performance makes the gumshoe style of Honey Don’t! satisfyingly stick together.\n",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=0c2cd7cb-98e0-41ac-833a-b62a99c98613"
+    },
+    {
+        "critic": "Joseph Neff",
+        "is_top_critic": false,
+        "media": "Spectrum Culture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-22T06:20:22.000Z",
+        "quote": "With the arrival of Honey Don’t!, Coen and Cooke’s intended “lesbian B-movie trilogy” comes into sharper focus.\n",
+        "url": "https://spectrumculture.com/2025/08/21/honey-dont-review/"
+    },
+    {
+        "critic": "Kurt Loder",
+        "is_top_critic": false,
+        "media": "Creators Syndicate",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-22T05:51:29.000Z",
+        "quote": "You know who might have made a story like this work? The Coen brothers.",
+        "url": "https://www.creators.com/read/screener/08/25/honey-dont-noir-lite"
+    },
+    {
+        "critic": "Russ Simmons",
+        "is_top_critic": false,
+        "media": "KKFI-FM (Kansas City)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-08-22T04:03:17.000Z",
+        "quote": "“Honey, Don’t” is sleazy, violent and dopey in equal measure. Ethan, call your brother.\n\n",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-eden-r-honey-dont-r-relay-r-night-always-comes-r/"
+    },
+    {
+        "critic": "Amy Nicholson",
+        "is_top_critic": true,
+        "media": "Los Angeles Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-22T01:38:56.000Z",
+        "quote": "There’s enough to like in “Honey Don’t!” to get you through its 89-minute running time. I’d watch Qualley stride around barking at people for twice as long ",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2025-08-21/honey-dont-review-ethan-coen-margaret-qualley-aubrey-plaza-chris-evans"
+    },
+    {
+        "critic": "Radheyan Simonpillai",
+        "is_top_critic": true,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-21T23:46:17.000Z",
+        "quote": "These characters and more don’t so much connect (to each other or some overarching plot) as they brush past each other. But Honey’s time with them makes it all worthwhile, because Qualley is such a commanding force.",
+        "url": "https://www.theguardian.com/film/2025/aug/21/honey-dont-review-margaret-qualley-ethan-coen"
+    },
+    {
+        "critic": "Richard Brody",
+        "is_top_critic": true,
+        "media": "The New Yorker",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-21T23:41:12.000Z",
+        "quote": "Visceral though it is, “Honey Don’t!” whips up a merely decorative frenzy, concealing the well-worn tropes on which it relies. Yet something of substance remains, even if it takes a long, clattery while to show itself.",
+        "url": "https://www.newyorker.com/culture/the-front-row/honey-dont-revives-the-spirit-of-the-coen-brothers-movies"
+    },
+    {
+        "critic": "Nell Minow",
+        "is_top_critic": true,
+        "media": "Movie Mom",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-08-21T22:45:41.000Z",
+        "quote": "There are moments of inspired derangement. Overall, though, there’s more style than substance, a hollowness that even Qualley’s star quality cannot make up for.",
+        "url": "https://moviemom.com/honey-dont/"
+    },
+    {
+        "critic": "Beatrice Loayza",
+        "is_top_critic": false,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-21T21:44:15.000Z",
+        "quote": "In its best moments — which usually include Qualley and Plaza — Honey Don’t! strikes a balance between sincere and silly. ",
+        "url": "https://www.nytimes.com/2025/08/21/movies/honey-dont-review.html"
+    },
+    {
+        "critic": "Sarah-Tai Black",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-21T21:41:19.000Z",
+        "quote": "It is a throwaway film in a trilogy that is already too sparse in substance to sustain such unorganized plotting and characters that feel more like poor imitation than winking homages.",
+        "url": "https://www.theglobeandmail.com/arts/film/reviews/article-honey-dont-ethan-coen-queer-caper/"
+    },
+    {
+        "critic": "Gemma Wilson",
+        "is_top_critic": false,
+        "media": "Seattle Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-08-21T21:39:43.000Z",
+        "quote": "Honey Don’t! is a bleak and breezy good time. Don’t overthink it.",
+        "url": "https://www.seattletimes.com/entertainment/movies/honey-dont-review-margaret-qualley-looms-large-in-pulpy-whodunit/"
+    },
+    {
+        "critic": "Ty Burr",
+        "is_top_critic": true,
+        "media": "Washington Post",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-08-21T21:38:52.000Z",
+        "quote": "An engaging, occasionally maddening piece of frippery...",
+        "url": "https://www.washingtonpost.com/entertainment/movies/2025/08/21/honey-dont-ethan-coen-qualley-review/"
+    },
+    {
+        "critic": "Richard Whittaker",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2025-08-21T21:35:01.000Z",
+        "quote": "Honey Don’t! probably shouldn’t have.",
+        "url": "https://www.austinchronicle.com/events/film/2025-08-22/honey-dont/"
+    },
+    {
+        "critic": "James Factora",
+        "is_top_critic": false,
+        "media": "them.",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-21T21:22:58.000Z",
+        "quote": "The actors certainly do the best with the material that they’re given, but much of the writing and plot construction is, to be frank, bafflingly terrible. Sadly, I don’t mean that in a “so bad it’s good” kind of way either...",
+        "url": "https://www.them.us/story/honey-dont-margaret-qually-aubrey-plaza-lesbian-noir-review"
+    },
+    {
+        "critic": "Fred Topel",
+        "is_top_critic": false,
+        "media": "United Press International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-21T20:06:29.000Z",
+        "quote": "A slight but still entertaining caper from Ethan Coen. It shares a quirkiness with Fargo, The Big Lebowski and other dark comedies made with his brother, Joel Coen, but those films remain tough acts to follow.",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2025/08/21/honey-dont-movie-review/8251755717135/"
+    },
+    {
+        "critic": "Jonathan W. Hickman",
+        "is_top_critic": false,
+        "media": "The Newnan Times-Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-08-21T20:01:09.000Z",
+        "quote": "“Honey Don’t!” is a charming detective picture with a hero most viewers will want to get behind. ",
+        "url": ": https://www.times-herald.com/arts_and_community/reviews/honey-dont/article_dac8f325-61df-4695-80be-b9631949c001.html"
+    },
+    {
+        "critic": "Alex Bentley",
+        "is_top_critic": false,
+        "media": "CultureMap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-21T19:58:04.000Z",
+        "quote": "The plot is meandering, resulting in only tenuous connections that start to fray under the slightest examination.",
+        "url": "https://dallas.culturemap.com/news/entertainment/honey-dont-movie-review/"
+    },
+    {
+        "critic": "Katie Walsh",
+        "is_top_critic": true,
+        "media": "Tribune News Service",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-08-21T19:05:23.000Z",
+        "quote": "Here’s hoping the third time’s the charm for what has so far been a pair of films that’s more wildly uneven than wildly wanton.",
+        "url": "https://www.unionleader.com/wire/movie-review-honey-dont-another-uneven-entry-in-b-movie-trilogy/article_e02c884c-22f6-464d-956a-ddddb287e020.html"
+    },
+    {
+        "critic": "Drew Gregory",
+        "is_top_critic": false,
+        "media": "Autostraddle",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-21T19:00:07.000Z",
+        "quote": "Difficult, thought-provoking, hard to like and just as easy to love.\n",
+        "url": "https://www.autostraddle.com/lesbian-neo-noir-honey-dont-plays-with-and-challenges-genre-conventions/"
+    },
+    {
+        "critic": "Branyan Towe",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-08-21T18:31:22.000Z",
+        "quote": "Honey Don’t! wastes the efforts of Margaret Qualley and Chris Evans with a script that feels like it was smashed together with little regard for character development or logic. Worst of all, this supposed comedy isn’t all that funny either.",
+        "url": "https://loudandclearreviews.com/honey-dont-film-review/"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2025-08-21T17:47:52.000Z",
+        "quote": "Margaret Qualley shines at the center of Honey Don’t!, but the humor and story never quite rise to her level.",
+        "url": "https://youtu.be/WkYHn-3oEXg"
+    },
+    {
+        "critic": "Todd Gilchrist",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-08-21T16:27:28.000Z",
+        "quote": "But even with a stacked screenplay full of formidable female roles, this bloody, small-town mystery ultimately feels too much like a retread of territory that Coen explored to better effect in films with his brother. ",
+        "url": "https://screenrant.com/honey-dont-movie-review/"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-08-21T16:17:56.000Z",
+        "quote": "A mild improvement over the last Coen-Cooke collaboration, the movie maintains a level of fun that keeps the viewer occupied from moment to moment. And before you know it, the 89-minute runtime has passed without much consequence.",
+        "url": "https://www.deepfocusreview.com/reviews/honey-dont/"
+    },
+    {
+        "critic": "Kristen Lopez",
+        "is_top_critic": true,
+        "media": "The Film Maven",
+        "sentiment": "Rotten 🤢",
+        "score": "D-",
+        "date": "2025-08-21T16:05:17.000Z",
+        "quote": "Honey Don’t is something you can certainly watch. Qualley drags this movie to the finish line and she is the best part. The rest of it is a shaggy mess that never gels into anything cohesive.",
+        "url": "https://thefilmmaven.substack.com/p/honey-dont-review-margaret-qualley-chris-evans"
+    },
+    {
+        "critic": "Danielle Solzman",
+        "is_top_critic": false,
+        "media": "Solzy at the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-21T13:38:59.000Z",
+        "quote": "It’s an okay film that hits more than it misses, even if it doesn’t fully stick the landing.",
+        "url": "https://solzyatthemovies.com/2025/08/21/honey-dont-gets-the-pharisees-wrong/"
+    },
+    {
+        "critic": "Andrew Parker",
+        "is_top_critic": false,
+        "media": "The Gate",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2025-08-21T12:29:19.000Z",
+        "quote": "None of this is tethered to anything that can keep it on the tracks for even a scant 90 minutes. It’s off putting in the way that having someone explain their dreams to you in vivid, nonsensical detail is unnerving.",
+        "url": "https://www.thegate.ca/film/070602/honey-dont-review-a-bad-trip/"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-08-21T12:05:06.000Z",
+        "quote": "Sleek yet aimless, Honey Don’t displays an obvious love for its pulpy style but doesn’t show the same affection for its story which is essentially ninety minutes of red herrings. ",
+        "url": "https://richardcrouse.ca/honey-dont-2-%C2%BD-stars-disregard-for-any-character-not-played-by-qualley/"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-21T11:23:57.000Z",
+        "quote": "Heed its title’s advice and just don’t.",
+        "url": "https://www.thedailybeast.com/obsessed/honey-dont-strangely-horny-lesbian-neo-noir-is-the-years-worst-film/"
+    },
+    {
+        "critic": "Kathy Fennessy",
+        "is_top_critic": false,
+        "media": "Seattle Film Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-08-21T06:21:17.000Z",
+        "quote": " [Margaret] Qualley makes [Ethan] Coen and [Tricia] Cooke's black comic take on the sunshine noir or hardboiled detective story worthwhile–I just wish the film rose to her level.",
+        "url": "https://siffblog2.blogspot.com/2025/08/honey-dont-in-which-margaret-qualley.html"
+    },
+    {
+        "critic": "Martin Tsai",
+        "is_top_critic": false,
+        "media": "Critic's Notebook",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-21T02:44:59.000Z",
+        "quote": "Juvenile is the best way to characterize them, that they tee-hee over dykes the way Beavis and Butt-Head might.",
+        "url": "https://www.criticsnotebook.com/2025/08/honey-dont-movie-review-ethan-coen-margaret-qualley.html"
+    },
+    {
+        "critic": "Mick LaSalle",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2025-08-20T22:10:55.000Z",
+        "quote": "Ethan Coen deserves praise for trying something new as a mature artist. But before he tries it again, he should consider holding out for better material.",
+        "url": "https://www.sfchronicle.com/entertainment/article/honey-dont-coen-review-20779340.php"
+    },
+    {
+        "critic": "Jeff York",
+        "is_top_critic": false,
+        "media": "The Establishing Shot",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-08-20T21:26:58.000Z",
+        "quote": "Margaret Qualley continues to illustrate that she is one of today’s most exciting actresses with another performance that shows range, nuance, and wit.",
+        "url": "https://theestablishingshot.org/2025/08/qualley-anchors-a-quirky-comic-noir-in-honey-dont/"
+    },
+    {
+        "critic": "Dan Scully",
+        "is_top_critic": false,
+        "media": "ScullyVision",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-20T21:18:47.000Z",
+        "quote": "It’s one of those “they’re having fun, so we’re having fun” movies that Ethan Coen has more than earned his right to make. ",
+        "url": "https://scullyvision.com/2025/08/20/honey-dont-a-slight-hilarious-sunshine-noir/"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-20T18:11:34.000Z",
+        "quote": "Qualley is, by far, the best thing about director Ethan Coen‘s tweaked spin on the gumshoe-mystery genre, and you can’t overstate how much her performance glides the movie over an abundance of rough patches and past dead-end detours. ",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/honey-dont-review-margaret-qualley-1235410375/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2025-08-20T17:28:01.000Z",
+        "quote": "Cooke and Coen submit another dud in “Honey Don’t,” which supplies unpleasantness, even more unbearable performances, and a central mystery that carries no cinematic weight.",
+        "url": "https://www.blu-ray.com/Honey-Dont/1856517/#Review"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-20T16:09:57.000Z",
+        "quote": "Even as a Coen-flavored feature, it’s less about trying to get on the same wavelength of their oddball sense of humor and more of a trifle that doesn’t seem particularly well thought-out.",
+        "url": "https://weliveentertainment.com/welivefilm/honey-dont-review-bang-bang-kiss-miss/"
+    },
+    {
+        "critic": "Peter Sobczynski",
+        "is_top_critic": false,
+        "media": "Auteurist Class (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-20T16:00:25.000Z",
+        "quote": "Honey Don’t is even better than Drive-Away Dolls as it fuses together weirdo comedy, genre tropes and enough sexual content to send those who constantly rail about “gratuitous sex”in movies grasping for their fainting couches",
+        "url": "https://open.substack.com/pub/petersobczynski/p/the-hot-spot?r=129p34&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Steve Erickson",
+        "is_top_critic": false,
+        "media": "Gay City News",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-19T18:59:31.000Z",
+        "quote": "The plot brings together too many elements to do justice to them all, quickly spreading itself thin. An intriguing film could be made around these people, but “Honey Don’t!” isn’t it.",
+        "url": "https://gaycitynews.com/honey-dont-film-follow-up-drive-away-dolls/"
+    },
+    {
+        "critic": "Brandon Lewis",
+        "is_top_critic": false,
+        "media": "AwardsWatch",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-08-19T18:28:17.000Z",
+        "quote": "Chris Evans works best as a villain in a heightened setting, and Coen’s setting lets him go for broke. He delivers a balls-to-the-wall performance, unabashedly silly while sinister and volatile, having a blast in every scene.",
+        "url": "https://awardswatch.com/honey-dont-review-the-power-of-christ-almost-compels-you-in-ethan-coens-overly-sexualized-yet-sexually-timid-romp-b/"
+    },
+    {
+        "critic": "Gary M. Kramer",
+        "is_top_critic": false,
+        "media": "Philadelphia Gay News",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-19T17:32:32.000Z",
+        "quote": "Honey Don’t! is so full of red herrings, it is more film rouge than film noir. But director Ethan Coen, who also co-wrote the screenplay with his wife, Tricia Cooke, makes all the episodes interesting even if they don’t all add up.",
+        "url": "https://epgn.com/2025/08/19/honey-dont-review/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "7.0/10",
+        "date": "2025-08-19T17:11:38.000Z",
+        "quote": "It makes for a fine night out, lightly subversive as it mixes character moments with absurdities. Like its namesake, the movie clip-clops around with confidence.",
+        "url": "https://www.pastemagazine.com/movies/ethan-coen/honey-dont-margaret-qualley-ethan-coen-tricia-cooke-aubrey-plaza"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-08-19T15:57:33.000Z",
+        "quote": "It’s not a great film, but I can appreciate Coen and co-writer Tricia Cooke’s spin on hard-boiled detective yarns, with Qualley as the Philip Marlowe-esque antihero on the weirdest case of any gumshoe’s career.",
+        "url": "https://punchdrunkcritics.com/2025/08/review-honey-dont/"
+    },
+    {
+        "critic": "Liz Braun",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-08-19T12:36:42.000Z",
+        "quote": "Qualley is deadpan and unflappable in her role as a world-weary P.I. trying to untangle everything. But look here, doll — the story just doesn’t add up. ",
+        "url": "https://www.original-cin.ca/posts/2025/8/19/honey-dont-margaret-qualley-is-a-delight-but-the-film-is-completely-forgettable-whatever-it-is"
+    },
+    {
+        "critic": "Joey Magidson",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-08-19T07:19:57.000Z",
+        "quote": "Honey Don't! is further amusing evidence that Ethan Coen and Margaret Qualley should make a dozen more violent comedies together.",
+        "url": "https://awardsradar.com/2025/08/19/film-review-honey-dont-is-further-amusing-evidence-that-ethan-coen-and-margaret-qualley-should-make-a-dozen-more-violent-comedies/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-19T03:27:55.000Z",
+        "quote": "A painfully unfunny, vapid and asinine dark comedy with a plot that's increasingly silly and preposterous.",
+        "url": "http://nycmovieguru.com/aug22nd25.html#honeydont"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-08-19T03:17:12.000Z",
+        "quote": "Not only is Honey Don't! bereft of big laughs, there are too many ideas going on that don't always fit into the narrative or aren’t given enough time to breathe and amount to anything",
+        "url": "https://www.flickeringmyth.com/movie-review-honey-dont-2025/"
+    },
+    {
+        "critic": "Lindsey Bahr",
+        "is_top_critic": true,
+        "media": "Associated Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-08-18T23:04:44.000Z",
+        "quote": "“Honey Don’t” is gory, unapologetically sexual, quippy and dark. It also clocks in at under 90 minutes -- they knew just when to get out.",
+        "url": "https://apnews.com/article/honey-dont-movie-review-margaret-qualley-eba159d27beabaf37894de6014cdb532"
+    },
+    {
+        "critic": "Justin Clark",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-08-18T14:58:55.000Z",
+        "quote": "The film is paced in such a languid, dreamy way that it’s hard to get a grasp on how each scene connects to the larger themes or the larger mystery until fairly late.",
+        "url": "https://www.slantmagazine.com/film/honey-dont-review-margaret-qualley-ethan-coen/"
+    },
+    {
+        "critic": "Derrick Murray",
+        "is_top_critic": false,
+        "media": "NERDBOT",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-08-18T01:06:13.000Z",
+        "quote": "...even at its funniest and horniest it fails to jolt any electricity into its disjointed and purposefully convoluted plot, leaving “Honey, Don’t” feeling as flat as its Bakersfield desert setting.",
+        "url": "https://nerdbot.com/2025/08/16/honey-dont-its-time-for-the-coen-brothers-to-get-back-together-review/"
+    },
+    {
+        "critic": "Gregg Shapiro",
+        "is_top_critic": false,
+        "media": "Bay Area Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-11T22:37:31.000Z",
+        "quote": "Nevertheless, it’s worth watching for Qualley’s outstanding performance.",
+        "url": "https://www.ebar.com/story/156693/Arts%20%26%20Culture/Movies/Doing%20%E2%80%98Honey%20Don%E2%80%99t!%E2%80%99%20%E2%80%93%20Filmmakers%20Ethan%20Coen%20and%20Tricia%20Cooke%20on%20their%20noir-inspired%20dark%20comedy"
+    },
+    {
+        "critic": "Alfred Castaneda",
+        "is_top_critic": false,
+        "media": "Shade Studios",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-08-07T05:15:20.000Z",
+        "quote": "Honey Don't plays like scraps from Drive Away Dolls, put together to be something greater than it is but not adding up to much of anything.",
+        "url": "https://shadestudios.com/f/honey-don%E2%80%99t-review"
+    },
+    {
+        "critic": "Tim Miller",
+        "is_top_critic": false,
+        "media": "Cape Cod Wave Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-07-22T04:12:59.000Z",
+        "quote": "Director Ethan Coen, working with a screenplay he wrote with wife Tricia Cooke, chooses style over substance with this half-baked neo-noir comedy.",
+        "url": "https://capecodwave.com/ptown-fest-jayne-jeff-jack-and-a-lot-more-play-it-again-tim/"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-07-08T20:12:35.000Z",
+        "quote": "Honey Don’t! lacks both visual pizzazz and the kind Coen-esque edge that made the brothers’ previous capers shine.",
+        "url": "https://www.ign.com/articles/honey-dont-review-joel-coen-margaret-qualley-aubrey-plaza"
+    },
+    {
+        "critic": "Shannon Cotter",
+        "is_top_critic": false,
+        "media": "Film Ireland Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-06-20T20:23:49.000Z",
+        "quote": "Cooke and Coen's ability to treat this spin on the genre so casually is what makes it feel so natural: the queer love affairs, the wit of the punchlines, the sunbaked hardness of Bakersfield glazing across the screen.",
+        "url": "https://www.filmireland.net/cannes-review-honey-dont/"
+    },
+    {
+        "critic": "Robbie Collin",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2025-06-16T17:31:06.000Z",
+        "quote": "Coen wrote Honey Don’t with his wife Tricia Cooke, and the film has the unfortunate air of two self-styled Cool Parents gatecrashing their mortified teenage daughter’s sleepover.",
+        "url": "https://www.telegraph.co.uk/films/0/cannes-film-festival-2025-best-worst-film-reviews/"
+    },
+    {
+        "critic": "Joonatan Itkonen",
+        "is_top_critic": false,
+        "media": "Region Free",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-06-01T19:06:27.000Z",
+        "quote": "When the credits rolled, there was a smattering of muted applause and a hurried rush for the exit. The previous 90 minutes had drained all energy out of a crowd that wanted this to be a winner. ",
+        "url": "https://regionfree.net/cannes-2025-honey-dont-review/"
+    },
+    {
+        "critic": "Alison Willmore",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-05-28T19:20:48.000Z",
+        "quote": "Despite the verve of the film, there’s no there there — just an exercise in quippy banter and witty violence that works well enough to remind you of better movies.",
+        "url": "https://www.vulture.com/article/honey-dont-is-only-worth-watching-for-the-sexual-swagger.html"
+    },
+    {
+        "critic": "David Jenkins",
+        "is_top_critic": false,
+        "media": "Little White Lies",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-05-27T23:50:59.000Z",
+        "quote": "The overriding feeling you glean from Honey Don’t is that it’s an example of two formidable filmmakers working in a register that almost punkishly rejects the intricacy and breathtaking formal panache of their past work. ",
+        "url": "https://lwlies.com/festivals/honey-dont-first-look-review/"
+    },
+    {
+        "critic": "Hoai-Tran Bui",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-05-27T17:55:56.000Z",
+        "quote": "A still absurd, but more tonally confused — and, perhaps by accident, more stylistically interesting — effort from the younger Coen.",
+        "url": "https://www.inverse.com/entertainment/honey-dont-review-ethan-coen-noir-cannes"
+    },
+    {
+        "critic": "Kristy Puchko",
+        "is_top_critic": true,
+        "media": "Mashable",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-05-27T14:10:55.000Z",
+        "quote": "Honey Don't! is a raw and refreshing caper. ",
+        "url": "https://mashable.com/article/honey-dont-review"
+    },
+    {
+        "critic": "David Crow",
+        "is_top_critic": false,
+        "media": "Den of Geek",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-05-26T14:59:41.000Z",
+        "quote": "As played by Margaret Qualley with an authentic Carolina lilt, Honey ascends in the movie's best moments into becoming a kind of Southern-fried, queer Marlowe.",
+        "url": "https://www.denofgeek.com/movies/honey-dont-review-margaret-qualley-aces-noir-detective-throwback/"
+    },
+    {
+        "critic": "Bill Bria",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2025-05-26T12:41:47.000Z",
+        "quote": "Yet \"Honey Don't!\" is not a bleak film, as this downtrodden setting makes the moments of offbeat wit, menace, and intrigue gleam that much brighter.",
+        "url": "https://www.slashfilm.com/1867517/honey-dont-review/"
+    },
+    {
+        "critic": "Therese Lacson",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-05-26T00:57:16.000Z",
+        "quote": "The reality is that Honey Don't! struggles to stay in the lane it set for itself and, with eyebrow-raising decisions, the film ultimately fails to satisfy.",
+        "url": "https://collider.com/honey-dont-review-margaret-qualley-chris-evans-ethan-coen/"
+    },
+    {
+        "critic": "Robert Daniels",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-05-24T16:35:49.000Z",
+        "quote": "Ethan Coen’s slight yet jumbled 90-minute escapade tries to recapture the charged atmosphere of “Drive Away Dolls,” but only moves forward in fits and starts.",
+        "url": "https://www.rogerebert.com/festivals/cannes-2025-resurrection-honey-dont"
+    },
+    {
+        "critic": "Chase Hutchinson",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-05-24T06:30:42.000Z",
+        "quote": "There are plenty of silly recurring jokes and a collection of quirky characters, but it all exists to cover up just how empty the film itself is at its core.",
+        "url": "https://www.thewrap.com/honey-dont-review-margaret-qualley/"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-05-24T01:29:17.000Z",
+        "quote": "Honey Don’t isn’t asking you to dive deep into your psyche and that makes it feel like the classics that the Coen brothers used to give us.",
+        "url": "https://www.themarysue.com/honey-dont-review-ethan-coen-and-tricia-cooke-throw-margaret-qualley-into-her-own-whodunit/"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-05-24T00:50:31.000Z",
+        "quote": "Ethan Coen and Tricia Cooke have found their muse in the absolutely brilliant Margaret Qualley. The trio follow-up last year's Drive-Away Dolls with a knockdown-funny, lesbian B-movie romp that sizzles in every salacious frame.",
+        "url": "https://movieweb.com/honey-dont-review/"
+    },
+    {
+        "critic": "James Mottram",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-05-24T00:16:45.000Z",
+        "quote": "Keeping a similar tone to Drive-Away Dolls, this is a throwaway B movie that twists on the fact that its LGBTQ+ friendly, something of a switch around for celluloid crime yarns (unless you count the Wachowskis’ 1996 lesbian noir Bound).",
+        "url": "https://www.radiotimes.com/tv/honey-dont-review-ethan-coens-black-comedy-refreshingly-reverses-gender-roles/"
+    },
+    {
+        "critic": "Esther Zuckerman",
+        "is_top_critic": true,
+        "media": "IndieWire",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2025-05-24T00:11:18.000Z",
+        "quote": "...“Honey Don’t!” feels like a mishmash of disparate parts that Coen and Cooke didn’t know how to fit together. The end result is an exhausting disappointment, and a waste of the assembled talent. ",
+        "url": "https://www.indiewire.com/criticism/movies/honey-dont-movie-review-ethan-coen-aubrey-plaza-1235125527/"
+    },
+    {
+        "critic": "Lovia Gyarkye",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-05-24T00:04:01.000Z",
+        "quote": "Honey Don’t! is a better movie than Drive-Away Dolls thanks to an engaging whodunit plot, but it ultimately suffers from the same issues as its predecessor: The film feels like a series of gags with nowhere to go. ",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/honey-dont-review-margaret-qualley-aubrey-plaza-ethan-coen-1236224718/"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-05-23T23:54:10.000Z",
+        "quote": "Forget the guys: Honey Don't! is most enjoyable when it rides along with its quick-witted antiheroine, even if one wishes the vehicle she was in had a little more oomph.",
+        "url": "https://www.screendaily.com/reviews/honey-dont-review-margaret-qualley-plays-a-pi-in-ethan-coens-slight-california-comedy/5205442.article"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-05-23T23:48:18.000Z",
+        "quote": "...“Honey Don’t!” is a deliberate throwaway — a knowingly light and funny mock escapist thriller, one that’s just trying to show you a flaky good time.",
+        "url": "https://variety.com/2025/film/reviews/honey-dont-review-margaret-qualley-ethan-coen-1236406751/"
+    },
+    {
+        "critic": "Giovanni Lago",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-05-23T23:33:49.000Z",
+        "quote": "On paper, \"Honey Don't!\" sounds like an absolute blast, so why is it more often than not a dullish conformity of Coen's style struggling to fuse into this exercise in genre filmmaking?",
+        "url": "https://nextbestpicture.com/honey-dont/"
+    },
+    {
+        "critic": "Ed Potton",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-05-23T22:34:42.000Z",
+        "quote": "Coen and Cooke, you sense, didn’t quite know how to wrap everything up. Still, it’s a distracting and subversive world that they have built.",
+        "url": "https://www.thetimes.com/culture/film/article/honey-dont-review-margaret-qualley-ethan-coen-xqdbpsdwx"
+    }
+]

@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import time
 from datetime import datetime, date   # 直接导入类，代码里写 datetime.now() / date.today()
 
@@ -231,14 +232,19 @@ def fetch_event_markets(event_ticker: str) -> dict:
 
     markets = []
     for m in raw_markets:
+        # 门槛值：优先用 floor_strike；有些片这个字段为空，
+        # 门槛值藏在 ticker_name 末尾（如 KXRTDOGMAN-45 → 45），回退解析。
         floor = m.get("floor_strike")
         if floor is None:
-            continue
+            match = re.search(r'-(\d+)$', m.get("ticker_name", ""))
+            floor = int(match.group(1)) if match else None
+        if floor is None:
+            continue   # 两种都拿不到才真的跳过
         markets.append({
-            "market_id": m.get("id"),               # 拉 candlesticks 用
+            "market_id": m.get("id"),
             "ticker": m.get("ticker_name", ""),
             "floor": float(floor),
-            "result": m.get("result"),              # 'yes'/'no'/None
+            "result": m.get("result"),
             "status": m.get("status"),
         })
     markets.sort(key=lambda x: x["floor"])
@@ -268,36 +274,55 @@ def fetch_event_markets(event_ticker: str) -> dict:
 
 def fetch_candlesticks(series_ticker: str, market_id: str,
                        start_ts: int, end_ts: int,
-                       period_interval: int = 60) -> list[dict]:
+                       period_interval: int = 60,
+                       seg_days: int = 30) -> list[dict]:
     """
     拉某个门槛的历史盘口 K 线。已结算的也能拉（公开、免认证）。
 
-    series_ticker: 系列代码 = 你 config 里的 kalshi_event（如 "KXRTPRIMATE"）。
+    ⚠ candlesticks 接口对"单次时间跨度 × K线粒度"有上限，跨度太大会 400。
+    所以这里【自动分段】：把 [start_ts, end_ts] 切成每段 seg_days 天，
+    逐段拉再拼接。任何跨度都能完整拉到（如 deadpool 158 天分 6 段）。
+
+    series_ticker: 系列代码 = config 里的 kalshi_event（如 "KXRTPRIMATE"）。
     market_id:     门槛的 UUID（从 fetch_event_markets 拿）。
     start_ts/end_ts: 时间范围，Unix 秒。
     period_interval: 每根 K 线分钟数，默认 60。
+    seg_days:      每段多少天，默认 30（30天×24小时=720根，安全不超限）。
 
-    返回 K 线列表，每根含 ts/yes_ask/yes_bid/last_price/volume/open_interest。
+    返回 K 线列表（按时间顺序），每根含 ts/yes_ask/yes_bid/last_price/volume/open_interest。
     """
-    url = (f"{HIST_BASE_URL}/series/{series_ticker}"
-           f"/markets/{market_id}/candlesticks")
-    data = _get(url, params={
-        "start_ts": start_ts,
-        "end_ts": end_ts,
-        "period_interval": period_interval,
-    })
+    SEG = seg_days * 24 * 3600
+    all_candles: list[dict] = []
 
-    out = []
-    for c in data.get("candlesticks", []):
-        out.append({
-            "ts": c["end_period_ts"],
-            "yes_ask": c["yes_ask"]["close"],
-            "yes_bid": c["yes_bid"]["close"],
-            "last_price": c["price"]["close"],   # 可能 None
-            "volume": c["volume"],
-            "open_interest": c.get("open_interest"),
+    # 关键修复：把时间戳向下取整到 period_interval 整数倍。
+    # candlesticks 接口要求 start_ts/end_ts 对齐到K线边界，
+    # 否则非整点的结算时间（如 14:26:53）会导致 400 Bad Request。
+    step = period_interval * 60           # 60分钟 = 3600秒
+    start_ts = (start_ts // step) * step  # 向下取整
+    end_ts = (end_ts // step) * step + step   # 向上取整（多包一根，确保覆盖到结算）
+
+    seg_start = start_ts
+    while seg_start < end_ts:
+        seg_end = min(seg_start + SEG, end_ts)
+        url = (f"{HIST_BASE_URL}/series/{series_ticker}"
+               f"/markets/{market_id}/candlesticks")
+        data = _get(url, params={
+            "start_ts": seg_start,
+            "end_ts": seg_end,
+            "period_interval": period_interval,
         })
-    return out
+        for c in data.get("candlesticks", []):
+            all_candles.append({
+                "ts": c["end_period_ts"],
+                "yes_ask": c["yes_ask"]["close"],
+                "yes_bid": c["yes_bid"]["close"],
+                "last_price": c["price"]["close"],   # 可能 None
+                "volume": c["volume"],
+                "open_interest": c.get("open_interest"),
+            })
+        seg_start = seg_end
+
+    return all_candles
 
 def iso_to_ts(iso_str: str) -> int:
     """ISO 时间字符串（如 '2026-01-12T15:00:00Z'）→ Unix 秒。candlesticks 的 start_ts/end_ts 要用。"""

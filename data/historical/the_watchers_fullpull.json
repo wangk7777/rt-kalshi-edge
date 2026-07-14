@@ -1,0 +1,1842 @@
+[
+    {
+        "critic": "Jon Winkler",
+        "is_top_critic": false,
+        "media": "InBetweenDrafts",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-04-14T15:40:32.000Z",
+        "quote": "The movie has its moments in a visual sense but, in true Shyamalan fashion, its script is its achilles heel. ",
+        "url": "https://inbetweendrafts.com/the-watchers-review/"
+    },
+    {
+        "critic": "Nicolás Medina",
+        "is_top_critic": false,
+        "media": "Peliplat",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-12-04T20:37:38.000Z",
+        "quote": "The strength of the film does not lie in big revelations or plot twists, which at least distances Ishana somewhat from her father's cinema. [Full review in Spanish]",
+        "url": "https://www.peliplat.com/en/article/10025489/the-watchers-2024-un-cuento-de-folk-horror-enjaulado"
+    },
+    {
+        "critic": "Bryce Hanson",
+        "is_top_critic": false,
+        "media": "Horror Movie Talk",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-12-04T17:36:28.000Z",
+        "quote": "It’s not a terrible movie, but it’s not great either. As they say in the old country, The Shyamalan doesn’t fall far from the tree. This film suffers from some of the same on-the nose dialogue and an overreliance on exposition to tell the story.",
+        "url": "https://www.horrormovietalk.com/2024/06/19/the-watchers-2024-review/"
+    },
+    {
+        "critic": "Marissa Hill",
+        "is_top_critic": false,
+        "media": "Shade Studios",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-07-30T00:01:36.000Z",
+        "quote": "While the film leans on some familiar tropes — such as the mysterious forest and the enigmatic force guiding the protagonist — its strongest element is the pervasive sense of mystery that underpins the story.",
+        "url": "https://shadestudios.com/film-and-tv-reviews/f/the-watchers-movie-review-%E2%80%93-a-cryptic-watch"
+    },
+    {
+        "critic": "Maxance Vincent",
+        "is_top_critic": false,
+        "media": "Film Speak",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-07-14T14:17:41.000Z",
+        "quote": "[The film] is so vivid in its imagination, atmosphere, and stark visual language that it immediately cements Ishana Night Shyamalan as a new voice to watch in genre cinema. ",
+        "url": "https://filmspeak.net/movie-reviews/2024/6/6/the-watchers-review-ishana-night-shyamalans-revelatory-directorial-debut"
+    },
+    {
+        "critic": "Grant Watson",
+        "is_top_critic": false,
+        "media": "Fiction Machine",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-02-04T03:26:39.000Z",
+        "quote": "The Watchers is enjoyable but faulty: a typical first feature in many ways, it shows great promise in terms of performance and style, but perhaps struggles too much with its story and screenplay.",
+        "url": "https://fictionmachine.com/2025/02/04/review-the-watchers-2024/"
+    },
+    {
+        "critic": "Sarah Cullen",
+        "is_top_critic": false,
+        "media": "Film Ireland Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-28T20:41:17.000Z",
+        "quote": "While it feels like some elements of the narrative might have benefited from more screen time, there are bold and interesting plot choices and distinctive creative decisions. ",
+        "url": "https://www.filmireland.net/review-the-watched/"
+    },
+    {
+        "critic": "Matt Brunson",
+        "is_top_critic": false,
+        "media": "Film Frenzy",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-09-14T20:30:04.000Z",
+        "quote": "The Clock-Watchers would have been a better title for this tedious claptrap that wears out its welcome long before the predictable final twist.",
+        "url": "https://thefilmfrenzy.com/2024/09/13/view-from-the-couch-bill-ted-trilogy-high-crime-repo-man-etc/"
+    },
+    {
+        "critic": "Jeffrey Lyles",
+        "is_top_critic": false,
+        "media": "Lyles' Movie Files",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-09-08T05:59:14.000Z",
+        "quote": "Has some potential as an eerie, cabin in the woods type thriller. After about 40 minutes that premise feels like it's working on borrowed time and ultimately gets let down by a disappointing final act. ",
+        "url": "https://lylesmoviefiles.com/2024/09/08/the-watchers-review/"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-09-04T23:48:39.000Z",
+        "quote": "... It is said that any movie in which a character uses the phrase “it is said” in normal conversation is a movie that needs a rewrite. Badly. ",
+        "url": "https://decider.com/2024/08/30/the-watchers-streaming-movie-review/"
+    },
+    {
+        "critic": "David Griffiths",
+        "is_top_critic": false,
+        "media": "Subculture Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-08-29T04:25:46.000Z",
+        "quote": "Refreshing to see that the film based itself on mythology rather than trying to become too arty. Holds its suspense and perhaps drifts into the horror realm more than most would have expected.",
+        "url": "https://subcultureentertainment.com/2024/08/film-review-the-watchers-review-2024/"
+    },
+    {
+        "critic": "Jeff Beck",
+        "is_top_critic": false,
+        "media": "The Blu Spot",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-08-28T15:56:44.000Z",
+        "quote": "The Watchers features an intriguing premise, but in its transition to the screen, all of the tension, suspense, and excitement that made the novel a popular read were sadly left behind, making the film rather tedious in its execution.",
+        "url": "https://www.thebluspot.com/single-post/the-watchers-a-tedious-adaptation-of-a-well-received-novel-blu-ray"
+    },
+    {
+        "critic": "Tim Miller",
+        "is_top_critic": false,
+        "media": "Cape Cod Wave Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-08-17T19:02:56.000Z",
+        "quote": "It’s mostly all buildup without a knockout punch.",
+        "url": "https://capecodwave.com/linklaters-latest-ptown-fest-and-more-play-it-again-tim/"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-08-05T14:53:14.000Z",
+        "quote": "When the film does get more into what is actually going on, as well as revealing certain twists along the way (because, y’know, Shyamalan), it somehow becomes even more tedious.",
+        "url": "https://filmfeeder.co.uk/film-reviews/the-watched-2024-dir-ishana-night-shyamalan"
+    },
+    {
+        "critic": "Pete Vonder Haar",
+        "is_top_critic": false,
+        "media": "Houston Press",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-07-27T03:02:22.000Z",
+        "quote": "Where The Watchers ultimately bogs down is in Shyamalan's reliance on telling instead of showing. And come to think of it, that tendency to overexplain also runs in the family.",
+        "url": "https://www.houstonpress.com/arts/review-the-watchers-18262637"
+    },
+    {
+        "critic": "Jared Mobarak",
+        "is_top_critic": false,
+        "media": "Hey, Have You Seen ...?",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-07-19T15:55:57.000Z",
+        "quote": "Strip everything away and this is a solid if generic thriller that delivers the goods on a purely formal level. Add back some of the flavor and you see where Ishana can go if given the time and room to grow.",
+        "url": "https://jaredmobarak.substack.com/i/146545772/the-watchers"
+    },
+    {
+        "critic": "Tim Cogshell",
+        "is_top_critic": true,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-13T01:23:41.000Z",
+        "quote": "The apple does not fall far from the tree... But I wish that apple rolled down the hill just a wee little bit.",
+        "url": "https://laist.com/shows/filmweek/filmweek-am-i-ok-the-watchers-maestra-and-more"
+    },
+    {
+        "critic": "Troy Ribeiro",
+        "is_top_critic": false,
+        "media": "Free Press Journal (India)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5",
+        "date": "2024-07-12T11:24:30.000Z",
+        "quote": "Thematically, the plot flirts with compelling ideas about identity, perspective, and the primal fear of being watched. Yet, these concepts remain largely underexplored as the film fails to dig deep enough. ",
+        "url": "https://www.freepressjournal.in/entertainment/the-watchers-review-dakota-fanning-shines-in-ishana-shyamalans-atmospheric-yet-flawed-horror-debut"
+    },
+    {
+        "critic": "Akos Peterbencze",
+        "is_top_critic": false,
+        "media": "The Screen",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-10T16:31:07.000Z",
+        "quote": "An unpretentious creature feature that doesn't get bogged down by overemphasizing trauma, pompous symbolizations, or stacking up ambiguous metaphors for attempting to be more high-brow than it actually is.",
+        "url": "https://thescreen.substack.com/p/the-watchers-offers-a-flawed-but"
+    },
+    {
+        "critic": "John Flickinger",
+        "is_top_critic": false,
+        "media": "The Flick Pick (Youtube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-07T18:02:45.000Z",
+        "quote": "The premise of 'The Watchers' promises an eerie, minimalist horror flick, but the execution in the second and third acts is nothing short of a cinematic crime against humanity, wreaking havoc on storytelling and entertainment.",
+        "url": "https://www.youtube.com/theflickpick"
+    },
+    {
+        "critic": "Lyra Hale",
+        "is_top_critic": false,
+        "media": "Fangirlish",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2024-07-05T21:30:09.000Z",
+        "quote": "The Watchers unfortunately suffers from [Ishana Shyamalan's fathers] hollow way of telling stories that lack true emotional depth and human connection.",
+        "url": "https://fangirlish.com/2024/06/29/the-watchers-review-irish-folklore-barely-brought-to-life-by-a-nepo-baby/"
+    },
+    {
+        "critic": "James Verniere",
+        "is_top_critic": false,
+        "media": "Boston Movie News",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-07-05T20:51:14.000Z",
+        "quote": "Nepo baby Ishana Shyamalan underperforms with film based on Irish author's spooky book. Dakota Fanning is, however, a big asset.",
+        "url": "https://bostonmovienews.com/2024/06/06/watch-out-for-the-watchers/"
+    },
+    {
+        "critic": "Edwin Arnaudin",
+        "is_top_critic": false,
+        "media": "Asheville Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-07-05T15:45:30.000Z",
+        "quote": "Shyamalan is currently her family’s more exciting voice.",
+        "url": "https://www.ashevillemovies.com/new/the-watchers"
+    },
+    {
+        "critic": "Joshua Polanski",
+        "is_top_critic": false,
+        "media": "Boston Hassle",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-03T23:06:03.000Z",
+        "quote": "Shyamalan juggles so many big themes that dropping a few was always inevitable.",
+        "url": "https://bostonhassle.com/review-the-watchers-2024-dir-ishana-night-shyamalan/"
+    },
+    {
+        "critic": "Jackie K. Cooper",
+        "is_top_critic": false,
+        "media": "jackiekcooper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-07-02T00:37:06.000Z",
+        "quote": "Has just the right amount of twists to hold your interest.",
+        "url": "https://www.youtube.com/watch?v=-dl6eJe6Fkw&t=9s"
+    },
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-07-01T13:13:06.000Z",
+        "quote": "...an intriguing premise that’s employed to periodically watchable yet ultimately disappointing effect...",
+        "url": "https://reelfilm.com/the-watchers/"
+    },
+    {
+        "critic": "Jason Shawhan",
+        "is_top_critic": false,
+        "media": "Nashville Scene",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-30T22:23:12.000Z",
+        "quote": "The Watchers never quite sticks the landing — it feels like it’s been cut back too far and then micro-retooled in several 10-second bursts.",
+        "url": "https://www.nashvillescene.com/arts_culture/film_tv/the-watchers-review/article_6a1adc00-24de-11ef-84c8-7381df22e369.html"
+    },
+    {
+        "critic": "Sara Michelle Fetters",
+        "is_top_critic": true,
+        "media": "MovieFreak.com",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-28T05:13:36.000Z",
+        "quote": "As imperfect as this hushed supernatural chiller may be, the demons it conjures up — both real and metaphorical — left a lasting impression, and that’s nothing to scoff at.",
+        "url": "http://moviefreak.com/watchers-2024-movie-review/"
+    },
+    {
+        "critic": "Sandie Angulo Chen",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-26T22:01:00.000Z",
+        "quote": "The Watchers' explanations fall flat. And the themes related to grief, identity, folklore, and perseverance are told rather than shown. For a much better scary movie that explores similar ideas, watch Midsommar instead.",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-watchers"
+    },
+    {
+        "critic": "Ben Wasserman",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-06-26T12:39:04.000Z",
+        "quote": "The Watchers' back half fails to follow through on what Ishana set up tonally. ",
+        "url": "https://www.cbr.com/the-watchers-review/"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-06-26T12:13:12.000Z",
+        "quote": "The pure lack of curiosity about the fantastical situation that we are thrust into here is so disconcerting. So many opportunities to probe human nature are left dangling as we are left as bored spectators wishing we could find another room to observe.",
+        "url": "https://erikthemovieman.substack.com/p/episode-478-the-choice-is-not-to-aed"
+    },
+    {
+        "critic": "Saibal Chatterjee",
+        "is_top_critic": false,
+        "media": "NDTV",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-25T21:32:14.000Z",
+        "quote": "The Watchers starts on an extremely promising note. But only a small fraction of the anticipation that it raises is satiated...",
+        "url": "https://www.ndtv.com/entertainment/the-watchers-review-psychological-drama-heralds-the-arrival-of-ishana-night-shyamalan-2-5-stars-5894753"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-06-22T22:25:15.000Z",
+        "quote": "While the name Shyamalan usually means a twist around the bend (as in Shine’s novel), the ending feels tacked on as revelations fly fast and furious. It's a fascinating concept with flawed execution, but an impressive debut by Ishana.",
+        "url": "https://fortworthreport.org/2024/06/12/the-watchers-review-spectral-spectators-keep-an-eye-on-dakota-fanning-in-the-debut-feature-from-ishana-shyamalan/"
+    },
+    {
+        "critic": "Ilan Preskovsky",
+        "is_top_critic": false,
+        "media": "Channel24 (South Africa)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-06-22T22:15:18.000Z",
+        "quote": "I don't know how she did it, but Shyamalan Jr. managed to exactly replicate the worst of Shyamalan Sr.'s stilted, unnatural dialogue to a tee and mix it in with people who resolutely refuse to act like actual human beings.",
+        "url": "https://www.news24.com/life/arts-and-entertainment/film/reviews/review-ishana-night-shyamalan-channels-her-dads-signature-style-in-spooky-yet-flawed-the-watchers-20240608-2"
+    },
+    {
+        "critic": "Rob Dean",
+        "is_top_critic": false,
+        "media": "Bullz-Eye.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-21T14:25:45.000Z",
+        "quote": "The Irish countryside is a beautiful location, and the cast does an adequate job with what they are given, but too much of “The Watchers” is met with a shrug of indifference.",
+        "url": "http://www.bullz-eye.com/2024/06/07/movie-review-the-watchers/"
+    },
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-19T20:52:13.000Z",
+        "quote": "I walked out of The Watchers thinking it was one of the daftest films I'd seen in months and laughing to myself that the Shyamalan family firm is in safe hands. And yet, just as with her Dad's films, there were moments that will stay with me.",
+        "url": "https://www.stuff.co.nz/culture/350310600/stuff-watch-best-new-movies-see-and-avoid-kiwi-cinemas-weekend"
+    },
+    {
+        "critic": "Brian Bisesi",
+        "is_top_critic": false,
+        "media": "Horror Movie Club Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-06-19T14:30:16.000Z",
+        "quote": "The main character’s slowly revealed backstory and minimal dialogue kept me from connecting to her and feeling invested in the film. But the story takes an unexpected turn that piqued my interest just enough to make this a worthwhile watch.",
+        "url": "https://www.horrormovieclub.com/episodes/the-watchers-movie-review-podcast"
+    },
+    {
+        "critic": "Kathia Woods",
+        "is_top_critic": false,
+        "media": "Cup of Soul",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-18T23:23:29.000Z",
+        "quote": "Boasting a star-studded cast, including Dakota Fanning and Georgina Campbell, and a trailer brimming with mystery and intrigue, The Watchers has captured the attention of many, sparking hopes for a distinct and captivating new voice in filmmaking. ",
+        "url": "https://www.cupofsoulshow.com/the-watchers"
+    },
+    {
+        "critic": "Trace Thurman",
+        "is_top_critic": false,
+        "media": "Horror Queers Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-18T16:37:45.000Z",
+        "quote": "More an adult fairy tale than an outright horror film, The Watchers struggles with near-constant exposition but shows flickers of what made Shyamalan's superb work on Servant so captivating.",
+        "url": "https://www.patreon.com/posts/watchers-2024-106394111"
+    },
+    {
+        "critic": "Joe Lipsett",
+        "is_top_critic": false,
+        "media": "Horror Queers Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-18T13:24:10.000Z",
+        "quote": "Considering Shyamalan's outstanding work on Servant, The Watchers is a frustrating disappointment. There's no tension or dread, it's unclear how much time is passing, and the characters are shallow and 1-dimensional. ",
+        "url": "https://www.patreon.com/posts/watchers-2024-106394111"
+    },
+    {
+        "critic": "Carson Timar",
+        "is_top_critic": false,
+        "media": "ClapperCast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-17T19:00:58.000Z",
+        "quote": "The third act completely loses the plot and drags the entire film down with an illogical and confused message. The film has no idea what it is.",
+        "url": "https://www.youtube.com/watch?v=5UzBiUNGTHg"
+    },
+    {
+        "critic": "Murjani Rawls",
+        "is_top_critic": false,
+        "media": "Substream Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-17T18:10:10.000Z",
+        "quote": "The human search for self-forgiveness is at the base of ‘The Watchers,’ but the bigger story of the world (and others interacting with it) stretches the film in ways that don’t do what the story could be justice. ",
+        "url": "https://substreammagazine.com/2024/06/the-watchers-review-dakota-fanning/"
+    },
+    {
+        "critic": "Nestor Bentancor",
+        "is_top_critic": false,
+        "media": "Nestor Cine Desde Hollywood",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-16T08:08:58.000Z",
+        "quote": "The well-crafted film efficiently sets up a literal, nightmare-fueled mystery box. But the third act is a rushed tsunami of contrived exposition that results in an unsatisfactory ending. [Full Review in Spanish]",
+        "url": "https://youtu.be/EBNJ5kPLnOU"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-06-15T17:11:14.000Z",
+        "quote": "Often, the contrived dialogue spells out what will happen or leaves little to the imagination.",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=8ef0ad50-3d2e-40ad-a9c1-e5cf29996030"
+    },
+    {
+        "critic": "Adam Nayman",
+        "is_top_critic": true,
+        "media": "The Ringer",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-15T01:28:06.000Z",
+        "quote": "The Watchers is not nearly as cerebral; it's less a political (or showbiz) allegory than a fable about our shared capacity for change. It's a theme that's ultimately addressed so plangently that it has the opposite effect and borders on goofiness...",
+        "url": "https://www.theringer.com/movies/2024/6/7/24173220/the-watchers-movie-review-ishana-m-night-shyamalan-daughter"
+    },
+    {
+        "critic": "Walter Chaw",
+        "is_top_critic": false,
+        "media": "Film Freak Central",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-06-15T00:14:53.000Z",
+        "quote": "A handsomely mounted, well-cast, high-concept bit of folderol that swings wildly at a soft, underhand pitch…and misses.",
+        "url": "https://filmfreakcentral.net/2024/06/the-watchers-2024/"
+    },
+    {
+        "critic": "Tasha Robinson",
+        "is_top_critic": true,
+        "media": "Polygon",
+        "sentiment": "Rotten 🤢",
+        "score": "67/100",
+        "date": "2024-06-14T21:45:31.000Z",
+        "quote": "Anyone who goes in with the wrong expectations will probably just find The Watchers baffling. It has its share of creepy moments, rising tension, and sudden-blast-of-music jump scares, but as a suspense story, it fizzles out surprisingly early.",
+        "url": "https://www.polygon.com/reviews/24173290/the-watchers-review-ishana-night-shyamalan-dakota-fanning"
+    },
+    {
+        "critic": "Kristy Puchko",
+        "is_top_critic": true,
+        "media": "Mashable",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-14T20:38:28.000Z",
+        "quote": "The Watchers is a sharply satisfying horror thriller thanks to a crackling cast, unnerving sound design, stomach-churning creatures, and an emotional story that offers far more than cheap thrills. ",
+        "url": "https://mashable.com/article/the-watchers-shyamalan-movie-review"
+    },
+    {
+        "critic": "Sandra Hall",
+        "is_top_critic": true,
+        "media": "Sydney Morning Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-14T17:24:04.000Z",
+        "quote": "Intriguingly cloaked in erudite allusions to Irish legend and fairytale, it refrains from proselytising while keeping you guessing until the final flourish.",
+        "url": "https://www.smh.com.au/culture/movies/the-watchers-is-proof-ishana-night-shyamalan-has-her-father-s-talent-20240606-p5jjvh.html"
+    },
+    {
+        "critic": "Elizabeth Weitzman",
+        "is_top_critic": true,
+        "media": "Time Out",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-14T17:23:15.000Z",
+        "quote": "Abel Korzeniowski’s portentous score does pair nicely with Eli Arenson’s lush and moody cinematography. But the script... is a muddle of expository conversation, half-developed threads, and plot holes wider than the Watchers’ traps. ",
+        "url": "https://www.timeout.com/movies/the-watchers-review-2024"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-14T14:49:27.000Z",
+        "quote": "A film that starts on a promising note with a cool buildup and some impressive first-time directing. But Shyamalan leaves too many loose ends and there’s not enough of a payoff to help us look past them.",
+        "url": "https://keithandthemovies.com/2024/06/14/review-the-watchers-2024/"
+    },
+    {
+        "critic": "Sabina Graves",
+        "is_top_critic": false,
+        "media": "io9.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-13T22:16:58.000Z",
+        "quote": "This debut as she steps out into the filmmaking scene proves she has an undeniable knack for character work and an eye for world building. We can't wait to see what's next for the rising filmmaker.",
+        "url": "https://gizmodo.com/the-watchers-review-ishana-shyamalan-dakota-fanning-1851522301"
+    },
+    {
+        "critic": "Colleen Morrissey",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-13T21:55:08.000Z",
+        "quote": "Ishana may well have a shining career in horror ahead of her—if she can escape the narrative sins of her father.",
+        "url": "https://chicagoreader.com/film/review-the-watchers/"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Herald Sun (Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-13T18:26:28.000Z",
+        "quote": "While this isn’t a bad idea for a low-impact horror movie there is a rusted-on dullness to proceedings that first-time director Ishana Shyamalan.",
+        "url": "https://www.heraldsun.com.au/entertainment/movies/leigh-paatsch/supremely-satisfying-sequel-has-sophistication-and-wisdom-rarely-seen-in-animated-realm/news-story/89193b00f61064a81537e45a7f7ad591"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-06-13T15:37:35.000Z",
+        "quote": "The thrills were lacking, and the time spent inside the isolated location was riddled with exposition dumps and poor dialogue.",
+        "url": "https://weliveentertainment.com/welivefilm/house-reviews-120-watchers-used-funny-ghostlight-cora-bora/"
+    },
+    {
+        "critic": "Korey Coleman",
+        "is_top_critic": false,
+        "media": "Double Toasted",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-12T05:23:33.000Z",
+        "quote": "The setup of the movie is done very well. The script for The Watchers is so full of plot holes and doesn't bother to explain anything all in the name of creating tension.",
+        "url": "https://www.youtube.com/watch?v=FU3HMi5scB4"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-12T04:01:37.000Z",
+        "quote": "The scenario also felt like a not to subtle dig at consumers of media. Cue Maddy from “Euphoria” asking, “Wait. Is this fucking play about us?”",
+        "url": "https://sarahgvincentviews.com/movies/the-watchers/"
+    },
+    {
+        "critic": "Harry Guerin",
+        "is_top_critic": false,
+        "media": "RTÉ (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-12T00:15:48.000Z",
+        "quote": "The Watchers could have been scarier, but that's the only gripe about a film that's no chore to, well, you know what. ",
+        "url": "https://www.rte.ie/entertainment/movie-reviews/2024/0607/1452758-ireland-the-setting-for-folk-chiller-the-watched/"
+    },
+    {
+        "critic": "Emma Wolfe",
+        "is_top_critic": false,
+        "media": "SpookyAstronauts",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-06-11T20:06:54.000Z",
+        "quote": "I enjoyed this film for what it was. ",
+        "url": "https://www.youtube.com/watch?v=rcBrsWE-fuQ"
+    },
+    {
+        "critic": "Julian Lytle",
+        "is_top_critic": false,
+        "media": "RIOTUS",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2024-06-11T19:58:04.000Z",
+        "quote": "If folks have an issue with nepotism in the show business, this film The Watchers isn’t going to help quell those issues.",
+        "url": "https://riot-us.com/2024/06/11/the-watchers/"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-11T19:13:56.000Z",
+        "quote": "Instead of thinking of the cool thriller elements, I was thinking about the conveniences. ",
+        "url": "https://www.youtube.com/watch?v=dkYX_uE6P0g"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-06-11T18:22:23.000Z",
+        "quote": "At least for 45 minutes, it shows Ishana Shyamalan has lots of potential behind the camera. ",
+        "url": "https://www.theonlycritic.com/post/the-watchers-review-sleek-supernatural-thriller-unravels-within-itself"
+    },
+    {
+        "critic": "Mary Beth McAndrews",
+        "is_top_critic": false,
+        "media": "Dread Central",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-11T15:33:32.000Z",
+        "quote": "‘The Watchers’ features a fascinating story and gorgeous cinematography, but suffers from an over-stuffed script and shaky final act.\n\n",
+        "url": "https://www.dreadcentral.com/reviews/504817/the-watchers-review-an-ambitious-yet-rocky-debut-from-ish"
+    },
+    {
+        "critic": "Sarah Gopaul",
+        "is_top_critic": false,
+        "media": "Digital Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-11T14:51:07.000Z",
+        "quote": "As the story weaves its way through twists and turns, the cast ensures audiences follow them on the journey. And even though the ending is predictable, it’s an engaging debut feature.",
+        "url": "https://www.digitaljournal.com/entertainment/review-the-watchers-takes-audiences-on-an-eerie-trek-through-the-woods/article"
+    },
+    {
+        "critic": "Elisabeth Vincentelli",
+        "is_top_critic": false,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-11T00:52:44.000Z",
+        "quote": "Fanning often deploys an unsentimental reserve that's very effective from a dramatic standpoint. Here, it provides a steady counterpoint to the predictably bananas plot. ",
+        "url": "https://www.nytimes.com/2024/06/07/movies/the-watchers-review.html"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2024-06-11T00:44:31.000Z",
+        "quote": "With an uneven tone, a poorly constructed narrative, cheesy dialogue, stilted acting, and a lack of genuine scares, the movie fails on almost every level as a horror/mystery combo.",
+        "url": "https://www.reelviews.net/reelviews/watchers-the"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-06-10T23:20:45.000Z",
+        "quote": "If the characters had as much appeal as the concept’s execution, this would have been a first-rate chiller. But they don’t.",
+        "url": "https://aisleseat.com/the-watchers.html"
+    },
+    {
+        "critic": "Jordan Bond",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2024-06-10T22:30:45.000Z",
+        "quote": "Ultimately, I liked the concept of The Watchers more than the final product. ",
+        "url": "https://filmthreat.com/reviews/the-watchers-jordan-bond/"
+    },
+    {
+        "critic": "Hector A. Gonzalez",
+        "is_top_critic": false,
+        "media": "The Movie Buff",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2024-06-10T20:15:37.000Z",
+        "quote": "Nothing is left up to the viewer’s imagination; you are being forcefully spoonfed.",
+        "url": "https://www.themoviebuff.net/2024/06/the-watchers-review-ishana-night-shyamalan/"
+    },
+    {
+        "critic": "Matt Rodriguez",
+        "is_top_critic": false,
+        "media": "Shakefire",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-06-10T19:45:08.000Z",
+        "quote": "THE WATCHERS is a dull horror story that is riddled with mindless exposition and poorly developed characters. The Irish folklore it takes its inspiration from has potential, but like the people in the film, it's somewhere lost in the woods.",
+        "url": "https://shakefire.net/5870/the-watchers-review/"
+    },
+    {
+        "critic": "Luis Martínez ",
+        "is_top_critic": false,
+        "media": "El Mundo (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-10T19:12:54.000Z",
+        "quote": "Precise and elegant staging, suitably terrifying effects and an unbiased sense of the extravagant ensure a cinema session that is as pleasant as it is enjoyable. [Full review in Spanish]",
+        "url": "https://www.elmundo.es/cultura/cine/2024/06/07/66629aab21efa00f508b45cb.html"
+    },
+    {
+        "critic": "Paul Mount",
+        "is_top_critic": false,
+        "media": "Starburst",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-10T18:56:19.000Z",
+        "quote": "[Shyamalan] has a pretty firm grasp on the genre and how to draw the best out of what is, here, a potentially tricky and uninvolving story. It also suggests that she has a very bright future in the world of the dark and mysterious.",
+        "url": "https://www.starburstmagazine.com/reviews/the-watched/"
+    },
+    {
+        "critic": "Mel Valentin",
+        "is_top_critic": false,
+        "media": "That Shelf",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-10T17:36:36.000Z",
+        "quote": "[T]here’s enough promise in The Watchers to suggest qualified praise for Shyamalan’s feature-length debut.",
+        "url": "https://thatshelf.com/the-watchers-review-like-father-like-daughter/"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-10T17:23:13.000Z",
+        "quote": "On the evidence of this uneven folk horror, Shyamalan shares with her father a knack for crafting atmosphere... But she also demonstrates the Shyamalan family trait of leaning on inelegant chunks of exposition and blunt weapon third-act plot ambushes.",
+        "url": "https://www.theguardian.com/film/article/2024/jun/09/the-watched-aka-the-watchers-review-ishana-shyamalans-debut-shares-her-fathers-talents-and-flaws"
+    },
+    {
+        "critic": "Charlotte Simmons",
+        "is_top_critic": false,
+        "media": "We Got This Covered",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-10T13:26:50.000Z",
+        "quote": "The excitement with which one can anticipate Ishana's next directorial effort is matched only by the dread of anticipating her next screenwriting effort.",
+        "url": "https://wegotthiscovered.com/reviews/review-the-watchers-is-a-very-bad-movie-and-a-very-good-debut-for-ishana-night-shyamalan/"
+    },
+    {
+        "critic": "Anton Bitel",
+        "is_top_critic": false,
+        "media": "SciFiNow",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-10T07:25:32.000Z",
+        "quote": "Ishana Night Shyamalan’s psychodramatic, metacinematic folk horror is a paranoid panopticon of doubles and divided selves",
+        "url": "https://www.scifinow.co.uk/cinema/the-watched-review-a-folky-creature-feature/"
+    },
+    {
+        "critic": "Felix Vasquez Jr.",
+        "is_top_critic": false,
+        "media": "Cinema Crazed",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-10T00:26:24.000Z",
+        "quote": "It’s one tedious, boring experience teeming with potential that just wastes it at every turn.",
+        "url": "https://www.cinema-crazed.com/blog/2024/06/09/the-watchers-2024/"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-06-09T21:30:01.000Z",
+        "quote": "The Watchers excels in its mystery, but it becomes a bit weaker when it begins to focus too much on providing answers for what we’re seeing.",
+        "url": "https://www.comingsoon.net/movies/reviews/1754588-the-watchers-review-a-shyamalan-suspense-film"
+    },
+    {
+        "critic": "M.N. Miller",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2024-06-09T14:32:22.000Z",
+        "quote": "The Watcher is an armrest-grabbing genre film that’s an entertaining and pulse-pounding example of an almost textbook combination of tone, style, and pace… until it isn’t. ",
+        "url": "https://insessionfilm.com/movie-review-the-watchers/"
+    },
+    {
+        "critic": "Sean Burns",
+        "is_top_critic": false,
+        "media": "North Shore Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-09T11:56:37.000Z",
+        "quote": "As far as handsomely shot hooey with a side of treacly humanism goes, the apple doesn’t fall far from the tree.",
+        "url": "https://northshoremovies.wpcomstaging.com/2024/06/07/review-the-watchers/"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-09T09:07:45.000Z",
+        "quote": "‘…Ishana Night Shyamalan seems happy to clothe herself in the mixed expectations her father’s name represents, which is to say intrigue followed by a laughable pay-off..whether it’s The Watchers or The Watched, these watchers aren’t worth the watching.’",
+        "url": "https://film-authority.com/2024/06/09/the-watchers-the-watched/"
+    },
+    {
+        "critic": "John Urbancich",
+        "is_top_critic": false,
+        "media": "JMuvies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-08T15:44:59.000Z",
+        "quote": "Watching a film called \"The Watchers\" -- and the same-named group that observes a quartet of \"lost souls\" trapped in their mysterious Ireland forest -- absolutely screams for action, not to mention a bit of common sense.\n",
+        "url": "https://jmuvies.blogspot.com/2024/06/scarcity-of-scares-makes-little-sense.html"
+    },
+    {
+        "critic": "DarkSkyLady",
+        "is_top_critic": false,
+        "media": "DarkSkyLady Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-08T14:48:27.000Z",
+        "quote": "While some narrative elements might resonate more with anime or 90s series fans, The Watchers excels in its visual and mystery aspects, keeping fans engaged. However, the twist at the end may not meet everyone's expectations.  ",
+        "url": "https://darkskylady.com/the-watchers-is-unusual-but-has-poor-dialogue/"
+    },
+    {
+        "critic": "Chris Sawin",
+        "is_top_critic": false,
+        "media": "Bounding Into Comics",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-06-08T13:52:19.000Z",
+        "quote": "The Watchers feels clumsy and wobbly even before the film starts diving into its horrid revelations. It’s a poorly written film with overacted dialogue, the dumbest creatures imaginable, and a twist that’s as clever as swapping tap water for club soda.",
+        "url": "https://boundingintocomics.com/2024/06/07/the-watchers-review-go-watch-yourself/"
+    },
+    {
+        "critic": "Tom Beasley",
+        "is_top_critic": false,
+        "media": "The Popcorn Muncher (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-08T11:05:21.000Z",
+        "quote": "On the big screen, it’s very leaden and sluggish without the visual invention to make it work.",
+        "url": "https://thepopcornmuncher.substack.com/p/wait-do-people-love-venom-now"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Me gusta el cine",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-08T03:54:29.000Z",
+        "quote": "Some will appreciate the mythology injected into the narrative, the work of Dakota Fanning and Georgina Campbell, and the grim, atmospheric cinematography. But others will not stand the fantastic elements or the stretched ending. Full review in Spanish.",
+        "url": "https://megustaelcine.com/critica-observados-suspenso-folklorico-con-dakota-fanning-y-georgina-campbell/"
+    },
+    {
+        "critic": "Kate Sánchez",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-08T01:07:14.000Z",
+        "quote": "Despite its third-act faults, The Watchers (2024) makes for good folk horror but even better theater horror.\n\n",
+        "url": "https://butwhytho.net/2024/06/the-watchers-2024-review-shyamalan/"
+    },
+    {
+        "critic": "Ty Burr",
+        "is_top_critic": true,
+        "media": "Washington Post",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-06-08T00:59:52.000Z",
+        "quote": "It’s “No Exit” reimagined as an escape room, and you’re stuck with your crazy aunt.",
+        "url": "https://www.washingtonpost.com/entertainment/movies/2024/06/06/watchers-ishana-night-shyamalan-review/"
+    },
+    {
+        "critic": "Robert Abele",
+        "is_top_critic": false,
+        "media": "Los Angeles Times",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-08T00:50:45.000Z",
+        "quote": "Between the clunky narrative and the Interesting Shots, you feel defeated by both show and tell.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2024-06-07/the-watchers-review-dakota-fanning-ishana-night-shyamalan-thriller"
+    },
+    {
+        "critic": "Katie Rife",
+        "is_top_critic": true,
+        "media": "AV Club",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-06-08T00:47:47.000Z",
+        "quote": "The Watchers is clearly a first film, with the promise and the problems that come with it.",
+        "url": "https://www.avclub.com/the-watchers-review-ishana-night-shyamalans-wobbly-hor-1851523594"
+    },
+    {
+        "critic": "Emma Vine",
+        "is_top_critic": false,
+        "media": "Culturess",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-08T00:42:27.000Z",
+        "quote": "What ultimately lets the film down is its reliance on overexplaining the creature's lore, which detracts from the film’s mystery. ",
+        "url": "https://culturess.com/posts/the-watchers-wavers-in-the-wilderness-01hzqdwbbdda"
+    },
+    {
+        "critic": "Miguel Ángel Romero",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-08T00:38:11.000Z",
+        "quote": "Dakota Fanning shines in the debut film by Ishana Shyamalan. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-los-vigilantes-ishana-shyamalan-dakota-fanning-estreno-5429727/"
+    },
+    {
+        "critic": "Alison Willmore",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-08T00:30:36.000Z",
+        "quote": "The Watchers otherwise does a disappointing amount of telling rather than showing when it comes to the tedium and the tension of being cooped up and on display.",
+        "url": "https://www.vulture.com/article/the-watchers-movie-review-creepy-premise-shyamalan.html"
+    },
+    {
+        "critic": "Abbie Bernstein",
+        "is_top_critic": false,
+        "media": "Assignment X",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-08T00:08:18.000Z",
+        "quote": "Cross-genre folklore, not exactly horror.",
+        "url": "https://www.assignmentx.com/2024/movie-review-the-watchers/"
+    },
+    {
+        "critic": "Nick Johnston",
+        "is_top_critic": false,
+        "media": "Vanyaland",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-08T00:07:16.000Z",
+        "quote": "Fundamentally undermined by the goofiness of its premise. ",
+        "url": "https://vanyaland.com/2024/06/07/the-watchers-review-you-probably-wont-want-to-watch-this/"
+    },
+    {
+        "critic": "Richard Roeper",
+        "is_top_critic": true,
+        "media": "Chicago Sun-Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-06-07T23:55:15.000Z",
+        "quote": "Though Ishana Night Shyamalan demonstrates promise as a filmmaker and delivers some arresting visuals and a few good jump-scares, The Watchers feels like a cover band’s take on familiar scary movie themes, with little in the way of original ideas...",
+        "url": "https://chicago.suntimes.com/movies-and-tv/2024/06/06/the-watchers-review-dakota-fanning-movie-shyamalan"
+    },
+    {
+        "critic": "Robert Denerstein",
+        "is_top_critic": false,
+        "media": "Denerstein Unleashed",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T23:40:36.000Z",
+        "quote": "The Watchers has some atmospheric richness but the characters aren't intriguing and the movie's mixture of fairy-tale and horror tropes proves difficult to swallow.",
+        "url": "https://denersteinunleashed.blogspot.com/2024/06/the-watchers-moody-but-thats-it.html"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Daily Dead",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-07T23:24:54.000Z",
+        "quote": "The Watchers is steeped in Irish lore yet lacks identity, which is the ultimate shame.",
+        "url": "https://dailydead.com/review-the-watchers-is-a-mix-of-compelling-celtic-folk-horror-and-choppy-storytelling/"
+    },
+    {
+        "critic": "Jordy Sirkin",
+        "is_top_critic": false,
+        "media": "Jordy Reviews It",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-07T22:17:08.000Z",
+        "quote": "An intriguing film with solid potential, even though it takes some peculiar shifts.",
+        "url": "https://jordyreviewsit.com/2024/06/07/the-watchers-shyamalan-delivers-folk-horror-for-her-directorial-debut/"
+    },
+    {
+        "critic": "Rocco T. Thompson",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-06-07T21:21:24.000Z",
+        "quote": "Pacing is a conspicuous problem and the rushed third act threatens to crumble as The Watchers becomes overloaded with revelations and mythology that strain a foundation barely braced to hold their weight.",
+        "url": "https://www.slantmagazine.com/film/the-watchers-review-ishana-night-shyamalan-dakota-fanning/"
+    },
+    {
+        "critic": "Alex Bentley",
+        "is_top_critic": false,
+        "media": "CultureMap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T21:21:00.000Z",
+        "quote": "Ishana Shyamalan’s first film does not measure up to even her dad’s most middling output, filled with curious decision-making that robs the film of most of its possible suspense and thrills.",
+        "url": "https://dallas.culturemap.com/news/entertainment/the-watchers-movie-review/"
+    },
+    {
+        "critic": "Damon Wise",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T21:09:10.000Z",
+        "quote": "Working from a folk-horror novel by A.M. Shine, Shyamalan takes a simple single-location genre premise and somehow creates a thriller that’s both unnecessarily complex and almost entirely uninteresting.",
+        "url": "https://deadline.com/2024/06/the-watchers-review-ishana-night-shyamalan-dakota-fanning-rambling-folk-horror-tale-gets-lost-in-its-own-plot-1235961453/"
+    },
+    {
+        "critic": "Dylan Roth",
+        "is_top_critic": false,
+        "media": "Observer",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-06-07T20:37:21.000Z",
+        "quote": "Ishana Night Shyamalan's debut film is a twisty, high-concept mystery/dark fairy tale. It's also a pale imitation of her father’s patented style.",
+        "url": "https://observer.com/2024/06/the-watchers-review-the-shyamalan-dynasty-gets-off-to-a-slow-start/"
+    },
+    {
+        "critic": "Meagan Navarro",
+        "is_top_critic": true,
+        "media": "Bloody Disgusting",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-07T20:19:15.000Z",
+        "quote": "An uneven narrative and lack of tension make for a droll horror fairy tale that doesn’t quite trust its audience to follow along. ",
+        "url": "https://bloody-disgusting.com/reviews/3815163/the-watchers-review-ishana-night-shyamalans-sleepy-irish-fairy-tale/"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-06-07T20:06:52.000Z",
+        "quote": "Whatever potential The Watchers may have as a creature feature, Shyamalan-brand mindbender, or horror story steeped in Irish folklore, the execution is amateurish and graceless. ",
+        "url": "https://www.deepfocusreview.com/reviews/the-watchers/"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-07T19:25:02.000Z",
+        "quote": "Thrilling, mysterious, and twisting, it’s a great first outing for Shyamalan. ",
+        "url": "https://www.themarysue.com/the-watchers-is-a-stellar-horror-outing-for-ishana-night-shyamalan/"
+    },
+    {
+        "critic": "Lindsay Traves",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T19:18:58.000Z",
+        "quote": "The film sprints to the escape and final act, only taking time to breathe when it’s to show long shots of the watchers or drown us in cliché exposition.",
+        "url": "https://www.pajiba.com/film_reviews/the-watchers-review-ishana-night-shyamalan-crafted-a-clunker.php"
+    },
+    {
+        "critic": "Linda Cook",
+        "is_top_critic": false,
+        "media": "OurQuadCities / WHBF-TV (Illinois)",
+        "sentiment": "Rotten 🤢",
+        "score": "1 star",
+        "date": "2024-06-07T19:11:21.000Z",
+        "quote": "It isn't worth watching.",
+        "url": "https://www.ourquadcities.com/news/local-news/cook-review-the-watchers-isnt-worth-watching/"
+    },
+    {
+        "critic": "Damond Fudge",
+        "is_top_critic": false,
+        "media": "KCCI (Des Moines, IA)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T18:56:18.000Z",
+        "quote": "Like some of [Ishana Night Shyamalan's] father’s films, this is an ambitious project with interesting ideas that don’t quite jell.",
+        "url": "https://bit.ly/3xa6cix"
+    },
+    {
+        "critic": "Jorge Loser",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-07T17:51:05.000Z",
+        "quote": "Although as entertaining as it is clumsy and rushed, 'The Watchers' is a different approach to folk terror, possessed by the page-consuming spirit of literature.",
+        "url": "https://www.espinof.com/criticas/vigilantes-digno-debut-hija-m-night-shyamalan-varias-virtudes-muchos-defectos-cine-su-padre"
+    },
+    {
+        "critic": "Kim Newman",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-07T17:39:36.000Z",
+        "quote": "Fanning brings her A-game and there’s enough mystery about the monsters in the woods to string audiences along until the satisfyingly weird finish. As mid-list horror goes, perfectly fine.",
+        "url": "https://www.empireonline.com/movies/reviews/the-watched/"
+    },
+    {
+        "critic": "Juanma Fernández París",
+        "is_top_critic": false,
+        "media": "El Nuevo Día (Puerto Rico)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-07T17:20:12.000Z",
+        "quote": "Peculiarly, Ishana Shyamalan's direction and script seem to be aware that they are working with a predictable story and somehow find new ground to generate tension on screen. [Full review in Spanish]",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/resena-the-watchers-un-thriller-efectivo-por-lo-sencillo-y-sorpresivo/"
+    },
+    {
+        "critic": "Marya E. Gates",
+        "is_top_critic": false,
+        "media": "Cool People Have Feelings, Too. (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T17:14:57.000Z",
+        "quote": "The horror film works when it is riffing on the dark side of Irish folklore (the more you know about that subject the more you’ll likely enjoy the film). But it also proves why nepotism can be as much of a curse as it is a favor. ",
+        "url": "https://oldfilmsflicker.substack.com/p/only-if-youre-looking-can-it-find"
+    },
+    {
+        "critic": "Tim Robey",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-07T17:04:23.000Z",
+        "quote": "The tone is earnestly odd, taking folklore dead seriously. We’re captive to rules laid down by Fouéré’s witchily intense Madeleine... But the script’s payoffs are way too feeble to justify our growing impatience, and the pacing’s a trudge.",
+        "url": "https://www.telegraph.co.uk/films/0/the-watched-m-night-shyamalans-daughter-review/"
+    },
+    {
+        "critic": "Alan French",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-06-07T16:44:30.000Z",
+        "quote": "With some interesting mythical characters, The Watchers touches on some poignant topics. However, a frustrating screenplay and questionable structure sink the film, especially in its final act.",
+        "url": "https://fandomwire.com/the-watchers-review-a-folk-horror-with-overwhelming-exposition/"
+    },
+    {
+        "critic": "Emmanuel Noisette",
+        "is_top_critic": false,
+        "media": "The Movie Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-07T16:24:00.000Z",
+        "quote": "The Watchers is a gripping film filled with thrills and anchored by a compelling narrative. Ishana Shyamalan’s directorial debut is solid, showcasing her potential for a bright future in the film industry.",
+        "url": "https://www.themovieblog.com/2024/06/the-watchers-review-a-thrilling-debut-for-ishana-night-shyamalan/"
+    },
+    {
+        "critic": "Sean Collier",
+        "is_top_critic": false,
+        "media": "Pittsburgh Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-07T16:10:00.000Z",
+        "quote": "It’s a remarkably strong start for Shyamalan, who draws desperate, raw performances from her cast and maintains a pervasive sense of dread throughout.",
+        "url": "https://www.pittsburghmagazine.com/movie-review-the-watchers/"
+    },
+    {
+        "critic": "Rick Romancito",
+        "is_top_critic": false,
+        "media": "The Taos News",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-06-07T15:34:53.000Z",
+        "quote": "Instead of jumping on the I-hate-M. Night bandwagon, we’ve always given the Philadelphia filmmaker the benefit of the doubt ... So it is with his daughter’s inventive twist on the mystical-horror genre.",
+        "url": "https://www.taosnews.com/tempo/reviews/the-watchers-mines-distressing-horror-from-the-past/article_d8ad6d0c-24e0-11ef-bdfd-bbba62a4e31c.html"
+    },
+    {
+        "critic": "Audrey Fox",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2024-06-07T14:56:25.000Z",
+        "quote": "\"The Watchers\" is the purest definition of nepotism, a film that has no plausible explanation for being made without the backing of a successful parent serving as producer.",
+        "url": "https://www.looper.com/1597224/the-watchers-movie-review/"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "The SS Ben Hecht",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-07T14:41:57.000Z",
+        "quote": "Sets up a fascinating allegory, but then squanders it.\n",
+        "url": "https://stephensilver.substack.com/p/the-watchers-is-a-middling-horror"
+    },
+    {
+        "critic": "Radheyan Simonpillai",
+        "is_top_critic": true,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T14:30:35.000Z",
+        "quote": "Shyamalan 2.0 is shaping up to be an elegant filmmaker whose storytelling could use more torque. Images like Fanning’s golden locks disappearing into the cold grey fog or reflections layered upon reflections caught my eye, if not my breath.",
+        "url": "https://www.theglobeandmail.com/arts/film/reviews/article-i-see-nepo-baby-people-ishana-night-shyamalans-weak-thriller-the/"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T14:26:57.000Z",
+        "quote": "This atmospheric and visually striking psychological thriller is moderately creepy yet rarely digs beneath the gimmicky surface.",
+        "url": "https://cinemalogue.com/2024/06/07/the-watchers/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-06-07T13:43:50.000Z",
+        "quote": "[W]hile any answer to this puzzle would likely be disappointing, the one presented by the movie is especially so.",
+        "url": "http://www.markreviewsmovies.com/reviews/W/watchers-2024.htm"
+    },
+    {
+        "critic": "Peyton Robinson",
+        "is_top_critic": false,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-06-07T13:37:14.000Z",
+        "quote": "[A] fabled narrative that seesaws between fantastical whimsy and proposed horrific terror with lots of ambition but little finesse.",
+        "url": "https://www.rogerebert.com/reviews/the-watchers-film-review-2024"
+    },
+    {
+        "critic": "Collin Garbarino",
+        "is_top_critic": false,
+        "media": "WORLD",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-07T12:55:44.000Z",
+        "quote": "The movie is very Shyamalan-esque: beautiful, yet brooding with plenty of closeups and a setup that leaves the audience guessing about what’s going on.",
+        "url": "https://wng.org/podcasts/two-thrillers-one-creepy-and-one-cringey-1717695958"
+    },
+    {
+        "critic": "Aglaia Berlutti",
+        "is_top_critic": false,
+        "media": "El estímulo",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-06-07T12:50:25.000Z",
+        "quote": "In 'The Watchers', Ishana Night Shyamalan lives up to the family name. But before becoming just another nepo baby, the filmmaker achieves a rare gem of sinister beauty that ranges from paranoia to heightened terror. [Full Review in Spanish]\n",
+        "url": "https://elestimulo.com/ub/cinemania/2024-06-06/the-watchers-pelicula-de-shyamalan/"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-07T12:00:40.000Z",
+        "quote": "Simply put, The Watchers is unwatchable.",
+        "url": "https://flickdirect.com/movie-review/3067/the-watchers/movie.ashx"
+    },
+    {
+        "critic": "Lee McCoy",
+        "is_top_critic": false,
+        "media": "DrumDums",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-06-07T11:08:20.000Z",
+        "quote": "Based on the premise, The Watchers bears a lot of potential. What it ends up being is predictable and cliche. And the setup with characters stuck in a room in the forest doesn't have the backbone story wise to not pick it apart. ",
+        "url": "https://youtu.be/B8Pl8-WlirE"
+    },
+    {
+        "critic": "Jeff Mitchell",
+        "is_top_critic": false,
+        "media": "Art House Film Wire",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-07T10:55:39.000Z",
+        "quote": "Shyamalan steadily reveals morsels of answers through a refreshing, enlightening array of spooky surprises throughout the first two acts rather than keep us in the dark until the very end.",
+        "url": "https://www.arthousefilmwire.com/2024/06/07/shyamalans-the-watchers-is-an-intriguing-and-eerie-watch/"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-06-07T06:50:08.000Z",
+        "quote": "Frustratingly nonsensical, The Watchers makes the even bigger mistake of taking itself seriously.",
+        "url": "https://youtu.be/9E0ZEgt3r5s?si=ybRAgE-VXqlUkQsw"
+    },
+    {
+        "critic": "Chris Joyce",
+        "is_top_critic": false,
+        "media": "Movies and Munchies (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-07T06:11:12.000Z",
+        "quote": "The Watchers uses the cold and sinister look of the Irish forest to build a story rich in lore but low on thrills. The characters can be compelling but would be even more impactful if shown how the overwhelming isolation and fear take their toll. ",
+        "url": "https://youtu.be/44-8cjN1sIg"
+    },
+    {
+        "critic": "Charles Lyons-Burt",
+        "is_top_critic": false,
+        "media": "Spectrum Culture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T06:10:04.000Z",
+        "quote": "The Watchers doesn’t push anything into truly absurd or terrifying extremes.\n",
+        "url": "https://spectrumculture.com/2024/06/06/the-watchers-review/"
+    },
+    {
+        "critic": "Diego Batlle",
+        "is_top_critic": false,
+        "media": "Otroscines.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-07T05:27:22.000Z",
+        "quote": "... The movie drifts towards a Lost-type vibe and folk horror with myths and legends that provide absurd elements and twists that lead to forced resolutions. [Full review in Spanish]",
+        "url": "https://www.otroscines.com/nota-20405-critica-de-observados-the-watchers-pelicula-de-ishana-n"
+    },
+    {
+        "critic": "Michael Gingold",
+        "is_top_critic": false,
+        "media": "Rue Morgue Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T02:24:49.000Z",
+        "quote": "The movie has a lot of explaining to do, and it gets in the way of cranking up the kind of relentless tension a film like this should generate in the home stretch.",
+        "url": "https://rue-morgue.com/movie-review-the-watchers-is-watchable-but-not-a-must-see/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-06-07T01:53:39.000Z",
+        "quote": "It’s a long wait for something special to happen, and while Shine has ideas, Shyamalan struggles to make them come alive.",
+        "url": "https://www.blu-ray.com/The-Watchers/1673071/#Review"
+    },
+    {
+        "critic": "Erick Estrada",
+        "is_top_critic": false,
+        "media": "Cinegarage",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T01:29:46.000Z",
+        "quote": "The only thing here to hang into is Dakota Fanning and Georgina Campbell's work who do their best to come out afloat in a thematic scramble... [Full review in Spanish]",
+        "url": "https://www.patreon.com/posts/observados-105730484"
+    },
+    {
+        "critic": "Dulcie Pearce",
+        "is_top_critic": false,
+        "media": "The Sun (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-07T01:06:29.000Z",
+        "quote": "Frustratingly, like her dad, it seems Ishana doesn’t quite know how to end a movie. But this is still a strangely watchable first punt at a scary supernatural film with a twist.",
+        "url": "https://www.thesun.co.uk/tv/28354280/bad-boys-ride-or-die-review-sweary-slapstick-old/"
+    },
+    {
+        "critic": "Kevin Maher",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-06-07T00:47:13.000Z",
+        "quote": "Fanning does her best with an ephemeral half-character and, well, Galway looks nice. So that’s something.",
+        "url": "https://www.thetimes.com/culture/film/article/the-watched-review-dakota-fanning-jd25jzxdl"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-07T00:39:57.000Z",
+        "quote": "Ishana Night Shyamalan is unfortunately shackled by an inability to make her ideas and images coalesce, resulting in a horror movie that’s all bark and very little bite.",
+        "url": "https://www.inverse.com/entertainment/the-watchers-review-horror-dakota-fanning"
+    },
+    {
+        "critic": "Odie Henderson",
+        "is_top_critic": true,
+        "media": "Boston Globe",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-06-07T00:32:19.000Z",
+        "quote": "There are plenty of things that go bump in the night. “The Watchers” proves they’re only effective if you don’t sleep through them.",
+        "url": "https://www.bostonglobe.com/2024/06/06/arts/the-watchers-ishana-night-shyamalan/"
+    },
+    {
+        "critic": "Nick Rogers",
+        "is_top_critic": false,
+        "media": "Midwest Film Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-06T22:17:16.000Z",
+        "quote": "As a director, Ishana Night Shyamalan can compose a compelling shot. As a writer, she does not scratch away layers of exposition and plot to claw at the bones of something bigger, tougher and more recognizably human. The film collapses into gobbledygook.",
+        "url": "https://midwestfilmjournal.com/2024/06/06/the-watchers-2024/"
+    },
+    {
+        "critic": "Pablo Planovsky",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-06T22:16:03.000Z",
+        "quote": "Worse than its narrative arbitrariness, which requires to completely suspend belief, the images lack the poetic virtue capable of evoking genuine mystery. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/observados-atrapados-en-el-bosque-y-todos-los-elementos-clasicos-del-cine-de-m-night-shyamalan-ahora-nid06062024/"
+    },
+    {
+        "critic": "Luke Y. Thompson",
+        "is_top_critic": false,
+        "media": "SuperHeroHype",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T22:02:28.000Z",
+        "quote": "...while the younger Shyamalan takes a big swing with a crazy amount of mythology for her movie’s relatively simple set-up, she mostly misses. ",
+        "url": "https://www.superherohype.com/movies/576687-the-watchers-review-forest-jump"
+    },
+    {
+        "critic": "Peter Howell",
+        "is_top_critic": false,
+        "media": "Toronto Star",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-06T21:13:25.000Z",
+        "quote": "What I will say is that the movie can be appreciated even if we expect the rug will be pulled from under us. The appreciation is more for the film’s sinister look and mood than its story, which can be charitably described as an interesting mess.",
+        "url": "https://www.thestar.com/entertainment/movies/with-the-watchers-her-feature-debut-the-daughter-of-an-expert-horror-filmmaker-tries-to/article_528a429a-2418-11ef-ad95-43561f7c9eee.html"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-06-06T21:06:58.000Z",
+        "quote": "It establishes a genuinely creepy mood but then wastes it on a story more ridiculous than frightening, and closes with an effortful twist more likely to elicit a disgusted sigh than a pleasurable gasp.",
+        "url": "https://www.oneguysopinion.com/the-watchers/"
+    },
+    {
+        "critic": "Pablo O. Scholz",
+        "is_top_critic": false,
+        "media": "Clarín",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-06-06T21:03:58.000Z",
+        "quote": "The problem with The Watchers is that it has several endings... As if the director couldn't decide on one. [Full review in Spanish]",
+        "url": "https://www.clarin.com/espectaculos/observados-pelicula-terror-mete-miedo_0_23Y8frqw7T.html"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-06T20:34:17.000Z",
+        "quote": "In Ishana Night Shyamalan’s writing/directorial debut, The Watchers, the story surrounding some admittedly suspenseful sequences is either trying to do too much or not enough\n",
+        "url": "https://www.flickeringmyth.com/movie-review-the-watchers-2024/"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T20:33:48.000Z",
+        "quote": "The Watchers succeeds in creating a foreboding atmosphere and some creature feature scares. However, this horror movie's story (about people trapped and being watched in a forest portal) becomes a nonsensical mess with shoddy film editing.",
+        "url": "https://culturemixonline.com/review-the-watchers-2024-starring-dakota-fanning-georgina-campbell-oliver-finnegan-and-olwen-fouere/"
+    },
+    {
+        "critic": "Danny Leigh",
+        "is_top_critic": false,
+        "media": "Financial Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-06T20:14:57.000Z",
+        "quote": "... Hints of interesting ideas about mass entertainment compete with lore-ish hokum, and some concussively literal-minded dialogue. The twist? Shyamalan is clearly not untalented. She will also doubtless go on to make better movies.",
+        "url": "https://www.ft.com/content/b97d4467-cd0b-4867-985d-287bd3ba9c3c"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T20:07:46.000Z",
+        "quote": "Walks the line between thriller and horror, never fully leaning into either. While there are some suspenseful moments, the third act dives too much into lore and overexplaining, taking away from what the first two acts accomplished.",
+        "url": "https://mamasgeeky.com/2024/06/the-watchers-review.html"
+    },
+    {
+        "critic": "Bob Strauss",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-06-06T19:56:08.000Z",
+        "quote": "There’s an inelegant blend of Celtic folklore thriller... [and] contemporary horror movie tropes that renders the result unsatisfying for fans of either genre. And yet, Shyamalan proves herself a proficient director throughout most of this slog. ",
+        "url": "https://datebook.sfchronicle.com/movies-tv/the-watchers-ishana-shyamalan-19487495"
+    },
+    {
+        "critic": "Michael Phillips",
+        "is_top_critic": true,
+        "media": "Chicago Tribune",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-06T18:58:03.000Z",
+        "quote": "The director works well with cinematographer Eli Arenson to envelop the chamber-sized ensemble in various shades of dread, or comfort.",
+        "url": "https://www.chicagotribune.com/2024/06/06/the-watchers-review-with-a-dark-story-set-in-ireland-new-shyamalan-comes-out-to-play/"
+    },
+    {
+        "critic": "Benjamin Lee",
+        "is_top_critic": false,
+        "media": "Guardian",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-06T18:34:01.000Z",
+        "quote": "Any of the suspense or dread the film might have built up (of which there could have been a truckload more) turns to mush when the horror turns hokey.",
+        "url": "https://www.theguardian.com/film/article/2024/jun/06/the-watchers-review-m-night-shyamalan-daughter"
+    },
+    {
+        "critic": "J Hurtado",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T18:33:38.000Z",
+        "quote": "The Watchers seems determined to lay out rules and then expect the audience to look the other way when they are ignored or even brazenly broken. Not scary enough to be horror, The Watchers exists in an uninteresting no-man’s-land",
+        "url": "https://screenanarchy.com/2024/06/the-watchers-review.html"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T17:55:57.000Z",
+        "quote": "How you watch The Watchers, and how you process its series of increasingly disbelief-suspending climaxes, is your call. Unlike the foursome at the center of it, however, you can always get up and leave.",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/the-watchers-review-1235031369/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "5.9/10",
+        "date": "2024-06-06T17:06:17.000Z",
+        "quote": "Unlike other Shyamalan forays into the uncanny, it’s more functional than fully formed.",
+        "url": "https://www.pastemagazine.com/movies/ishana-night-shyamalan/the-watchers-review"
+    },
+    {
+        "critic": "Lauren LaMagna",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-06-06T16:47:46.000Z",
+        "quote": "With a sharp, distinct eye and an unmistakable comprehension of visual storytelling, it is clear that Ishana Night Shyamalan will have a long career directing feature films if she wants it.",
+        "url": "https://nextbestpicture.com/the-watchers/"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-06T16:30:41.000Z",
+        "quote": "The Watchers is very much a first effort that shows a lot of promise even if it won’t stick around in the memory for long.",
+        "url": "https://punchdrunkcritics.com/2024/06/review-the-watchers/"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T16:28:20.000Z",
+        "quote": "\"'The Watchers' isn’t very scary and it’s only interesting for as long as it’s an intellectual curiosity, and it’s not intellectual curiosity for the full 102-minute running time.\"",
+        "url": "https://www.thewrap.com/the-watchers-review-dakota-fanning-horror-movie/"
+    },
+    {
+        "critic": "Linda Marric",
+        "is_top_critic": true,
+        "media": "HeyUGuys",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-06T16:26:03.000Z",
+        "quote": "It's a capable cast and an intriguing premise with some decent atmosphere built, however the weightless script gives very little for the characters to build on. It has strong ideas, but needed a more assured hand to make the most of them.",
+        "url": "https://www.heyuguys.com/the-watched-review/"
+    },
+    {
+        "critic": "Gabrielle Marceau",
+        "is_top_critic": false,
+        "media": "The Film Stage",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-06-06T16:15:53.000Z",
+        "quote": "A serviceable but slightly soulless copy of countless films.",
+        "url": "https://thefilmstage.com/the-watchers-review-ishana-night-shyamalans-debut-is-competent-but-uninspired-folk-horror/"
+    },
+    {
+        "critic": "Clarisse Loughrey",
+        "is_top_critic": true,
+        "media": "Independent (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-06T16:15:11.000Z",
+        "quote": "Its framework may feel inherited, but its mood is its own and it’s filled with new, unexpected ideas.",
+        "url": "https://www.independent.co.uk/arts-entertainment/films/reviews/the-watched-movie-review-watchers-b2558071.html"
+    },
+    {
+        "critic": "Kyle Smith",
+        "is_top_critic": false,
+        "media": "Wall Street Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T16:14:01.000Z",
+        "quote": "Both Shyamalans habitually make everything dependent on the grand finale, but neither of them seems to be able to tell the difference between a satisfying conclusion and one that makes two hours in a theater feel like a total waste of time.",
+        "url": "https://www.wsj.com/arts-culture/film/the-watchers-review-shyamalan-ishana-m-night-5f5e14cc"
+    },
+    {
+        "critic": "Chalice Williams",
+        "is_top_critic": false,
+        "media": "Black Girl Nerds",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-06T16:13:55.000Z",
+        "quote": "'The Watchers' is a glimmer of light at the end of the tunnel giving us faith that unique thrillers and sci-fi projects haven’t died.",
+        "url": "https://blackgirlnerds.com/review-ishana-shyamalans-directorial-debut-the-watchers-is-a-decent-supernatural-flick/"
+    },
+    {
+        "critic": "A.A. Dowd",
+        "is_top_critic": true,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-06-06T16:13:18.000Z",
+        "quote": "If nothing else, Shyamalan has absorbed plenty of lessons about suspense and atmosphere from her time on the sets of like-minded movies like Knock at the Cabin. But the more The Watchers comes together, the less interesting it becomes.",
+        "url": "https://www.ign.com/articles/the-watchers-review"
+    },
+    {
+        "critic": "Chris Knight",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Fresh 🍅",
+        "score": "B-plus",
+        "date": "2024-06-06T16:12:00.000Z",
+        "quote": "An excellent start, heralding the arrival of a bold new talent. I remember thinking the same things about Brandon Cronenberg’s Antiviral, with the realization that not only does the apple fall close to the tree, it does so with a satisfyingly pulpy splat.",
+        "url": "https://www.original-cin.ca/posts/2024/6/6/the-watchers-another-shyamalan-is-off-to-an-excellent-start-doing-the-twist"
+    },
+    {
+        "critic": "Michael Walsh",
+        "is_top_critic": false,
+        "media": "Nerdist",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-06-06T16:11:57.000Z",
+        "quote": "It’s almost incomprehensible how bad this screenplay is. It really lacks the most basic elements of a coherent story, let along a decent one.",
+        "url": "https://nerdist.com/article/the-watchers-film-review/"
+    },
+    {
+        "critic": "Chase Hutchinson",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-06-06T16:10:52.000Z",
+        "quote": "There was plenty of promise to be found in this story and there is still curiosity for what Shyamalan does next. However, this isn’t it. I see dead people in this film, but their cause of death is simply boredom.",
+        "url": "https://collider.com/the-watchers-movie-review/"
+    },
+    {
+        "critic": "Jane Crowther",
+        "is_top_critic": false,
+        "media": "Total Film",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-06T16:10:30.000Z",
+        "quote": "It wouldn’t be a Shyamalan flick (M. Night produces) without a twist - the dramatic impact of which will depend largely on how much you buy into the transformative power of human compassion.",
+        "url": "https://www.gamesradar.com/entertainment/horror-movies/the-watched-review/"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T16:09:10.000Z",
+        "quote": "It wants to be a kind of fairy tale. In this case, though, there’s too much impeccable pretension and not enough things that go bump in the Shyamalan night.",
+        "url": "https://variety.com/2024/film/reviews/the-watchers-review-ishana-night-shyamalan-dakota-fanning-1236026586/"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T16:08:58.000Z",
+        "quote": "Follows the same basic pattern as the work of her dad M. Night Shyamalan—namely, it starts strong and then slowly falls apart under the weight of its obligations to clarify its baffling scenario. ",
+        "url": "https://www.thedailybeast.com/obsessed/the-watchers-review-lame-horror-movie-proves-shyamalan-nepo-baby?ref=author"
+    },
+    {
+        "critic": "David Ehrlich",
+        "is_top_critic": true,
+        "media": "IndieWire",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-06-06T16:08:04.000Z",
+        "quote": "The sudden onslaught of exposition displaces whatever mild investment this movie has earned in its characters.",
+        "url": "https://www.indiewire.com/criticism/movies/the-watchers-review-ishana-night-shyamalan-1235013039/"
+    },
+    {
+        "critic": "Jeremy Mathai",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-06-06T16:07:51.000Z",
+        "quote": "Ishana Night Shyamalan proves to be a natural with The Watchers. ",
+        "url": "https://www.slashfilm.com/1596829/the-watchers-review-ishana-night-shyamalan-nightmarish-folktale/"
+    },
+    {
+        "critic": "Mae Abdulbaki",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-06T16:06:23.000Z",
+        "quote": "There is no rationale for The Watchers’ ending; it switches gears, as though afraid we’d come too close to something that made a bit more sense.\n",
+        "url": "https://screenrant.com/the-watchers-movie-review/"
+    },
+    {
+        "critic": "Gregory Nussen",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T16:05:49.000Z",
+        "quote": "Though paced well and decently fun, all of its elements, from performance to lighting, seem pulled from a panoply of different films and ideas, making The Watchers feel unmistakably like the patchwork of a first-time filmmaker, a pastiche of pastiche.",
+        "url": "https://inreviewonline.com/the-watchers/"
+    },
+    {
+        "critic": "David Rooney",
+        "is_top_critic": true,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T16:05:43.000Z",
+        "quote": "The Watchers, sadly, is less disturbing than dull, less harrowing than hackneyed.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-watchers-review-dakota-fanning-ishana-night-shyamalan-horror-1235916140/"
+    },
+    {
+        "critic": "Courtney Howard",
+        "is_top_critic": false,
+        "media": "Fresh Fiction",
+        "sentiment": "Fresh 🍅",
+        "score": "C",
+        "date": "2024-06-06T16:05:34.000Z",
+        "quote": "As a gothic horror-thriller, it falls short of expectations. But as a clarion call – “a call coming from inside the house” – about the dangers of an imposing threat within the entertainment business, its sentiments ring alarmingly clear.",
+        "url": "https://freshfiction.tv/the-watchers-review-expect-to-see-a-sly-shyamalan-switch/"
+    },
+    {
+        "critic": "Sarah Musnicky",
+        "is_top_critic": false,
+        "media": "Creepy Kingdom",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2024-06-06T16:03:08.000Z",
+        "quote": "Ishana Night Shyamalan's potential reveals itself in the visual language she deploys in THE WATCHERS as well as crafting a suspenseful, slow-build horror onscreen.",
+        "url": "https://www.creepykingdom.com/post/the-watchers-review"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2024-06-06T16:00:39.000Z",
+        "quote": "As eerie and enigmatic as it is at times, The Watchers doesn’t always quite work.",
+        "url": "https://edwarddouglas.substack.com/p/the-weekend-warrior-june-7-2024"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2024-06-06T16:00:33.000Z",
+        "quote": "I’m excited to see more from Ishana Night Shyamalan after seeing The Watchers a unique folk horror with a fun twist on a familiar creature. Ishana reminds us why a forest is one of the scariest places to be stuck in. My only issue is the 3rd act… ",
+        "url": "https://youtu.be/q2w4e-zvav8"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-06T16:00:22.000Z",
+        "quote": "A visually stylish and atmospheric, but uninspired slice of sci-fi horror that lacks palpable scares and imagination",
+        "url": "http://nycmovieguru.com/june7th24.html#watchers"
+    },
+    {
+        "critic": "Ryan McQuade",
+        "is_top_critic": false,
+        "media": "AwardsWatch",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2024-06-06T15:58:19.000Z",
+        "quote": "In making her first film, Ishana Night Shyamalan stumbles at trying to find her footing in a pale imitation of one of her father’s projects.",
+        "url": "https://awardswatch.com/the-watchers-review-ishana-night-shyamalans-feature-debut-falls-into-its-own-trap/"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Casey's Movie Mania",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-06T08:22:34.000Z",
+        "quote": "Ishana Night Shyamalan’s otherwise visually atmospheric feature-length debut suffers from ponderous storytelling. ",
+        "url": "https://www.caseymoviemania.com/capsule-review-the-watchers-2024/"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-05T20:08:04.000Z",
+        "quote": "There’s a lack of ultimate sinisterness to the titular characters that undoes so much of the suggested brutality and voyeurism the first half of the film lays down",
+        "url": "https://www.theaureview.com/watch/film-review-the-watchers/"
+    }
+]

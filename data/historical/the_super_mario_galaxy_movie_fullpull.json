@@ -1,0 +1,2242 @@
+[
+    {
+        "critic": "John Stark",
+        "is_top_critic": false,
+        "media": "Mac the Movie Guy",
+        "sentiment": "Fresh 🍅",
+        "score": "68/100",
+        "date": "2026-07-11T20:12:23.000Z",
+        "quote": "Cinematic junk food. Fast, colorful, loaded with sugar, and probably not the healthiest thing you could consume, but that doesn’t mean it isn’t enjoyable. Everyone has a favorite guilty pleasure snack. This is the cinematic equivalent.",
+        "url": "http://macthemovieguy.com/2026/07/11/the-super-mario-galaxy-movie"
+    },
+    {
+        "critic": "Douglas Davidson",
+        "is_top_critic": false,
+        "media": "Elements of Madness",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-07-08T15:28:03.000Z",
+        "quote": "The biggest crime that \"Galaxy Movie' commits is that it’s fine. It entertains young audiences and delivers nostalgia while setting up a third film that most likely will come once Illumination and Nintendo work out the next idea",
+        "url": "https://elementsofmadness.com/2026/07/08/tsmgm-4k/"
+    },
+    {
+        "critic": "Matt Brunson",
+        "is_top_critic": false,
+        "media": "Film Frenzy",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-07-05T18:10:29.000Z",
+        "quote": "The movie improves as it goes along, but not enough to appease anyone who isn’t already hostage to its fan fawning and brand stamping.",
+        "url": "https://thefilmfrenzy.com/2026/06/26/view-from-the-couch-click-hang-em-high-the-super-mario-galaxy-movie-etc/"
+    },
+    {
+        "critic": "Scott Howard",
+        "is_top_critic": false,
+        "media": "Under the Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-07-03T16:10:21.000Z",
+        "quote": "The Super Mario Galaxy Movie takes the winning formula from its first outing and expands it outside the Mushroom Kingdom to the larger galaxy with a fun, if a little uneven, adventure.",
+        "url": "https://www.undertheradarmag.com/reviews/the_super_mario_galaxy_movie"
+    },
+    {
+        "critic": "Jeff Beck",
+        "is_top_critic": false,
+        "media": "The Blu Spot",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2026-06-18T16:22:41.000Z",
+        "quote": "It is indeed bigger and more ambitious, but the way it's presented is rather fractured, which is to say that it's a little all over the place with its multiple storylines that attempt to encompass quite a lot for a 90-minute film.",
+        "url": "https://www.thebluspot.com/single-post/the-super-mario-galaxy-movie-a-bigger-more-ambitious-sequel-that-lacks-focus-blu-ray"
+    },
+    {
+        "critic": "Mini Anthikad-Chhibber",
+        "is_top_critic": false,
+        "media": "The Hindu",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-09T14:48:12.000Z",
+        "quote": "Frenetic action, bright colours and competent voice work manage to rescue the animated adventure from plumbing the depths of tedium",
+        "url": "https://www.thehindu.com/entertainment/movies/the-super-mario-galaxy-movie-review-all-action-little-imagination-super-mario-bros-mario-videogame/article70820219.ece"
+    },
+    {
+        "critic": "Kyle Wolfe",
+        "is_top_critic": false,
+        "media": "Pop Culture Leftovers",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-30T00:15:50.000Z",
+        "quote": "The Super Mario Galaxy Movie is a visually dense, high-energy spectacle that ultimately mistakes constant stimulation for storytelling, building out a galaxy of ideas without giving any of them the gravity to truly land. ",
+        "url": "https://www.cinefied.com/post/the-super-mario-galaxy-movie-review"
+    },
+    {
+        "critic": "Hector A. Gonzalez",
+        "is_top_critic": false,
+        "media": "The Movie Buff",
+        "sentiment": "Rotten 🤢",
+        "score": "F",
+        "date": "2026-05-27T01:59:52.000Z",
+        "quote": "It feels as if we are doomscrolling for ninety minutes straight.",
+        "url": "https://www.themoviebuff.net/2026/05/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Sarah Knight Adamson",
+        "is_top_critic": false,
+        "media": "Sarah's Backstage Pass",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-05-23T20:48:16.000Z",
+        "quote": "The Box-Office has spoken! Yes, \"The Super Mario Galaxy Movie\" brought families back to the theater!",
+        "url": "https://sarahsbackstagepass.com/the-super-mario-galaxy-pg-%E2%98%85%E2%98%85%E2%98%85/"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-21T18:20:12.000Z",
+        "quote": "Super Mari-NO.",
+        "url": "https://decider.com/2026/05/19/the-super-mario-galaxy-movie-stream-it-or-skip-it/"
+    },
+    {
+        "critic": "Christy Lemire",
+        "is_top_critic": true,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-07T00:42:21.000Z",
+        "quote": "It looked quite lovely and is really for little kids -- even more than the first one.",
+        "url": "https://laist.com/news/arts-and-entertainment/filmweek-the-drama-the-super-mario-galaxy-movie-palestine-36-and-more"
+    },
+    {
+        "critic": "Charles Solomon",
+        "is_top_critic": false,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-07T00:40:49.000Z",
+        "quote": "While it's not the worst of the malignant jollities we've been given as family films recently, it's not good. ",
+        "url": "https://laist.com/news/arts-and-entertainment/filmweek-the-drama-the-super-mario-galaxy-movie-palestine-36-and-more"
+    },
+    {
+        "critic": "James Croot",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-05-05T01:56:06.000Z",
+        "quote": "What follows is essentially Harold and the Purple Crayon crossed with a Star Wars/Austin Powers-esque saga of fathers, sons, sisters and brothers, which strangely sidelines Mario, is overly reliant on montages and simply lacks the original's verve.",
+        "url": "https://www.thepost.co.nz/culture/360979092/super-mario-galaxy-movie-simply-easter-egg-hunt-gamers"
+    },
+    {
+        "critic": "Austin Burke",
+        "is_top_critic": false,
+        "media": "Austin Burke/Flick Fan Nation",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-05-03T16:08:26.000Z",
+        "quote": "Visually, it infuses long-awaited sequences with a surprising amount of style... What undoes a lot of this is simply how little depth there is to these characters.",
+        "url": "https://youtube.com/shorts/BVwBJm6zxjE?feature=share"
+    },
+    {
+        "critic": "Paul Salfen",
+        "is_top_critic": false,
+        "media": "AMFM Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-05-02T16:18:36.000Z",
+        "quote": "It’s a big, loud fan service fiesta that will be fun for kids and fans of the games and it pretty much sticks to that target market. Manic and high energy with little substance but all in good fun.",
+        "url": "https://www.amfm-magazine.tv/super-mario-galaxy-movie-minute-review/"
+    },
+    {
+        "critic": "Nestor Bentancor",
+        "is_top_critic": false,
+        "media": "Nestor Cine Desde Hollywood",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-02T08:27:29.000Z",
+        "quote": "A feast for the senses worth experiencing in theaters, despite an 8-bit plot. [Review in Spanish]",
+        "url": "https://www.youtube.com/live/rmT7Jy0hCLg?si=pBMJSractebbpkqV&t=147"
+    },
+    {
+        "critic": "Sheraz Farooqi",
+        "is_top_critic": false,
+        "media": "CinemaDebate",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-04-27T16:46:38.000Z",
+        "quote": "While boasting strong animation, The Super Mario Galaxy Movie ultimately feels closer to a \"made for TikTok\" film than something that's actually tangible. With a narrative that goes at a breakneck pace, this is truly one for kids with no attention span.",
+        "url": "https://youtu.be/-MiLOtRXwWE?si=KPf8Kh4UZvwYUlMK"
+    },
+    {
+        "critic": "Steven Prokopy",
+        "is_top_critic": false,
+        "media": "Third Coast Review",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-04-24T19:46:33.000Z",
+        "quote": "The only emotional tension in the movie is whether Bowser is going to allow his friendly feelings toward Peach and her friend to prevail, or if he’ll side with his evil-inclined offspring...",
+        "url": "https://thirdcoastreview.com/film-tv/2026/04/02/review-super-mario-galaxy-movie"
+    },
+    {
+        "critic": "Ruben Peralta Rigaud",
+        "is_top_critic": false,
+        "media": "Cocalecas",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-22T21:22:29.000Z",
+        "quote": "The result is a film that feels more like an extension of the video game than a cinematic work. There's no clear intention to tell a story beyond the immediate experience. [Full review in Spanish]",
+        "url": "https://cocalecas.net/2026/04/super-mario-galaxy-critica/"
+    },
+    {
+        "critic": "Candice McMillan",
+        "is_top_critic": false,
+        "media": "Seattle's Child",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-21T15:38:34.000Z",
+        "quote": "A frenzied film with a patchwork plotline. It’s bright and shiny on the outside, but hollow throughout... Though its messy, convoluted journey may be enough for those who worship, for the rest of us, there are only two words that come to mind: \"Mama mia!\"",
+        "url": "https://www.seattleschild.com/super-mario-galaxy-movie-parent-review/"
+    },
+    {
+        "critic": "Justin Kim",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-21T14:40:30.000Z",
+        "quote": "Do fans not deserve more than just a 99-minute advert?",
+        "url": "https://loudandclearreviews.com/super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Valerie Kalfrin",
+        "is_top_critic": false,
+        "media": "AWFJ.org",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-20T21:11:26.000Z",
+        "quote": "Packed with visual references and sprightly animation, The Super Mario Galaxy Movie will have young audiences ready to \"let’s a-go,\" even if adults find it a busy ride. ",
+        "url": "https://awfj.org/blog/2026/04/01/the-super-mario-galaxy-movie-review-by-valerie-kalfrin/"
+    },
+    {
+        "critic": "Linda Cook",
+        "is_top_critic": false,
+        "media": "OurQuadCities / WHBF-TV (Illinois)",
+        "sentiment": "Rotten 🤢",
+        "score": "2 stars",
+        "date": "2026-04-20T05:14:46.000Z",
+        "quote": "Lots of color and Easter Eggs for fans, and little else. ",
+        "url": "https://www.ourquadcities.com/news/local-news/cook-review-super-mario-galaxy-is-colorful-action-packed-and-weak-on-plot/"
+    },
+    {
+        "critic": "Nicholas Brooks",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-04-17T14:58:11.000Z",
+        "quote": "The voice acting is superb, the new characters are a delight, and it's a welcome escape.",
+        "url": "https://www.cbr.com/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-04-16T14:34:55.000Z",
+        "quote": "The Super Mario Galaxy Movie settles for moments of visual inspiration that replicate the little rushes of opening up new worlds in one of the games, while letting almost every character stagnate into bland affability",
+        "url": "https://www.avclub.com/the-super-mario-galaxy-movie-review"
+    },
+    {
+        "critic": "Kyle Logan",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-15T18:49:49.000Z",
+        "quote": "The Super Mario Galaxy Movie is undoubtedly a visual assault—and whether that’s appealing or revolting is up to the individual—but there’s no denying the creativity and energy on display.",
+        "url": "https://chicagoreader.com/film-tv/movie-review/review-the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "David Griffiths",
+        "is_top_critic": false,
+        "media": "Subculture Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-13T13:06:36.000Z",
+        "quote": "This was never going to be a deeply serious film or even a game changer in the genre. But I can guarantee that if you are a Super Mario lover or are simply looking for a fun film for the whole family then you will not be disappointed.",
+        "url": "https://subcultureentertainment.com/2026/04/film-review-the-super-mario-galaxy-movie-review-2026/"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-12T11:30:52.000Z",
+        "quote": "As someone who finds pure adventure and many video game movies boring, \"The Super Mario Galaxy Movie\" is a pure popcorn movie that adults will want to see even if they do not have kids to entertain.",
+        "url": "https://sarahgvincentviews.com/movies/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Jon Winkler",
+        "is_top_critic": false,
+        "media": "InBetweenDrafts",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-04-11T17:27:35.000Z",
+        "quote": "It’s sad to call a movie booming with decades of imaginative characters and settings \"disposable,\" but there aren’t enough Pikmin in the world to distract you from the blatant franchise baiting here. ",
+        "url": "https://inbetweendrafts.com/the-super-mario-galaxy-movie-review-nintendo-illumination/"
+    },
+    {
+        "critic": "Kyle Amato",
+        "is_top_critic": false,
+        "media": "Boston Hassle",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2026-04-10T11:45:16.000Z",
+        "quote": "Drifting through space with no purpose",
+        "url": "https://bostonhassle.com/review-the-super-mario-galaxy-movie-2026-dir-aaron-horvath-michael-jelenic/"
+    },
+    {
+        "critic": "Simon Miraudo",
+        "is_top_critic": false,
+        "media": "Movie Squad (RTRFM 92.1)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-10T02:00:15.000Z",
+        "quote": "The Poochie-fication of Yoshi.",
+        "url": "https://rtrfm.com.au/podcasts/movie-squad/the-drama-undertone-super-mario-galaxy-movie-and-megadoc-movie-squad-podcast-531/"
+    },
+    {
+        "critic": "Anthony Whyte",
+        "is_top_critic": false,
+        "media": "The Movie Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2026-04-09T23:44:32.000Z",
+        "quote": "The Super Mario Galaxy Movie is a fun, visually polished sequel that understands what fans love about this universe. At the same time, the story does not always match the ambition of the setting.",
+        "url": "https://www.themovieblog.com/2026/04/super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Zaki Hasan",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-09T23:23:11.000Z",
+        "quote": "Given the first film's success and the fanbase it helped build for this sequel, you can't help but wonder why the instinct is still to go wider instead of deeper, louder instead of more heartfelt.",
+        "url": "https://www.sfchronicle.com/entertainment/movies-tv/article/review-super-bros-movie-chris-pratt-17862973.php"
+    },
+    {
+        "critic": "Alejandro Alemán",
+        "is_top_critic": false,
+        "media": "El Universal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-09T18:11:51.000Z",
+        "quote": "For the children (there were several in the theater) it will be an hour and a half of great fun. For the adults it will be an hour and a half of nostalgia. [Full review in Spanish]",
+        "url": "https://www.eluniversal.com.mx/opinion/alejandro-aleman/super-mario-galaxy-poco-cine-pero-mucho-fanservice/"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Herald Sun (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2026-04-09T17:36:28.000Z",
+        "quote": "While this new offering does not mess too significantly with the franchise’s proven winning formula, there’s just enough new characters and in-jokes to keep the massive Mario fanbase engaged and enamoured throughout.",
+        "url": "https://www.heraldsun.com.au/entertainment/movies/the-deb-review-final-verdict-on-rebels-troubled-film-musical/news-story/f1d4d24c6f785ebcdf275540c8b0877d"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-09T08:29:28.000Z",
+        "quote": "Despite ultimately moving in the right direction, the continued choice to play things so incredibly safe renders a universe full of imagination as one featuring stories and characters that still never rise above a bland level.",
+        "url": "https://weliveentertainment.com/welivefilm/super-mario-galaxy-movie-review-nintendo-sequel-takes-small-step-toward-sunshine/"
+    },
+    {
+        "critic": "Gabriela Meza",
+        "is_top_critic": false,
+        "media": "Fuera de Foco",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-08T18:25:03.000Z",
+        "quote": "\"It may rush past its best ideas, but it still delivers a more engaging ride.\"",
+        "url": "https://www.youtube.com/watch?v=hnqOfJY6cEc"
+    },
+    {
+        "critic": "James Verniere",
+        "is_top_critic": false,
+        "media": "Boston Movie News",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2026-04-08T17:26:06.000Z",
+        "quote": "A lot of fan service and derivative storytelling, but the eye candy is impressive.",
+        "url": "https://bostonmovienews.com/2026/04/08/a-not-so-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Ronald Young Jr.",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-07T22:38:23.000Z",
+        "quote": "This isn't even one of those things where I turned my brain off to enjoy the movie. My brain was active, and I enjoyed the movie. ",
+        "url": "https://www.npr.org/transcripts/nx-s1-5770126"
+    },
+    {
+        "critic": "Stephen Thompson",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-07T22:32:49.000Z",
+        "quote": "The plot is thin, bordering on non-existent.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5770126"
+    },
+    {
+        "critic": "Brian Viner",
+        "is_top_critic": false,
+        "media": "Daily Mail (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-07T21:40:09.000Z",
+        "quote": "When Galaxy lingers on one notion for more than five seconds – like the early sequence in which Mario and Luigi look after the Mushroom Kingdom in Peach's absence – you realise that this film's makers really do have love for the material.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15702799/BRIAN-VINER-Drama-Like-Richard-Curtis-romcom-wickedly-dark-heart.html?ico=authors_pagination_desktop"
+    },
+    {
+        "critic": "Jared Rasic",
+        "is_top_critic": false,
+        "media": "Metro Times (Detroit, MI)",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-04-07T19:21:39.000Z",
+        "quote": "Kids will get exactly what they want out of this and I’m sure the Super Mario Cinematic Universe will earn billions and billions more. Cynical? Absolutely. Let me turn on my Nintendo 64 and search for that sense of wonder once more. ",
+        "url": "https://www.metrotimes.com/arts/movies/the-super-mario-galaxy-movie-a-pixel-deep-franchise-keeps-cashing-in/"
+    },
+    {
+        "critic": "Lauren Veneziani",
+        "is_top_critic": false,
+        "media": "WBAL-TV (Baltimore)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-07T18:00:30.000Z",
+        "quote": "The animation is stunning, vibrant and feels magical. Super nostalgic vibes. May Princess Peach & Rosalina reign forever! ",
+        "url": "https://www.wbaltv.com/article/reviewing-romantic-comedies-you-me-tuscany-and-xo-kitty/70933896"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-07T17:48:21.000Z",
+        "quote": "I don’t think these movies necessarily reinvent this type of animation or anything but I do think they’re fun to watch. Again, it isn’t one I will rewatch repeatedly.",
+        "url": "https://www.themarysue.com/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-07T17:47:43.000Z",
+        "quote": "The problem is not that it’s messy﻿, but ﻿that it’s stultifyingly dull.",
+        "url": "https://observer.co.uk/culture/film/article/wendy-ides-pick-of-other-films-fuze-night-stage-the-super-mario-galaxy-movie-and-more"
+    },
+    {
+        "critic": "Tom Shone",
+        "is_top_critic": false,
+        "media": "Sunday Times (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-04-07T17:18:04.000Z",
+        "quote": "You could lose years of your life acquiring the gaming hours necessary to make sense of it all, or you could simply let the eye-candy wash over you. Or stay in the lavatory and read the graffiti. ",
+        "url": "https://www.thetimes.com/culture/film/article/getting-hitched-when-glitched-s0s69gh73"
+    },
+    {
+        "critic": "Tara McNamara",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-07T17:07:06.000Z",
+        "quote": "This hectic sibling sequel offers family fun and fan service. But there's nothing particularly memorable about The Super Mario Galaxy Movie—except that, like a power-up block, it sets up the next level in the film franchise it's still building.",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-super-mario-galaxy-movie"
+    },
+    {
+        "critic": "Rick Bentley",
+        "is_top_critic": false,
+        "media": "KGET-TV (Bakersfield, CA)",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2026-04-07T16:25:33.000Z",
+        "quote": "If you can find satisfaction in watching an endless string of video game action, “The Super Mario Galaxy Movie” will be entertaining. Those looking for even a shimmer of a smart story will find it is game over very quickly.",
+        "url": "https://www.kget.com/community/ricks-reviews/super-mario-galaxy-movie-relies-too-heavily-on-action/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-04-07T00:16:21.000Z",
+        "quote": "\"The Super Mario Galaxy Movie\" remains action-packed and vibrantly animated, but there’s new heaviness in play as the endeavor gets carried away selling a brand instead of telling a story.",
+        "url": "https://www.blu-ray.com/The-Super-Mario-Galaxy-Movie/1816184/#Review"
+    },
+    {
+        "critic": "Marlon Wallace",
+        "is_top_critic": false,
+        "media": "The M Report (WBOC.com)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-06T21:00:40.000Z",
+        "quote": "...there is rich, emotional, fertile ground that the filmmakers could have really utilized like Pixar films do... Unfortunately, this film has no interest in that kind of storytelling or sentimentality...",
+        "url": "https://www.wboc.com/features/the_m_report/movie-review---the-super-mario-galaxy-movie/article_d3f61195-1189-4699-b9b2-23cc9487b321.html"
+    },
+    {
+        "critic": "Alan Ng",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Fresh 🍅",
+        "score": "5.5/10",
+        "date": "2026-04-06T18:44:13.000Z",
+        "quote": "The Bowser Junior relationship was funny—genuinely funny—and Yoshi was great and fun to have around. But animation needs a story, and this one's storytelling needs serious work.",
+        "url": "https://filmthreat.com/reviews/the-super-mario-galaxy-movie-video-game-animation-2026-review/"
+    },
+    {
+        "critic": "Alise Chaffins",
+        "is_top_critic": false,
+        "media": "MacGuffin or Meaning (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-04-06T15:13:33.000Z",
+        "quote": "The Super Mario Galaxy Movie has little else going for it besides references, making it a beautiful but dull time at the cinema.",
+        "url": "https://alisechaffins.substack.com/p/the-super-mario-galaxy-movie-2026"
+    },
+    {
+        "critic": "Yasser Medina",
+        "is_top_critic": false,
+        "media": "Cinefilia",
+        "sentiment": "Rotten 🤢",
+        "score": "6/10",
+        "date": "2026-04-06T07:11:06.000Z",
+        "quote": "An animated sequel that maintains a somewhat uneven pace while showcasing Super Mario's new adventure, although the narrative sometimes gets mislay amidst jumps and chases when it gravitates towards lost levels. [Full review in Spanish]",
+        "url": "https://www.cinefilia.blog/2026/04/super-mario-galaxy-la-pelicula-critica.html"
+    },
+    {
+        "critic": "Korey Coleman",
+        "is_top_critic": false,
+        "media": "Double Toasted",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-06T03:27:12.000Z",
+        "quote": "The filmmakers could have done more with the story if they really wanted to. And they didn't because they didn't have to.",
+        "url": "https://www.youtube.com/watch?v=RyurpQ-J5_A"
+    },
+    {
+        "critic": "Alan French",
+        "is_top_critic": false,
+        "media": "Sunshine State Cineplex",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-04-06T00:34:15.000Z",
+        "quote": "The animation is the standout element, and it’s a decently fun time. However, it’s also disposable in ways that are almost shocking. ",
+        "url": "https://sunshinestatecineplex.com/2026/03/31/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Scott Mendelson",
+        "is_top_critic": false,
+        "media": "The Outside Scoop (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-04-05T21:23:49.000Z",
+        "quote": "Illumination's most visually spectacular animated feature yet is a parade of in-game references and large-scale action scenes, but again seems content to exist sans much character of its own.",
+        "url": "https://scottmendelson.substack.com/p/super-mario-galaxy-movie-review-illumination-nintendo"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-05T20:56:56.000Z",
+        "quote": "This is fan service aimed to please by cramming as many video game references as possible into 98 minutes. Exhausting, but fun. Yes, I got excited when Glen Powell showed up in Hangman-mode as the mercenary ace pilot born on Papetoon.",
+        "url": "https://fortworthreport.org/2026/04/05/the-super-mario-galaxy-movie-review-its-a-nintendo-free-for-all-in-the-sequel-that-levels-up-with-plenty-of-easter-eggs/"
+    },
+    {
+        "critic": "Sean P. Means",
+        "is_top_critic": false,
+        "media": "The Movie Cricket",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-05T18:10:08.000Z",
+        "quote": "I enjoyed more of what \"The Super Mario Galaxy Movie\" delivers than I expected to, and I think Nintendo fans will be delighted. ",
+        "url": "https://moviecricket.net/blog/2026/3/30/review-the-super-mario-galaxy-movie-finds-the-key-that-unlocks-the-excitement-and-fun-of-nintendos-franchise"
+    },
+    {
+        "critic": "Sara Michelle Fetters",
+        "is_top_critic": true,
+        "media": "MovieFreak.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2026-04-05T05:53:05.000Z",
+        "quote": "I found it all deeply annoying.",
+        "url": "http://moviefreak.com/super-mario-galaxy-movie-2026-movie-review/"
+    },
+    {
+        "critic": "Kristy Puchko",
+        "is_top_critic": true,
+        "media": "Mashable",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-05T02:16:15.000Z",
+        "quote": "We all have a finite amount of time on this Earth, and I cannot think of a single reason why you should spend any of yours on The Super Mario Galaxy Movie. ",
+        "url": "https://mashable.com/article/super-mario-galaxy-movie-review"
+    },
+    {
+        "critic": "Rick Romancito",
+        "is_top_critic": false,
+        "media": "The Taos News",
+        "sentiment": "Fresh 🍅",
+        "score": "C",
+        "date": "2026-04-04T21:48:01.000Z",
+        "quote": "The story is much more complicated as the running time rolls on, which can be interesting to adults familiar with the characters, but probably confusing to young-uns.",
+        "url": "https://www.taosnews.com/tempo/reviews/adventure-of-plumbers-in-space/article_742d9e86-98fd-4b1b-9d12-496b4b5d61d9.html"
+    },
+    {
+        "critic": "Christopher Lloyd",
+        "is_top_critic": false,
+        "media": "The Film Yap",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-04T18:54:51.000Z",
+        "quote": "Fast, goofy, visually imaginative and just a big glob of sheer fun for kids and younger teens. ",
+        "url": "https://filmyap.substack.com/p/the-av-room-indy-now-april-3"
+    },
+    {
+        "critic": "Agustín Pérez",
+        "is_top_critic": false,
+        "media": "Emol.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-04T16:39:11.000Z",
+        "quote": "It’s a roller coaster that, in just over 90 minutes, delivers a spectacular, nonstop adventure. And I mean \"nonstop\" literally because it rarely pauses to develop its characters.",
+        "url": "https://www.emol.com/noticias/Espectaculos/2026/04/04/1196132/critica-cine-super-mario-galaxy.html"
+    },
+    {
+        "critic": "Collin Garbarino",
+        "is_top_critic": false,
+        "media": "WORLD",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-04T12:59:29.000Z",
+        "quote": "So on the whole, The Super Mario Galaxy might not be quite as fun as the first—I mean, really, the omission of a fresh Bowser song is unforgivable—but it’s still plenty fun.",
+        "url": "https://wng.org/podcasts/playing-it-again-1775145966"
+    },
+    {
+        "critic": "Marissa Hill",
+        "is_top_critic": false,
+        "media": "Shade Studios",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-04T05:59:21.000Z",
+        "quote": "Go into this film like you're about to turn on your Nintendo 64 and play with your friends.  There's no need to overthink things. Just have fun.",
+        "url": "https://shadestudios.com/f/super-mario-brothers-galaxy-review"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Me gusta el cine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-04T02:01:58.000Z",
+        "quote": "It feels more like a series of situations and gags than a cohesive story or one with interesting characters, superficial in its ambitions and rushed to include as much as possible into a single package. [Full review in Spanish].",
+        "url": "https://megustaelcine.com/critica-super-mario-galaxy-la-pelicula-como-cinco-peliculas-en-una/"
+    },
+    {
+        "critic": "Shawn Edwards",
+        "is_top_critic": false,
+        "media": "Fox 4 Kansas City",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-03T21:32:14.000Z",
+        "quote": "It's like whiplash cinema at its best. ",
+        "url": "https://www.youtube.com/watch?v=4n8cV_h8y1c&list=PLYIuAMO7HHjjMBXV3sEz6ssmoX3rvevyL&index=1"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "The Travers Take",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-03T20:52:30.000Z",
+        "quote": "Peachy for fans and painful for newbies, this animated joyride is on the run for box-office glory. So what if doesn’t have an ending. It just stops as if it's totally exhausted. Now that I can relate to. ",
+        "url": "https://www.thetraverstake.com/featured/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Kyle Smith",
+        "is_top_critic": false,
+        "media": "Wall Street Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-03T20:40:19.000Z",
+        "quote": "There’s almost nothing in “Galaxy” that even rises to the level of an attempted gag, and the movie is notably weaker than “The Super Mario Bros,” which was just barely watchable.",
+        "url": "https://www.wsj.com/arts-culture/film/the-super-mario-galaxy-movie-review-the-plumbers-pump-their-brand-f3291bbc"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-03T20:08:30.000Z",
+        "quote": "The Super Mario Galaxy Movie tries to go bigger than its predecessor yet ends up seeming smaller.",
+        "url": "https://aisleseat.com/super-mario-galaxy-movie.html"
+    },
+    {
+        "critic": "Dulcie Pearce",
+        "is_top_critic": false,
+        "media": "The Sun (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-03T19:23:55.000Z",
+        "quote": "There’s very little plot in this sequel to the 2023 Super Mario Bros Movie – it feels like more of a series of sugar-coated chases.",
+        "url": "https://www.thesun.co.uk/tv/38704470/drama-film-review-kooky-stressful-dark-comedy/"
+    },
+    {
+        "critic": "Mat Brunet",
+        "is_top_critic": false,
+        "media": "AniMat's Review (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-04-03T19:02:42.000Z",
+        "quote": "As long as it keeps the fans happy, then Mario was able to beat his second movie level.",
+        "url": "https://youtu.be/FcplA1ANtPM"
+    },
+    {
+        "critic": "Juanma Fernández París",
+        "is_top_critic": false,
+        "media": "El Nuevo Día (Puerto Rico)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-03T18:56:19.000Z",
+        "quote": "In its obsession with making a bigger sequel, the production overloads the film and at times pushes it to become what would have happened if Michael Bay had decided to direct an animated offering. [Full review in Spanish]",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/the-super-mario-galaxy-movie-no-iguala-a-la-version-original/"
+    },
+    {
+        "critic": "Archika Khurana",
+        "is_top_critic": false,
+        "media": "The Times of India",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-04-03T18:47:09.000Z",
+        "quote": "The film constantly throws new ideas, characters, and references at the audience, rarely allowing any of them to breathe. What should feel expansive instead feels crowded and oddly impersonal.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/the-super-mario-galaxy-movie/movie-review/129986599.cms"
+    },
+    {
+        "critic": "Katie Walsh",
+        "is_top_critic": true,
+        "media": "Tribune News Service",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-04-03T18:46:45.000Z",
+        "quote": "Like its predecessor, this film is noisy, fast and unrelenting — not one you watch so much as allow to lightly steamroll your senses. At least that’s a fairly swift and amusing enough process.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-04-02/the-super-mario-galaxy-movie-review-its-animated-family-affair"
+    },
+    {
+        "critic": "Micheal Compton",
+        "is_top_critic": false,
+        "media": "Bowling Green Daily News",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-04-03T17:48:20.000Z",
+        "quote": "And while \"Galaxy\" does have some moments, the highlight a late chase we see from the perspective of the actual video game, it lacks the one truly memorable moment that anchored the original.",
+        "url": "https://bgdailynews.com/2026/04/03/latest-in-mario-franchise-for-the-die-hards-only/"
+    },
+    {
+        "critic": "Jeff Ewing",
+        "is_top_critic": false,
+        "media": "The Direct",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-04-03T16:09:48.000Z",
+        "quote": "There are good performances throughout, but they're regularly in need of lengthier scenes and increasingly evolved material. Ultimately, it feels like there's a decent movie in this hodgepodge of ideas, but that better movie is in another castle.",
+        "url": "https://thedirect.com/reviews-ratings/super-mario-galaxy-movie-review"
+    },
+    {
+        "critic": "Dionar Hidalgo",
+        "is_top_critic": false,
+        "media": "Algo Más Que Cine",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2026-04-03T16:00:54.000Z",
+        "quote": "A visually busy but narratively weightless sequel, Super Mario Galaxy trades story for spectacle—fun for fans, but ultimately a hollow ride through space with little to hold onto.",
+        "url": "https://algomasquecine.com/super-mario-galaxy-la-pelicula-espectaculo-sin-gravedad-narrativa/"
+    },
+    {
+        "critic": "Linda and Al Lerner",
+        "is_top_critic": false,
+        "media": "Movies and Shakers",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-03T15:52:07.000Z",
+        "quote": "The action is pretty repetitive as the characters get into lots of colorful chaos. Some situations could be scary for little ones, but this film will do well. It’s 90 minutes of continuous action in bright hues, and parents will get a bit of a respite. ",
+        "url": "https://moviesandshakers.com/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Ian Thomas Malone",
+        "is_top_critic": false,
+        "media": "ianthomasmalone.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-03T15:44:53.000Z",
+        "quote": "Directors Aaron Horvath and Michael Jelenic have no ambitions for their work beyond crafting a feature-length cutscene, a gorgeous film with absolutely zero substance. It’s almost astonishing to see how little effort was put into telling a story.",
+        "url": "https://ianthomasmalone.com/2026/04/super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Oscar Goff",
+        "is_top_critic": false,
+        "media": "Cambridge Day",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-03T14:25:16.000Z",
+        "quote": "It made me wish I was home playing my old SNES instead (which, I suppose, is probably half the point).",
+        "url": "https://www.cambridgeday.com/2026/04/03/super-mario-galaxy-review/"
+    },
+    {
+        "critic": "Maxance Vincent",
+        "is_top_critic": false,
+        "media": "The Cinema Spot",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-03T13:51:21.000Z",
+        "quote": "The Super Mario Galaxy Movie thrives on not giving anything substantial to the audience. It’s sickeningly boring, and fans deserve so much better than to be fed such gobbledygook. ",
+        "url": "https://www.thecinemaspot.com/2026/04/03/the-super-mario-galaxy-movie-non-spoiler-review-can-we-not/"
+    },
+    {
+        "critic": "Sean Collier",
+        "is_top_critic": false,
+        "media": "Table Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2026-04-03T12:32:06.000Z",
+        "quote": "It’s an experience that leaves you inclined to put down the controller and give up.",
+        "url": "https://www.tablemagazine.com/colliers-cuts-the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2026-04-03T12:31:53.000Z",
+        "quote": "Things are happening, but very little of it feels consequential and it’s hard not to feel like these characters deserved more care, precision, and intention.",
+        "url": "https://www.theonlycritic.com/post/the-super-mario-galaxy-movie-review-bigger-universe-smaller-impact"
+    },
+    {
+        "critic": "Erick Estrada",
+        "is_top_critic": false,
+        "media": "Cinegarage",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-03T06:06:32.000Z",
+        "quote": "It's not only bad, it's being sold as a product for children, hiding all its flaws and malice when in reality it wants to appeal to the children's parents, who are the ones who pay for the tickets. [Full review in Spanish]",
+        "url": "https://www.patreon.com/posts/super-mario-la-154565068"
+    },
+    {
+        "critic": "Jeffrey Harris",
+        "is_top_critic": false,
+        "media": "411mania",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2026-04-03T04:47:08.000Z",
+        "quote": "The Super Mario Galaxy Movie provides quick and easy entertainment, and it’s not that the characters lack charm or emotional resonance. ... However, the plot suffers from the sheer overabundance of characters and subplots, which weigh it down.",
+        "url": "https://411mania.com/movies/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Allen Almachar",
+        "is_top_critic": false,
+        "media": "The MacGuffin",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-04-03T03:47:20.000Z",
+        "quote": "I’m all for family movies that are meant to be fun and entertaining, but that doesn’t mean they must be this empty. ",
+        "url": "https://macguff.in/film-reviews/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Russ Simmons",
+        "is_top_critic": false,
+        "media": "KKFI-FM (Kansas City)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-03T02:14:29.000Z",
+        "quote": "The visuals are duly impressive, but the plot of \"The Super Mario Galaxy Movie\" may evaporate from your memory faster than a Mario power-up.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-the-super-mario-galaxy-movie-pg-the-drama-r-a-great-awakening-pg-13/"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-02T23:52:51.000Z",
+        "quote": "It's not good.",
+        "url": "https://www.youtube.com/watch?v=cqDq9EjGmYU"
+    },
+    {
+        "critic": "Randy Myers",
+        "is_top_critic": false,
+        "media": "San Jose Mercury News",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-04-02T23:16:40.000Z",
+        "quote": "It gets tiring. Returning directors Aaron Horvath and Michael Jelenic hit us with one action rush after another that never allows any of their characters room to breathe or come to life. ",
+        "url": "https://www.mercurynews.com/2026/04/02/what-to-watch-riz-ahmeds-007-loving-bait-is-brilliant/?share=tw0ag2dm2ahs26d7lhl2"
+    },
+    {
+        "critic": "Jefferson Everest Crawford",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-02T22:23:50.000Z",
+        "quote": "Objectively impressive at a technical level, but why does it exist? The answer is quite simple: fan service... Nintendo sees this clearly and also sees through it, dollar signs in their eyes.",
+        "url": "https://inreviewonline.com/2026/04/01/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Mark Meszoros",
+        "is_top_critic": false,
+        "media": "The News-Herald (Willoughby, OH)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-02T21:59:12.000Z",
+        "quote": "About a third of the way through it, we wished there were a reset button.",
+        "url": "https://www.news-herald.com/2026/03/31/the-super-mario-galaxy-movie-review-hyperspeed-sequel-a-letdown/"
+    },
+    {
+        "critic": "Bilge Ebiri",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-02T20:02:02.000Z",
+        "quote": "All The Super Mario Galaxy Movie has, unfortunately, is the messianic fervor with which it throws everything at us. ",
+        "url": "https://www.vulture.com/article/the-super-mario-galaxy-movie-review-what-is-happening.html"
+    },
+    {
+        "critic": "Nell Minow",
+        "is_top_critic": true,
+        "media": "Movie Mom",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-04-02T19:37:07.000Z",
+        "quote": "Is it essentially an informercial for the games and merch? Of course it is. But is is good-hearted and colorful, and has genuine affection for the fans.",
+        "url": "https://moviemom.com/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Gene Park",
+        "is_top_critic": false,
+        "media": "Washington Post",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-04-02T19:22:26.000Z",
+        "quote": "The secret to Mario’s infinite lives is that we keep giving them to him.",
+        "url": "https://www.washingtonpost.com/entertainment/movies/2026/04/01/super-mario-galaxy-review/"
+    },
+    {
+        "critic": "Tania Lamb",
+        "is_top_critic": false,
+        "media": "Lola Lambchops",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-02T19:22:02.000Z",
+        "quote": "The Super Mario Galaxy Movie has a bit of everything except maybe a plot. ",
+        "url": "https://lolalambchops.com/super-mario-galaxy-movie-kid-friendly-parents-guide/"
+    },
+    {
+        "critic": "James Scott",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-02T19:20:13.000Z",
+        "quote": "Nothing in the film I saw elevated, accentuated, or even double-jumped its video-game counterpart. ",
+        "url": "https://www.austinchronicle.com/screens/film-review/the-super-mario-galaxy-movie-review-big-on-cameos-light-on-story/"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-02T19:01:52.000Z",
+        "quote": "I felt like someone had tied me down and forced me to watch 90 minutes of Saturday morning cartoons.",
+        "url": "https://www.reelviews.net/reelviews/the-super-mario-galaxy-movie"
+    },
+    {
+        "critic": "Alistair Harkness",
+        "is_top_critic": false,
+        "media": "Scotsman",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-02T18:52:54.000Z",
+        "quote": "...its funniest moments occur when the film finds sly ways to incorporate and pastiche the gameplay of its source material, which it does too infrequently to build to anything as subversive as The Lego Movie...",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/film-reviews-fuze-the-super-mario-galaxy-movie-6530886"
+    },
+    {
+        "critic": "Jake Wilson",
+        "is_top_critic": false,
+        "media": "The Age (Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-02T18:14:04.000Z",
+        "quote": "I can accept Disney princesses as a convention, but I’m starting to find the royalist propaganda scattered through the Super Mario cinematic universe a little grating.",
+        "url": "https://www.theage.com.au/culture/movies/robert-pattinson-and-zendaya-s-romantic-drama-with-bite-and-other-new-movies-to-watch-this-week-20260401-p5zkno.html"
+    },
+    {
+        "critic": "John Lui",
+        "is_top_critic": false,
+        "media": "The Straits Times (Singapore)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-02T17:40:37.000Z",
+        "quote": "This colourful, sincere space adventure puts gamers first, but does not leave everyone else behind.",
+        "url": "The Super Mario Galaxy Movie"
+    },
+    {
+        "critic": "Marcelo Stiletano",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-02T17:39:01.000Z",
+        "quote": "...an adventure that maintains the intensity, energy, and vibrancy of its predecessor while displaying an undeniable intention to further solidify its connection to the aesthetic of the video game...[Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/super-mario-y-sus-amigos-viajan-al-espacio-en-una-secuela-colorida-y-excesiva-a-la-vez-nid02042026/"
+    },
+    {
+        "critic": "Tomás Andrés Guerrero",
+        "is_top_critic": false,
+        "media": "Sensacine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-02T17:26:39.000Z",
+        "quote": "The movie embraces the absurd and the bizarre with greater confidence. This translates into genuinely funny moments and a better comedic pace. [Full review in Spanish]",
+        "url": "https://www.sensacine.com/peliculas/pelicula-327878/sensacine/"
+    },
+    {
+        "critic": "Fran Chico",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-02T17:15:15.000Z",
+        "quote": "The sheer number of nods to worlds, characters, and abilities from the 'Super Mario Galaxy' games will delight any millennial gamer and naturally surprise those who aren't...[Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a70883377/super-mario-galaxy-pelicula-critica-animacion-videojuego/"
+    },
+    {
+        "critic": "Vinamra Mathur",
+        "is_top_critic": false,
+        "media": "Firstpost",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-02T17:07:07.000Z",
+        "quote": "The best thing about the movie is that it is only 98 minutes long. It is charismatic and crisp. But to say that it is an absolute perfect outing will be a fallacy. There are moments when you see that the narrative is overstaying its welcome.",
+        "url": "https://www.firstpost.com/entertainment/the-super-mario-galaxy-movie-review-an-imperfect-but-evocative-take-on-an-iconic-video-game-character-13995689.html"
+    },
+    {
+        "critic": "David Chen",
+        "is_top_critic": false,
+        "media": "Decoding Everything (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-02T16:31:24.000Z",
+        "quote": "The primary issue with 'The Super Mario Galaxy Movie' is that there are no stakes to anything that's happening on screen.",
+        "url": "https://www.decodingeverything.com/the-super-mario-galaxy-movie-review-its-a-bad-movie/"
+    },
+    {
+        "critic": "John Urbancich",
+        "is_top_critic": false,
+        "media": "JMuvies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-02T16:19:43.000Z",
+        "quote": "The Bros. easily welcome a couple of longtime gamer mainstays -- Princess Rosalina (Brie Larson) and little dino Yoshi (Donald Glover) -- to help delight youngsters and devotees even more than perhaps the first \"Movie\" did.",
+        "url": "https://jmuvies.blogspot.com/2026/04/no-fooling-latest-super-mario-looks-to.html"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2026-04-02T15:20:07.000Z",
+        "quote": "Doubling down on the box office success of its brightly coloured predecessor, Nintendo reteams with Illumination for a stultifying sequel that cynically exploits gamer nostalgia.",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=e578fd87-0e64-44f8-9ae3-0dcda4f595d8"
+    },
+    {
+        "critic": "Keith Phipps",
+        "is_top_critic": true,
+        "media": "The Reveal",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-02T15:07:11.000Z",
+        "quote": "[I]t’s also pretty much as impenetrable as Finnegan’s Wake for those not locked into its hermetic, mushroom-and-brick-filled world.",
+        "url": "https://thereveal.film/in-review-the-drama-the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Rotten 🤢",
+        "score": "2",
+        "date": "2026-04-02T14:39:10.000Z",
+        "quote": "It’s family entertainment, intended for younger gamers and nostalgic parents, but just because it’s aimed at the whole family doesn’t mean it can’t level up.",
+        "url": "https://richardcrouse.ca/the-super-mario-galaxy-movie-3-%C2%BD-power-stars-for-fans-maximalist-fan-service/"
+    },
+    {
+        "critic": "Josh Bell",
+        "is_top_critic": false,
+        "media": "The Inlander (Spokane, WA)",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-04-02T11:25:58.000Z",
+        "quote": "Viewers who love being able to point at things they recognize will no doubt be pleased.",
+        "url": "https://www.inlander.com/screen/the-super-mario-galaxy-movie-continues-the-trend-of-mind-numbingly-faithful-video-game-movies/article_b7a2e8ec-f53b-420b-b0ab-407c81724409.html"
+    },
+    {
+        "critic": "Troy Ribeiro",
+        "is_top_critic": false,
+        "media": "Free Press Journal (India)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/ 5",
+        "date": "2026-04-02T07:26:58.000Z",
+        "quote": "Once upon a pixel, two plumbers leapt across flat screens chasing a princess and a purpose. Today, they hurtle through galaxies, armed with bigger budgets, louder colours, and a franchise that refuses to grow up even as it scales up.",
+        "url": "https://www.freepressjournal.in/entertainment/the-super-mario-galaxy-movie-review-chris-pratt-and-jack-blacks-cosmic-sprint-runs-out-of-breath"
+    },
+    {
+        "critic": "Leo Brady",
+        "is_top_critic": false,
+        "media": "AMovieGuy.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-02T06:47:35.000Z",
+        "quote": "The film is so overstuffed and rushed that it never gives us time to enjoy the adventure it’s trying to create. Kids will likely love it; adults may feel their kids deserve something better.",
+        "url": "https://amovieguy.com/2026/04/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-02T06:19:13.000Z",
+        "quote": "The glorious sequel to The Super Mario Bros Movie is even better....It’s Bowser’s arc that grounds the film amidst all the beautifully rendered, candy-coloured action and unavoidable 8-bit references to the classic video game.",
+        "url": "https://tinyurl.com/bdzbjpwb"
+    },
+    {
+        "critic": "Simon Foster",
+        "is_top_critic": false,
+        "media": "Screen-Space (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-04-02T03:48:12.000Z",
+        "quote": "Most distressing is the film’s ugly aesthetic; despite the same trio of directors who brought the Nintendo IP to vivid life only three years ago, the sequel too often has the pallor of a laptop-produced cheapie.",
+        "url": "https://screenspace.substack.com/p/dhurandhar-and-the-cinema-of-vengeance"
+    },
+    {
+        "critic": "Charles Koplinski",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-02T00:35:53.000Z",
+        "quote": "There was a sense of joy and fun in the previous movie that was infectious.  Here all involved are simply going through the motions, something that does not bode well for the many sequels to come or the non-fans who will have to endure them.",
+        "url": "https://reeltalkwithchuckandpam.com/the-super-mario-galaxy-movie-chuck-skip-it/"
+    },
+    {
+        "critic": "David Jenkins",
+        "is_top_critic": false,
+        "media": "Little White Lies",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-04-02T00:34:15.000Z",
+        "quote": "What’s most disappointing is that the raw talent is all there, and every single person involved here can be proud of having made quality, soulful, intelligent work in the past. ",
+        "url": "https://lwlies.com/reviews/the-super-mario-galaxy-movie-review"
+    },
+    {
+        "critic": "Helen O'Hara",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-02T00:17:40.000Z",
+        "quote": "The moments of fan service might keep the hardcore happy, but for everyone else over the age of five it’s just a succession of loud, bright things happening without any real point.",
+        "url": "https://www.empireonline.com/movies/reviews/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "George Simpson",
+        "is_top_critic": false,
+        "media": "Daily Express (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-01T22:58:09.000Z",
+        "quote": "The Super Mario Galaxy Movie isn’t really a movie. It’s more of a collection of loosely connected shorts with whizz-popping multi-coloured bangs and blasts across the Mushroom Kingdom and into space.",
+        "url": "https://www.express.co.uk/entertainment/films/2189402/The-Super-Mario-Galaxy-Movie-review"
+    },
+    {
+        "critic": "Patrick McDonald",
+        "is_top_critic": false,
+        "media": "HollywoodChicago.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-01T22:51:19.000Z",
+        "quote": "Barest recco, but I'm sure fans will be fine. The visuals are there, but it's like living in the game in the hyper active way the story play sout. The locales and Jack Black's Bowser are strangely funny, and maybe mushrooms are the way to go.",
+        "url": "https://youtu.be/En5QZmL5R1s?si=hH7AdrxiFJz9gWWK"
+    },
+    {
+        "critic": "Pablo O. Scholz",
+        "is_top_critic": false,
+        "media": "Clarín",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-01T22:38:43.000Z",
+        "quote": "As expected, the huge success of The Super Mario Bros. Movie exactly three years ago was going to spawn a sequel, and here it is...[Full review in Spanish]",
+        "url": "https://www.clarin.com/espectaculos/super-mario-galaxy-pelicula-quedarse-final-creditos_0_BDq9FqToTY.html"
+    },
+    {
+        "critic": "Robbie Collin",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-01T22:19:21.000Z",
+        "quote": "It’s testament to just how bad the original Super Mario Bros Movie was that this sequel can be a noticeable improvement in every respect...while still comfortably qualifying as absolute rubbish.",
+        "url": "https://www.telegraph.co.uk/films/2026/03/31/new-super-mario-bros-film-is-yammering-sugared-up-rubbish/"
+    },
+    {
+        "critic": "Hilary A White",
+        "is_top_critic": false,
+        "media": "Irish Independent",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-01T21:45:25.000Z",
+        "quote": "...everything is pinging and popping and smashing like some fizzed-up computer-animated dopamine delivery device. Exhausting and hollow. Mario deserves better.",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/the-super-mario-galaxy-movie-mario-deserves-better-than-this-exhausting-bish-bash-bosh/a969664979.html"
+    },
+    {
+        "critic": "Tara Brady",
+        "is_top_critic": true,
+        "media": "Irish Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-01T21:30:57.000Z",
+        "quote": "The breakneck pacing and incessant noise can’t compensate for the lack of narrative momentum or heart. ",
+        "url": "https://www.irishtimes.com/culture/film/review/2026/03/31/the-super-mario-galaxy-movie-a-breathless-galaxy-spanning-scramble-at-least-its-short/"
+    },
+    {
+        "critic": "Harry Guerin",
+        "is_top_critic": false,
+        "media": "RTÉ (Ireland)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-04-01T21:27:41.000Z",
+        "quote": "This Easter cinema opp is cute to look at, but it goes all-in with the subplots (Frozen, Star Wars, etc), is too short on good gags, and never manages to flow like a proper story.",
+        "url": "https://www.rte.ie/entertainment/movie-reviews/2026/0401/1565967-new-super-mario-movie-is-in-need-of-a-good-plumber/"
+    },
+    {
+        "critic": "Alex Bentley",
+        "is_top_critic": false,
+        "media": "CultureMap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-01T19:10:46.000Z",
+        "quote": "The filmmakers  have lots of fun inserting references from a bunch of different Mario games, but they pay little attention to giving the characters anything to do that makes sense.",
+        "url": "https://dallas.culturemap.com/news/entertainment/super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Victor Stiff",
+        "is_top_critic": false,
+        "media": "Exclaim!",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-04-01T18:23:01.000Z",
+        "quote": "Audiences will love Mario, Yoshi and the crew because they're preconditioned to do so, not because the film does the work of convincing us why they're worth loving. ",
+        "url": "https://exclaim.ca/film/article/the-super-mario-galaxy-movie-film-review"
+    },
+    {
+        "critic": "Doug Walker",
+        "is_top_critic": false,
+        "media": "Channel Awesome",
+        "sentiment": "Fresh 🍅",
+        "score": "3 / 4",
+        "date": "2026-04-01T17:54:59.000Z",
+        "quote": "Just meets the bar for being passably entertaining fluff.",
+        "url": "https://www.youtube.com/watch?v=4zLXk7TbmUY"
+    },
+    {
+        "critic": "Adrián Carande",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-01T17:28:13.000Z",
+        "quote": "Mario and Luigi's journey to the stars is visually ambitious but empty. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-super-mario-galaxy-pelicula-esperada-adaptacion-videojuego-no-llega-brillar-todo_6952889_3.html"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-01T17:26:04.000Z",
+        "quote": "It's a basic case of sequelitis. ",
+        "url": "https://www.youtube.com/watch?v=I4nEXhXoI70"
+    },
+    {
+        "critic": "Preston Barta",
+        "is_top_critic": false,
+        "media": "Denton Record-Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-01T17:25:53.000Z",
+        "quote": "While this sequel might not have the gravitational pull to truly reach the stars its title promises, it remains a vibrant, fun-enough continuation that will happily appease younger audiences and coax a few chuckles from the adults in the room.",
+        "url": "https://dentonrc.com/entertainment/movies/review-super-mario-galaxy-movie-paints-a-dazzling-universe-plot-fails-to-reach-the-stars/article_d64f9e6d-bb06-405d-ad16-499abf9503c7.html"
+    },
+    {
+        "critic": "Glenn Garner",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T17:17:28.000Z",
+        "quote": "A fun sequel full of nostalgic references, all-star voices and epic animation, grounded by the father-son story of redemption for Bowser and a sisterly origin story Princess Peach, both of which pave the way for more video game adaptation fun.",
+        "url": "https://deadline.com/2026/04/the-super-mario-galaxy-movie-review-out-of-this-world-sequel-1236770764/"
+    },
+    {
+        "critic": "Tom Santilli",
+        "is_top_critic": false,
+        "media": "Movie Show Plus",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-04-01T17:05:47.000Z",
+        "quote": "Nintendo isn’t chasing innovation here. They’re giving fans exactly what they want, and right now, that’s enough.",
+        "url": "https://www.movieshowplus.com/reviews/review-the-super-mario-galaxy-movie-plays-it-safe-and-simple-and-thats-ok"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "rachelsreviews.net",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T16:23:51.000Z",
+        "quote": "I found almost every scene to be charming with adorable characters I enjoyed spending time with. ",
+        "url": "https://rachelsreviews.net/2026/04/01/can-a-movie-win-me-over-on-cuteness-vibes-yes-the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Jeff Nelson",
+        "is_top_critic": false,
+        "media": "WeHo Times",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-04-01T16:05:23.000Z",
+        "quote": "The Super Mario Galaxy Movie is barely a movie to begin with. It’s low-brow entertainment with no ambition beyond selling more product.",
+        "url": "https://wehotimes.com/the-super-mario-galaxy-movie-movie-review-marios-cosmic-adventure-mistakes-fan-service-for-storytelling/"
+    },
+    {
+        "critic": "Rendy Jones",
+        "is_top_critic": false,
+        "media": "Rendy Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-04-01T15:20:05.000Z",
+        "quote": "Let's-a stop!",
+        "url": "https://www.rendyreviews.com/movie-reviews/the-super-mario-galaxy-movie-review"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-04-01T15:07:56.000Z",
+        "quote": "This movie, like its predecessor, feels like a soulless machine...it’s spiffily made but suffers from a fatal lack of imagination, warmth and charm.",
+        "url": "https://www.oneguysopinion.com/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-01T13:08:37.000Z",
+        "quote": "As far from perfect as it may be, Mario lovers will find themselves enjoying the bright and colourful nonsense of a sequel that maintains enough playfulness and fun to make up for its lack of simplicity. Not bad at all for a forty-year-old plumber.",
+        "url": "https://filmfeeder.co.uk/film-reviews/the-super-mario-galaxy-movie-dirs-aaron-hovarth-and-michael-jelenic"
+    },
+    {
+        "critic": "Spencer Perry",
+        "is_top_critic": false,
+        "media": "ComicBook.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-01T11:37:12.000Z",
+        "quote": "...A movie with memorable moments that are bite-sized enough for short attention spans, and to not trigger copyright protections on YouTube when they’re ripped later and uploaded to the tune of millions of views.",
+        "url": "https://comicbook.com/movies/review/the-super-mario-galaxy-movie-is-an-amusing-sequel-and-an-improvement-review/"
+    },
+    {
+        "critic": "Nina Starner",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2026-04-01T10:51:26.000Z",
+        "quote": "The Super Mario Galaxy Movie didn't need to be that deep, but it didn't have to be this shallow either. ",
+        "url": "https://www.slashfilm.com/2136661/the-super-mario-galaxy-movie-2026-review/"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-01T05:40:42.000Z",
+        "quote": "Falls into a classic sequel trap: bigger, busier, and far less focused. ",
+        "url": "https://www.theaureview.com/watch/film-review-the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Doug Jamieson",
+        "is_top_critic": false,
+        "media": "The Jam Report",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-04-01T05:00:25.000Z",
+        "quote": "Bigger does not necessarily mean better, and while this sequel reaches for the stars quite literally, it rarely finds anything of substance once it gets there.",
+        "url": "https://thejamreport.com/2026/04/01/review-the-super-mario-galaxy-movie-is-a-bigger-louder-sequel-that-forgets-to-be-better/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2026-04-01T03:59:58.000Z",
+        "quote": "The Super Mario Galaxy Movie is at least a hop in the right direction.",
+        "url": "http://www.markreviewsmovies.com/reviews/S/supermariogalaxymovie.htm"
+    },
+    {
+        "critic": "Cain Noble-Davies",
+        "is_top_critic": false,
+        "media": "FILMINK (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "13/20",
+        "date": "2026-04-01T03:35:09.000Z",
+        "quote": "... a beautiful letdown. It looks and sounds incredible, and shows fruitful improvement over its predecessor in terms of sheer spectacle, but Matthew Fogel’s writing fails to support those upgrades with much beyond \"hey look, reference!\"",
+        "url": "https://www.filmink.com.au/reviews/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "David Poland",
+        "is_top_critic": false,
+        "media": "Hot Button (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T03:25:29.000Z",
+        "quote": "I think the filmmakers were intent - as many sequel directors are - on squeezing in everything they imagined but couldn’t include the first time. As a result, the film has too much action, not enough story or character.",
+        "url": "https://open.substack.com/pub/davidpoland/p/thb-819-the-super-mario-galaxy-movie?r=7wlst&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-01T02:42:27.000Z",
+        "quote": " It would be more entertaining to watch your money flush down the toilet than to watch this unimaginative, vapid and soulless cash grab.",
+        "url": "http://nycmovieguru.com/april3rd26.html#supermario2"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2026-04-01T02:00:38.000Z",
+        "quote": "The Super Mario Galaxy Movie will power up the global box office in a vibrant sequel with amazing CGI action scenes. It's all fan service with an admittedly flimsy plot, but that's okay, the eye candy is totally worth the price of admission.",
+        "url": "https://movieweb.com/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Christian Toto",
+        "is_top_critic": false,
+        "media": "HollywoodInToto.com",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-04-01T00:54:03.000Z",
+        "quote": "Pratt, Day, Glover and Larson voice beloved characters going through IP motions.",
+        "url": "https://www.hollywoodintoto.com/super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Richard Propes",
+        "is_top_critic": false,
+        "media": "TheIndependentCritic.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.0/4.0",
+        "date": "2026-03-31T23:36:59.000Z",
+        "quote": "The best thing that I can say about The Super Mario Galaxy Movie is that somewhere bubbling underneath its cinematic surface, there's a film with an abundance of heart and humanity trying to run, dash, and jump its way into our lives. ",
+        "url": "https://theindependentcritic.com/the_super_mario_galaxy_movie"
+    },
+    {
+        "critic": "Andrzej Lukowski",
+        "is_top_critic": false,
+        "media": "Time Out",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-03-31T23:28:18.000Z",
+        "quote": "Vivid worlds, memorable characters, silly laughs: The Super Mario Galaxy Movie is not deep but it’s made with love and it hits the spot.",
+        "url": "https://www.timeout.com/movies/the-super-mario-galaxy-movie-review-2026"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Moviefone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T22:53:57.000Z",
+        "quote": "Takes what works in the first film and levels it up. It's funnier, more action-packed, and filled with surprises for gamers. The story is simple, but the movie was made for fan service, not the plot.",
+        "url": "https://www.moviefone.com/news/movie-review-the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T22:23:33.000Z",
+        "quote": "The Super Mario Galaxy Movie falls into a movie sequel trap of adding characters in attempting to cover up a messy plot. This animated film has eye-catching visuals but an unimpressive story reduced to generic chase scenes and battles.",
+        "url": "https://culturemixonline.com/review-the-super-mario-galaxy-movie-starring-the-voices-of-chris-pratt-anya-taylor-joy-charlie-day-jack-black-keegan-michael-key-benny-safdie-donald-glover-and-brie-larson/"
+    },
+    {
+        "critic": "Dana Han-Klein",
+        "is_top_critic": false,
+        "media": "We're Watching What?!",
+        "sentiment": "Rotten 🤢",
+        "score": "2.4/5",
+        "date": "2026-03-31T22:21:10.000Z",
+        "quote": "All side quest, no substance. While filled to the brim with references and easter eggs, the sequel is somehow even more anemic on the plot front. Alas a textbook case of preying on nostalgia instead of bothering to nourish the intelligence of the fan base",
+        "url": "https://youtu.be/uqy7x4b9NB4"
+    },
+    {
+        "critic": "Mike Massie",
+        "is_top_critic": false,
+        "media": "Gone With The Twins",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-03-31T21:56:34.000Z",
+        "quote": "Fine for younger audiences, but will likely leave adult viewers wondering what the point of any of this was.",
+        "url": "https://gonewiththetwins.com/super-mario-galaxy-movie-2026/"
+    },
+    {
+        "critic": "Jason Adams",
+        "is_top_critic": false,
+        "media": "My New Plaid Pants",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T21:53:54.000Z",
+        "quote": "Get ready to paint eyes onto your eyelids so the kids don't catch onto your snooze, Moms and Pops.",
+        "url": "https://www.mynewplaidpants.com/2026/03/super-mario-galaxy-movie-in-200-words.html"
+    },
+    {
+        "critic": "Wendy Lee Szany",
+        "is_top_critic": false,
+        "media": "The Movie Couple",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-03-31T20:48:53.000Z",
+        "quote": "Colorful, fun, and fast-paced. For fans of not just Super Mario but Nintendo, all the Easter Eggs and references will be a delight to see. However, this sequel relied more on the nostalgia and cameos rather than focusing on the story. ",
+        "url": "https://youtu.be/qqTOadAyGUM"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-03-31T20:41:53.000Z",
+        "quote": " The sequel, The Super Mario Galaxy Movie, is less like a sequel and more like a companion piece; a gorgeous, Easter Egg-heavy expansion of the budding Nintendo Cinematic Universe.",
+        "url": "https://punchdrunkcritics.com/2026/03/mario-galaxy-65695/"
+    },
+    {
+        "critic": "George M. Thomas",
+        "is_top_critic": false,
+        "media": "Akron Beacon Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-03-31T20:41:48.000Z",
+        "quote": "This is one of those movies that falls under the heading of parental duty for those who have young children, especially those ensconced in gaming and the Nintendo world.",
+        "url": "https://www.beaconjournal.com/story/entertainment/movies/2026/03/31/uper-mario-galaxy-movie-review-release-date/89405623007/?tbref=hp"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-03-31T20:32:58.000Z",
+        "quote": "A sprawling adventure that prioritizes spectacle, fan service, and pure entertainment over narrative depth, but still manages to deliver an undeniably fun ride.",
+        "url": "https://www.comingsoon.net/movies/reviews/2114117-the-super-mario-galaxy-movie-review-nintendos-superior-sequel"
+    },
+    {
+        "critic": "EJ Moreno",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T20:30:26.000Z",
+        "quote": "Like the MCU in its heyday, the Super Mario sequel nails its world building and lore expansion. It’s over-the-top, fun, and so very Nintendo!",
+        "url": "https://youtu.be/LJ95pMd1IUc?si=jlxwr1gzbdw5COag"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-03-31T20:29:25.000Z",
+        "quote": "It all becomes too much, amounting to nothing more than nostalgic noise and chaos with no real effort into doing anything with the five or six new characters, let alone the existing plumbing brothers duo of Mario and Luigi",
+        "url": "https://www.flickeringmyth.com/movie-review-the-super-mario-galaxy-movie-2026/"
+    },
+    {
+        "critic": "Kyle Anderson",
+        "is_top_critic": false,
+        "media": "Nerdist",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-03-31T20:28:57.000Z",
+        "quote": "The Super Mario Galaxy Movie and its vibes and quips and video game references might delight Nintendo-philes without ever having to tell a story. But if this is all we're ever going to get from Nintendo's cinematic offerings, I'll opt not to play again.",
+        "url": "https://nerdist.com/article/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Chrishaun Baker",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T20:21:57.000Z",
+        "quote": "It’s certainly an entertaining, occasionally breathtakingly animated, adventure... but there’s an apparent lack of substance that prevents it from being as impactful as it maybe could be.",
+        "url": "https://www.inverse.com/entertainment/the-super-mario-galaxy-movie-review"
+    },
+    {
+        "critic": "Alonso Duralde",
+        "is_top_critic": true,
+        "media": "The Film Verdict",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T20:18:54.000Z",
+        "quote": "For a piece of intellectual-property exploitation, it’s created with far more craft and care than it had to be.",
+        "url": "https://thefilmverdict.com/the-super-mario-galaxy-movie-film-review/"
+    },
+    {
+        "critic": "Jeffrey Lyles",
+        "is_top_critic": false,
+        "media": "Lyles' Movie Files",
+        "sentiment": "Fresh 🍅",
+        "score": "9.5/10",
+        "date": "2026-03-31T19:57:58.000Z",
+        "quote": "A welcome follow-up in the Super Mario Bros’ movie franchise, Super Mario Galaxy Movie should have no trouble leveling up at the box office.",
+        "url": "https://lylesmoviefiles.com/2026/03/31/super-mario-galaxy-movie-2026/"
+    },
+    {
+        "critic": "Trace Sauveur",
+        "is_top_critic": false,
+        "media": "AwardsWatch",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-03-31T19:39:12.000Z",
+        "quote": "After the credits, the impression is one of overstimulation and vacuity—despite the violent blitz of colorful Nintendo imagery for 90 minutes, it ultimately signifies little more than recognizable franchise iconography in animated form.",
+        "url": "https://awardswatch.com/the-super-mario-galaxy-movie-review-the-iconic-platforming-plumber-is-asphyxiated-in-an-intergalactic-ip-spree-c/"
+    },
+    {
+        "critic": "Nagier Chambers",
+        "is_top_critic": false,
+        "media": "Big Gold Belt Media",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:37:34.000Z",
+        "quote": "While rooted in nostalgia, The Super Mario Galaxy Movie delivers a visually stunning and forward-moving expansion of Nintendo’s universe.",
+        "url": "https://biggoldbelt.com/reviews/movie-reviews/super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Chris Bumbray",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:34:43.000Z",
+        "quote": "Hyperactive, but fans will still like it - as will kids.",
+        "url": "https://www.joblo.com/the-super-mario-galaxy-movie-review-yoshi-steals-the-show/"
+    },
+    {
+        "critic": "Grace Randolph",
+        "is_top_critic": false,
+        "media": "Beyond the Trailer",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:30:30.000Z",
+        "quote": "Bowser, Princess Peach & Yoshi are standouts, but still these movies remain inaccessible to non-gamers. Not really a movie with like...story structure and character arcs...but more a celebration of Super Mario games. Nintendo fans should (?) be delighted.",
+        "url": "https://www.youtube.com/watch?v=sEHSY6Zdyno"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Fortress of Solitude",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-03-31T19:27:24.000Z",
+        "quote": "A fun-filled sequel that outshines its predecessor.",
+        "url": "https://www.fortressofsolitude.co.za/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Peter Sobczynski",
+        "is_top_critic": false,
+        "media": "Auteurist Class (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:23:50.000Z",
+        "quote": "Just an extended commercial designed to turn the minds of the young ones to mush so efficiently that the crazy mask maker from Halloween III might bow to it out of sheer admiration.",
+        "url": "https://open.substack.com/pub/petersobczynski/p/glitch?r=129p34&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Lindsey Bahr",
+        "is_top_critic": true,
+        "media": "Associated Press",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-03-31T19:23:36.000Z",
+        "quote": "Mario creator Shigeru Miyamoto and Illumination founder Chris Meledandri... seem committed to keeping things light and playful even while beholden to advancing some kind of coherent, moderately compelling story where there wasn’t one previously.",
+        "url": "https://apnews.com/article/super-mario-galaxy-movie-review-c8577c5bd5722dd259dc9ce349990b52"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "Eric Goldman (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:23:13.000Z",
+        "quote": "It's more of the same, but lesser. Kids will enjoy it and it can give adults that nostalgia buzz, but the movie doesn't figure out much to do with its heroes. It's empty calories.",
+        "url": "https://www.youtube.com/watch?v=4VbcTG1WZPw"
+    },
+    {
+        "critic": "Calum Cooper",
+        "is_top_critic": false,
+        "media": "Cinerama Film",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-03-31T19:21:59.000Z",
+        "quote": "Coasting solely on its IP recognisability rather than telling anything of narrative or thematic substance, it’s lazy, histrionic, soulless slop.",
+        "url": "https://cineramafilm.com/2026/03/31/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Alissa Wilkinson",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:19:40.000Z",
+        "quote": "There’s a flat empty nothingness to “The Super Mario Galaxy Movie,” even more than its flat empty predecessor, and that’s a huge bummer. ",
+        "url": "https://www.nytimes.com/2026/03/31/movies/the-super-mario-galaxy-movie-review.html"
+    },
+    {
+        "critic": "Rodrigo Perez",
+        "is_top_critic": false,
+        "media": "The Playlist",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-03-31T19:18:19.000Z",
+        "quote": "\"Super Mario Galaxy\" is nice to look at and dead inside, a committee-made franchise object masquerading as an adventure, and ultimately little more than an empty commercial for Super Mario branding.",
+        "url": "https://theplaylist.net/super-mario-galaxy-review-all-power-ups-no-progression-in-nintendos-empty-franchise-machine-20260331/"
+    },
+    {
+        "critic": "Neil Pond",
+        "is_top_critic": false,
+        "media": "Neil's Entertainment Picks",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-03-31T19:18:12.000Z",
+        "quote": "A bright-n-lively, action-packed romp across the universe, a family-friendly flight of imagination with a colorful plumber-adventurer and his crew who’ve been keeping gamers entertained and engaged now for more than 40 years.",
+        "url": "https://neilsentertainmentpicks.com/2026/03/31/movie-review-the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Fred Topel",
+        "is_top_critic": false,
+        "media": "United Press International",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:14:56.000Z",
+        "quote": "Uses deep knowledge of Nintendo lore for clever Easter eggs. Unfortunately, it lacks basic storytelling.",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2026/03/31/Super-Mario-Galaxy-Movie-review/8241774931095/"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-03-31T19:14:11.000Z",
+        "quote": "…there’s little new about The Super Mario Galaxy movie; it’s just the same again but not as good….aside from the overall quest format, much of the frenetic action borders on incomprehensibility for anyone unfamiliar with the lore…",
+        "url": "https://film-authority.com/2026/03/31/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:14:00.000Z",
+        "quote": "Not a single one of these characters, including Mario and Luigi, occupies the center of “The Super Mario Galaxy Movie.” And that’s because the movie has no center.",
+        "url": "https://variety.com/2026/film/reviews/the-super-mario-galaxy-movie-review-chris-pratt-jack-black-1236703239/"
+    },
+    {
+        "critic": "James Mottram",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-03-31T19:13:22.000Z",
+        "quote": "Returning us to the lurid, trippy Mushroom Kingdom, The Super Mario Galaxy Movie is equally barmy, if not quite as fresh or funny as its predecessor. ",
+        "url": "https://www.radiotimes.com/movies/super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Barry Hertz",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:12:48.000Z",
+        "quote": "Whereas a cosmic beast like Cthulhu or Azathoth at least possess all-knowing knowledge in addition to their sanity-breaking powers of terror, a horror like The Super Mario Galaxy Movie retains no vaguely redeeming qualities.",
+        "url": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Jason Escamilla",
+        "is_top_critic": false,
+        "media": "EskimoTV",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-03-31T19:10:57.000Z",
+        "quote": "A colorful and charming sequel that expands Mario’s world into space. While the story is predictable, strong visuals, humor, and a surprising Bowser arc make this a fun family watch.",
+        "url": "https://youtu.be/62Mi1GxB8jI"
+    },
+    {
+        "critic": "Odie Henderson",
+        "is_top_critic": true,
+        "media": "Boston Globe",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-03-31T19:10:38.000Z",
+        "quote": "This is yet another big screen rehash of the Nintendo classics that will make you want to go play the games rather than watch this movie again.",
+        "url": "https://www.bostonglobe.com/2026/03/31/arts/super-mario-galaxy-movie-chris-pratt/"
+    },
+    {
+        "critic": "Joey Magidson",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2026-03-31T19:10:21.000Z",
+        "quote": "The Super Mario Galaxy Movie has lots of fun Easter Eggs for fans of the games but an unsatisfying plot.",
+        "url": "https://awardsradar.com/2026/03/31/film-review-the-super-mario-galaxy-movie-has-lots-of-fun-easter-eggs-for-fans-of-the-games-but-an-unsatisfying-plot/"
+    },
+    {
+        "critic": "Kevin Maher",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "0/5",
+        "date": "2026-03-31T19:10:11.000Z",
+        "quote": "The film is torturous to sit through and, for me, provoked periods of actual physical discomfort. ",
+        "url": "https://www.thetimes.com/culture/film/article/super-mario-galaxy-movie-review-5w6crmhgr"
+    },
+    {
+        "critic": "Germain Lussier",
+        "is_top_critic": false,
+        "media": "io9.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:09:48.000Z",
+        "quote": "The Super Mario Galaxy Movie is a nonstop barrage of stuff with no meaningful connection or cohesion.",
+        "url": "https://gizmodo.com/the-super-mario-galaxy-movie-stinks-review-nintendo-2000740343"
+    },
+    {
+        "critic": "Bradley Russell",
+        "is_top_critic": false,
+        "media": "GamesRadar+",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-03-31T19:09:30.000Z",
+        "quote": "The boundless inventiveness Nintendo is known for never quite bleeds through as you would expect, especially as an adaptation of one of Mario's most beloved 3D platformers. ",
+        "url": "https://www.gamesradar.com/entertainment/animation-movies/super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Clint Worthington",
+        "is_top_critic": false,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-03-31T19:09:16.000Z",
+        "quote": "It's cute, and breezy, and rock-stupid, and will probably make a billion dollars again. Such is the world in which we live.",
+        "url": "https://www.rogerebert.com/reviews/super-mario-bros-movie-2-super-mario-galaxy-movie-review-2026"
+    },
+    {
+        "critic": "Peter Bradshaw",
+        "is_top_critic": true,
+        "media": "Guardian",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-03-31T19:08:31.000Z",
+        "quote": "Of course it’s intended for little kids, but it surely didn’t need to be such a visually dull screensaver of a movie, with even more of the cheesy, Euro-knockoff look of that first film. ",
+        "url": "https://www.theguardian.com/film/2026/mar/31/the-super-mario-galaxy-movie-review-sequel-video-game-chris-pratt-charlie-day"
+    },
+    {
+        "critic": "Dan Murrell",
+        "is_top_critic": false,
+        "media": "Dan Murrell Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-03-31T19:08:08.000Z",
+        "quote": "Like the first Mario Bros animated film, it’s an average movie boosted by great design, a respect for the characters and the franchise’s fans, and a lot of enthusiasm from the voice actors involved.",
+        "url": "https://youtu.be/5ul21tZlFTw"
+    },
+    {
+        "critic": "Lisa Laman",
+        "is_top_critic": false,
+        "media": "The Spool",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:07:46.000Z",
+        "quote": "However, after the last power-up deploys and the credits roll, it’s hard to shake how little [the movie] has to offer.",
+        "url": "https://thespool.net/reviews/film-review-the-super-mario-galaxy-movie-illumination-2026-chris-pratt-charlie-day/"
+    },
+    {
+        "critic": "Matt Singer",
+        "is_top_critic": true,
+        "media": "ScreenCrush",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-03-31T19:07:45.000Z",
+        "quote": "If all you want out of this film is Nintendo references you’ll get your money’s worth. But shouldn’t a movie, even The Super Mario Galaxy Movie, be a little more than that?",
+        "url": "http://screencrush.com/super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Soren Andersen",
+        "is_top_critic": false,
+        "media": "Seattle Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-03-31T19:07:44.000Z",
+        "quote": "Watching it is akin being inside the 2007 Super Mario Galaxy game itself. Which is why it needs to be seen on the big screen. Seeing it on a phone or a laptop wouldn't do it justice.\n\n",
+        "url": "https://www.seattletimes.com/entertainment/movies/the-super-mario-galaxy-movie-review-an-out-of-this-world-sequel/"
+    },
+    {
+        "critic": "Tyler Taing",
+        "is_top_critic": false,
+        "media": "Discussing Film",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-03-31T19:07:25.000Z",
+        "quote": "The original Super Mario Galaxy game from 2007 shouldn’t feel far more cinematic, epic, emotional, and sophisticated than a 100-million-dollar animated movie. ",
+        "url": "https://discussingfilm.net/2026/03/31/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-03-31T19:06:45.000Z",
+        "quote": "A vibrant, nostalgic sequel that delivers fun, heart, and classic Mario charm.",
+        "url": "https://flickdirect.com/movie-review/3323/the-super-mario-galaxy-movie/movie.ashx"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:06:38.000Z",
+        "quote": "These comparisons are meant to evoke warm nostalgia, but the old-fashioned game sequences actually prove far more exhilarating and charming than what this leaden blockbuster has to offer.",
+        "url": "https://www.screendaily.com/reviews/the-super-mario-galaxy-movie-review-chris-pratt-anya-taylor-joy-and-jack-black-return-to-voice-chaotic-animated-sequel/5215296.article"
+    },
+    {
+        "critic": "James Preston Poole",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-03-31T19:06:33.000Z",
+        "quote": "The Super Mario Galaxy Movie is a bit of a mess, prioritizing lavish visuals, set pieces, and a critical mass of references over telling a coherent story.",
+        "url": "https://butwhytho.net/2026/03/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Manuel São Bento",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-03-31T19:06:03.000Z",
+        "quote": "Through animation that redefines the studio's standards and a Brian Tyler score that masterfully honors Nintendo's legacy, the film offers a memorable experience anchored by inspired vocal performances.",
+        "url": "https://fandomwire.com/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Katie Smith-Wong",
+        "is_top_critic": false,
+        "media": "Movie Marker",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-03-31T19:05:57.000Z",
+        "quote": "A fun-filled adventure in a dazzling display of colour and depth that showcases the franchise’s potential, Mario fans will not only be delighted with what’s on screen, but also be excited for what’s to come.",
+        "url": "https://www.moviemarker.co.uk/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Reuben Baron",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-03-31T19:05:49.000Z",
+        "quote": "I can make no great intellectual defense of this movie, and it doesn't belong in any serious \"Animation is Cinema\" memes, but I had a good time.",
+        "url": "https://www.looper.com/2136836/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-03-31T19:05:48.000Z",
+        "quote": "It's a solid action-adventure built squarely for kids, with some nods that longtime Nintendo nerds will appreciate.",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2026/03/31/the-super-mario-galaxy-movie-review-fun-expansion-of-mario-verse/89401187007/"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-03-31T19:05:28.000Z",
+        "quote": "Jam packed with nostalgia, incredible animation, action packed Fight sequences that Nintendo Fans will lose their mind over BUT just like the first it’s pacing/story is all over the place leaving very little to care about. I had fun but wanted more ",
+        "url": "https://youtu.be/1EHjG898zuY?si=BYhzqtvPHTQYCCze"
+    },
+    {
+        "critic": "Clint Cage",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-03-31T19:05:23.000Z",
+        "quote": "It’s fun seeing all that stuff on screen, but without some kind of relatable story thriving underneath those references, it’s not as effective as it could be. ",
+        "url": "https://www.ign.com/articles/the-super-mario-galaxy-movie-review"
+    },
+    {
+        "critic": "Clarisse Loughrey",
+        "is_top_critic": true,
+        "media": "Independent (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-03-31T19:04:59.000Z",
+        "quote": "There’s barely a plot here. Not a single memorable character. Not even another piano ditty for Jack Black to sing. It’s a series of large, vaguely connected explosions.",
+        "url": "https://www.the-independent.com/arts-entertainment/films/reviews/super-mario-galaxy-movie-review-b2949328.html"
+    },
+    {
+        "critic": "Liz Shannon Miller",
+        "is_top_critic": true,
+        "media": "Consequence",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-03-31T19:04:46.000Z",
+        "quote": "Is it a ride that includes clear story structure, comprehensible stakes, or narrative momentum? Not really. Is it a ride featuring a lot of bright colors, familiar characters, and the occasional deranged moment? Absolutely.",
+        "url": "https://consequence.net/2026/03/super-mario-galaxy-movie-review-deranged/"
+    },
+    {
+        "critic": "Wilson Chapman",
+        "is_top_critic": false,
+        "media": "IndieWire",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-03-31T19:03:45.000Z",
+        "quote": "There’s no sense of discovery when it comes to these planets, meticulously created to resemble the games without nary a wrinkle of surprise to be found. The animation style doesn’t help: this galaxy is an impossibly shiny one.",
+        "url": "https://www.indiewire.com/criticism/movies/the-super-mario-galaxy-movie-review-1235186608/"
+    },
+    {
+        "critic": "Kaitlyn Booth",
+        "is_top_critic": false,
+        "media": "Bleeding Cool",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-03-31T19:03:37.000Z",
+        "quote": "The Super Mario Galaxy Movie might level up the fan service, but it's somehow worse and even less fun than the first one.",
+        "url": "https://bleedingcool.com/movies/the-super-mario-galaxy-movie-review-fan-service-and-not-much-else"
+    },
+    {
+        "critic": "Ross Bonaime",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-03-31T19:02:37.000Z",
+        "quote": "The story might be thin, and some new characters might not get the attention they deserve, yet The Super Mario Galaxy Movie remains a charming, often hilarious, and playful testament to the greatest video game franchise of all time.",
+        "url": "https://collider.com/the-super-mario-galaxy-movie-review-nintendo/"
+    },
+    {
+        "critic": "Julian Lytle",
+        "is_top_critic": false,
+        "media": "RIOTUS",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2026-03-31T19:02:35.000Z",
+        "quote": "What Illumination and Nintendo do here is just make a pure love letter to what Super Mario is.  For me, The Super Mario Galaxy Movie is my most enjoyable movie theater experience of the year already.",
+        "url": "https://riot-us.com/2026/03/31/super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Daniel Baptista",
+        "is_top_critic": false,
+        "media": "The Movie Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:02:34.000Z",
+        "quote": "...SO much fun and moves at 200cc. It’s super vibrant, visually stunning, and stuffed with easter eggs, but misses out on a deeper story and the chance to linger on moments that matter. Easily Illumination’s biggest and best-looking movie to date.",
+        "url": "https://podcasts.apple.com/ca/podcast/the-movie-podcast/id1452428025?i=1000758491386"
+    },
+    {
+        "critic": "Frank Scheck",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:02:24.000Z",
+        "quote": "Relentlessly fast-paced and filled with hyperkinetic visuals, the sequel hits the sweet spot in terms of what its target audience wants, even if adult non-aficionados will find little of interest other than the starry vocal cast.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-super-mario-galaxy-movie-review-chris-pratt-charlie-day-1236551590/"
+    },
+    {
+        "critic": "Kristen Maldonado",
+        "is_top_critic": false,
+        "media": "Pop Culture Planet",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:02:23.000Z",
+        "quote": "The Super Mario Galaxy Movie is a fun, fast-paced ride that teases intriguing lore and family dynamics, but pulls back before it can dig deeper. As a result, the story feels disjointed and lacks the emotional punch it’s building toward.",
+        "url": "https://www.popcultureplanet.com/articles/an9gb4hda3ykgvxh1jk35d0w98hrdz"
+    },
+    {
+        "critic": "Daniel Howat",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-03-31T19:02:14.000Z",
+        "quote": "There’s enough here to leave a mass audience satisfied, even if anticipation grows for the next film to level up. For now, good enough is simply enough.",
+        "url": "https://nextbestpicture.com/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Roberto Tyler Ortiz",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Rotten 🤢",
+        "score": "5.5/10",
+        "date": "2026-03-31T19:01:39.000Z",
+        "quote": "The Super Mario Galaxy Movie is easy to recommend if you’re looking for something entertaining and visually engaging. It’s a good time. Just don’t expect it to stick with you once it’s over.",
+        "url": "https://geekvibesnation.com/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T19:01:37.000Z",
+        "quote": "So lacking in substance and purpose that after a while you can’t even hear the dialogue over the incessant sound of Aristotle’s ghost punching himself.",
+        "url": "https://www.thewrap.com/creative-content/movies/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Joonatan Itkonen",
+        "is_top_critic": false,
+        "media": "Region Free",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-03-31T19:01:21.000Z",
+        "quote": "Fans will say that all this is for kids, and as such, it's exempt from expectations like plot or coherence. But surely even kids deserve better than something this cynical and thoughtless?",
+        "url": "https://regionfree.net/the-super-mario-galaxy-movie-review/"
+    },
+    {
+        "critic": "Jordan Williams",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "5/10",
+        "date": "2026-03-31T19:01:01.000Z",
+        "quote": "If you’re ready to turn off your brain for a little under two hours and bask in the impressive animation and countless Easter eggs, there’s a lot of fun to be had in this sugar rush of a sequel.",
+        "url": "https://screenrant.com/the-super-mario-galaxy-movie-2026-review/"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "6/10",
+        "date": "2026-03-31T19:00:56.000Z",
+        "quote": "Was clearly made mainly for the kids and the fans, but being neither, I just found myself bored and confused.",
+        "url": "https://edwarddouglas.substack.com/p/the-super-mario-galaxy-movie-video"
+    },
+    {
+        "critic": "Eli Friedberg",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-03-31T18:59:56.000Z",
+        "quote": "The film is an unpretentiously vapid cocktail of big-budget technical mastery and lack of artistic ambition.",
+        "url": "https://www.slantmagazine.com/film/the-super-mario-galaxy-movie-review-chris-pratt-anya-taylor-joy/"
+    },
+    {
+        "critic": "David Gonzalez",
+        "is_top_critic": false,
+        "media": "The Cinematic Reel",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-03-31T18:58:14.000Z",
+        "quote": "The Super Mario Galaxy Movie ups the ante with bigger action set pieces and even more dazzling animation. It may feel like more of the same to some, but anything that takes me back to a CRT TV and SNES is a feeling I'll take 100 out of 100 times.",
+        "url": "https://thecinematicreel.com/the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "M.N. Miller",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-03-31T18:58:02.000Z",
+        "quote": "The Super Mario Galaxy Movie levels up featuring some of the most beautiful and dazzling animation you will ever see, it is, at times, truly jaw-dropping.",
+        "url": "https://insessionfilm.com/movie-review-the-super-mario-galaxy-movie"
+    },
+    {
+        "critic": "Patrick Beatty",
+        "is_top_critic": false,
+        "media": "See It or Skip It",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T18:54:03.000Z",
+        "quote": "Will it make a boatload of money? Absolutely. But that comes from the promise of the first film, not the substance of the second.",
+        "url": "https://seeitorskipitreviews.com/2026/03/31/super-mario-galaxy-movie-review-visuals-shine-but-story-misses-the-mark/"
+    },
+    {
+        "critic": "Sean Chandler",
+        "is_top_critic": false,
+        "media": "Sean Chandler Talks About",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-03-31T18:43:39.000Z",
+        "quote": "Super Mario Galaxy once again delivers an immersive and charming Mario experience while treating story and storytelling as an afterthought.",
+        "url": "https://youtu.be/XTm8bQBJ8jg"
+    }
+]

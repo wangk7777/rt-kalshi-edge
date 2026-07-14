@@ -1,0 +1,992 @@
+[
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-02-12T21:51:59.000Z",
+        "quote": "Den of Thieves: Pantera‘s transformation from interminable to unexpectedly engrossing is triggered by the heist (and its tense aftermath) that occupies much of the movie’s second half...",
+        "url": "https://reelfilm.com/den-of-thieves-pantera/"
+    },
+    {
+        "critic": "John Stark",
+        "is_top_critic": false,
+        "media": "Mac the Movie Guy",
+        "sentiment": "Rotten 🤢",
+        "score": "38/100",
+        "date": "2025-12-26T21:45:54.000Z",
+        "quote": "At 144 minutes, this film is like action ambien. ",
+        "url": "http://macthemovieguy.com/2025/05/01/den-of-thieves-2-pantera"
+    },
+    {
+        "critic": "Alfred Castaneda",
+        "is_top_critic": false,
+        "media": "Shade Studios",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-07-30T16:52:06.000Z",
+        "quote": "Feel free to nap through the first hour of Pantera, however – the last 90 minutes is all that redeems this fun but vapid sequel.",
+        "url": "https://shadestudios.com/film-and-tv-reviews/f/den-of-thieves-2-pantera-film-review"
+    },
+    {
+        "critic": "Marlon Wallace",
+        "is_top_critic": false,
+        "media": "The M Report (WBOC.com)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-07-12T00:53:28.000Z",
+        "quote": "As a franchise, we saw The Fast and the Furious center on a cop... cross the line and join the criminals as friend and then family. This appears to be the path that this Den of Thieves sequel is now treading.",
+        "url": "https://www.wboc.com/features/the_m_report/movie-review---den-of-thieves-pantera/article_8c64b421-aa98-4a0b-849e-13802ba51ae9.html"
+    },
+    {
+        "critic": "Stephen Porzio",
+        "is_top_critic": false,
+        "media": "joe.ie",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-07-10T08:40:25.000Z",
+        "quote": "...even more convoluted than the original Den of Thieves... Yet, it’s hard to care when [it] does such a great job establishing his two central characters and taking the time to show all the meticulous work they must carry out to pull off the impossible.",
+        "url": "https://www.joe.ie/movies-tv/den-of-thieves-2-pantera-streaming-where-to-watch-prime-video-best-heist-movies-844475"
+    },
+    {
+        "critic": "David Griffiths",
+        "is_top_critic": false,
+        "media": "Subculture Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-06-22T10:10:58.000Z",
+        "quote": "While completely different to the original film there is still something to like about Pantera. It's sleek at seems to want to follow in the footsteps of The Fast & The Furious although the fact that Big Nick feels like a cliche this time is annoying.",
+        "url": "https://subcultureentertainment.com/2025/06/film-review-den-of-thieves-pantera-review-2025/"
+    },
+    {
+        "critic": "Mini Anthikad-Chhibber",
+        "is_top_critic": false,
+        "media": "The Hindu",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-05-16T13:31:20.000Z",
+        "quote": "Gerard Butler and O’Shea Jackson Jr. duel across lovely locales in serviceable thriller",
+        "url": "https://www.thehindu.com/entertainment/movies/den-of-thieves-2-pantera-movie-review-gerard-butler-and-oshea-jackson-jr-duel-across-lovely-locales-in-serviceable-thriller/article69084839.ece"
+    },
+    {
+        "critic": "Matt Hudson",
+        "is_top_critic": false,
+        "media": "Bloody Awesome Movie Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-05-08T08:43:54.000Z",
+        "quote": "Nothing really stands out in this ho-hum follow up, it's not awful but very average",
+        "url": "https://open.spotify.com/episode/3SWnLAyhScIyLIwk9cIX4f?si=4fa3822047f14ae8"
+    },
+    {
+        "critic": "John Nugent",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-04-29T18:13:57.000Z",
+        "quote": "It won’t win points for originality or sophistication, but this is another muscular, well-pitched heist thriller with strong character work from Butler and Jackson Jr. We wait with bated breath for The Further Adventures Of Big Nick.",
+        "url": "https://www.empireonline.com/movies/reviews/den-of-thieves-2-pantera/"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-04-25T07:23:22.000Z",
+        "quote": "…Den of Thieves: Pantera is a deliberately languorous but highly enjoyable copshow, with Gerry Butler and 50 Cent enjoying their repartee, with enough action for writer and director Christian Gudegast to stretch his legs….",
+        "url": "https://film-authority.com/2025/04/25/den-of-thieves-pantera/"
+    },
+    {
+        "critic": "Alistair Harkness",
+        "is_top_critic": false,
+        "media": "Scotsman",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-04-22T17:31:43.000Z",
+        "quote": "The resulting film is as unmoored as Butler’s frequently sozzled character, with far too many tedious and indulgent bonding scenes between Butler and Jackson drawing the running time out...instead of getting down to business with actual action.",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/film-reviews-the-accountant-2-den-of-thieves-pantera-julie-keeps-quiet-5094393"
+    },
+    {
+        "critic": "Matt Pais",
+        "is_top_critic": false,
+        "media": "MattPais.com",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2025-04-13T18:21:22.000Z",
+        "quote": "Pummels suspension of disbelief into something murky and tiresome until the lingering effect is only exhaustion.",
+        "url": "https://www.mattpais.com/movie-reviews/2025/3/26/den-of-thieves-2-pantera-is-wrong-about-a-few-things"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-04-04T02:34:27.000Z",
+        "quote": "A distinct improvement over its junky predecessor, this heist movie still eventually drops the ball with too many dumb twists jammed into a numbingly excessive running time. ",
+        "url": "https://www.commonsensemedia.org/movie-reviews/den-of-thieves-2-pantera"
+    },
+    {
+        "critic": "Jeffrey Lyles",
+        "is_top_critic": false,
+        "media": "Lyles' Movie Files",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2025-03-31T15:03:31.000Z",
+        "quote": "Den of Thieves Pantera needed some tighter editing, but the performances are solid, and the European setting adds a stunning visual element. ",
+        "url": "https://lylesmoviefiles.com/2025/03/31/den-of-thieves-pantera-review-2025/"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-03-03T14:56:39.000Z",
+        "quote": "Gerard Butler and O'Shea Jackson Jr. reunite in Den of Thieves: Pantera, a gripping sequel packed with heists, diamond thieves, and the infamous Panther mafia.",
+        "url": "https://flickdirect.com/4k-review/3182/den-of-thieves-2-pantera/4k.ashx"
+    },
+    {
+        "critic": "Maxance Vincent",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2025-02-25T21:40:41.000Z",
+        "quote": "Ends in clunky, neverending sequel bait, what comes before is a true masterwork in the examination of its troubled protagonist before delivering a palm-sweating, edge-of-your-seat heist that’s as good as what Soderbergh stages.",
+        "url": "https://insessionfilm.com/movie-review-den-of-thieves-2-pantera/"
+    },
+    {
+        "critic": "Víctor López G.",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-02-22T12:14:04.000Z",
+        "quote": "It won’t change your life and might be forgotten in a few days, but it can turn a bad day around like few others—reminding us how satisfying a solid, no-frills thriller can be when everyone else is chasing perfection.",
+        "url": "https://www.espinof.com/criticas/tiempos-desastres-u-obras-maestras-momento-reivindicar-peliculas-que-simple-llanamente-funcionan-juego-ladrones-pantera-demuestra-que"
+    },
+    {
+        "critic": "JD Duran",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-02-10T14:04:42.000Z",
+        "quote": "Den of Thieves 2: Pantera doesn't regurgitate the formula of its predecessor. Taking its story to Europe, the film changes style and tone as well. If the first Den of Thieves is a mashup of Heat and Ocean's Eleven, this is more akin to Ocean's Twelve. ",
+        "url": "https://insessionfilm.com/movie-podcast-review-den-of-thieves-2-pantera/"
+    },
+    {
+        "critic": "Marcelo Stiletano",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-02-05T01:23:04.000Z",
+        "quote": "...Den of Thieves begins to move away from the world of Michael Mann ...to become a buddy movie and a B-grade police film with more European overtones.... [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/el-robo-perfecto-pantera-gerard-butler-y-un-segundo-capitulo-lleno-de-accion-y-robos-gigantescos-nid16012025/"
+    },
+    {
+        "critic": "Matt Lynch",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-02-04T14:06:44.000Z",
+        "quote": "Where the first film’s more action-heavy influences gave us a more ruthless, tactical violence... this sequel offers viewers something of a Melville-esque job of work.",
+        "url": "https://inreviewonline.com/den-of-thieves-2-pantera/"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-31T20:17:40.000Z",
+        "quote": "Den of Thieves 2 is an enjoyable lark populated with characters who are more tangible than the usual genre dudes and dames, thus making their implausible adventures feel a little more plausible. ",
+        "url": "https://decider.com/2025/01/31/den-of-thieves-2-pantera-streaming-movie-review/"
+    },
+    {
+        "critic": "Lauren Veneziani",
+        "is_top_critic": false,
+        "media": "WBAL-TV (Baltimore)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-01-28T18:35:32.000Z",
+        "quote": "I honestly expected more action in this sequel, but the most memorable (and funny!) scene in the film is when Gerard Butler, O'Shea Jackson Jr. and crew party hard in France!",
+        "url": "https://www.wbaltv.com/article/dc-film-girl-reviews-back-in-action-wolf-man-den-of-thieves-pantera-and-sing-sing/63469798"
+    },
+    {
+        "critic": "Dan Buffa",
+        "is_top_critic": false,
+        "media": "Ramble On With Buffa (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-25T21:23:27.000Z",
+        "quote": "Come for the Butler swagger, some unexpected laughs, the most elaborate diamond heist in cinema history, and a crown jewel of a car chase sequence. Stay for a dedicated-to-unique sequel. ",
+        "url": "https://dailydoseofbuffa.substack.com/p/christian-gudegasts-den-of-thieves"
+    },
+    {
+        "critic": "Joonatan Itkonen",
+        "is_top_critic": false,
+        "media": "Region Free",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2025-01-24T12:14:31.000Z",
+        "quote": "Den of Thieves 2: Pantera is a film so bloated and off-putting you'd think it was tailor-made for Steven Seagal.",
+        "url": "https://regionfree.net/den-of-thieves-2-pantera-review/"
+    },
+    {
+        "critic": "Katie Walsh",
+        "is_top_critic": true,
+        "media": "Tribune News Service",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-01-18T19:36:44.000Z",
+        "quote": "While it is fun to reconnect with Big Nick and watch him try new foods, there’s just something missing in this rote “Ronin” ripoff — a danger.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2025-01-09/den-of-thieves-2-pantera-review-gerard-butler-oshea-jackson-jr"
+    },
+    {
+        "critic": "Abhishek Srivastava",
+        "is_top_critic": false,
+        "media": "The Times of India",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2025-01-18T01:50:22.000Z",
+        "quote": "While visually impressive and competently crafted, this sequel is more of a decent watch than a thrilling standout.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/den-of-thieves-2-pantera/movie-review/117119547.cms"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-01-17T17:53:54.000Z",
+        "quote": "I enjoyed Pantera because it’s functionally a hangout movie and I liked hanging out with Donnie and Big Nick.",
+        "url": "https://www.thebulwark.com/p/robbie-williams-vs-drug-monkey"
+    },
+    {
+        "critic": "Austin Burke",
+        "is_top_critic": false,
+        "media": "Austin Burke/Flick Fan Nation",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-01-17T14:49:11.000Z",
+        "quote": "Pantera struggles mightily with its pacing throughout the first half, as the energy from the first just doesn’t carry over. The focus is less on the action and more on the heist aspect, but there are some solid character moments during the buildup.",
+        "url": "https://youtu.be/0kUR7UwVwoQ"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-01-16T23:18:21.000Z",
+        "quote": "...those with a soft spot for the original movie will be delighted to know that Gudegast has crafted a second chapter that’s at least as good (and in some ways better) than its predecessor.",
+        "url": "https://www.reelviews.net/reelviews/den-of-thieves-2-pantera"
+    },
+    {
+        "critic": "Sandra Hall",
+        "is_top_critic": true,
+        "media": "Sydney Morning Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-01-16T23:14:25.000Z",
+        "quote": "It’s not up there with the great heist movies. Butler lacks the charm to generate that kind of appeal, but it has quite a lot going for it. It’s certainly more likeable than its predecessor.",
+        "url": "https://www.smh.com.au/culture/movies/gerard-butler-s-new-heist-movie-strains-credibility-but-i-was-won-over-20250103-p5l1ys.html"
+    },
+    {
+        "critic": "Edwin Arnaudin",
+        "is_top_critic": false,
+        "media": "Asheville Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-01-16T19:19:32.000Z",
+        "quote": "“Big Nick” is now officially Gerard Butler's signature role.",
+        "url": "https://www.ashevillemovies.com/new/den-of-thieves-pantera"
+    },
+    {
+        "critic": "Joey Shapiro",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-16T18:56:09.000Z",
+        "quote": "Den of Thieves 2: Pantera isn’t a shift from the first film so much as it is a refinement. This is a more elegant, mature manifestation of “dudes rock,” like a Solo cup of limoncello instead of a room-temp bottle of Mountain Dew Code Red. ",
+        "url": "https://chicagoreader.com/film-tv/movie-review/review-den-of-thieves-2-pantera/"
+    },
+    {
+        "critic": "Jorge Loser",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-16T18:32:53.000Z",
+        "quote": "It is the classic perfect heist film with a working-class 'Ocean's Eleven' touch ...[Full review in Spanish]",
+        "url": "https://www.espinof.com/criticas/juego-ladrones-pantera-estupendo-complemento-primera-manteniendo-su-equilibrio-cine-accion-atracos-nuevo-entorno-europeo"
+    },
+    {
+        "critic": "Micheal Compton",
+        "is_top_critic": false,
+        "media": "Bowling Green Daily News",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2025-01-16T17:36:54.000Z",
+        "quote": "This sequel is a pretty standard thriller that has nice scenery and another solid set piece in the final act, but never finds another gear to make it more than another forgettable action flick.\n",
+        "url": "https://bgdailynews.com/2025/01/16/latest-den-of-thieves-middle-of-the-road-action-film/"
+    },
+    {
+        "critic": "Christopher Cross",
+        "is_top_critic": false,
+        "media": "Asynchronous Media",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-01-16T14:17:28.000Z",
+        "quote": "Den of Thieves 2: Pantera swaps out its tactical action and sun-drenched cops-and-robbers narrative for stylish heists in a surprisingly effective tonal switch highlighting its director's impressive action film vocabulary.",
+        "url": "https://asynchronousmedia.com/film-reviews/den-of-thieves-2-pantera-review"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-16T05:24:35.000Z",
+        "quote": "It does take a while to get to the meat and potatoes, but once it does the film delivers some top-grade tension and ripper action, including a knockout shootout that occurs during a high-altitude car chase. Nifty stuff.",
+        "url": "https://tinyurl.com/y3nk2t87"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Herald Sun (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-15T19:45:04.000Z",
+        "quote": "The whole splashy, trashy spectacle is aided and abetted by some ripping action sequences and goofy support players.",
+        "url": "https://www.heraldsun.com.au/entertainment/movies/leigh-paatsch/why-the-epic-enthralling-oscar-favourite-the-brutalist-is-like-nothing-youve-seen-before/news-story/35f21810a9fdb1d9cc32617d33067b28"
+    },
+    {
+        "critic": "tt stern-enzi",
+        "is_top_critic": false,
+        "media": "Fox19 (Cincinnati, OH)",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2025-01-15T00:57:28.000Z",
+        "quote": "It's not as heavy on the drama... and it's also not quite as fun.",
+        "url": "https://terrencetodd.com/2025/01/10/fox19-den-of-thieves-pantera-is-a-slow-and-somewhat-moody-thriller/"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-01-14T23:18:40.000Z",
+        "quote": "The film succeeds as an entertaining crime thriller on several levels. It’s ripe with tension, Butler and Jackson Jr have excellent buddy chemistry, and the action sequences are first-rate. It's a fun thrill ride.  Pass the popcorn!",
+        "url": "https://fortworthreport.org/2025/01/14/den-of-thieves-2-pantera-review-seven-years-later-the-sequel-arrives-with-gerard-butler-and-oshea-jackson-jr-switching-from-foes-to-friends/"
+    },
+    {
+        "critic": "Matt Hambidge",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-01-14T18:28:36.000Z",
+        "quote": "Bottom line, Den of Thieves 2 is a heist movie with a great central heist. That should be reason enough to get you to theater.",
+        "url": "https://fandomwire.com/den-of-thieves-2-pantera-review/"
+    },
+    {
+        "critic": "Louisa Moore",
+        "is_top_critic": false,
+        "media": "Screen Zealots",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-01-13T22:46:13.000Z",
+        "quote": "A generic, uninspired attempt to recapture the charm of its predecessor.",
+        "url": "https://screenzealots.com/2025/01/11/den-of-thieves-pantera/"
+    },
+    {
+        "critic": "Julian Lytle",
+        "is_top_critic": false,
+        "media": "The Beat",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-13T22:29:34.000Z",
+        "quote": "This movie does skew a bit towards “dad movie,” but with most of the awards bait films & family films being the main thing in the theater, a movie with stealing diamonds, driving fast cars to escape, & shooting big guns with the Italian Mafia on top",
+        "url": "https://www.comicsbeat.com/movie-review-den-of-thieves-2-pantera-how-to-go-from-a-forgettable-first-film-to-a-promising-new-franchise/"
+    },
+    {
+        "critic": "Zaki Hasan",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-01-13T22:15:37.000Z",
+        "quote": "With appealing chemistry between stars Gerard Butler and O'Shea Jackson Jr., and a suitably tense third-act heist sequence, it rewards the goodwill the original has built up since its 2018 release.",
+        "url": "https://www.ign.com/articles/den-of-thieves-2-pantera-review-gerard-butler-oshea-jackson-jr"
+    },
+    {
+        "critic": "Allen Almachar",
+        "is_top_critic": false,
+        "media": "The MacGuffin",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-01-13T21:59:16.000Z",
+        "quote": "Although the sequel doesn’t quite live up to its predecessor, Gudegast once again shows his proficiency and thoughtfulness for the genre. ",
+        "url": "https://macguff.in/film-reviews/den-of-thieves-2-pantera/"
+    },
+    {
+        "critic": "Damian Levy",
+        "is_top_critic": false,
+        "media": "DamianMichaelMovies.com",
+        "sentiment": "Fresh 🍅",
+        "score": "Half Price",
+        "date": "2025-01-13T21:41:35.000Z",
+        "quote": "Impressively the car chases, the heist scenes, the shootouts, are all exhilarating and engaging, resulting in a movie that’s faster and more furious than a film with 6 times the budget of Den of Thieves 2: Pantera. ",
+        "url": "https://damianmichaelmovies.com/den-of-thieves-2-pantera-2025-review/"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2025-01-13T19:54:42.000Z",
+        "quote": "Like the first film so much time is spent with interchangeable characters of little interest that by the time we get to the heist and the inevitable dumb twists it just feels like a copy of a copy that was already a poor trace of Michael Mann’s Heat",
+        "url": "https://open.substack.com/pub/erikthemovieman/p/episode-531-dammit-pantera-this-beer-27c?r=3m2vg&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Bilge Ebiri",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-13T19:50:06.000Z",
+        "quote": "Watching Big Nick get a little lost in a boozy dream of abandon, an ocean away from his troubles, we understand him better than we understand most of today’s movie heroes.",
+        "url": "https://www.vulture.com/article/den-of-thieves-2-pantera-review-gerard-butler-lets-loose.html"
+    },
+    {
+        "critic": "Manuel São Bento",
+        "is_top_critic": false,
+        "media": "Movies We Texted About",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-01-13T19:26:34.000Z",
+        "quote": "It doesn’t reinvent the genre, nor does it fully commit to action or narrative depth, resulting in a movie that’s, at best, satisfactory but unlikely to be remembered.",
+        "url": "https://movieswetextedabout.com/den-of-thieves-2-pantera-review-a-safe-bet-that-lacks-lasting-impact/"
+    },
+    {
+        "critic": "Radheyan Simonpillai",
+        "is_top_critic": true,
+        "media": "CTV's Your Morning",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-13T19:10:58.000Z",
+        "quote": "No other personalities in this movie can match that Gerard Butler energy. ",
+        "url": "https://www.youtube.com/watch?v=foICdtTSp5w"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-01-13T18:13:21.000Z",
+        "quote": "Snooze fest. ",
+        "url": "https://www.youtube.com/watch?v=ISrv_l_Szes"
+    },
+    {
+        "critic": "Andrew Parker",
+        "is_top_critic": false,
+        "media": "The Gate",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-01-13T17:15:29.000Z",
+        "quote": "If the first film was trying to be the meathead version of Michael Mann’s Heat, then Den of Thieves 2: Pantera is trying to be a jacked up take on the more European heist thriller beats of John Frankenheimer’s Ronin.",
+        "url": "https://www.thegate.ca/film/068402/den-of-thieves-2-pantera-review-donnie-and-big-nicks-european-vacation/"
+    },
+    {
+        "critic": "Vincent Mancini",
+        "is_top_critic": false,
+        "media": "The #Content Report (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-01-13T16:57:09.000Z",
+        "quote": "A movie about half-bright guys BS-ing their way past guys who don’t care that much, a perfect anti-hero’s journey for our times.",
+        "url": "https://vincemancini.substack.com/p/den-of-thieves-2-pantera-review-dudes-rock-classic"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5 ",
+        "date": "2025-01-13T15:42:06.000Z",
+        "quote": "“Pantera” still makes for a worthwhile sequel and a solid expansion in what has become a genuinely exciting film series.",
+        "url": "https://keithandthemovies.com/2025/01/13/review-den-of-thieves-2-pantera/"
+    },
+    {
+        "critic": "Kevin Carr",
+        "is_top_critic": false,
+        "media": "Fat Guys at the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "0/5",
+        "date": "2025-01-13T04:27:04.000Z",
+        "quote": "If you want more of what the first film gave you, this does deliver. But dragging the gang back together seven years later feels desperate and gives us some of the chubbiest action stars since Steven Seagal in the late 90s.",
+        "url": "https://www.fatguysatthemovies.com/den-of-thieves-2-pantera-movie-review/"
+    },
+    {
+        "critic": "M.N. Miller",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2025-01-12T20:03:41.000Z",
+        "quote": "Den of Thieves: Pantera is a gutless sequel.",
+        "url": "https://geekvibesnation.com/den-of-thieves-pantera-review/"
+    },
+    {
+        "critic": "David Chen",
+        "is_top_critic": false,
+        "media": "Decoding Everything (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-12T18:23:41.000Z",
+        "quote": "If you’re looking for a sequel that’s similar in tone to Den of Thieves, I think you’ll leave Pantera sorely disappointed. Pantera is much more laid back and it’s all about the European vibes — a follow-up akin to Ocean’s 12. ",
+        "url": "https://www.decodingeverything.com/p/den-of-thieves-2-pantera-review"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-01-11T23:59:33.000Z",
+        "quote": "Struggling for a reason to exist, Den of Thieves 2: Pantera fails to be an exciting thriller about a diamond heist. This dreadful action sequel gets bogged down by dull pacing, wooden acting, and terrible dialogue.",
+        "url": "https://culturemixonline.com/review-den-of-thieves-2-pantera-starring-gerard-butler-and-oshea-jackson-jr/"
+    },
+    {
+        "critic": "Troy Ribeiro",
+        "is_top_critic": false,
+        "media": "Free Press Journal (India)",
+        "sentiment": "Rotten 🤢",
+        "score": "2",
+        "date": "2025-01-11T04:11:32.000Z",
+        "quote": "Writer-director Christian Gudegast’s attempt to meld the gritty cop drama with European heist glamour falls as flat as an overcooked soufflé.",
+        "url": "https://www.freepressjournal.in/entertainment/den-of-thieves-2-pantera-review-gerard-butlers-film-is-a-diamond-heist-dull-as-dishwater"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Talking Films",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-01-10T23:52:49.000Z",
+        "quote": "Christian Gudegast's attempt to emulate the slick Euro-style heist thriller suffers a dip in quality.",
+        "url": "https://talkingfilms.net/den-of-thieves-2-pantera-review-christian-gudegasts-attempt-to-emulate-the-slick-euro-style-heist-thriller-suffers-a-dip-in-quality/"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-01-10T23:00:37.000Z",
+        "quote": "There may be a couple of lulls in the picture, but it nails the big finale, which makes those lulls easy to forgive.",
+        "url": "https://aisleseat.com/den-of-thieves-2-pantera.html"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-01-10T21:05:19.000Z",
+        "quote": "Gudegast isn’t interested in mounting a copy of a copy. But a lot of the pleasure of watching the filmmaker and his cast do their exquisite cover version is gone, replaced only by some clumsy buddy-comedy elements and a lot of action-movie hot air.",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/den-of-thieves-2-pantera-review-gerard-butler-1235223379/"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-01-10T19:55:20.000Z",
+        "quote": "Editor Roberth Nordh and composer Kevin Matley do solid, competent work, but Pantera does not possess its predecessors’ B-movie ingenuity or ability to transform a familiar narrative into something lean and mean. ",
+        "url": "https://www.screendaily.com/reviews/den-of-thieves-2-pantera-review/5200569.article"
+    },
+    {
+        "critic": "Charles Bramesco",
+        "is_top_critic": true,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-01-10T19:53:39.000Z",
+        "quote": "The film’s chief virtues -- elegant and spatially coherent camera choreography, Butler getting his groove on as Big Nick gets his back, the furtive intimacies shared by alpha males -- are timeless. ",
+        "url": "https://www.theguardian.com/film/2025/jan/10/den-of-thieves-2-pantera-review"
+    },
+    {
+        "critic": "Mae Abdulbaki",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-01-10T19:27:00.000Z",
+        "quote": "The first film was more gritty; the sequel is more polished & developed. But it’s also the same amount of underwhelming despite an intriguing setup.\n",
+        "url": "https://screenrant.com/den-of-thieves-2-pantera-movie-review/"
+    },
+    {
+        "critic": "Cris Kennedy",
+        "is_top_critic": false,
+        "media": "Inner East Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-01-10T19:10:47.000Z",
+        "quote": "Gudegast's screenplay is for the most part quite strong, and apart from taking far too long to awkwardly find a reason for Butler's American cop to suddenly be a criminal in the South of France, it is economical with its dialogue.",
+        "url": "https://www.innereastreview.com.au/story/8862745/review-locations-dazzle-in-den-of-thieves-2-pantera/?cs=20920"
+    },
+    {
+        "critic": "Rick Romancito",
+        "is_top_critic": false,
+        "media": "The Taos News",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-01-10T18:01:43.000Z",
+        "quote": "Writer-director Christian Gudegast seems intent on reinventing the action movie to provide the audience a desire to actually watch his movies rather than tuning out when the automatic weapons show up.",
+        "url": "https://www.taosnews.com/tempo/reviews/diamond-in-the-rough/article_8fbec9f2-cf6b-11ef-8f1f-436d30c57a88.html"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-01-10T16:27:34.000Z",
+        "quote": " With Fast & the Furious nearing its final run, Den of Thieves might steal the crown as the top heist movie franchise around.",
+        "url": "https://punchdrunkcritics.com/2025/01/review-den-of-thieves-2-pantera/"
+    },
+    {
+        "critic": "Brian Tallerico",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-01-10T16:22:29.000Z",
+        "quote": "A film granular with details about one massive criminal undertaking, elevated by a pair of charismatic leading men in one of the most beautiful places in the world.",
+        "url": "https://www.rogerebert.com/reviews/den-of-thieves-2-pantera"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2025-01-10T16:03:40.000Z",
+        "quote": "Den of Thieves 2: Pantera is a vanilla heist sequel that sneaks, shoots, and steals on cue, but never rises above sauceless subgenre tropes with a French accent.",
+        "url": "https://collider.com/den-of-thieves-2-pantera-review/"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2025-01-10T15:41:50.000Z",
+        "quote": "While the ending aims for emotion, much like the rest of the film, it runs too long, wrapping up a disappointing heist film.",
+        "url": "https://www.comingsoon.net/movies/reviews/1902979-den-of-thieves-2-pantera-review-disappointing-heist-fails-to-steal-your-attention"
+    },
+    {
+        "critic": "Shakyl Lambert",
+        "is_top_critic": false,
+        "media": "CGMagazine",
+        "sentiment": "Rotten 🤢",
+        "score": "6.5/10",
+        "date": "2025-01-10T15:09:31.000Z",
+        "quote": "That’s why it hurts me to say that while I did have some fun with Den of Thieves 2, it feels like a noticeable step down from its predecessor.",
+        "url": "https://www.cgmagonline.com/review/movie/den-of-thieves-2-pantera-2024/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "6.5/10",
+        "date": "2025-01-10T14:58:11.000Z",
+        "quote": "Whether writer-director Christian Gudegast’s influence-mixing storytelling was a conscious strategy, a free-associative grab bag of his favorite movies, or something else entirely, it’s harder to generate that sense of discovery a second time.",
+        "url": "https://www.pastemagazine.com/movies/gerard-butler/den-of-thieves-pantera-gerard-butler-oshea-jackson-jr-review"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-01-10T14:47:23.000Z",
+        "quote": "Honestly I respect Den Of Thieves 2 for going in a vastly different heist genre than the first. Dare I say a buddy crime drama? Butler & Jackson Jr are GREAT together, the heist is intense less action, less grit, more suave, more style, still great stakes",
+        "url": "https://youtu.be/36T72RUPz64"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-01-10T14:40:13.000Z",
+        "quote": "Den of Thieves: Pantera spins its wheels and doesn't offer more than the bare minimum of story or character development.",
+        "url": "http://www.markreviewsmovies.com/reviews/D/denofthieves2.htm"
+    },
+    {
+        "critic": "Hoai-Tran Bui",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-10T14:38:11.000Z",
+        "quote": "The sequel is bigger and better, but retains Den of Thieves’ dirtbag charm.",
+        "url": "https://www.inverse.com/entertainment/den-of-thieves-2-pantera-review-gerard-butler"
+    },
+    {
+        "critic": "Chris Evangelista",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-01-10T13:52:11.000Z",
+        "quote": "It's an absolute blast, and a triumph of Dudes Rock cinema. Long live Big Nick O'Brien, one of the greatest characters in movie history. ",
+        "url": "https://www.slashfilm.com/1755087/den-of-thieves-2-pantera-review/"
+    },
+    {
+        "critic": "Michael Balderston",
+        "is_top_critic": false,
+        "media": "What To Watch",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-01-10T13:29:39.000Z",
+        "quote": "Gerard Butler and O’Shea Jackson Jr. are better teammates than enemies in the heist sequel that improves on just about all fronts from the original, but still has issues that keep it as a so-so genre effort.",
+        "url": "https://www.whattowatch.com/reviews/den-of-thieves-2-pantera-gerard-butler-heist-sequel-is-better-than-original-but-just-slightly"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "Splice Today",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-01-10T13:28:29.000Z",
+        "quote": "The first film was a nice surprise, but the follow-up doesn't pack quite the same punch. ",
+        "url": "https://www.splicetoday.com/moving-pictures/den-of-mediocrity"
+    },
+    {
+        "critic": "Evan Dossey",
+        "is_top_critic": false,
+        "media": "Midwest Film Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-10T12:58:51.000Z",
+        "quote": "Den of Thieves 2: Pantera is a shockingly delightful crime saga in its own right, with strong character work and a memorable heist that takes advantage of it.",
+        "url": "https://midwestfilmjournal.com/2025/01/09/den-of-thieves-2-pantera/"
+    },
+    {
+        "critic": "Chris Knight",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Rotten 🤢",
+        "score": "D-plus",
+        "date": "2025-01-10T12:42:07.000Z",
+        "quote": "An unnecessary sequel to a meh movie from seven years ago, Den of Thieves 2: Pantera reunites Gerard Butler (bad cop), O’Shea Jackson Jr. (good robber) and director Christian Gudegast for a tale of diamond thefts and double-crosses. Yawn. ",
+        "url": "https://www.original-cin.ca/posts/2025/1/10/den-of-thieves-2-pantera-if-at-first-you-dont-succeed-wait-seven-years-and-try-again"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-10T12:20:24.000Z",
+        "quote": "[Gudegast] infuses his inspired-by-real-events tale with the muscularity of its metal-titan namesake, all while pivoting everything around the grungy, rugged charisma of his star.",
+        "url": "https://www.thedailybeast.com/obsessed/den-of-thieves-2-review-sexy-gerard-butler-leads-an-action-triumph/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-01-10T05:14:27.000Z",
+        "quote": "Dull, tedious, uninspired and overlong.",
+        "url": "http://nycmovieguru.com/jan10th25.html#denofthieves2"
+    },
+    {
+        "critic": "Nelson Acosta",
+        "is_top_critic": false,
+        "media": "Koimoi",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-01-10T05:10:10.000Z",
+        "quote": "Den of Thieves becomes a franchise after a seven-year sleep, and it does it by changing the rules of engagement in a solid but overlong way.",
+        "url": "https://www.koimoi.com/reviews/hollywood-movie-reviews/den-of-thieves-2-pantera-movie-review-gerard-butlter-returns-to-big-screen-with-90s-style-heist-adventure-thats-fun-but-too-draggy/"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2025-01-10T02:59:26.000Z",
+        "quote": "This sequel is not nearly as elegant as the first movie either in terms of plot or the actual heist at its center.",
+        "url": "https://edwarddouglas.substack.com/p/the-weekend-warrior-reviews-and-repertory-efa"
+    },
+    {
+        "critic": "Robert Daniels",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-10T02:58:17.000Z",
+        "quote": "“Den of Thieves 2: Pantera” isn’t groundbreaking, but it delivers what it promises: lovable scoundrels trading bullets and traversing borders.",
+        "url": "https://www.nytimes.com/2025/01/09/movies/den-of-thieves-2-pantera-review.html"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2025-01-10T02:50:44.000Z",
+        "quote": "\"Pantera” might appeal to those who became caught up in the first effort’s sense of criminal activity and manly confrontations, but what’s really here is a retread, albeit an ever so slightly more agreeable one.",
+        "url": "https://www.blu-ray.com/Den-of-Thieves-2-Pantera/1475334/#Review"
+    },
+    {
+        "critic": "Clint Worthington",
+        "is_top_critic": false,
+        "media": "The Spool",
+        "sentiment": "Fresh 🍅",
+        "score": "8.0/10",
+        "date": "2025-01-10T02:15:29.000Z",
+        "quote": "There’s a scummy charm to Pantera that feels like the next level up from Gudegast’s first; where that was a grim, nihilistic ode to LA misery, he seems to have let his affection for his surviving characters bleed into the script.",
+        "url": "https://thespool.net/reviews/den-of-thieves-2-pantera-review/"
+    },
+    {
+        "critic": "Ethan Vestby",
+        "is_top_critic": false,
+        "media": "The Film Stage",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-01-10T02:13:28.000Z",
+        "quote": " It’s a mix of maximalism and sparseness that would likely make Jean-Pierre Melville proud.",
+        "url": "https://thefilmstage.com/den-of-thieves-2-pantera-review-a-heist-thriller-that-would-make-jean-pierre-melville-proud/"
+    },
+    {
+        "critic": "Chris Bumbray",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-10T02:11:26.000Z",
+        "quote": "A fun sequel that improves on the original.",
+        "url": "https://www.joblo.com/den-of-thieves-2-pantera-review-more-fun-than-the-original/"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-01-10T02:11:18.000Z",
+        "quote": "The first film was also flawed, but it did have the element of surprise. That’s gone in Den of Thieves: Pantera\n",
+        "url": "https://www.flickeringmyth.com/movie-review-den-of-thieves-2-pantera-2025/"
+    },
+    {
+        "critic": "Matt Schimkowitz",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-01-10T02:10:17.000Z",
+        "quote": "To Gudegast’s credit, he turns Den Of Thieves 2: Pantera into a grounded version of Mission: Impossible, delivering chunkier, more utilitarian versions of gadgets the IMF may have developed. ",
+        "url": "https://www.avclub.com/den-of-thieves-2-pantera-review"
+    },
+    {
+        "critic": "Barry Hertz",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-10T02:05:37.000Z",
+        "quote": "In the entire oeuvre of cinema du Gerard Butler, there has never been such a perfect marriage between actor and character, man and moniker. Big Nick might not understand a lick of French, but Butler is simply parfait.",
+        "url": "https://www.theglobeandmail.com/arts/film/reviews/article-den-of-thieves-2-pantera-gives-gerard-butler-a-european-vacation-par/"
+    },
+    {
+        "critic": "Pete Hammond",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-10T02:04:22.000Z",
+        "quote": "An ideal action vehicle for the always watchable and rugged Butler, and a worthy enough sequel to an original that wasn’t all that original to begin with. This one is more effortlessly entertaining thanks to the locations and the stars.",
+        "url": "https://deadline.com/2025/01/den-of-thieves-2-pantera-gerard-butler-matches-wits-oshea-jackson-familiar-entertaining-euro-heist-action-flick-1236253098/"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-10T02:02:49.000Z",
+        "quote": "Gudegast, for all his casualness toward plausibility, is an energizing filmmaker. He keeps the mano-a-mano standoffs humming, and he’s got a sixth sense for how to showcase Butler.",
+        "url": "https://variety.com/2025/film/reviews/den-of-thieves-2-pantera-review-gerard-butler-1236268496/"
+    },
+    {
+        "critic": "Giovanni Lago",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-01-10T02:02:04.000Z",
+        "quote": "It might not be as smooth an outing as its predecessor, but there is still plenty to enjoy, especially when you have Butler operating in “Big Nick” mode.",
+        "url": "https://nextbestpicture.com/den-of-thieves-2-pantera/"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2025-01-10T02:01:56.000Z",
+        "quote": "The film still lacks discipline, yet presents less brooding and surprisingly more heart to amount to a good-spirited sequel amid the machismo and bloodshed.",
+        "url": "https://weliveentertainment.com/welivefilm/den-thieves-2-pantera-review-head/"
+    },
+    {
+        "critic": "Christian Zilko",
+        "is_top_critic": false,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-01-10T02:01:08.000Z",
+        "quote": "Just like the inexhaustibly creative thieves that inhabit its eponymous den, Christian Gudegast’s sequel defies all odds en route to becoming one of the most entertaining new releases of the first 240 hours of 2025.",
+        "url": "https://www.indiewire.com/criticism/movies/den-of-thieves-2-pantera-review-1235083509/"
+    },
+    {
+        "critic": "Paul Attard",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-01-10T01:59:59.000Z",
+        "quote": "Pantera feels far more anonymous, sleeker and less outlandish, than its predecessor. ",
+        "url": "https://www.slantmagazine.com/film/den-of-thieves-2-pantera-review-gerard-butler/"
+    },
+    {
+        "critic": "Philipp Engel",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2025-01-08T22:38:33.000Z",
+        "quote": "Although Gudegast manages to give the genre's clichés a very contemporary veneer, the film is more of a promise that is never fully fulfilled. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-juego-ladrones-2-pantera-atracos-bromance-diamantes-que-no-son-para-eternidad-5670337/"
+    }
+]

@@ -1,0 +1,3492 @@
+[
+    {
+        "critic": "Aayu Sharma",
+        "is_top_critic": false,
+        "media": "Newsweek",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2026-07-10T21:12:35.000Z",
+        "quote": "\"Supergirl\" proves that the new DC Universe has the potential to tell meaningful stories alongside its big action set pieces. If \"Superman\" gave the DC Universe hope, \"Supergirl\" gives it heart.\"",
+        "url": "https://www.newsweek.com/entertainment/movies/supergirl-review-a-beautifully-crafted-film-with-plenty-of-heart-milly-alcock-12126674"
+    },
+    {
+        "critic": "Jeremy Aspinall",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-07-10T16:09:47.000Z",
+        "quote": " All grunge aesthetic and attitude, [Alcock] rises above the underwhelming script and direction.",
+        "url": "https://www.radiotimes.com/movies/scifi/supergirl-review-milly-alcock-dc-universe/"
+    },
+    {
+        "critic": "Lucas Moore",
+        "is_top_critic": false,
+        "media": "Big Gold Belt Media",
+        "sentiment": "Fresh 🍅",
+        "score": "B - ",
+        "date": "2026-07-10T10:53:49.000Z",
+        "quote": "Supergirl is a western centered superhero film that never flies as high as Superman but still in all of it's flaws gives you enough thrills to be entertaining. ",
+        "url": "https://biggoldbelt.com/reviews/128879/"
+    },
+    {
+        "critic": "Matt Lynch",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-09T23:56:07.000Z",
+        "quote": "Far too tame to really muster any juice.... Supergirl trades on unearned sentiment, recycled narrative beats, and non-subversions. The result is a super disappointment.",
+        "url": "https://inreviewonline.com/2026/06/25/supergirl-review/"
+    },
+    {
+        "critic": "Matthew Haynes",
+        "is_top_critic": false,
+        "media": "Matthewvhaynes (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-07-09T13:58:00.000Z",
+        "quote": "While this film is far from perfect, it gave me a bit of nostalgia having a Guardians of The Galaxy feel to it. Milly Alcock did a fantastic job embracing this new type of supergirl, and Jason Mamoa was BORN to play Lobo! ",
+        "url": "https://youtu.be/8XK_G234OY4?is=AtnF4Z9aPo6zJB-g"
+    },
+    {
+        "critic": "Matt Neal",
+        "is_top_critic": false,
+        "media": "ABC Radio (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-07-09T10:53:11.000Z",
+        "quote": "Combining the goofy hi-jinks of Guardians Of The Galaxy and some apocalyptic baddies out of Furiosa, Supergirl is a surprisingly dark sci-fi adventure that makes Supergirl feel very human, while creating a universe that's both fun and scary to play in.",
+        "url": "https://movies8mylife.blogspot.com/2026/07/supergirl-2026.html"
+    },
+    {
+        "critic": "Tasha Robinson",
+        "is_top_critic": true,
+        "media": "Polygon",
+        "sentiment": "Fresh 🍅",
+        "score": "76/100",
+        "date": "2026-07-08T15:55:58.000Z",
+        "quote": "Director Craig Gillespie goes all-in on replicating James Gunn's directorial style. The result isn’t exceptionally exciting, but it’s serviceable, good-natured, and frequently fun, particularly when the film rests in Milly Alcock's hands.",
+        "url": "https://www.polygon.com/supergirl-review-james-gunn-formula-dcu/"
+    },
+    {
+        "critic": "Candice McMillan",
+        "is_top_critic": false,
+        "media": "Seattle Refined",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-08T15:45:31.000Z",
+        "quote": "Kara is a hot mess, as is her first standalone feature film Supergirl, an exercise in patchwork adventuring, employing some of the cheaper tricks and overdone themes that course through previous works within the genre, without much to say for itself. ",
+        "url": "https://seattlerefined.com/lifestyle/review-supergirl-dc-studio-milly-alcock-superman-superhero-warner-bros-jason-momoa"
+    },
+    {
+        "critic": "Sandie Angulo Chen",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-07-07T15:49:16.000Z",
+        "quote": "Like many other DCU films, this is a fairly dark story about a reluctant superhero—one who's far more cynical than her cousin, Superman.",
+        "url": "https://www.commonsensemedia.org/movie-reviews/supergirl"
+    },
+    {
+        "critic": "Wenlei Ma",
+        "is_top_critic": true,
+        "media": "The Nightly (AU)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-07-07T02:17:58.000Z",
+        "quote": "A shame the movie isn’t anywhere as good as Milly Alcock's performance.",
+        "url": "https://thenightly.com.au/culture/film/supergirl-movie-review-milly-alcock-is-excellent-but-the-film-cant-match-her-performance-c-22481727"
+    },
+    {
+        "critic": "James Verniere",
+        "is_top_critic": false,
+        "media": "Boston Movie News",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-07-06T19:40:14.000Z",
+        "quote": "When did Supergirl join the Guardians of the Galaxy? Wisecracking Milly Alcock's Kara Zor-El sure is strange, but also fun, mostly.",
+        "url": "https://bostonmovienews.com/2026/07/03/bedhead-and-badassery-a-new-girl-of-steel-emerges/"
+    },
+    {
+        "critic": "Beth Accomando",
+        "is_top_critic": false,
+        "media": "KPBS.org",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-06T19:03:40.000Z",
+        "quote": "Is \"Supergirl\" as good a movie as Gunn’s \"Superman\"? No. But is it a fun and worthy companion piece? Absolutely.",
+        "url": "https://www.kpbs.org/news/arts-culture/2026/07/02/in-defense-of-supergirl-why-the-new-dcu-film-deserves-more-love"
+    },
+    {
+        "critic": "Ian Bunting",
+        "is_top_critic": false,
+        "media": "Daily Record (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-06T18:18:20.000Z",
+        "quote": "Supergirl doesn’t soar like it should - and fails its impressive leading lady.",
+        "url": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/movie-review-can-supergirl-keep-37365912"
+    },
+    {
+        "critic": "Andrea Thompson",
+        "is_top_critic": false,
+        "media": "A Reel of One's Own",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2026-07-06T17:22:18.000Z",
+        "quote": "A solid foundation that will hopefully allow the character to soar to greater heights, whether that’s a family or solo outing.",
+        "url": "https://areelofonesown.substack.com/p/milly-alcock-is-the-one-who-soars?r=3hc6p&utm_campaign=post&utm_medium=web&triedRedirect=true"
+    },
+    {
+        "critic": "Tim Brennan",
+        "is_top_critic": false,
+        "media": "About Boulder",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-06T17:14:54.000Z",
+        "quote": "Supergirl feels like a movie at war with itself, and for every aspect that’s clever, another aspect undercuts it. ",
+        "url": "https://aboutboulder.com/blog/girl-of-steel-movie-of-scrap-metal/"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-06T16:14:36.000Z",
+        "quote": "It's a weirdly over-cluttered mishmash of plot and design ideas.",
+        "url": "https://www.youtube.com/watch?v=KPAW7O-sXg0"
+    },
+    {
+        "critic": "Robert Roten",
+        "is_top_critic": false,
+        "media": "Laramie Movie Scope",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2026-07-06T00:57:10.000Z",
+        "quote": "There is plenty of drama and action in this movie, as well as some humor. The acting is solid and the story is compelling, despite some awkwardly placed flashback scenes and slow pacing at times.",
+        "url": "http://www.lariat.org/AtTheMovies/new/supergirl.html"
+    },
+    {
+        "critic": "Dan Scully",
+        "is_top_critic": false,
+        "media": "ScullyVision",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-05T20:30:14.000Z",
+        "quote": "A movie that, despite being mostly entertaining, is exactly like everything we’ve seen countless times before.",
+        "url": "https://scullyvision.com/2026/07/05/supergirl-a-middling-hero-flick-with-a-great-central-performance/"
+    },
+    {
+        "critic": "Mike Patrick",
+        "is_top_critic": false,
+        "media": "MovieJawn",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-05T20:07:04.000Z",
+        "quote": "Supergirl is a disappointing second entry in the DCU despite star Millie Alcock’s best efforts.",
+        "url": "https://www.moviejawn.com/home/2026/7/2/supergirl-review"
+    },
+    {
+        "critic": "Leandro Ariel Porcelli",
+        "is_top_critic": false,
+        "media": "Cinéfilo Serial",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-07-05T05:12:23.000Z",
+        "quote": "Alcock's inspired casting doesn't get any help from neither script, directing nor side-characters. No amount of practical aliens, decent moments and CGI fights compensates how much it tries and fails to be a James Gunn movie. [Full review in Spanish]",
+        "url": "https://cinefiloserial.com.ar/critica-de-supergirl-de-craig-gillespie-2026/"
+    },
+    {
+        "critic": "Paul Emmanuel Enicola",
+        "is_top_critic": false,
+        "media": "Movie-Blogger.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-04T21:14:13.000Z",
+        "quote": "For a movie selling itself on attitude, it’s rarely dangerous. For a story about rage, it’s rarely raw. And for a galaxy-spanning adventure, it’s surprisingly cramped in imagination.",
+        "url": "https://www.movie-blogger.com/movie-review-supergirl-2026/"
+    },
+    {
+        "critic": "Troy Ribeiro",
+        "is_top_critic": false,
+        "media": "Free Press Journal (India)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5",
+        "date": "2026-07-04T08:56:02.000Z",
+        "quote": "The film may not soar consistently, but it glides just high enough to suggest better adventures ahead",
+        "url": "https://www.freepressjournal.in/entertainment/supergirl-review-milly-alcock-eve-ridley-jason-momoas-film-is-at-its-best-when-it-forgets-its-a-superhero-movie"
+    },
+    {
+        "critic": "Michael Cook",
+        "is_top_critic": false,
+        "media": "KLRT-TV ",
+        "sentiment": "Rotten 🤢",
+        "score": "6.5",
+        "date": "2026-07-03T21:46:13.000Z",
+        "quote": "I thought Milly Adcock was fantastic as Supergirl... but this is a generic, boring, superhero flick. What they did for her [Alcock] with the script, and everything around it was just subpar on so many levels. I was disappointed in this film. ",
+        "url": "https://www.fox16.com/video/at-the-movies-film-critic-reviews-%E2%80%98supergirl%E2%80%99-%E2%80%99voicemails-for-isabelle%E2%80%99/11918977/"
+    },
+    {
+        "critic": "Douglas Davidson",
+        "is_top_critic": false,
+        "media": "Elements of Madness",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-07-03T11:30:09.000Z",
+        "quote": "… serves to remind people that Kara is not Kal-El in an intergalactic western wherein evil is only held back by the active efforts of the good and upheld by the indifference of others.",
+        "url": "https://elementsofmadness.com/2026/07/03/supergirl/"
+    },
+    {
+        "critic": "Jorgie Rodriguez",
+        "is_top_critic": false,
+        "media": "Agents of Fandom",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-07-02T23:27:44.000Z",
+        "quote": "Kara doesn’t have a homestead to fall back to or her parents to give her a motivational speech. She hasn’t let anyone in, and so Kara’s journey is hers alone. But once Kara Zor-El finds herself, it’s a beautiful sight.",
+        "url": "https://agentsoffandom.com/supergirl-review/"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-07-02T20:06:57.000Z",
+        "quote": "Milly Alcock’s performance as a slacker heroine salvages the film with a profoundly human portrayal we can all relate to: messy, flawed, grieving, and cynical.",
+        "url": "https://fortworthreport.org/2026/06/30/supergirl-review-milly-alcocks-performance-as-a-slacker-heroine-almost-saves-the-disjointed-second-film-of-james-gunns-dcu/"
+    },
+    {
+        "critic": "Alise Chaffins",
+        "is_top_critic": false,
+        "media": "MacGuffin or Meaning (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-07-02T14:21:17.000Z",
+        "quote": "While it is not as terrible as some naysayers predicted, this is a forgettable movie that squanders an excellent performance from Milly Alcock.",
+        "url": "https://alisechaffins.substack.com/p/supergirl-review-2026"
+    },
+    {
+        "critic": "Bill Watters",
+        "is_top_critic": false,
+        "media": "NERDBOT",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-07-02T08:05:45.000Z",
+        "quote": "What a refreshing change... fresh, fun, with deeper commentaries beyond the action set pieces.",
+        "url": "https://www.bad-influencers.com/supergirl-surprisingly-deep-and-enjoyable-review/"
+    },
+    {
+        "critic": "Lyra Hale",
+        "is_top_critic": false,
+        "media": "Fangirlish",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-07-02T02:44:55.000Z",
+        "quote": "At its heart, Supergirl is a movie about grief overshadowed by people's real hatred of women. ",
+        "url": "https://fangirlish.com/2026/07/01/supergirl-review-a-movie-about-grief-overshadowed-by-peoples-hate-of-women/"
+    },
+    {
+        "critic": "Matt Orozco",
+        "is_top_critic": false,
+        "media": "Macabre Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-02T00:07:12.000Z",
+        "quote": "\"Supergirl\" thrives on solid performances from Alcock, Ridley, and Momoa that carry the otherwise pretty cookie-cutter story and villain. It’s not going to break the mold, but it’s arguably as good or even better than 2025’s \"Superman\"...",
+        "url": "https://www.macabredaily.com/articles/supergirl-2026-doesnt-break-the-mold-but-it-has-a-lot-of-fun-with-the-format-review"
+    },
+    {
+        "critic": "Patrick McDonald",
+        "is_top_critic": false,
+        "media": "HollywoodChicago.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-07-02T00:00:00.000Z",
+        "quote": "Bare recco only because of Milly Alcock ... love to see that character in a decent story, not a rehash of Star Wars meets Mad Max. I get it, there is a lot of pressure to deliver a balanced superhero movie, but it's character not SFX that make them work.",
+        "url": "https://youtu.be/oGzvfK_cdjw?si=baP_QDGuGxx44Es3"
+    },
+    {
+        "critic": "Alexander Zalben",
+        "is_top_critic": false,
+        "media": "Comic Book Club",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-01T23:09:00.000Z",
+        "quote": "The new DCU movie leaps, but doesn’t soar anywhere close to the heights of the source material.",
+        "url": "https://comicbookclublive.com/2026/06/24/supergirl-review-milly-alcock-leaps-not-soars-in-muddled-dcu-adaptation/"
+    },
+    {
+        "critic": "Chris Klimek",
+        "is_top_critic": false,
+        "media": "Washington City Paper",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-01T19:38:56.000Z",
+        "quote": "You’d think that staying within the narrow boundaries of a single comic book published just five years ago would enforce a kind of imaginative cohesion, dodging the tonal problems these adaptations invite... it has somehow made them worse. ",
+        "url": "https://washingtoncitypaper.com/article/787972/supergirl-whats-whimsical-on-the-page-becomes-familiar-on-screen/"
+    },
+    {
+        "critic": "Rich Cline",
+        "is_top_critic": false,
+        "media": "Shadows on the Wall",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-07-01T18:58:58.000Z",
+        "quote": "It's never very original, but it does breathe sparky life into the franchise.",
+        "url": "http://www.shadowsonthewall.co.uk/26/supergir.htm"
+    },
+    {
+        "critic": "Margot Harrison",
+        "is_top_critic": false,
+        "media": "Seven Days (VT)",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-07-01T17:51:18.000Z",
+        "quote": "And yet, for all the movie’s lackluster aspects, my heart swelled when Supergirl finally took off her jeans and duster and rocked that silly red-and-blue costume...because Alcock makes Kara’s disaffection more than a tough-girl pose. ",
+        "url": "https://www.sevendaysvt.com/on-screen/moviereviews/supergirl-is-an-edgy-energetic-character-in-search-of-a-less-tired-movie/"
+    },
+    {
+        "critic": "Walter Chaw",
+        "is_top_critic": false,
+        "media": "Film Freak Central",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-07-01T17:37:14.000Z",
+        "quote": "Alcock is a wonderful actor trying to anchor a movie at odds with itself while also setting the table for a possible franchise.",
+        "url": "https://filmfreakcentral.net/2026/06/supergirl-2026/"
+    },
+    {
+        "critic": "Rick Bentley",
+        "is_top_critic": false,
+        "media": "KGET-TV (Bakersfield, CA)",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-07-01T16:21:53.000Z",
+        "quote": "The concept is strong, but Nogueira fails to make it work because of an inability to establish a central story, a failing to build interesting characters and the tendency to hide behind action sequences.",
+        "url": "https://www.kget.com/community/ricks-reviews/supergirl-is-defeated-by-painfully-bad-script/"
+    },
+    {
+        "critic": "Sherin Nicole",
+        "is_top_critic": false,
+        "media": "Geek Girl Riot",
+        "sentiment": "Fresh 🍅",
+        "score": "C",
+        "date": "2026-07-01T14:43:45.000Z",
+        "quote": "The superhero equivalent of beige. Beige is fine, but superheroes need to be colorful or they need to be dark.",
+        "url": "https://riot-us.com/2026/07/01/spider-man-brand-new-day-anime-supergirl-the-bear-season-5-the-invite/"
+    },
+    {
+        "critic": "Hannah Pettit",
+        "is_top_critic": false,
+        "media": "Observer (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-01T12:31:05.000Z",
+        "quote": "The film does not do justice to Alcock’s convincing performance of a new, messy but no less heroic Supergirl, who needs a slicker script and higher stakes to truly soar.",
+        "url": "https://observer.co.uk/culture/film/article/wendy-ides-pick-of-other-films-supergirl-the-last-viking-the-furious-and-more"
+    },
+    {
+        "critic": "Sarah Marrs",
+        "is_top_critic": false,
+        "media": "Lainey Gossip",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-01T02:27:30.000Z",
+        "quote": "Like most superhero movies, Supergirl is a bit of a mixed bag.",
+        "url": "https://www.laineygossip.com/review-craig-gillespies-supergirl-like-most-superhero-movies-a-mixed-bag/"
+    },
+    {
+        "critic": "Brandon Avery",
+        "is_top_critic": false,
+        "media": "Just My Opinion Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-30T23:01:43.000Z",
+        "quote": "Milly Alcock proves she was an excellent casting choice for Supergirl. ",
+        "url": "https://www.justmyopinion.net/supergirl-review/"
+    },
+    {
+        "critic": "Randy Dankievitch",
+        "is_top_critic": false,
+        "media": "Processed Media",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2026-06-30T19:59:59.000Z",
+        "quote": "Supergirl tries to be a lot of movies appeasing a lot of different people, yet manages to appeal to almost nobody along the way, because of a distinct lack of commitment to anything complex or engaging. ",
+        "url": "https://processedmedia.net/supergirl-2026-review/"
+    },
+    {
+        "critic": "Noah Berlatsky",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-30T18:55:37.000Z",
+        "quote": "Supergirl is watchable enough if you take movies like Justice League (2017) as a baseline, but it’s a disappointment compared to its immediate predecessor. ",
+        "url": "https://chicagoreader.com/film-tv/movie-review/review-supergirl/"
+    },
+    {
+        "critic": "Louisa Moore",
+        "is_top_critic": false,
+        "media": "Screen Zealots",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-30T18:06:17.000Z",
+        "quote": "A darker, character-driven superhero story elevated by Milly Alcock's performance as a flawed and deeply human heroine. Despite an uneven script, this emotional tale of grief, resilience, and female solidarity stands apart from typical comic book fare.",
+        "url": "https://screenzealots.com/2026/06/30/supergirl/"
+    },
+    {
+        "critic": "Keith Phipps",
+        "is_top_critic": true,
+        "media": "The Reveal",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-30T17:57:24.000Z",
+        "quote": "Still, what works here—Alcock, the emotional flashback scenes, Kara’s interactions with Superman, Krypto (of course)—works well enough to make Supergirl worth a look.",
+        "url": "https://thereveal.film/in-review-supergirl-the-invite/"
+    },
+    {
+        "critic": "Kim Newman",
+        "is_top_critic": false,
+        "media": "Sight & Sound",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-30T16:16:54.000Z",
+        "quote": "Alcock is good enough to carry Supergirl through its ropier stretches, though the ending is a fudge compared with the Woman of Tomorrow comic and the film can’t get out of its key plot bind.",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/supergirl-milly-alcock-carries-this-movie-her-cape"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Talking Films",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-30T10:50:19.000Z",
+        "quote": "Even a committed Milly Alcock isn't enough to overcome this mostly tedious superhero movie.",
+        "url": "https://talkingfilms.net/supergirl-review-even-a-committed-milly-alcock-isnt-enough-to-overcome-this-mostly-tedious-superhero-movie/"
+    },
+    {
+        "critic": "Jinal Bhatt",
+        "is_top_critic": false,
+        "media": "Variety India",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2026-06-30T07:27:46.000Z",
+        "quote": "Milly Alcock’s Kara is the beating heart and soul of \"Supergirl,\" which is a strictly decent summer superhero flick that floats okay, but doesn’t quite soar.",
+        "url": "https://varietyindia.com/supergirl-review-milly-alcock-superman-krypto-dcu-film/"
+    },
+    {
+        "critic": "Vera Wylde",
+        "is_top_critic": false,
+        "media": "Council of Geeks",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-30T02:57:25.000Z",
+        "quote": "On assessment this is a fumble. The good that's here gets muddied by some of the under baked elements on the back end and it just doesn't pull together as a whole.",
+        "url": "https://www.youtube.com/watch?v=GX_sPh1_sKM"
+    },
+    {
+        "critic": "Andrew F. Peirce",
+        "is_top_critic": false,
+        "media": "The Curb",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-30T02:55:02.000Z",
+        "quote": "Supergirl will give you bad movie fatigue.",
+        "url": "https://www.thecurb.com.au/supergirl-review-craig-gillespie/"
+    },
+    {
+        "critic": "Lisa Johnson Mandell",
+        "is_top_critic": false,
+        "media": "AtHomeInHollywood.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-29T22:26:43.000Z",
+        "quote": "It's refreshing to see a superhero film that's not just a souped up smash fest. Although at times it's dark and messy, it's mostly the triumphant story of a girl and her dog. That never gets old.",
+        "url": "https://athomeinhollywood.com/2026/06/29/supergirl-review-krypto/"
+    },
+    {
+        "critic": "Susan Kamyab",
+        "is_top_critic": false,
+        "media": "AWFJ.org",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-06-29T20:00:24.000Z",
+        "quote": "Milly Alcock delivers a humorous, heartfelt, and emotionally resonant performance. Unfortunately, the uninspired story and dystopian production design weigh down the film, slowing its pacing and preventing Alcock from fully taking flight.",
+        "url": "https://awfj.org/blog/2026/06/21/supergirl-review-by-susan-kamyab/"
+    },
+    {
+        "critic": "Nick Hasted",
+        "is_top_critic": false,
+        "media": "The Arts Desk",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-29T19:01:30.000Z",
+        "quote": "Two films into James Gunn’s DC Extended Universe reboot, [Supergirl] already feels like a fill-in.",
+        "url": "https://www.theartsdesk.com/film/supergirl-review-flying-low"
+    },
+    {
+        "critic": "Abhimanyu Mathur",
+        "is_top_critic": false,
+        "media": "Hindustan Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-29T18:26:00.000Z",
+        "quote": "[Milly Alcock] does everything in her power to shoulder this superhero adventure, but is ultimately let down by a wafer-thin plot, a villain who inspires neither awe nor fear, and an overall lack of soul.",
+        "url": "https://www.hindustantimes.com/entertainment/hollywood/supergirl-movie-review-milly-alcock-make-up-for-lacklustre-villain-in-hollow-yet-fun-dcu-adventure-james-gunn-superman-101782457112677.html"
+    },
+    {
+        "critic": "Tom Santilli",
+        "is_top_critic": false,
+        "media": "Movie Show Plus",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2026-06-29T17:17:10.000Z",
+        "quote": "Milly Alcock is really good as our messy, misguided heroine, but like so many comic book characters before her, is stuck in the confines of a lousy, pandering script. ",
+        "url": "https://letterboxd.com/tomsantilli/film/supergirl-2026/"
+    },
+    {
+        "critic": "Abbie Bernstein",
+        "is_top_critic": false,
+        "media": "Assignment X",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-29T16:56:34.000Z",
+        "quote": "Not super, but still entertaining.",
+        "url": "https://www.assignmentx.com/2026/movie-review-supergirl/"
+    },
+    {
+        "critic": "Alejandro Alemán",
+        "is_top_critic": false,
+        "media": "El Universal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-29T16:55:59.000Z",
+        "quote": "In the end, Supergirl doesn't know how to be a feminist film, it doesn't know how to be a western, it doesn't know how to be a memorable superhero film, and it doesn't know how to be—simply put—a good film. [Full review in Spanish]",
+        "url": "https://www.eluniversal.com.mx/opinion/alejandro-aleman/supergirl-un-desastre-que-no-debio-ser/"
+    },
+    {
+        "critic": "Nick Johnston",
+        "is_top_critic": false,
+        "media": "Vanyaland",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-29T16:54:12.000Z",
+        "quote": "It’s hard to recommend even for Krypto-watching purposes. ",
+        "url": "https://vanyaland.com/2026/06/26/supergirl-review-more-truth-less-grit/"
+    },
+    {
+        "critic": "Alci Rengifo",
+        "is_top_critic": false,
+        "media": "Entertainment Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-29T16:50:01.000Z",
+        "quote": "Overall, this is a DC film where its early moments are worth watching for how they introduce a character who is gloriously human despite being able to fly, covering up her fears with a drunken middle finger aimed at life’s cruelties.",
+        "url": "https://entertainmentvoice.com/2026/06/25/supergirl-milly-alcock-flies-above-craig-gillespies-lightweight-adventure/"
+    },
+    {
+        "critic": "Nicolás Delgadillo",
+        "is_top_critic": false,
+        "media": "Knotfest",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-29T16:29:01.000Z",
+        "quote": "Gillespie isn't an untalented filmmaker, but after already struggling with similar visual issues on Disney’s Cruella, it's difficult not to question whether he was the right choice for a project demanding this much large-scale spectacle. ",
+        "url": "https://knotfest.com/blogs/screen-crusades/supergirl-has-the-right-hero-in-the-wrong-movie"
+    },
+    {
+        "critic": "Steven Prokopy",
+        "is_top_critic": false,
+        "media": "Third Coast Review",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-06-29T16:19:49.000Z",
+        "quote": "...when Kara is allowed to be her most powerful self—both in terms of powers and attitude—Supergirl can be a solid, B-level superhero film. ",
+        "url": "https://thirdcoastreview.com/film-tv/2026/06/26/review-supergirl"
+    },
+    {
+        "critic": "Emmanuel Noisette",
+        "is_top_critic": false,
+        "media": "The Movie Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-06-29T15:48:52.000Z",
+        "quote": "Supergirl has all the pieces of a great superhero movie, but never finds a way to make them feel uniquely its own.",
+        "url": "https://www.themovieblog.com/2026/06/supergirl-review-a-generic-heros-journey-across-the-stars/"
+    },
+    {
+        "critic": "Ian Thomas Malone",
+        "is_top_critic": false,
+        "media": "ianthomasmalone.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-29T15:16:08.000Z",
+        "quote": "It’s often said that alcohol is not a substitute for a personality. James Gunn might have kept that in mind with this woefully pathetic narrative.",
+        "url": "https://ianthomasmalone.com/2026/06/4783-supergirl/"
+    },
+    {
+        "critic": "Vincent Mancini",
+        "is_top_critic": false,
+        "media": "The #Content Report (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-06-29T15:08:31.000Z",
+        "quote": "Great villain, strong concept, but the action scenes are so badly staged and shot that the moments it should be at its most exciting are basically incomprehensible. ",
+        "url": "https://open.substack.com/pub/vincemancini/p/supergirl-review-blurry-popeye?r=2cg5qw&utm_campaign=post&utm_medium=web"
+    },
+    {
+        "critic": "Kiko Martinez",
+        "is_top_critic": false,
+        "media": "The Cinesnob Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2026-06-29T14:54:28.000Z",
+        "quote": "Clearly aiming for a Guardians of the Galaxy vibe, [but] feels routine.\n",
+        "url": "https://www.cinesnob.net/reviews/supergirl/"
+    },
+    {
+        "critic": "Ankit Ojha",
+        "is_top_critic": false,
+        "media": "Cinema Elite",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-06-29T14:04:03.000Z",
+        "quote": "\"Supergirl\" has the unmistakable stamp of James Gunn’s filmmaking language all over it, and if other DCU titles are anything to go by, this could end up getting tired quickly.",
+        "url": "https://cinemaelite.com/review/film/2026/06/supergirl/"
+    },
+    {
+        "critic": "Guillermo Troncoso",
+        "is_top_critic": false,
+        "media": "Screen Realm",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-29T07:23:53.000Z",
+        "quote": "There is not much here that I would call disastrous, but very little truly pops. That, ultimately, is the story of Supergirl: not terrible, not especially exciting, and nowhere near as distinctive as it seems to think it is. ",
+        "url": "https://screenrealm.com/supergirl-movie-review-milly-alcock-2026-dc/"
+    },
+    {
+        "critic": "Carla Renata",
+        "is_top_critic": false,
+        "media": "The Curvy Film Critic",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-29T05:55:34.000Z",
+        "quote": "Supergirl has some tender  moments that will sear your heart a time or two,  but for the most part is just an satisfactory piece of cinema and not the blockbuster one might be hoping to experience",
+        "url": "https://wp.me/p2v8yf-7qR"
+    },
+    {
+        "critic": "Sean P. Means",
+        "is_top_critic": false,
+        "media": "The Movie Cricket",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-29T04:12:22.000Z",
+        "quote": "The best part of \"Supergirl\" is Kara herself, and the way Alcock finds the sweet spot between the goody-goody hero and the sulky, despondent survivor. ",
+        "url": "https://moviecricket.net/blog/2026/6/26/review-supergirl-serves-up-dc-comics-cynical-side-and-gives-milly-alcock-a-chance-to-shine-as-supermans-jaded-cousin"
+    },
+    {
+        "critic": "Linda and Al Lerner",
+        "is_top_critic": false,
+        "media": "Movies and Shakers",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-28T23:05:07.000Z",
+        "quote": "Alcock works hard in action sequences that pop up to keep us interested. But this film does nothing to lessen super hero fatigue. It’s a chaotic mess with no post credit scene showing something to look forward to, because this film never really takes off.",
+        "url": "https://moviesandshakers.com/supergirl/"
+    },
+    {
+        "critic": "Susan Granger",
+        "is_top_critic": false,
+        "media": "SSG Syndicate",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-06-28T20:28:25.000Z",
+        "quote": "It's not Milly Alcott's fault that this second-rate, flawed spinoff about sex slavery suffers from chaotic, confused action scenes. photographed in a murky brown haze - even her beloved dog Krypto is obviously a CGI creation.",
+        "url": "https://www.susangranger.com/?p=19364"
+    },
+    {
+        "critic": "Mark Redfern",
+        "is_top_critic": false,
+        "media": "Under the Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-06-28T20:03:07.000Z",
+        "quote": "James Gunn has said Alcock’s casting \"might be the best bit of casting\" he’s ever done, and after seeing the film it’s difficult to argue with him.\n\n",
+        "url": "https://undertheradarmag.com/reviews/supergirl_movie"
+    },
+    {
+        "critic": "Adam Olinger",
+        "is_top_critic": false,
+        "media": "Adam Does Movies (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-28T20:02:10.000Z",
+        "quote": "Supergirl is the \"Melania\" of superhero movies. It has nothing interesting to say and no one asked for it.",
+        "url": "https://youtu.be/-WCfrPe7cGc"
+    },
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-28T19:01:35.000Z",
+        "quote": "The very best thing about Supergirl - by a mile - is the casting of Alcock in the lead. Even when the film-making isn't giving her much to work with, Alcock generally finds a way through, and keeps her vision for Kara intact and authentic.",
+        "url": "https://www.thepost.co.nz/culture/361032378/supergirl-aint-great-it-might-just-be-setting-hell-series"
+    },
+    {
+        "critic": "Romey Norton",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Rotten 🤢",
+        "score": "2",
+        "date": "2026-06-28T08:19:33.000Z",
+        "quote": "Superheroes are meant to reflect our deeply human fears and desires, but they’re also meant to kick-ass. And this film lets fans down by not delivering on action, drive and purpose. ",
+        "url": "https://insessionfilm.com/movie-review-supergirl/"
+    },
+    {
+        "critic": "Erick Estrada",
+        "is_top_critic": false,
+        "media": "Cinegarage",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-28T06:57:57.000Z",
+        "quote": "We are once again dealing with a formulaic film. [Full review in Spanish]",
+        "url": "https://www.patreon.com/cinegarage/posts/supergirl-161915613"
+    },
+    {
+        "critic": "Jeffrey Harris",
+        "is_top_critic": false,
+        "media": "411mania",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2026-06-28T04:20:28.000Z",
+        "quote": "Supergirl is a gloriously underwhelming, messy comic book superhero movie that fails to take flight.",
+        "url": "https://411mania.com/movies/supergirl-review/"
+    },
+    {
+        "critic": "Ruth Maramis",
+        "is_top_critic": false,
+        "media": "FlixChatter Film Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-28T04:01:30.000Z",
+        "quote": "Milly Alcock soars as DC’s superheroine, but the movie doesn’t fly quite as high. She manages to still shine despite being overshadowed by other characters in her intergalactic journey.",
+        "url": "https://flixchatter.net/2026/06/27/flixchatter-review-supergirl-2026-milly-alcock-soars-as-dcs-superheroine-but-the-movie-doesnt-fly-quite-as-high/"
+    },
+    {
+        "critic": "Korey Coleman",
+        "is_top_critic": false,
+        "media": "Double Toasted",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-28T01:07:59.000Z",
+        "quote": "The character of Supergirl left an impression on me. Unfortunately, nothing else really did. The film is entertaining to watch, but it is filler until we get the next Superman movie.",
+        "url": "https://www.youtube.com/watch?v=Ny-vNJM8vfg"
+    },
+    {
+        "critic": "Linda Cook",
+        "is_top_critic": false,
+        "media": "OurQuadCities / WHBF-TV (Illinois)",
+        "sentiment": "Fresh 🍅",
+        "score": "2 1/2 stars",
+        "date": "2026-06-28T00:44:21.000Z",
+        "quote": "'Supergirl' feels like a 'Stars Wars'/MCU hybrid",
+        "url": "https://www.ourquadcities.com/news/local-news/cook-review-supergirl-feels-like-a-star-wars-mcu-hybrid/"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-28T00:12:36.000Z",
+        "quote": "The writer and director fail to deliver the goods, leaving Supergirl, yet again, with an underwhelming adaptation from page to screen.",
+        "url": "https://www.deepfocusreview.com/reviews/supergirl/"
+    },
+    {
+        "critic": "Andrew Parker",
+        "is_top_critic": false,
+        "media": "The Gate",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2026-06-27T23:29:09.000Z",
+        "quote": "Predictable, derivative, and hypocritical when it comes to its message about vengeance not bringing peace, Supergirl is a chore that should be fun. ",
+        "url": "https://www.thegate.ca/film/072900/out-of-time-reviews-episode-15-supergirl-jackass-best-and-last-in-the-hand-of-dante-couture-unidentified-blood-lines-and-camp/"
+    },
+    {
+        "critic": "Brogan Luke Bouwhuis",
+        "is_top_critic": false,
+        "media": "InBetweenDrafts",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-06-27T20:02:26.000Z",
+        "quote": "\"Alcock is excellent as the title character. Even those who struggle with the script will feel some excitement to see what she does with the role in the future.\"",
+        "url": "https://inbetweendrafts.com/supergirl-review-milly-alcock/"
+    },
+    {
+        "critic": "David Sims",
+        "is_top_critic": true,
+        "media": "The Atlantic",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-27T19:35:37.000Z",
+        "quote": "Supergirl the character still has a lot going for her, presumably including a future in the DC Universe. Supergirl the film, meanwhile, is only a mildly diverting whiff.",
+        "url": "https://www.theatlantic.com/culture/2026/06/supergirl-movie-2026-review/687712/"
+    },
+    {
+        "critic": "Mark Jackson",
+        "is_top_critic": false,
+        "media": "Epoch Times",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2026-06-27T19:03:49.000Z",
+        "quote": "Subpar \"Supergirl\" serves to whet the appetite for when neonate superstar Milly Alcock gets the chance to work with a stronger director.",
+        "url": "https://www.theepochtimes.com/bright/supergirl-this-new-superstar-is-going-to-be-around-for-a-while-6052327"
+    },
+    {
+        "critic": "André Hereford",
+        "is_top_critic": false,
+        "media": "Metro Weekly (Washington, DC)",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2026-06-27T17:43:41.000Z",
+        "quote": "Alcock, who portrayed a young Rhaenyra Targaryen on HBO’s House of Dragons, grounds her persuasive performance in grief and anger that Kara quells with booze.",
+        "url": "https://www.metroweekly.com/2026/06/supergirl-review-milly-alcock/"
+    },
+    {
+        "critic": "Agustín Pérez",
+        "is_top_critic": false,
+        "media": "Emol.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-27T17:20:08.000Z",
+        "quote": "With a script full of contrivances and unremarkable characters, Milly Alcock stands out, but her talent isn’t enough to save the film from its own mess.",
+        "url": "https://www.emol.com/noticias/Espectaculos/2026/06/27/1204056/critica-cine-supergirl.html"
+    },
+    {
+        "critic": "Michael Ward",
+        "is_top_critic": false,
+        "media": "Should I See It",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-27T17:01:40.000Z",
+        "quote": "I enjoyed much of this, but for a film about discovering one’s inner strength and agency, Supergirl never quite seems comfortable trusting its own.",
+        "url": "https://www.shouldiseeit.net/reviews/2026/supergirl-2026"
+    },
+    {
+        "critic": "Paul Salfen",
+        "is_top_critic": false,
+        "media": "AMFM Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-06-27T16:14:23.000Z",
+        "quote": "Sadly, it's not super.",
+        "url": "https://www.amfm-magazine.tv/a-missed-opportunity-supergirl-movie-minute-review/"
+    },
+    {
+        "critic": "MontiLee Stormer",
+        "is_top_critic": false,
+        "media": "MovieReelist.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-27T15:27:57.000Z",
+        "quote": "Rather than presenting an instantly noble superhero, Supergirl’s screenplay embraces her reluctance to become involved in anyone else’s problems.",
+        "url": "https://moviereelist.com/review/movie-review-supergirl-ms/"
+    },
+    {
+        "critic": "Rob Dean",
+        "is_top_critic": false,
+        "media": "Bullz-Eye.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-27T15:17:12.000Z",
+        "quote": "Gillespie and company did a great job building the world and crafting a story that, while it’s a shame they make so many flubs in telling it, I’m still curious to see what happens next.",
+        "url": "https://www.bullz-eye.com/2026/06/27/movie-review-supergirl/"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-06-27T15:11:11.000Z",
+        "quote": "Alcock is not to blame but the architects at DC have not learned from the mistakes of the DCEU and have delivered an ugly-looking film with a wedged-in origin story that yadda yaddas over context to Kara’s present that ultimately bores more than thrills.",
+        "url": "https://erikthemovieman.substack.com/p/episode-663-up-up-and-go-away"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-27T14:28:36.000Z",
+        "quote": "It’s a room temperature superhero movie that is shackled to Gunn’s narrow, self-gratifying style, where more attention is given to irreverent humor and needle drops than to meaningful character depth and good storytelling.",
+        "url": "https://keithandthemovies.com/2026/06/27/review-supergirl-2026/"
+    },
+    {
+        "critic": "Paul Tassi",
+        "is_top_critic": false,
+        "media": "Forbes",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-27T13:16:25.000Z",
+        "quote": "Supergirl is a pale imitation of the films of the man running the DCU, James Gunn, full of needle drops and smirks, but lacking any of their heart and artistry.",
+        "url": "https://www.forbes.com/sites/paultassi/2026/06/27/supergirl-review-a-heroine-rendered-powerless-by-scriptonite/"
+    },
+    {
+        "critic": "Daniel Hart",
+        "is_top_critic": false,
+        "media": "Ready Steady Cut",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-27T07:32:54.000Z",
+        "quote": "The objective was surely for audiences to connect with Supergirl as powerfully as her cousin, and ultimately, the film fails at that.",
+        "url": "https://readysteadycut.com/2026/06/27/supergirl-2026-review/"
+    },
+    {
+        "critic": "Stacey Yvonne",
+        "is_top_critic": false,
+        "media": "Stacey Yvonne Creative",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2026-06-27T05:47:56.000Z",
+        "quote": "If we’re going to connect to Kara as an audience, we need to know who she is. Kara may not fully know who she is, but the audience should – especially as our hero. ",
+        "url": "https://syvonnecreative.com/2026/06/26/supergirl-has-joined-the-dcu-and-its-fine/"
+    },
+    {
+        "critic": "Jessie Gender",
+        "is_top_critic": false,
+        "media": "Jessie Gender YouTube Channel",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-27T05:27:11.000Z",
+        "quote": "While it often opts for the more generic option over one with more personality, Milly Alcock capably carries this ultimately good but not great adaptation of one of Supergirl's best comic book stories. ",
+        "url": "https://youtu.be/pL5dgjYb6PU?si=X6XPcDx8QG7kBMCX"
+    },
+    {
+        "critic": "Rosa Parra",
+        "is_top_critic": false,
+        "media": "In Their Own League",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-06-27T03:13:53.000Z",
+        "quote": "\"Supergirl\" is a superhero story filled with heart, emotional depth, and driven by her sincere desire to help others. ",
+        "url": "https://intheirownleague.com/2026/06/26/review-supergirl/"
+    },
+    {
+        "critic": "John Flickinger",
+        "is_top_critic": false,
+        "media": "The Flick Pick (Youtube)",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-06-27T02:06:29.000Z",
+        "quote": "Supergirl wastes Milly Alcock. She has nothing to do except hang out with a sidekick whose revenge story I didn't care about. It's filled with comic book clichés, repetitive action, no real depth. It's not bad, just boring. Script is the real kryptonite.",
+        "url": "https://youtu.be/5IpQibE39yY?si=MiyA9a0-eMuw-DGp"
+    },
+    {
+        "critic": "Gabriela Meza",
+        "is_top_critic": false,
+        "media": "Fuera de Foco",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-27T01:43:59.000Z",
+        "quote": "There's a lightness to Kara's cynicism that you completely buy",
+        "url": "https://youtu.be/ryxNxjUyfTI"
+    },
+    {
+        "critic": "Josh Wilding",
+        "is_top_critic": false,
+        "media": "ComicBookMovie.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-27T01:10:46.000Z",
+        "quote": "Bad writing, gratuitous cameos, and uninspired visuals take us back to the bad old days of the DCEU in Supergirl, a showcase for the super-talented Milly Alcock, but Kryptonite to anyone who likes good superhero movies.",
+        "url": "https://comicbookmovie.com/supergirl/supergirl-review-kryptonite-to-anyone-who-likes-good-superhero-movies-a228529"
+    },
+    {
+        "critic": "Damond Fudge",
+        "is_top_critic": false,
+        "media": "KCCI (Des Moines, IA)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-27T00:28:03.000Z",
+        "quote": "While Supergirl doesn’t exactly provide the one-two punch one would hope for when following a success like Superman, it does survive on its own merits.",
+        "url": "https://bit.ly/4eNi4Zy"
+    },
+    {
+        "critic": "Victor Stiff",
+        "is_top_critic": false,
+        "media": "That Shelf",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-27T00:24:25.000Z",
+        "quote": "It’s never dull, but Kara’s adventures feel more like a sidequest than the epic main event the character deserves. ",
+        "url": "https://thatshelf.com/supergirl-review-a-case-of-intergalactic-growing-pains/"
+    },
+    {
+        "critic": "Erin Free",
+        "is_top_critic": false,
+        "media": "FILMINK (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "16/20",
+        "date": "2026-06-27T00:01:08.000Z",
+        "quote": "Like most superhero movies of late, Supergirl is certainly very good, but it’s not exactly great.",
+        "url": "https://www.filmink.com.au/reviews/supergirl/"
+    },
+    {
+        "critic": "EJ Moreno",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T23:04:55.000Z",
+        "quote": "A decent movie is buried beneath the clutter, but its biggest flaw is never finding its own identity.",
+        "url": "https://youtu.be/JaIr7gT3T8s?is=N-9oljsDEgalZYcm"
+    },
+    {
+        "critic": "Reginald Ponder",
+        "is_top_critic": false,
+        "media": "reggieponder.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-26T22:39:28.000Z",
+        "quote": "Supergirl is a bit less than super but girl, it works to explain the person, place her in the DC universe and even get people to identify and root for her. This is a great installment of the DC Reboot.",
+        "url": "https://reggieponder.com/2026/06/26/supergirl-review/"
+    },
+    {
+        "critic": "Alison Gillmor",
+        "is_top_critic": false,
+        "media": "Winnipeg Free Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T21:55:03.000Z",
+        "quote": "Director Craig Gillespie handles the light-comedy aspects just fine, catching a kind of grungy, goofball, Guardians of the Galaxy vibe, but his action scenes are muddled and generic.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/movies/2026/06/26/more-like-so-so-girl"
+    },
+    {
+        "critic": "Joel Harley",
+        "is_top_critic": false,
+        "media": "Starburst",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T21:49:34.000Z",
+        "quote": " Relatably human (ish) stakes and an emotionally resonant core are let down by the rubbery combat and murky visuals, but it’s powered by a stratospheric performance from one of the nu-DCU’s most exciting stars. Long may she shine.\n\n",
+        "url": "https://www.starburstmagazine.com/reviews/supergirl/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "Rachel's Reviews (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T21:40:25.000Z",
+        "quote": "Incredibly disappointing. The movie focuses on the wrong character and they give you nothing to root for",
+        "url": "https://www.youtube.com/live/jUTZWwc9BZY"
+    },
+    {
+        "critic": "Tania Lamb",
+        "is_top_critic": false,
+        "media": "Lola Lambchops",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T21:38:16.000Z",
+        "quote": "Supergirl simultaneously tries too hard and not enough to be super. Milly Alcock is the best thing about it.",
+        "url": "https://lolalambchops.com/supergirl-2026-parents-guide/"
+    },
+    {
+        "critic": "Dana Stevens",
+        "is_top_critic": true,
+        "media": "Slate",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T21:00:12.000Z",
+        "quote": "Despite an appealingly rough-edged title character played with scrappy aplomb by Milly Alcock, this second installment in what DC is positioning as an unfolding multicharacter franchise defaults to too many of the clichés of superhero cinema at its worst.",
+        "url": "https://slate.com/culture/2026/06/supergirl-movie-2026-milly-alcock-superman-reviews.html"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2026-06-26T20:53:28.000Z",
+        "quote": "Despite an intriguing arc for Milly Alcock's title character, the film repeatedly stumbles, losing momentum through a series of self-inflicted wounds. ",
+        "url": "https://www.reelviews.net/reelviews/supergirl_1"
+    },
+    {
+        "critic": "Stephanie Zacharek",
+        "is_top_critic": true,
+        "media": "TIME Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T20:40:34.000Z",
+        "quote": "The action sequences are jerky and disjointed; Supergirl’s laser eyes constitute the only occasional, if inadequate, jolt of life. ",
+        "url": "https://time.com/article/2026/06/25/supergirl-review/"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-26T20:36:23.000Z",
+        "quote": "Much has been written about \"superhero fatigue.\" Supergirl’s issues go beyond that, although the film does fall victim to the curse of seeming more like a product than a passion project.",
+        "url": "https://aisleseat.com/supergirl.html"
+    },
+    {
+        "critic": "Glen Weldon",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T20:28:57.000Z",
+        "quote": "I think it's a solid addition to the canon. I don't think it's a game changer. ",
+        "url": "https://www.npr.org/transcripts/nx-s1-5870615"
+    },
+    {
+        "critic": "Rachit Gupta",
+        "is_top_critic": false,
+        "media": "Filmfare",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T20:04:39.000Z",
+        "quote": "Without being presumptive, it feels like with Supergirl, director Craig Gillespie and his writer Ana Nogueira tried to wriggle out of a writer's block by watching John Wick, Guardians Of The Galaxy, Star Wars, Star Trek and a bit of Mad Max: Fury Road.",
+        "url": "https://www.filmfare.com/reviews/hollywood-movies/supergirl-review-high-on-action-low-on-soul-84586.html"
+    },
+    {
+        "critic": "Dana Han-Klein",
+        "is_top_critic": false,
+        "media": "We're Watching What?!",
+        "sentiment": "Fresh 🍅",
+        "score": "3.8/5",
+        "date": "2026-06-26T19:33:35.000Z",
+        "quote": "A solid outing with excellent performances from Alcock, Momoa, and Ridley. There is however a bit of script bumpiness, sometimes economy class visual effects, and a missing extra oomph / spark that keeps this at just good instead of super.",
+        "url": "https://youtu.be/tNxK2Grhjk4"
+    },
+    {
+        "critic": "Alex Bentley",
+        "is_top_critic": false,
+        "media": "CultureMap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T19:23:06.000Z",
+        "quote": "While not a full-on disaster, Supergirl does not continue the momentum that Superman started.",
+        "url": "https://dallas.culturemap.com/news/entertainment/supergirl-loses-the-sense-of-fun-that-superman-brought-to-dc-comics-films/"
+    },
+    {
+        "critic": "Katie Walsh",
+        "is_top_critic": true,
+        "media": "Tribune News Service",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-06-26T19:14:45.000Z",
+        "quote": "With Kara’s melancholy monologues and musical taste, there’s really only one way to label her: emo girl. Some of it works and some of it doesn’t, but what works here is Alcock.",
+        "url": "https://www.twincities.com/2026/06/26/movie-review-milly-alcock-brings-her-powers-to-gritty-supergirl/"
+    },
+    {
+        "critic": "Rachel Walshe ",
+        "is_top_critic": false,
+        "media": "Film Ireland Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T19:12:41.000Z",
+        "quote": "Supergirl is a good movie. If you’re looking for a fun, action-y romp with a good soundtrack and well acted cast, then this is probably a good bet. The frustrating part was this could have been great. ",
+        "url": "https://www.filmireland.net/review-supergirl/"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "The Travers Take",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-26T19:08:52.000Z",
+        "quote": "Milly Alcock does her damnedest to shock this super diva to punk life, but her movie feels like a musty relic whose time has passed, and what’s with the lame stunts that never get off the ground?",
+        "url": "https://www.thetraverstake.com/featured/supergirl/"
+    },
+    {
+        "critic": "Shalini Langer",
+        "is_top_critic": false,
+        "media": "The Indian Express",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-26T19:03:07.000Z",
+        "quote": "Alcock hits the right notes without trying too hard, and co-writer-director Craig Gillespie allows her to do that by keeping Supergirl unweighted by the burden of too many expectations even as she hops imaginatively from one planet to another.",
+        "url": "https://indianexpress.com/article/entertainment/movie-review/supergirl-movie-review-milly-alcock-starrer-is-a-witty-superhero-adventure-10758967/"
+    },
+    {
+        "critic": "M.V. Moorhead",
+        "is_top_critic": false,
+        "media": "Phoenix Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T18:48:48.000Z",
+        "quote": "By the standards of big summer blockbusters, this Supergirl is relatively modest in scope, which I found agreeable. It even clocks in at under two hours! ",
+        "url": "https://www.phoenixmag.com/2026/06/26/friday-flicks-supergirl-just-wants-to-have-fun/"
+    },
+    {
+        "critic": "DarkSkyLady",
+        "is_top_critic": false,
+        "media": "DarkSkyLady Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T18:38:49.000Z",
+        "quote": "Supergirl is fun with themes around loss, justice, and moving forward. But given the state of society, it’s less superhero and more of a white girl-boss flick. ",
+        "url": "https://darkskylady.com/supergirl-has-heart-but-lacks-anything-unique/"
+    },
+    {
+        "critic": "Andrea Zamora",
+        "is_top_critic": false,
+        "media": "Sensacine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T18:31:51.000Z",
+        "quote": "The most frustrating thing about Supergirl is the feeling of missed opportunity . Kara is a character with enormous potential, but the story presents her with superficial obstacles that never seem to pose a real challenge. [Full review in Spanish]",
+        "url": "https://www.sensacine.com/peliculas/pelicula-266720/sensacine/"
+    },
+    {
+        "critic": "Rick Romancito",
+        "is_top_critic": false,
+        "media": "The Taos News",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2026-06-26T17:58:10.000Z",
+        "quote": "What director Craig Gillespie and his team put together was a movie that was exciting, offbeat, and balanced precariously on the edge of being hard-core punk. But, it also seemed half-baked.",
+        "url": "https://www.taosnews.com/tempo/reviews/truth-justice-and-loads-of-attitude/article_5a04eb9e-ded5-45d4-9e31-94e84b6f9792.html"
+    },
+    {
+        "critic": "Jess Phillips",
+        "is_top_critic": false,
+        "media": "Daily Express (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-26T17:55:02.000Z",
+        "quote": "There are endless strings of coincidences, crammed in alongside the standard superhero fare – more deus ex machinas than you can shake a stick at, characters surviving the unsurvivable, the dismissal of any and all logic.",
+        "url": "https://www.express.co.uk/entertainment/films/2221167/supergirl-review-milly-alcock-jason-momoa"
+    },
+    {
+        "critic": "Odie Henderson",
+        "is_top_critic": true,
+        "media": "Boston Globe",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T17:53:21.000Z",
+        "quote": "Momoa has fun with the role, but the film doesn’t know what to do with him.",
+        "url": "https://www.bostonglobe.com/2026/06/24/arts/supergirl-milly-alcock/"
+    },
+    {
+        "critic": "Javier Ocaña",
+        "is_top_critic": false,
+        "media": "El Pais (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T17:40:52.000Z",
+        "quote": "Supergirl doesn't exactly have much more humor, but the musical energy...and the remarkable cadence of the staging in the final action-packed climax, manipulating real time through cinematic time, make it more appealing. [Full review in Spanish] ",
+        "url": "https://elpais.com/cultura/cine/2026-06-26/supergirl-la-prima-arisca-de-superman-contra-los-violadores-de-mujeres.html"
+    },
+    {
+        "critic": "Khanaphot Saengchai",
+        "is_top_critic": false,
+        "media": "Bangkok Post",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T17:29:58.000Z",
+        "quote": "While not living up to her cousin's previous outing, Supergirl is still an enjoyable watch that shows what the DC Universe can be.\n\n\n",
+        "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3276970/supergirl-sets-out-to-save-her-dog-and-herself"
+    },
+    {
+        "critic": "Emmet Asher-Perrin",
+        "is_top_critic": false,
+        "media": "Reactor",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T17:25:28.000Z",
+        "quote": "But more to the point, claiming that a 13-year-old girl could and should feel permanently tarnished, spiritually, mentally, or emotionally, for killing a man who mass murdered her family and plans to use her as a breeding sex slave is absurd.",
+        "url": "https://reactormag.com/movie-review-supergirl/"
+    },
+    {
+        "critic": "Bill Goodykoontz",
+        "is_top_critic": false,
+        "media": "Arizona Republic",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-26T17:11:58.000Z",
+        "quote": "The direction is messy, and the fight scenes, of which there are plenty, are shot way too dark, making it hard to know what’s going on, and hindered by remarkably poor computer graphics.",
+        "url": "https://www.azcentral.com/story/entertainment/movies/2026/06/24/supergirl-review/90596421007/"
+    },
+    {
+        "critic": "Shawn Edwards",
+        "is_top_critic": false,
+        "media": "Fox 4 Kansas City",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T16:56:34.000Z",
+        "quote": "Milly Alcock sort of ushers in a superhero for a new generation. ",
+        "url": "https://www.youtube.com/watch?v=urfx5jzK7qY&list=PLYIuAMO7HHjjMBXV3sEz6ssmoX3rvevyL&index=1"
+    },
+    {
+        "critic": "Sergio Burstein ",
+        "is_top_critic": false,
+        "media": "Los Angeles Times",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T16:50:06.000Z",
+        "quote": "Although its pace never falters and many of its scenes are spectacular, the film fails to weave together a mise-en-scène that leaves a lasting impression, beyond the few long shots that appear here and there. [Full review in Spanish]",
+        "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2026-06-25/una-supergirl-agresiva-una-despedida-de-jackass-sin-concesiones-y-mas-estrenos-de-cine"
+    },
+    {
+        "critic": "Ryan Syrek",
+        "is_top_critic": false,
+        "media": "The Reader (Omaha, NE)",
+        "sentiment": "Rotten 🤢",
+        "score": "F",
+        "date": "2026-06-26T16:48:51.000Z",
+        "quote": "This is a shockingly ugly movie. The action sequences are held together by thoughts and prayers. The alien character designs were seemingly crafted by whoever first drew the Cybertruck. It isn’t that I hated everything so much as I liked nothing.",
+        "url": "https://thereader.com/2026/06/26/supergirl-review/"
+    },
+    {
+        "critic": "Luis Martínez ",
+        "is_top_critic": false,
+        "media": "El Mundo (Spain)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-26T16:45:22.000Z",
+        "quote": "Milly Alcock's charisma and grace are no match for a film that is ugly, dark, tedious, and so desperately trying to be likeable and kind that it makes you sweat. [Full review in Spanish]\n\n\n",
+        "url": "https://www.elmundo.es/cultura/cine/2026/06/25/6a3d0da2e9cf4a310b8b458d.html"
+    },
+    {
+        "critic": "Suvigya Buch",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter India",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T16:44:41.000Z",
+        "quote": "Supergirl fights super bad writing. And loses.",
+        "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/supergirl-movie-review-a-remarkably-unremarkable-addition-to-james-gunns-dcu"
+    },
+    {
+        "critic": "Chris La Vigna",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-06-26T16:28:13.000Z",
+        "quote": "A solid entry in Gunn's expanding DCU, and one that will hopefully prove to be a guiding light for the franchise in the future.",
+        "url": "https://www.cbr.com/supergirl-review/"
+    },
+    {
+        "critic": "Ayaan Paul Chowdhury",
+        "is_top_critic": false,
+        "media": "The Hindu",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T16:28:02.000Z",
+        "quote": "...Supergirl reduces its eponymous hero’s first feature-film outing to the same faux-anarchic house style sludge that has metastasised across every superhero film touched by Gunn since Guardians of the Galaxy.",
+        "url": "https://www.thehindu.com/entertainment/movies/supergirl-movie-review-milly-alcock-deserves-better-than-james-gunns-franchise-monoculture/article71150138.ece"
+    },
+    {
+        "critic": "Lachmi Deb Roy",
+        "is_top_critic": false,
+        "media": "Firstpost",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-06-26T16:25:16.000Z",
+        "quote": "Supergirl is not only a wasted opportunity of the adaptation of Supergirl: Woman of Tomorrow for the makers but an absolute waste of time too.",
+        "url": "https://www.firstpost.com/entertainment/supergirl-movie-review-milly-alcocks-lead-film-is-flat-pretentious-and-underwhelming-14026361.html/amp"
+    },
+    {
+        "critic": "Chris Knight",
+        "is_top_critic": false,
+        "media": "National Post",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T16:22:03.000Z",
+        "quote": "Supergirl isn’t a terrible movie, and Alcock really nails the couldn’t-care-less sloppiness of a hero... But as a superhero tale (or even as a Star Wars one), it’s a little thin and scattered. ",
+        "url": "https://nationalpost.com/entertainment/movies/movie-review-supergirl-might-just-be-the-second-best-star-wars-movie-this-summer"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2026-06-26T16:12:44.000Z",
+        "quote": "It's a super disappointment.",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2026/06/24/supergirl-is-stuck-in-neutral-grinds-dc-universe-to-a-halt-review/90677502007/"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T15:51:18.000Z",
+        "quote": "In a film that seems more interested in making its protagonist cool rather than compelling, this spinoff rarely takes flight.",
+        "url": "https://cinemalogue.com/2026/06/26/supergirl/"
+    },
+    {
+        "critic": "Collin Garbarino",
+        "is_top_critic": false,
+        "media": "WORLD",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T15:12:10.000Z",
+        "quote": "Despite its problems, I was more or less satisfied with how Supergirl turned out. However, superhero fatigue is real.",
+        "url": "https://wng.org/podcasts/more-grit-than-glory-1782431545"
+    },
+    {
+        "critic": "Rain Jokinen",
+        "is_top_critic": false,
+        "media": "MullingMovies.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T14:52:45.000Z",
+        "quote": "I fear if this movie doesn't do well, this may be the last we see of this Supergirl, which is a shame because I really would like to see what she could accomplish back on Earth with her old cousin Kal-El.",
+        "url": "https://www.mullingmovies.com/2026/06/weekend-mullings-supergirl.html"
+    },
+    {
+        "critic": "Emma Simmonds",
+        "is_top_critic": false,
+        "media": "The List",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2026-06-26T14:02:25.000Z",
+        "quote": "Supergirl doesn’t remotely outstay its welcome and is never less than likeable, though calling it super is a stretch.",
+        "url": "https://list.co.uk/news/supergirl-film-review-passable-heroic-fun-48487"
+    },
+    {
+        "critic": "John Urbancich",
+        "is_top_critic": false,
+        "media": "JMuvies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T13:55:58.000Z",
+        "quote": "Alcock et al. keep us engaged if not engrossed along with \"Star Wars\"-worthy creatures and assorted \"Mad Max\"-like vibes mixed into a hail of occasionally eye-popping FX, mostly of the intergalactic kind.",
+        "url": "https://jmuvies.blogspot.com/2026/06/quirky-supergirl-flies-against-type-and.html"
+    },
+    {
+        "critic": "David Griffiths",
+        "is_top_critic": false,
+        "media": "Subculture Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-26T13:41:59.000Z",
+        "quote": "Taking Supergirl off planet is the secret to the film working. Gillespie puts his stamp on this film and the result is a decent superhero film that shows that perhaps Gunn's vision has legs.",
+        "url": "https://subcultureentertainment.com/2026/06/film-review-supergirl-review-2026/"
+    },
+    {
+        "critic": "Aaron Peterson",
+        "is_top_critic": false,
+        "media": "The Hollywood Outsider",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2026-06-26T13:18:23.000Z",
+        "quote": "Milly Alcock makes Supergirl pop every time she’s on screen, bringing charisma, heart, and personality. She deserved a stronger villain and more confidently directed action scenes, but her performance elevates nearly everything around her.",
+        "url": "https://www.thehollywoodoutsider.com/supergirl-2026-film-review/"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-26T12:59:04.000Z",
+        "quote": "Milly Alcock injects real personality and irreverence into a genre that has recently felt more mechanical than inspired. Her presence doesn’t fix everything, but it gives the film a pulse, and that alone goes a long way.",
+        "url": "https://www.theonlycritic.com/post/supergirl-review-milly-alcock-s-high-flying-hero-has-her-charms"
+    },
+    {
+        "critic": "Jackson Weaver",
+        "is_top_critic": false,
+        "media": "CBC News",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-26T11:58:31.000Z",
+        "quote": "Written by first-time screenwriter Ana Nogueira and directed by action newcomer Craig Gillespie, it is honestly shocking how directionless this followup to DCU's eclectically energetic 2025 Superman is.",
+        "url": "https://www.cbc.ca/news/entertainment/supergirl-review-9.7249461"
+    },
+    {
+        "critic": "Sean Collier",
+        "is_top_critic": false,
+        "media": "Table Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-26T11:42:31.000Z",
+        "quote": "Alcock plants her flag as a star to reckon with here, easily making Kara the equal to her much more well-known cousin.",
+        "url": "https://pittsburgh.tablemagazine.com/blog/colliers-cuts-supergirl-jackass-best-and-last-movie-reviews/"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T08:03:42.000Z",
+        "quote": "…while James Gunn and Craig Gillespie have an undeniably fresh, gritty and commendably brisk take on these characters, there’s not quite enough new about these adventures of Supergirl to earn this entry more than elementary pass marks…",
+        "url": "https://film-authority.com/2026/06/26/supergirl-2026/"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-06-26T06:30:41.000Z",
+        "quote": "Sluggish, incoherent action burden capable star Milly Alcock, who does the heavy lifting to little avail. ",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=412834fa-878b-4894-859e-d71dc82a6674"
+    },
+    {
+        "critic": "Ria Dhull",
+        "is_top_critic": false,
+        "media": "Spectrum Culture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T06:14:06.000Z",
+        "quote": "Supergirl suffers from being a DCU installment. Still, Milly Alcock manages to hold the film together.",
+        "url": "https://spectrumculture.com/2026/06/25/supergirl-review/"
+    },
+    {
+        "critic": "Grant Watson",
+        "is_top_critic": false,
+        "media": "Fiction Machine",
+        "sentiment": "Fresh 🍅",
+        "score": "5/10",
+        "date": "2026-06-26T06:03:28.000Z",
+        "quote": "Here comes Craig Gillespie’s Supergirl, huffing and wheezing like a middle-aged man trying to prove he is ‘down with the kids’.",
+        "url": "https://fictionmachine.com/2026/06/26/review-supergirl-2026/"
+    },
+    {
+        "critic": "Jonathan W. Hickman",
+        "is_top_critic": false,
+        "media": "The Newnan Times-Herald",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-06-26T03:55:39.000Z",
+        "quote": "Milly Alcock has the spark to make Kara soar, but ‘Supergirl’ keeps pulling focus from the heroine whose name is on the marquee.",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/supergirl/article_c66726dd-9f61-4969-95c2-56c0042dc274.html"
+    },
+    {
+        "critic": "Mathew DeKinder",
+        "is_top_critic": false,
+        "media": "Mat's Entertainment",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-26T03:11:09.000Z",
+        "quote": "\"Supergirl\" is an entertaining but entirely disposable film.",
+        "url": "https://matsentertainment.com/supergirl-soars-even-when-her-movie-doesnt/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-26T02:59:44.000Z",
+        "quote": "Supergirl could have benefited from a lot more Supergirl and a lot less of everything else.",
+        "url": "http://www.markreviewsmovies.com/reviews/S/supergirl-2026.htm"
+    },
+    {
+        "critic": "Christopher Lloyd",
+        "is_top_critic": false,
+        "media": "The Film Yap",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-26T02:38:31.000Z",
+        "quote": "A potential tentpole superhero is undermined by one of the most wrongheaded takes in recent memory, with Kara from Krypton turned into a glum Callie from the Valley space vagabond.",
+        "url": "https://filmyap.substack.com/p/supergirl"
+    },
+    {
+        "critic": "Simon Foster",
+        "is_top_critic": false,
+        "media": "Screen-Space (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-26T02:24:34.000Z",
+        "quote": "The stakes are low but the engagement is high in Craig Gillespie’s SUPERGIRL, with Milly Alcock’s Kara Zor-El the dark heart of a punk-lite pastiche that plays best as a girl-power anthem, slightly less so as a superhero pic.",
+        "url": "https://screenspace.substack.com/p/the-devils-reborn-the-resurrection"
+    },
+    {
+        "critic": "Olga Artemyeva",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-26T01:29:06.000Z",
+        "quote": "Supergirl is a film that's very easy to find fault with, citing predictability and the lack of originality. At the same time, it's a movie that is perfectly self-aware of what it is and focuses on delivering just that. ",
+        "url": "https://screenanarchy.com/2026/06/supergirl-review.html"
+    },
+    {
+        "critic": "Russ Simmons",
+        "is_top_critic": false,
+        "media": "KKFI-FM (Kansas City)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-26T01:22:04.000Z",
+        "quote": "Maybe the best thing you can say is that \"Supergirl\" is a serviceable intro to a welcome new character in the DC Universe.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-supergirl-pg-13-lucky-strike-r-couture-r-in-the-hand-of-dante-r/"
+    },
+    {
+        "critic": "Jason Di Rosso",
+        "is_top_critic": false,
+        "media": "The Screen Show (ABC Radio Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T00:12:19.000Z",
+        "quote": "With a jukebox soundtrack that feels like it’s designed to paper over the pacing problems...the film is overblown and unmemorable.",
+        "url": "https://www.abc.net.au/listen/programs/the-screen-show/harlan-coben-sam-worthington-lucile-hadzihalilovic/106767164"
+    },
+    {
+        "critic": "Peter Sobczynski",
+        "is_top_critic": false,
+        "media": "Auteurist Class (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-26T00:02:34.000Z",
+        "quote": "Even though it seems strangely determined to avoid focusing on Supergirl, the best thing about it is the performance by Alcock, who brings a lot of fire, wit and attitude to the proceedings, at least during the times when she is given the chance To do so.",
+        "url": "https://open.substack.com/pub/petersobczynski/p/shake-it-off?r=129p34&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Doug Walker",
+        "is_top_critic": false,
+        "media": "Channel Awesome",
+        "sentiment": "Rotten 🤢",
+        "score": "2 / 4",
+        "date": "2026-06-25T23:26:46.000Z",
+        "quote": "Like its main character, the film seems drunk, lost, confused, and never seems to sober up.",
+        "url": "https://www.youtube.com/watch?v=K8wtlcTvPfU"
+    },
+    {
+        "critic": "Ben Wasserman",
+        "is_top_critic": false,
+        "media": "Film-Forward.com",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2026-06-25T23:07:14.000Z",
+        "quote": "It’s Alcock’s performance that helps stitch Supergirl’s underdeveloped ends into something reasonably engaging.",
+        "url": "https://film-forward.com/action/supergirl"
+    },
+    {
+        "critic": "Marlon Wallace",
+        "is_top_critic": false,
+        "media": "The M Report (WBOC.com)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-25T22:25:02.000Z",
+        "quote": "While this film might do a better job of the Lone Wolf and Cub dynamic, most super-hero films live or die by their villains or antagonists. This one mostly fails in that regard.",
+        "url": "https://www.wboc.com/features/the_m_report/movie-review---supergirl-2026/article_1734dc4a-b969-41ae-ac10-ec17da70903a.html"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T22:23:09.000Z",
+        "quote": "This movie proves that you can take something that might seem esoteric or strictly-for-the-heads and make mass entertainment out of it without selling out completely. ",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/supergirl-review-dc-universe-rebooot-1235577184/"
+    },
+    {
+        "critic": "Scott Menzel",
+        "is_top_critic": false,
+        "media": "Awards Buzz",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2026-06-25T22:20:08.000Z",
+        "quote": "I have always admired DC for taking creative swings. The problem is that this swing never works. It lacks compelling storytelling, memorable characters, emotional weight, and a clear artistic voice.",
+        "url": "https://awardsbuzz.com/supergirl-review-james-gunn-dcu-disappointment/"
+    },
+    {
+        "critic": "Nell Minow",
+        "is_top_critic": true,
+        "media": "Movie Mom",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-25T22:14:35.000Z",
+        "quote": "Seeing Kara fight a gigantic, scary-looking guy without her powers and with impaired judgment adds interest. It’s a little messy. But so is Kara, and her path to being a bit less messy by the end is worth watching.",
+        "url": "https://moviemom.com/supergirl/"
+    },
+    {
+        "critic": "Leila Latif",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T21:41:53.000Z",
+        "quote": "Milly Alcock’s hungover hero is delightful, even if the film never truly cuts loose. Here’s hoping she gets a weirder, wilder showcase.",
+        "url": "https://www.empireonline.com/movies/reviews/supergirl-2026/"
+    },
+    {
+        "critic": "Jeanine T. Abraham",
+        "is_top_critic": false,
+        "media": "VisAbleBlackwoman (Medium)",
+        "sentiment": "Rotten 🤢",
+        "score": "0/5",
+        "date": "2026-06-25T21:34:26.000Z",
+        "quote": "Supergirl is a film that takes seriously dark situations too lightly and has holes in the plot that you could drive a truck through. ",
+        "url": "https://medium.com/@visableblackwoman/supergirl-is-a-story-about-a-white-girl-who-loves-her-dog-3a2c970fb163"
+    },
+    {
+        "critic": "Andrea Chase",
+        "is_top_critic": false,
+        "media": "Killer Movie Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-25T20:05:42.000Z",
+        "quote": "Alcock moves nimbly from pratfalls and broad comedy to empathy unfettered by the cultural demand of smiling or pretending to have any patience. And you gotta love that she doesn't feel the need to comb her hair while saving the world.",
+        "url": "https://www.killermoviereviews.com/movie/supergirl/%20%E2%80%8E"
+    },
+    {
+        "critic": "Matt Fernandez",
+        "is_top_critic": false,
+        "media": "Geeks of Color",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-25T19:38:31.000Z",
+        "quote": "Though the pacing, editing, and choices involving the main characters have room for improvement, Craig Gillespie’s Supergirl is still an action-packed treat. It’s full of awesome aliens, youthful energy, and fun battles. ",
+        "url": "https://geeksofcolor.co/reviews/supergirl-has-its-stumbles-but-still-flies-high-review"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-25T19:33:09.000Z",
+        "quote": "The best 'Supergirl' movie ever [but] an uneven affair with perhaps too many moving parts and jostling tones—part origin story, part growing-up tale and part bruising action adventure, and variously violent, comic and sentimental.  ",
+        "url": "https://www.oneguysopinion.com/supergirl/"
+    },
+    {
+        "critic": "Mario Alegre",
+        "is_top_critic": false,
+        "media": "Próxima Tanda (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T19:02:16.000Z",
+        "quote": "If this makes more people pick up a copy Supergirl: Woman of Tomorrow, so be it. The comic is well written and beautiful to look at, two things you can't say about its underwhelming cinematic adaptation that coasts on Alcock's charismatic performance.",
+        "url": "https://marioalegre.substack.com/p/supergirl-no-supera-la-mediocridad-resena-critica-dc-milly-alcock"
+    },
+    {
+        "critic": "Manohla Dargis",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T18:57:42.000Z",
+        "quote": "The strain shows in different ways in “Supergirl,” which is derivative if altogether watchable, largely on account of its star. ",
+        "url": "https://www.nytimes.com/2026/06/25/movies/supergirl-review.html"
+    },
+    {
+        "critic": "Kristian M. Lin",
+        "is_top_critic": false,
+        "media": "Fort Worth Weekly",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T18:56:08.000Z",
+        "quote": "This iteration made her into the family screw-up who’d rather order another cocktail than save the universe... It’s where Supergirl’s own movie starts, and it successfully distinguishes the film from the herd of other superhero flicks. ",
+        "url": "https://www.fwweekly.com/2026/06/24/straighten-up-and-fly-right/"
+    },
+    {
+        "critic": "Branyan Towe",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-25T18:55:40.000Z",
+        "quote": "Supergirl should be better than it is, but Milly Alcock’s magnificent performance as Kara Zor-El/Supergirl makes this a good enough space adventure.",
+        "url": "https://loudandclearreviews.com/supergirl-movie-review/"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-25T18:53:58.000Z",
+        "quote": "A tremendous slog of a film.",
+        "url": "https://www.thebulwark.com/p/supergirl-review"
+    },
+    {
+        "critic": "Robert Denerstein",
+        "is_top_critic": false,
+        "media": "Denerstein Unleashed",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-25T18:42:50.000Z",
+        "quote": "A scene in a space bus with a pint-sized (literally) alien conductor proves amusing, but Supergirl seldom soars. ",
+        "url": "https://denersteinunleashed.blogspot.com/2026/06/not-enough-kick-in-this-supergirl.html"
+    },
+    {
+        "critic": "Nikki Gemmell",
+        "is_top_critic": false,
+        "media": "The Australian",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T18:20:44.000Z",
+        "quote": "Alock has made her mark as a superhero to remember, and you can’t say that of all of them. She just needed a tighter, sparkier, less derivative script.",
+        "url": "https://www.theaustralian.com.au/culture/supergirl-review-millie-alcock-is-the-hero-this-franchise-needed/news-story/1ce0e2c7be2c9d1ee1f8e0af97d27e99"
+    },
+    {
+        "critic": "Olly Richards",
+        "is_top_critic": false,
+        "media": "Time Out",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T18:17:38.000Z",
+        "quote": "This is unquestionably the best Supergirl movie, in a field of two, but it could have aimed for so much more. It never really flies to any great heights but stays at a pleasant cruising altitude. ",
+        "url": "https://www.timeout.com/movies/supergirl-review-2026"
+    },
+    {
+        "critic": "Sandra Hall",
+        "is_top_critic": true,
+        "media": "Sydney Morning Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-25T17:59:34.000Z",
+        "quote": "Gillespie has ranged wide in his career – from I, Tonya to Cruella – but he always invests his films with a sharp wit and a knowing tone without being too slick about it. In this one, he doesn’t neglect the universe’s exotic side. ",
+        "url": "https://www.smh.com.au/culture/movies/what-to-watch-at-the-movies-this-week-he-man-has-fallen-on-hard-times-20260603-p603j0.html?post=p5andz&gb=1"
+    },
+    {
+        "critic": "Danny Leigh",
+        "is_top_critic": false,
+        "media": "Financial Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T17:41:22.000Z",
+        "quote": "Gillespie gets his name on the credits; Gunn keeps his signatures on screen with fizzing pop-punk, squiddy aliens, kicked asses and wisecracks. ",
+        "url": "https://www.ft.com/content/5edd7c9d-631d-4fee-bcf7-9f5e7c1a1c72"
+    },
+    {
+        "critic": "Dulcie Pearce",
+        "is_top_critic": false,
+        "media": "The Sun (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-25T17:33:20.000Z",
+        "quote": "...with a few comedic appearances from Superman (David Corenswet), an excellent soundtrack and enough jeopardy to keep you intrigued, this film is off to a flier.",
+        "url": "https://www.thesun.co.uk/tv/39530875/milly-alcock-supergirl-review-grungy-rebellious-loner/"
+    },
+    {
+        "critic": "Oscar Goff",
+        "is_top_critic": false,
+        "media": "Cambridge Day",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-06-25T17:27:24.000Z",
+        "quote": " It may not be more powerful than a locomotive, but it’s a diverting bit of summer pop nonsense — which is what superhero movies were supposed to be in the first place.",
+        "url": "https://www.cambridgeday.com/2026/06/25/supergirl-and-leviticus-reviews/"
+    },
+    {
+        "critic": "Renuka Vyavahare",
+        "is_top_critic": false,
+        "media": "The Times of India",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-25T17:14:40.000Z",
+        "quote": "Supergirl is an engaging, heartfelt superhero adventure that may seem generic, even unambitious at first glance, but gradually reveals an emotional depth that stays with you.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/supergirl/movie-review/131995159.cms"
+    },
+    {
+        "critic": "Juanma Fernández París",
+        "is_top_critic": false,
+        "media": "El Nuevo Día (Puerto Rico)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-25T17:12:01.000Z",
+        "quote": "Regardless of what DC fans think of this film, this version of \"Supergirl\" is infinitely superior to Helen Slater's...[Full review in Spanish]",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/la-mejor-version-de-supergirl-llega-al-cine-todavia-hay-espacio-para-sorprender-en-el-universo-de-superheroes/"
+    },
+    {
+        "critic": "Deniz Arslan",
+        "is_top_critic": false,
+        "media": "Battle Royale With Cheese",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-06-25T16:47:40.000Z",
+        "quote": "With flat humor, weak writing, predictable storytelling, and another heavy dose of James Gunn's familiar style, Supergirl ends up feeling less like a fresh beginning for DC and more like the peak of superhero burnout.",
+        "url": "https://battleroyalewithcheese.com/2026/06/supergirl-review/"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2026-06-25T16:33:08.000Z",
+        "quote": "Supergirl has an obvious affection for not only DC Comics, but also Star Wars, John Wick and a handful of post-apocalyptic flicks but allows those influences to get in the way of establishing a style and personality of its own.",
+        "url": "https://richardcrouse.ca/supergirl-2-%C2%BD-stars-has-trouble-establishing-a-style-and-personality-of-its-own/"
+    },
+    {
+        "critic": "Jeanne Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T16:32:05.000Z",
+        "quote": "Milly Alcock is a stellar choice to play Kara/Supergirl. Her edgy performance is definitely entertaining and enough to recommend SUPERGIRL.",
+        "url": "https://www.kaplanvskaplan.com/new-releases/supergirl/"
+    },
+    {
+        "critic": "Patrick Beatty",
+        "is_top_critic": false,
+        "media": "See It or Skip It",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-25T16:28:54.000Z",
+        "quote": "A dull, poorly written adventure.",
+        "url": "https://seeitorskipitreviews.com/2026/06/25/supergirl-review-milly-alcock-soars-in-a-lifeless-adaptation/"
+    },
+    {
+        "critic": "David Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T16:27:46.000Z",
+        "quote": "Milly Alcock as Supergirl brings confidence, attitude and warmth to her role that could have sunk the movie had she faltered. ",
+        "url": "https://www.kaplanvskaplan.com/new-releases/supergirl/"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "The SS Ben Hecht",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-25T16:06:53.000Z",
+        "quote": "Alcock's performance and characterization are fine, but they can’t save the film from sluggish storytelling, misplaced stakes, and some of the most incoherent action filmmaking in recent memory.",
+        "url": "https://stephensilver.substack.com/p/supergirl-is-a-mess-and-not-in-a"
+    },
+    {
+        "critic": "Christopher Llewellyn Reed",
+        "is_top_critic": false,
+        "media": "Film Festival Today",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-06-25T16:01:28.000Z",
+        "quote": "In addition, the action looks terrible, the CG showing at the digital seams",
+        "url": "https://filmfestivaltoday.com/film-reviews/supergirl-falls-flat"
+    },
+    {
+        "critic": "Mark Meszoros",
+        "is_top_critic": false,
+        "media": "The News-Herald (Willoughby, OH)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-25T15:48:19.000Z",
+        "quote": "It’s tonally boring, a chore of a movie chock full of thinly drawn characters and increasingly bombastic and violent.",
+        "url": "https://www.news-herald.com/2026/06/24/supergirl-review-dc-studios-serves-up-a-second-less-than-super-movie/"
+    },
+    {
+        "critic": "Charles Koplinski",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4.0",
+        "date": "2026-06-25T15:26:38.000Z",
+        "quote": "Producers have shied away from presenting standard origin stories in recent years, yet that option would have been welcomed here.",
+        "url": "https://reeltalkwithchuckandpam.com/supergirl-chuck-skip-it/"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T15:08:49.000Z",
+        "quote": "It provides a serviceable introduction to Milly Alcock’s fun new take on the title character as well as a wider look at various other corners of the DC Universe. ",
+        "url": "https://filmfeeder.co.uk/film-reviews/supergirl-dir-craig-gillespie"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-25T15:08:34.000Z",
+        "quote": "The big screen return of Supergirl is as blearily rendered as its titular character's constant state of inebriation, a boilerplate origin story which pays lip service to a nascent characterization still conveniently diminished by patronizing appellation.",
+        "url": "https://www.youtube.com/watch?v=PKa0ucR_EDc"
+    },
+    {
+        "critic": "Johnny Oleksinski",
+        "is_top_critic": false,
+        "media": "New York Post",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-25T14:40:02.000Z",
+        "quote": "No, this is a movie that tries super-hard to fit in and thus fade out. And often that means, like a Goth in the cafeteria, pretending to be edgy.\n\n",
+        "url": "https://nypost.com/2026/06/24/entertainment/supergirl-review-dc-is-already-back-to-making-mediocre-superhero-movies/"
+    },
+    {
+        "critic": "Courtney Small",
+        "is_top_critic": false,
+        "media": "Exclaim!",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-06-25T14:32:33.000Z",
+        "quote": "A solid, but not quite super, entry into the DC canon of films",
+        "url": "https://exclaim.ca/film/article/supergirl-film-review"
+    },
+    {
+        "critic": "Tina Kakadelis",
+        "is_top_critic": false,
+        "media": "Beyond the Cinerama Dome",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T14:24:58.000Z",
+        "quote": "Kara is a different type of hero. One who’s rough around the edges, but whose heart has the same goal. To be good. To help those in need. Supergirl will make you a summer blockbuster believer again.",
+        "url": "https://beyondthecineramadome.com/movie-reviews/supergirl-film-review"
+    },
+    {
+        "critic": "Maria Lattila",
+        "is_top_critic": false,
+        "media": "Film Stories",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T14:06:26.000Z",
+        "quote": "Good but not great, then. Solid on the surface with a wobbly base.",
+        "url": "https://filmstories.co.uk/reviews/supergirl-review-the-woman-of-tomorrow-is-flawed-but-that-should-be-allowed/"
+    },
+    {
+        "critic": "Blake Howard",
+        "is_top_critic": false,
+        "media": "One Heat Minute",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-06-25T13:22:29.000Z",
+        "quote": "About forty percent of Supergirl absolutely rips. It imagines a space western with two compelling young women at its centre and briefly convinces you that's exactly where superhero cinema should be heading. Then it remembers it's a superhero blockbuster.",
+        "url": "https://stream.redcircle.com/episodes/94696527-2341-4613-ba59-82b430214bee/stream.mp3"
+    },
+    {
+        "critic": "Rob Thomas",
+        "is_top_critic": false,
+        "media": "Not That Rob Thomas (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-25T12:52:10.000Z",
+        "quote": "Gunn’s movie was at times messy and unfocused, but it had a sense of humor and a point of view. \"Supergirl\" lacks both.",
+        "url": "https://notthatrobthomas.substack.com/p/thats-really-not-so-super-supergirl"
+    },
+    {
+        "critic": "David Gonzalez",
+        "is_top_critic": false,
+        "media": "The Cinematic Reel",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5",
+        "date": "2026-06-25T12:01:16.000Z",
+        "quote": "Supergirl's faults are often masked by Milly Alcock’s wonderful performance, but the film is dragged down by a villain so bad it makes the ’90s Captain America Red Skull look inspired, and third-act VFX so rough it makes The Flash look like Avatar.",
+        "url": "https://thecinematicreel.com/supergirl/"
+    },
+    {
+        "critic": "Matt Maytum",
+        "is_top_critic": false,
+        "media": "NME (New Musical Express)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T11:02:57.000Z",
+        "quote": "It's a film that sometimes lacks oomph. Still, Milly Alcock makes light work of an impressively imperfect hero and her performance is worth a watch alone",
+        "url": "https://www.nme.com/reviews/film-reviews/supergirl-review-milly-alcock-jason-momoa-superman-krypto-3952996"
+    },
+    {
+        "critic": "Karina Adelgaard",
+        "is_top_critic": false,
+        "media": "Womentainment",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-25T09:48:44.000Z",
+        "quote": "This movie is, objectively speaking, so much better than many other superhero movies featuring a male superhero, but you know this will be judged differently. Could it have been better? Yes, absolutely. However, Milly Alcock is amazing in...",
+        "url": "https://womentainment.com/supergirl-2026-movie-review/"
+    },
+    {
+        "critic": "Katie Smith-Wong",
+        "is_top_critic": false,
+        "media": "Flick Feast",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-25T07:57:44.000Z",
+        "quote": "Despite its potential, Supergirl is a mixed bag that mostly suffers from an inconsistent and weak narrative.",
+        "url": "https://www.flickfeast.co.uk/reviews/film-reviews/supergirl/"
+    },
+    {
+        "critic": "Lynn Venhaus",
+        "is_top_critic": false,
+        "media": "PopLifeSTL",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-25T06:39:04.000Z",
+        "quote": "...the screenplay was written by Ana Nogueira, who focused on emotional depth, cheeky wit, a found-family connection, and an underground vibe. Where the story is weakest is its villain, Krem.",
+        "url": "https://poplifestl.com/spunky-punky-milly-alcock-ascends-in-dcus-edgier-gritty-supergirl/"
+    },
+    {
+        "critic": "Latoya Austin",
+        "is_top_critic": false,
+        "media": "Franglais27 Tales",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2026-06-25T05:54:11.000Z",
+        "quote": "This is the punky, rebellious, in your face version of Supergirl with a full throttle performance from Milly Alcock as the eponymous character. She is brash, out of control, drunk, self-destructive, and Supergirl is a fun, flighty but flawed film.",
+        "url": "https://www.franglais27tales.com/supergirl-film-review/"
+    },
+    {
+        "critic": "Stephen A. Russell",
+        "is_top_critic": false,
+        "media": "ScreenHub",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T05:13:26.000Z",
+        "quote": "Gillespie’s propulsive forward movement embraces our hero’s determination to keep on keeping on, with Supergirl at its best in its silliest moments.",
+        "url": "https://bit.ly/4g0vUtZ"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2026-06-25T04:13:37.000Z",
+        "quote": "Rickety in parts and visually mediocre, the film clocks in as passable superhero mulch, with Milly Alcock ably holding the super soiree together as Kara arcs from incredibly annoying 1990s slacker to value-added super personage.",
+        "url": "https://tinyurl.com/5n8x997f"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-25T04:09:04.000Z",
+        "quote": "Plenty of fun remains in the effort, and the switch to heavier villainy is welcome, but the material can’t quite master consistency, losing steam at the very moment it should be triumphant.",
+        "url": "https://www.blu-ray.com/Supergirl/1668045/#Review"
+    },
+    {
+        "critic": "Chalice Williams",
+        "is_top_critic": false,
+        "media": "Black Girl Nerds",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-25T02:51:23.000Z",
+        "quote": "Milly Alcock and Jason Momoa shine in intergalactic follow up within the new DCU. It visually captures a lot of the comic it’s derived from and pulls at your heart strings in ways you wouldn’t think a superhero flick could.",
+        "url": "https://blackgirlnerds.com/supergirl-review-milly-alcock-and-jason-momoa-shine-in-james-gunns-dcu/"
+    },
+    {
+        "critic": "Radheyan Simonpillai",
+        "is_top_critic": true,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-25T02:44:21.000Z",
+        "quote": "Alcock throws around a medley of furrowed brows, sleepy glares and insolent grins – much like my own teen daughter – while hinting at a soulfulness that the movie directed by Craig Gillespie is barely equipped to tap.",
+        "url": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-supergirl-movie-review-dc-comics-milly-alcock/"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-25T01:23:07.000Z",
+        "quote": "Milly Alcock brings compelling humanity to Supergirl, even when the story lets her down.",
+        "url": "https://youtu.be/PKa0ucR_EDc"
+    },
+    {
+        "critic": "Kristy Puchko",
+        "is_top_critic": true,
+        "media": "Mashable",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-25T00:59:21.000Z",
+        "quote": "Supergirl is better than Supergirl: Woman of Tomorrow.\n",
+        "url": "https://mashable.com/entertainment/supergirl-review"
+    },
+    {
+        "critic": "Scott Mendelson",
+        "is_top_critic": false,
+        "media": "The Outside Scoop (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-06-25T00:23:36.000Z",
+        "quote": "Coming after a studio-wide retcon and following DC Studios’s previous flick being almost subversive and transgressive by *not* being an apolitical grim-dark melodrama about trauma, ‘Supergirl’ feels like a so-so stowaway from a different DC universe.",
+        "url": "https://scottmendelson.substack.com/p/supergirl-milly-alcock-review-dc-warner"
+    },
+    {
+        "critic": "Nadya Martinez",
+        "is_top_critic": false,
+        "media": "Den of Geek",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T23:59:04.000Z",
+        "quote": "Milly Alcock soars in Craig Gillespie’s Supergirl, however the cosmic adventure around her never quite reaches the same heights.",
+        "url": "https://www.denofgeek.com/movies/supergirl-review-milly-alcock/"
+    },
+    {
+        "critic": "Wendy Lee Szany",
+        "is_top_critic": false,
+        "media": "The Movie Couple",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T23:19:49.000Z",
+        "quote": "Milly Alcock shines in this. The first act hooks you in, but the film starts to lose focus as it goes on. By the third act, rushed storytelling and convenient plot choices keep the movie from reaching its full potential.",
+        "url": "https://youtu.be/UXxpCreoqgM"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T22:59:37.000Z",
+        "quote": "2026's disjointed Supergirl isn't as entertaining as 2025's Superman. The choppily edited action in Supergirl is woefully generic. Chief villain Krem is boring, pet dog Krypto is mostly sidelined, and Supergirl's alcohol abuse is a manipulative gimmick.",
+        "url": "https://culturemixonline.com/review-supergirl-2026-starring-milly-alcock-matthias-schoenaerts-eve-ridley-david-krumholtz-emily-beecham-david-corenswet-and-jason-momo"
+    },
+    {
+        "critic": "David Poland",
+        "is_top_critic": false,
+        "media": "Hot Button (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T22:40:18.000Z",
+        "quote": "I did not hate Supergirl. I really enjoyed a bunch of it. But it kept disappointing me. When it needed to go deeper, it went shallower. When I wanted a clever turn, it too often did exactly what seemed too obvious. ",
+        "url": "https://open.substack.com/pub/davidpoland/p/thb-848-supergirl?r=7wlst&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Paul Klein",
+        "is_top_critic": false,
+        "media": "FILMHOUNDS Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T22:13:06.000Z",
+        "quote": "This won’t become the standard for which all superhero films must meet, rather a fun excursion for two hours. It’s content to be average.",
+        "url": "https://filmhounds.co.uk/2026/06/24/supergirl-film-review-content-to-be-average/"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "JoySauce.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T21:57:15.000Z",
+        "quote": "A scattered semi-origin story that never quite coheres—aesthetically or dramatically—proving once again that Hollywood’s superhero well is in dire need of replenishing.",
+        "url": "https://joysauce.com/supergirl-wastes-its-incredible-talent/"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T21:34:48.000Z",
+        "quote": "Not unlike the loose definition of \"good\" given to Kara, Supergirl is a solid outing not without flaws, mostly winning out thanks to its sincerity in caring about its damaged characters, with Craig Gillespie following in the James Gunn way",
+        "url": "https://www.flickeringmyth.com/movie-review-supergirl-2026/"
+    },
+    {
+        "critic": "Spencer Perry",
+        "is_top_critic": false,
+        "media": "ComicBook.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-24T21:23:31.000Z",
+        "quote": "For every great moment Alcock has as a performer, there are others where Supergirl stoops to the lowest common denominator of joke, with more than a handful of \"So, that happened\" style gags that are irritating and unfunny.",
+        "url": "https://comicbook.com/movies/review/supergirl-milly-alcock-does-her-best-but-this-movie-is-dull-and-directionless-review/"
+    },
+    {
+        "critic": "Tom Percival",
+        "is_top_critic": false,
+        "media": "metro.co.uk",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T21:10:25.000Z",
+        "quote": "You get all the gubbins you’d expect from a Guardians movie, like weird aliens, needle drops, and irreverent antiheroes, but its imitation without sincerity and as such, it falls flat. ",
+        "url": "https://metro.co.uk/2026/06/24/milly-alcock-great-watching-supergirl-like-bad-karaoke-28905179/"
+    },
+    {
+        "critic": "Caitlin Kennedy",
+        "is_top_critic": false,
+        "media": "Simply Cinema (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-24T21:06:09.000Z",
+        "quote": "It’s imperfect — but that’s part of the charm.",
+        "url": "https://simplycinema.substack.com/p/supergirl-2026-film-review"
+    },
+    {
+        "critic": "Doug Jamieson",
+        "is_top_critic": false,
+        "media": "The Jam Report",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-24T21:01:03.000Z",
+        "quote": "A mildly enjoyable, frustratingly forgettable space adventure that leaves you wanting more from the character than the film itself ever manages to provide.",
+        "url": "https://thejamreport.com/2026/06/25/review-supergirl-has-all-the-right-ingredients-but-never-quite-takes-flight/"
+    },
+    {
+        "critic": "Nestor Bentancor",
+        "is_top_critic": false,
+        "media": "Nestor Cine Desde Hollywood",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T20:12:46.000Z",
+        "quote": "Like its titular hero it cruises at mid-altitude, mostly turbulence-free, but never quite soars into something memorable. [Review in Spanish]",
+        "url": "https://youtu.be/EIBF03ppF1M"
+    },
+    {
+        "critic": "Germain Lussier",
+        "is_top_critic": false,
+        "media": "io9.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-24T20:11:31.000Z",
+        "quote": "Fans going into Supergirl without overblown expectations, just looking to learn more about this character, this world, and have some fun along the way, will not be disappointed.",
+        "url": "https://gizmodo.com/supergirl-movie-review-milly-alcock-dc-jason-momoa-2000769763"
+    },
+    {
+        "critic": "Bob Chipman",
+        "is_top_critic": false,
+        "media": "Moviebob Central",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-24T19:43:46.000Z",
+        "quote": "At times feels like the best superhero movie of 1996 amusingly transposed to 2026 ... a surprising and refreshing change of pace in a season where everything else wants to bludgeon and overwhelm.",
+        "url": "https://www.youtube.com/watch?v=TVxzKzsH9Bg"
+    },
+    {
+        "critic": "Amy Nicholson",
+        "is_top_critic": true,
+        "media": "Los Angeles Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-24T19:38:09.000Z",
+        "quote": "I’d love to see Alcock’s heroine in a grotty, silly \"Animal House\"-style comedy, out-drinking a galaxy of alien squids. ]",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-06-24/supergirl-review-milly-alcock-jason-momoa-david-corenswet-craig-gillespie"
+    },
+    {
+        "critic": "Lupe Rodriguez Haas",
+        "is_top_critic": false,
+        "media": "CineMovie.tv",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2026-06-24T19:37:35.000Z",
+        "quote": "The Supergirl cameo in last year's Superman, along with the film's trailers and clips, promised a fun ride with the hot mess that is Kara Zor-El. Instead, audiences get a surprisingly somber superhero with a cookie-cutter plot and action. ",
+        "url": "https://cinemovie.tv/index.php/new-series-and-movie-reviews/supergirl-review-milly-alcock-shines"
+    },
+    {
+        "critic": "Caroline Siede",
+        "is_top_critic": true,
+        "media": "Girl Culture (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-06-24T19:17:32.000Z",
+        "quote": "If the problem with the 1984 Supergirl movie is that it’s a boring failure, this one comes closer to being an interesting mess.",
+        "url": "https://girlculture.substack.com/p/supergirl-is-a-sometimes-interesting"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T19:12:12.000Z",
+        "quote": "Yet another dull, over-produced superhero that's intermittently thrilling, exhilarating and funny, and essentially nothing more than a long video game with some music videos masquerading as a movie.",
+        "url": "http://nycmovieguru.com/june26th26.html#supergirl"
+    },
+    {
+        "critic": "Amelia Emberwing",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T19:08:59.000Z",
+        "quote": "Ultimately \"Supergirl\" is a competent continuation of the DCU, even if it isn’t as well made as \"Superman\" before it. A lot of the frustration stems from potential that it just can’t seem to reach.",
+        "url": "https://www.thewrap.com/creative-content/movies/supergirl-review-milly-alcock-dc/"
+    },
+    {
+        "critic": "Ricardo Rosado",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T19:06:41.000Z",
+        "quote": "...'Supergirl' is adequate, but falls short of expectations, emulating those franchise-extending titles that don't stand out for anything particularly good or bad. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a71635035/nino-critica-pelicula/"
+    },
+    {
+        "critic": "Marcelo Stiletano",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T18:56:27.000Z",
+        "quote": "Supergirl entertains in modest doses, baffles fans and newcomers alike, and above all, keeps all the questions (even the most unsettling ones) open about the future of the exhausted superhero genre. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/estrenos-de-cine-una-apagada-supergirl-confirma-la-fatiga-que-padece-el-cine-de-superheroes-nid24062026/"
+    },
+    {
+        "critic": "Diego Batlle",
+        "is_top_critic": false,
+        "media": "Otroscines.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-24T18:50:45.000Z",
+        "quote": "...Supergirl never surpasses the average, the most basic and elementary formulas of superhero movies. [Full review in Spanish]",
+        "url": "https://www.otroscines.com/post/critica-de-supergirl-pelicula-de-craig-gillespie-con-milly-alcock-eve-ridley-jason-momoa-matthias-schoenaerts-y-david-corenswet"
+    },
+    {
+        "critic": "Manuel São Bento",
+        "is_top_critic": false,
+        "media": "MSB Reviews (Ghost.io)",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-24T18:47:23.000Z",
+        "quote": "Milly Alcock carries the emotional weight of the narrative entirely on her shoulders, effortlessly shifting between a fiercely menacing cosmic force, a genuinely funny protagonist, and a deeply vulnerable young woman processing profound trauma.",
+        "url": "https://www.manuelsbento.com/supergirl-2026-a-fierce-gritty-cosmic-awakening-hampered-by-familiar-trimmings/"
+    },
+    {
+        "critic": "Alan Ng",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Rotten 🤢",
+        "score": "2/10",
+        "date": "2026-06-24T18:43:24.000Z",
+        "quote": "Jason Momoa brings some actual energy into a movie starving for it. ",
+        "url": "https://filmthreat.com/reviews/supergirl-2026-review/2/"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T18:40:30.000Z",
+        "quote": "Supergirl is a generic sci-fi buddy fetch quest with bad lighting. ",
+        "url": "https://www.youtube.com/watch?v=pl9av51WMDA"
+    },
+    {
+        "critic": "Moira MacDonald",
+        "is_top_critic": false,
+        "media": "Seattle Times",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-06-24T18:38:47.000Z",
+        "quote": "I left “Supergirl,” however, thinking only of Kara and wanting more of this striving, imperfect heroine, intrigued by what her role in this universe might next be. ",
+        "url": "https://www.seattletimes.com/entertainment/movies/supergirl-review-charismatic-milly-alcock-cant-quite-save-new-dc-movie/"
+    },
+    {
+        "critic": "Janire Zurbano",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T18:37:49.000Z",
+        "quote": "Although it lacks the heart that resonated in Gunn's Superman, we'll take it as a promising prologue, a hint of the future. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-supergirl-extravagancia-cosmica-fiestera-sentimentalismo-terrenal_7005672_3.html"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Daily Telegraph (Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T18:36:47.000Z",
+        "quote": "Though Supergirl won’t be instantly written off like many DC Comics duds of yesteryear (yes, we are talking about you, The Flash), there can be no denying this could have and should have turned out much, much better.",
+        "url": "https://www.dailytelegraph.com.au/entertainment/movies/big-problem-with-drab-supergirl-reboot-starring-australias-milly-alcock/news-story/f059e17786fc959329b76511ce5b67db"
+    },
+    {
+        "critic": "Chris Bumbray",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T18:25:42.000Z",
+        "quote": "Milly Alcock is good but she can't save one of the more tedious superhero movies in recent memory.",
+        "url": "https://www.joblo.com/supergirl-review/"
+    },
+    {
+        "critic": "Leo Brady",
+        "is_top_critic": false,
+        "media": "AMovieGuy.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-24T18:16:36.000Z",
+        "quote": "Supergirl has the right actress leading the charge, but it ultimately fails to distinguish itself from the countless films that came before it.",
+        "url": "https://amovieguy.com/2026/06/supergirl/"
+    },
+    {
+        "critic": "Mike Massie",
+        "is_top_critic": false,
+        "media": "Gone With The Twins",
+        "sentiment": "Rotten 🤢",
+        "score": "2/10",
+        "date": "2026-06-24T18:14:28.000Z",
+        "quote": "This toothless misadventure can’t be bothered with gravity – of the consequential definition or the physics one.",
+        "url": "https://gonewiththetwins.com/supergirl-2026/"
+    },
+    {
+        "critic": "Luke Y. Thompson",
+        "is_top_critic": false,
+        "media": "Mortal Cinema (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-24T18:01:46.000Z",
+        "quote": "In Supergirl, DC Studios has its own Guardians of the Galaxy, simultaneously with its own Tank Girl. They probably only wanted half that equation",
+        "url": "https://lytrules.substack.com/p/supergirl-review-puppy-love"
+    },
+    {
+        "critic": "Jonathan Garcia",
+        "is_top_critic": false,
+        "media": "Dynamic Duel Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-24T18:00:42.000Z",
+        "quote": "A fun, rough-edged cosmic adventure with superb action and a strong emotional core, exploring themes of grief, vengeance, and innocence.",
+        "url": "https://www.dynamicduel.com/supergirl-review/"
+    },
+    {
+        "critic": "Alonso Duralde",
+        "is_top_critic": true,
+        "media": "The Film Verdict",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T17:57:33.000Z",
+        "quote": "Milly Alcock makes an energetic addition to the reconstructed DC Universe. What the actress hasn’t been given is a vehicle that deserves her; Craig Gillespie’s Supergirl is a shambolic affair, cursed with underwhelming action and forgettable antagonists.",
+        "url": "https://thefilmverdict.com/supergirl-film-review-2026/"
+    },
+    {
+        "critic": "Donald Clarke",
+        "is_top_critic": true,
+        "media": "Irish Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T17:55:32.000Z",
+        "quote": "Supergirl is certainly more endurable than James Gunn’s nauseating 2025 take on Superman, but most things that don’t give you pleurisy can reasonably make that claim.",
+        "url": "https://www.irishtimes.com/culture/film/review/2026/06/24/supergirl-review-no-fun-give-us-back-the-hungover-barfly/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-24T17:51:57.000Z",
+        "quote": "For every instance of Supergirl simplifying the words, timeline, visual invention, or thematic concerns of its source, there’s a moment where the movie feels scruffier and more lively than so many of its comics-based brethren.",
+        "url": "https://www.avclub.com/supergirl-review"
+    },
+    {
+        "critic": "Rebecca Murray",
+        "is_top_critic": false,
+        "media": "Showbiz Junkies",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-24T17:51:23.000Z",
+        "quote": "Most of the success belongs to Milly Alcock (House of the Dragon), who delivers a subversively brilliant turn as Kara Zor-El. Alcock might not have been on anyone’s radar to play Kara Zor-El, but the choice was perfect. ",
+        "url": "https://www.showbizjunkies.com/movies/supergirl-movie-review/"
+    },
+    {
+        "critic": "Kyle Wilson",
+        "is_top_critic": false,
+        "media": "The Lamplight Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-24T17:33:12.000Z",
+        "quote": "Most of the film is carried on the back of Milly Alcock's red cape thanks to her sarcastic exuberance and reluctant empathy.",
+        "url": "https://lamplightreview.com/movie-review-supergirl/"
+    },
+    {
+        "critic": "Christian Toto",
+        "is_top_critic": false,
+        "media": "HollywoodInToto.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2026-06-24T17:30:39.000Z",
+        "quote": "Milly Alcock wanders through dark, gloomy set pieces with a scowl (can you blame her?).",
+        "url": "https://www.hollywoodintoto.com/supergirl-joyless-dc-flop-is-a-super-mess/"
+    },
+    {
+        "critic": "Shakyl Lambert",
+        "is_top_critic": false,
+        "media": "CGMagazine",
+        "sentiment": "Rotten 🤢",
+        "score": "6/10",
+        "date": "2026-06-24T17:27:53.000Z",
+        "quote": "Supergirl’s biggest problem is that Craig Gillespie does not have a particularly distinctive voice. His persistent reliance on needle drops, which seem to arrive every few minutes, often makes the film feel like a lesser Guardians of the Galaxy. ",
+        "url": "https://www.cgmagonline.com/review/movie/supergirl-2026/"
+    },
+    {
+        "critic": "Rendy Jones",
+        "is_top_critic": false,
+        "media": "Rendy Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T17:26:52.000Z",
+        "quote": "Arrives as a disappointingly dated blockbuster that grounds its heroine before she ever gets the chance to fly.\n\n",
+        "url": "https://www.rendyreviews.com/movie-reviews/supergirl-review"
+    },
+    {
+        "critic": "Dionar Hidalgo",
+        "is_top_critic": false,
+        "media": "Algo Más Que Cine",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-06-24T17:26:47.000Z",
+        "quote": "Supergirl is competent but disappointingly shallow. Despite Milly Alcock’s committed performance, weak character development, generic villains and a derivative space adventure make it feel more like franchise maintenance than meaningful storytelling.",
+        "url": "https://algomasquecine.com/supergirl-una-heroina-presentada-pero-nunca-construida/"
+    },
+    {
+        "critic": "Calum Cooper",
+        "is_top_critic": false,
+        "media": "Cinerama Film",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T17:19:33.000Z",
+        "quote": "It’s a fatally bland experience. A terrific lead performance and compelling themes carry it some distance, but not enough to evade its conflicting aesthetic choices and tired story.",
+        "url": "https://cineramafilm.com/2026/06/24/supergirl-review/"
+    },
+    {
+        "critic": "Aaron Pruner",
+        "is_top_critic": false,
+        "media": "CNET",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T17:12:46.000Z",
+        "quote": "Supergirl feels like a collection of ideas inspired by other things, repackaged into a new thing here. Along with Gunn's signature move of having every stylized fight sequence fueled by some form of pop music, I found myself checking out more than once.",
+        "url": "https://www.cnet.com/tech/services-and-software/supergirl-review-superman-follow-up-needs-more-lobo/"
+    },
+    {
+        "critic": "Laura Sirikul",
+        "is_top_critic": false,
+        "media": "Forbes",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-24T17:12:19.000Z",
+        "quote": "Milly Alcock is the perfect Supergirl. Her backstory, Craig Gillespie's direction, fight scenes, production design, and Alcock's acting are superb, but it's everything else that needs adjusting.",
+        "url": "https://www.forbes.com/sites/laurasirikul/2026/06/24/supergirl-is-fantastic-the-script-and-those-around-her-not-so-much/"
+    },
+    {
+        "critic": "Kyle Anderson",
+        "is_top_critic": false,
+        "media": "Nerdist",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T17:05:19.000Z",
+        "quote": "It's nowhere near a bad movie, but I wanted Supergirl to bowl me over and it simply did not.",
+        "url": "https://nerdist.com/article/supergirl-movie-review-milly-alcock-jason-momoa/"
+    },
+    {
+        "critic": "Dan Murrell",
+        "is_top_critic": false,
+        "media": "Dan Murrell Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "5.5/10",
+        "date": "2026-06-24T16:59:21.000Z",
+        "quote": "It’s not a terrible film, by any stretch of the imagination, but it’s just not that memorable or exciting either.",
+        "url": "https://youtu.be/pq4cWTlyl74"
+    },
+    {
+        "critic": "Grace Randolph",
+        "is_top_critic": false,
+        "media": "Beyond the Trailer",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:57:23.000Z",
+        "quote": "A big disappointment after Gunn's excellent Superman last year. Supergirl inexplicably throws fantastic source material in the trash - the comic \"Woman of Tomorrow\" - in exchange for a watered down version of GotG, The Marvels and Mad Max.",
+        "url": "https://www.youtube.com/watch?v=exrQQk-Z6xA"
+    },
+    {
+        "critic": "John Kirk",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2026-06-24T16:57:10.000Z",
+        "quote": "Supergirl has her personal issues. Supergirl and Superman aren’t just heroes with near-limitless power here. They’re also characters with depth, and their relationship adds layers to the legend.",
+        "url": "https://www.original-cin.ca/posts/2026/6/24/supergirl-a-super-powered-bad-girl-grows-up-amid-echoes-of-guardians-of-the-galaxy"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:53:00.000Z",
+        "quote": "I love Milly Alcock as Supergirl\nSadly I only liked Supergirl the movie. Tons of highlights but barely scratches the surface of Woman of Tomorrow… Guardians of the Galaxy lite meets Mad Max. Fun? Sure Memorable? Kinda? Lobo? Awesome \n\nI wanted more though",
+        "url": "https://youtu.be/sBRSgG4iRTk?is=cXuVKy_sWlmfBoX8"
+    },
+    {
+        "critic": "Hoai-Tran Bui",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:52:57.000Z",
+        "quote": "Supergirl, with its perfectly cast lead and its space-western stylings, has all the ingredients to be amazing. But instead of soaring, it just falls short.",
+        "url": "https://www.inverse.com/entertainment/supergirl-review"
+    },
+    {
+        "critic": "Nagier Chambers",
+        "is_top_critic": false,
+        "media": "Big Gold Belt Media",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-24T16:52:47.000Z",
+        "quote": "Supergirl succeeds as a character study of Kara’s trauma, but its thin plot and script conveniences keep it from becoming something special.",
+        "url": "https://biggoldbelt.com/reviews/movie-reviews/supergirl-review/"
+    },
+    {
+        "critic": "Britany Murphy",
+        "is_top_critic": false,
+        "media": "Muses of Media",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-24T16:51:40.000Z",
+        "quote": "Bolstered by pitch-perfect performances from Alcock, Ridley, and Momoa, Supergirl soars at its highest when it folds the audience into all the emotional stakes at play, paired with the thrilling action.",
+        "url": "https://musesofmedia.ca/2026/06/24/supergirl-review/"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Me gusta el cine",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-24T16:42:07.000Z",
+        "quote": "\"Supergirl\" is fine, but considering how memorable \"Superman\" was last year, it made sense to expect something more from the latest film in this new DC universe. [Full review in Spanish].",
+        "url": "https://megustaelcine.com/critica-supergirl-milly-alcock-brilla-pero-lo-demas-no-tanto/"
+    },
+    {
+        "critic": "Kat Hughes",
+        "is_top_critic": false,
+        "media": "THN",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:34:11.000Z",
+        "quote": "Despite not being as mighty as Superman, Supergirl remains a fun space journey, one capable of filling at least some of the void left with the conclusion of the Guardians of the Galaxy series. \n\n",
+        "url": "https://thehollywoodnews.com/2026/06/24/supergirl-review-dir-craig-gillespie-2026/"
+    },
+    {
+        "critic": "Zaki Hasan",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-06-24T16:32:09.000Z",
+        "quote": "Alcock’s Supergirl has to grow into the hero she’s destined to become, and by the time the credits roll, it’s her performance — not the increasingly oversized spectacle surrounding it — that leaves the strongest impression.",
+        "url": "https://www.sfchronicle.com/entertainment/movies-tv/article/milly-alcock-supergirl-review-22308424.php"
+    },
+    {
+        "critic": "Joshua Ryan",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-24T16:31:23.000Z",
+        "quote": "Gillespie’s follow-up to Gunn’s Superman doesn’t feel nearly as polished, but the visuals are fantastic, the universe is expansive, and Milly Alcock and Jason Momoa deliver standout performances. ",
+        "url": "https://fandomwire.com/supergirl-review/"
+    },
+    {
+        "critic": "Robbie Collin",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T16:26:50.000Z",
+        "quote": "Like watching an endless orangey-grey rehash of scenes from Mad Max and Star Wars. Who is faster than a speeding bullet and can leap tall buildings in a single bound? Supergirl’s novel answer: who cares?",
+        "url": "https://www.telegraph.co.uk/films/2026/06/24/supergirl-review-milly-alcock/"
+    },
+    {
+        "critic": "Julian Lytle",
+        "is_top_critic": false,
+        "media": "RIOTUS",
+        "sentiment": "Fresh 🍅",
+        "score": "C",
+        "date": "2026-06-24T16:26:43.000Z",
+        "quote": "Supergirl is an ok but mid summer event film. It’s a bit flat with some solid moments of action and performance by Alcock, along with beautiful visual world-building. You could probably wait on seeing this one, though.",
+        "url": "https://riot-us.com/2026/06/24/supergirl-2026-review-milly-alcock-shines-in-a-lacking-comic-book-adaptation/"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-24T16:26:10.000Z",
+        "quote": "A flawed superhero movie that doesn’t always work, but also one that's aptly in tune with the nature of the character, as depicted by Milly Alcock. (Video Review)",
+        "url": "https://edwarddouglas.substack.com/p/supergirl-video-review"
+    },
+    {
+        "critic": "Alistair Harkness",
+        "is_top_critic": false,
+        "media": "Scotsman",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T16:25:42.000Z",
+        "quote": "The film never feels fully in tune with the character’s appeal or her hinted-at complexities, running out of juice long before its perfunctory, action-heavy ending.",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/supergirl-review-runs-out-of-juice-8758236"
+    },
+    {
+        "critic": "Jeffrey Lyles",
+        "is_top_critic": false,
+        "media": "Lyles' Movie Files",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-06-24T16:24:53.000Z",
+        "quote": "While Gunn’s Superman revival was a gleeful embrace of all the inherent fun of comic books, Supergirl’s film is a bleaker, more grounded and almost more (gasp) Snyder-like take of the iconic character.",
+        "url": "https://lylesmoviefiles.com/2026/06/24/supergirl-movie-review-2026/"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Matt Donato (Authory)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-24T16:24:35.000Z",
+        "quote": "You'll be left wanting more because of what never breaks through, not because you're addicted to any soaring highs.",
+        "url": "https://authory.com/MattDonato/ci/Supergirl-Review-A-Not-So-Super-Origin-Story"
+    },
+    {
+        "critic": "Jake Coyle",
+        "is_top_critic": false,
+        "media": "Associated Press",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:24:34.000Z",
+        "quote": "While the latest DC release, and second under James Gunn ’s stewardship, has its moments, “Supergirl” struggles to match Kara’s punk-rock energy with an equally spirited supporting cast and story.",
+        "url": "https://apnews.com/article/supergirl-movie-review-332acfc623b84c1512a319f70fb5c6d5"
+    },
+    {
+        "critic": "Anthony Morris",
+        "is_top_critic": false,
+        "media": "It's Better in the Dark",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-24T16:23:09.000Z",
+        "quote": "Not everything here feels as fresh as it should, but Alcock makes Supergirl a hero you want to see more of",
+        "url": "https://itsbetterinthedark.blogspot.com/2026/06/review-supergirl.html"
+    },
+    {
+        "critic": "Kevin Maher",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T16:22:08.000Z",
+        "quote": "Alcock, who appeared in the TV show House of the Dragon, plays Kara with swaggering charm and goofy energy, but she is very much a character in need of a better film.",
+        "url": "https://www.thetimes.com/culture/film/article/supergirl-review-milly-alcock-33987w02k"
+    },
+    {
+        "critic": "Fred Topel",
+        "is_top_critic": false,
+        "media": "United Press International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:21:28.000Z",
+        "quote": "Focusing on the differences in their upbringings also deftly avoids potentially sexist notions like 'the female Superman is a hot mess.' The sarcasm is a defense mechanism for a very real wound.",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2026/06/24/Supergirl-movie-review/5081782243017/"
+    },
+    {
+        "critic": "Richard Whittaker",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:21:03.000Z",
+        "quote": "Like that ol’ rated-R bastich Lobo, it chafes against the PG-13 rating. But with Alcock really making you believe a drunk can fly, Supergirl is still a fine addition to this new legion of superheroes.",
+        "url": "https://www.austinchronicle.com/screens/film-review/supergirl-review-hero-with-a-hangover/"
+    },
+    {
+        "critic": "Carlos Aguilar",
+        "is_top_critic": true,
+        "media": "The Playlist",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-06-24T16:20:35.000Z",
+        "quote": "In Marvel terms, she is more Tony Stark than Steve Rogers. If only the events that unfold in “Supergirl” and its narrative structure could sustain what’s appealing about her.",
+        "url": "https://theplaylist.net/supergirl-review-milly-alcock-craig-gillespie-dc-20260624/"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:19:49.000Z",
+        "quote": "While the film has its share of issues, defining this Supergirl for a new generation isn’t one of them.",
+        "url": "https://punchdrunkcritics.com/2026/06/review-supergirl/"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:19:34.000Z",
+        "quote": "Where 2025’s Superman succeeded by really wanting to prove something about who that character is in a manner we hadn’t seen in a while, Supergirl isn’t really leaning into anything that’s not more than a little familiar at this point. ",
+        "url": "https://weliveentertainment.com/welivefilm/supergirl-review-wheres-her-mind/"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-24T16:19:15.000Z",
+        "quote": "Supergirl really made me feel special and like I could, if I wanted, flip a car and hey, isn’t that what these movies are all about?",
+        "url": "https://www.themarysue.com/supergirl-review-milly-alcocks-kara-is-powerful-and-perfectly-messy-in-her-first-solo-outing/"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:19:05.000Z",
+        "quote": "Milly Alcock soars as Supergirl in a dark, uneven narrative that’s wildly entertaining but likely to divide fans of the comic book source material.",
+        "url": "https://movieweb.com/supergirl-review/"
+    },
+    {
+        "critic": "Jeff York",
+        "is_top_critic": false,
+        "media": "The Establishing Shot",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-06-24T16:17:07.000Z",
+        "quote": "Watching alien thugs continually pummel Kara/Supergirl is not my idea of a good time, and I can’t imagine how such viciousness will play with the kiddie crowd this film is targeting with its PG-13 rating.",
+        "url": "https://theestablishingshot.org/2026/06/supergirl-looks-super-but-is-a-depressing-slog/"
+    },
+    {
+        "critic": "Chris Wasser",
+        "is_top_critic": false,
+        "media": "Irish Independent",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T16:15:38.000Z",
+        "quote": "Tell her story in a straight line, with tidier effects, a stronger villain, a dollop of optimism and a little less Momoa, and we’d be there in a flash. But the suits at DC have forgotten how to keep things simple. ",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/supergirl-review-too-bleak-and-violent-for-younger-viewers-and-too-boneheaded-for-their-parents/a/157480560.html"
+    },
+    {
+        "critic": "Joonatan Itkonen",
+        "is_top_critic": false,
+        "media": "Region Free",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T16:15:38.000Z",
+        "quote": "DC has already done the hard work in finding Milly Alcock in the leading role. Now, they need a film worthy of her star power. As of now, this isn't it, and what a shame that is.",
+        "url": "https://regionfree.net/supergirl-movie-review/"
+    },
+    {
+        "critic": "Clarisse Loughrey",
+        "is_top_critic": true,
+        "media": "Independent (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T16:14:47.000Z",
+        "quote": "The mandate here appears to be to keep things as distinctly Gunn-esque as possible. In return, Superman’s moodier, more cynical relative has been robbed of the chance to speak with her own voice. It’s the superhero equivalent of a Vegas impersonator.",
+        "url": "https://www.the-independent.com/arts-entertainment/films/reviews/supergirl-review-milly-alcock-b3002141.html"
+    },
+    {
+        "critic": "Breeze Riley",
+        "is_top_critic": false,
+        "media": "Multiverse of Color",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:14:42.000Z",
+        "quote": "The film moves fast enough that the bumpy parts are already in the rearview before you can dwell on them too much. Supergirl is her own unique character with her own vibe, and when the movie fully embraces that, it soars. ",
+        "url": "https://multiverseofcolor.com/2026/06/supergirl-review/"
+    },
+    {
+        "critic": "Laura Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-24T16:14:38.000Z",
+        "quote": "Milly Alcock...is just right as Kara Zor-El with her blue eyes, tousled blond hair and no make-up look going hand-in-hand with her flippant demeanor...but this patched together tale begins to sag well before its umpteenth brawl.",
+        "url": "https://www.reelingreviews.com/reviews/supergirl/"
+    },
+    {
+        "critic": "Molly Edwards",
+        "is_top_critic": false,
+        "media": "Total Film",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-24T16:14:12.000Z",
+        "quote": "Just like its protagonist, Supergirl is rough around the edges, but holds plenty of promise for the future. ",
+        "url": "https://www.gamesradar.com/entertainment/dc-movies/supergirl-review/"
+    },
+    {
+        "critic": "Tyler Taing",
+        "is_top_critic": false,
+        "media": "Discussing Film",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-24T16:13:35.000Z",
+        "quote": "While young star Milly Alcock shines in the titular role, this Supergirl adaptation falls flat when compared to its beloved source material. It's no different than many other middle-of-the-road superhero movies.",
+        "url": "https://discussingfilm.net/2026/06/24/supergirl-review-milly-alcock-dcu/"
+    },
+    {
+        "critic": "Anna Stafford",
+        "is_top_critic": false,
+        "media": "Little White Lies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:13:17.000Z",
+        "quote": "Supergirl rarely rises above the genre’s limitations, but it has enough character to avoid sinking into mediocrity. ",
+        "url": "https://lwlies.com/reviews/supergirl"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:12:31.000Z",
+        "quote": "This likeable but underwhelming sci-fi adventure only sporadically presents its protagonist in her best light. That said, Milly Alcock certainly has the chops and gravity for the role.",
+        "url": "https://www.screendaily.com/reviews/supergirl-review-milly-alcock-impresses-as-the-sardonic-superhero-but-latest-dc-adventure-fails-to-soar/5217988.article"
+    },
+    {
+        "critic": "Sean Burns",
+        "is_top_critic": false,
+        "media": "WBUR’s Arts & Culture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:11:11.000Z",
+        "quote": "I’ve never understood the young male fan culture’s hostile aversion to seeing women onscreen. Part of the reason I’ve always loved going to the movies is because I enjoy looking up at giant, moving pictures of pretty girls. I thought everybody did.",
+        "url": "https://www.wbur.org/news/2026/06/24/supergirl-film-review"
+    },
+    {
+        "critic": "Alistair Ryder",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-06-24T16:11:06.000Z",
+        "quote": "Whoever decided to make the \"Supergirl\" movie a girlboss \"Sound of Freedom\" should probably start clearing out their desk at DC headquarters — they won't need one once the underwhelming box office totals come in.",
+        "url": "https://www.looper.com/2200644/supergirl-review/"
+    },
+    {
+        "critic": "Alison Willmore",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:10:34.000Z",
+        "quote": "Alcock, with her smirk and her anguished eyes, is a very watchable lead, but this aggressively minor movie doesn’t know what to do with her or her character. And where’s the mystery in that?",
+        "url": "https://www.vulture.com/article/review-supergirl-is-fun-but-supergirl-is-a-real-letdown.html"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:10:27.000Z",
+        "quote": "Supergirl is a mixed bag. While Jason Momoa’s Lobo and Milly Alcock shine, some adaptation choices and a bland villain keep it from greatness. It's a perfectly fine, middle of the road movie, but it could have been so much more.",
+        "url": "https://mamasgeeky.com/2026/06/supergirl-review-2026.html"
+    },
+    {
+        "critic": "Brian Truitt",
+        "is_top_critic": false,
+        "media": "USA Today",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-24T16:09:33.000Z",
+        "quote": "An intergalactic revenge flick that boldly freshens up familiar tropes with the help of a jaded, self-destructive protagonist who needs to figure a whole lot of stuff out.",
+        "url": "https://www.usatoday.com/story/entertainment/movies/2026/06/24/supergirl-2026-movie-review/90614378007/"
+    },
+    {
+        "critic": "Matt Goldberg",
+        "is_top_critic": false,
+        "media": "Commentary Track (Ghost.io)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-24T16:09:31.000Z",
+        "quote": "Everything that’s unique about the character gets sanded down into its blandest form, and director Craig Gillespie can only echo far better blockbusters rather than give the Woman of Tomorrow a picture of her own.",
+        "url": "https://www.commentarytrack.net/supergirl-2026-review/"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "Eric Goldman (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "6/10",
+        "date": "2026-06-24T16:09:15.000Z",
+        "quote": "Gillespie and this material are not a good fit, which is most apparent in the action scenes. The movie's shining strength is Milly Alcock as Supergirl, giving a great performance.",
+        "url": "https://www.youtube.com/watch?v=TuzXwBiNTJk"
+    },
+    {
+        "critic": "Linda Marric",
+        "is_top_critic": true,
+        "media": "HeyUGuys",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-24T16:08:28.000Z",
+        "quote": "Supergirl is not as assured as Superman, and it knows it too well. What it has instead is temperament; a roughness, a willingness to let its protagonist be wrong.",
+        "url": "https://www.heyuguys.com/supergirl-review/"
+    },
+    {
+        "critic": "Pete Hammond",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:08:26.000Z",
+        "quote": "The special effects and relentlessly dark tone often get in the way of making this group rock despite the best efforts of Alcock who is a bit too quirky, playing Zor-El as somewhat reckless, headstrong, and not always put together.",
+        "url": "https://deadline.com/2026/06/supergirl-review-dcs-female-answer-superman-doesnt-fly-high-1236965872/"
+    },
+    {
+        "critic": "Courtney Howard",
+        "is_top_critic": false,
+        "media": "Fresh Fiction",
+        "sentiment": "Fresh 🍅",
+        "score": "4 / 5",
+        "date": "2026-06-24T16:08:23.000Z",
+        "quote": "Director Craig Gillespie and writer Ana Nogueira deliver a colossally awesome and creatively audacious mashup of True Grit and Mad Max: Fury Road that fires on all cylinders. ",
+        "url": "https://freshfiction.tv/supergirl-review-milly-alcock-flies-high-in-dcs-super-superhero-fantasy/"
+    },
+    {
+        "critic": "Tomris Laffly",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-06-24T16:07:47.000Z",
+        "quote": "In the end, you can’t help but wonder why the emotions of these characters don’t pack as much of a punch.",
+        "url": "https://www.rogerebert.com/reviews/supergirl-milly-alcock-dc-movie-review-2026"
+    },
+    {
+        "critic": "David Rooney",
+        "is_top_critic": true,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:06:36.000Z",
+        "quote": "Given Australian director Gillespie’s history with films about spirited, rule-breaking women, like I, Tonya and Cruella, the failure to find emotional depth in the sisterhood of Kara and Ruthye is notable.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/supergirl-review-milly-alcock-jason-momoa-dcu-1236629004/"
+    },
+    {
+        "critic": "Kristen Lopez",
+        "is_top_critic": true,
+        "media": "The Film Maven",
+        "sentiment": "Fresh 🍅",
+        "score": "C",
+        "date": "2026-06-24T16:06:32.000Z",
+        "quote": "Supergirl is a solid entry in the new DCU franchise but never feels as focused as Superman. ",
+        "url": "https://thefilmmaven.com/supergirl-2026-review-milly-alcock/"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-24T16:06:19.000Z",
+        "quote": "This is middle-of-the-road superhero cinema that doesn’t do much wrong and gives you a good time at the movies.",
+        "url": "https://www.comingsoon.net/movies/reviews/2152818-supergirl-review-milly-alcock-soars-in-solid-dcu-movie"
+    },
+    {
+        "critic": "Paul McGuire Grimes",
+        "is_top_critic": false,
+        "media": "Paul's Trip to the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-06-24T16:05:32.000Z",
+        "quote": "There’s a future for Milly Alcock and Supergirl in the DC universe even if this film doesn’t rise to match her true potential.",
+        "url": "https://paulstriptothemovies.com/movie-review-supergirl/"
+    },
+    {
+        "critic": "George M. Thomas",
+        "is_top_critic": false,
+        "media": "Akron Beacon Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-24T16:05:24.000Z",
+        "quote": "Alcock proves to be compelling in developing the character that is longing for what she once had, but also yearning to fit in somewhere. She imbues Kara with strength, but also a sense of vulnerability that grows more obvious throughout the film.",
+        "url": "https://www.beaconjournal.com/story/entertainment/movies/2026/06/24/supergirl-movie-review-milly-alcock/90646386007/"
+    },
+    {
+        "critic": "Therese Lacson",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-06-24T16:05:23.000Z",
+        "quote": "Who can say no to a messy superhero and her adorable but chaotically destructive superpup?",
+        "url": "https://collider.com/supergirl-movie-review-dc-woman-of-tomorrow-milly-alcock/"
+    },
+    {
+        "critic": "Pat Bulfamante",
+        "is_top_critic": false,
+        "media": "The MontyVerse",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:05:19.000Z",
+        "quote": "The movie around her is uneven, occasionally frustrating, and never as sharp as the story it is adapting, but when it locks into Kara’s grief, anger, humor, and reluctant heroism, it finds something powerful.",
+        "url": "https://themontyverse.com/2026/06/24/supergirl-2026-review/"
+    },
+    {
+        "critic": "Peter Bradshaw",
+        "is_top_critic": true,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:05:11.000Z",
+        "quote": "Supergirl isn’t a perfect movie by any means, but there are moments when you’ll believe this franchise can fly.",
+        "url": "https://www.theguardian.com/film/2026/jun/24/supergirl-review-milly-alcock-eve-ridley"
+    },
+    {
+        "critic": "Joey Morona",
+        "is_top_critic": false,
+        "media": "Cleveland Plain Dealer",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:05:09.000Z",
+        "quote": "Like its heroine, \"Supergirl\" is messy, bruised and occasionally frustrating. It’s also funny and full of heart, with Alcock turning Kara into more than just Superman’s cousin.\n\n",
+        "url": "https://www.cleveland.com/entertainment/2026/06/supergirl-review-milly-alcock-soars-in-a-fun-but-derivative-dc-adventure.html"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:04:45.000Z",
+        "quote": "Kill Krem! Save the dog! Those are the motivations driving the entire not-even-interesting-enough-to-be-convoluted plot of “Supergirl.” Maybe that’s why the movie is full of action yet numbingly flat.",
+        "url": "https://variety.com/2026/film/reviews/supergirl-review-milly-alcock-1236788124/"
+    },
+    {
+        "critic": "Elliott Collins",
+        "is_top_critic": false,
+        "media": "Movie Files",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-06-24T16:04:15.000Z",
+        "quote": "Milly Alcock proves she’s the right choice for Kara, but she’s stuck in a underwhelming movie. Strong Krypton flashbacks and a few great Superman moments can’t save a clunky script, dull action and bland visuals. Not terrible, but painfully mediocre.\n\n",
+        "url": "https://youtu.be/09kUGj5Nukk?si=I0RiaEZBMgGLF0KV"
+    },
+    {
+        "critic": "Mike Ryan",
+        "is_top_critic": false,
+        "media": "The Hard Pass (Ghost.io)",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-24T16:03:40.000Z",
+        "quote": "It’s about a woman in a really bad place, on a revenge tour, visiting dirt-filled worlds and fighting gross-looking villains … People often complain that not enough superhero movies take chances. Well, Supergirl feels like quite a big chance.",
+        "url": "https://www.thehardpass.net/supergirl-review/"
+    },
+    {
+        "critic": "Jason Flatt",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-06-24T16:03:37.000Z",
+        "quote": "Supergirl could be much worse; Milly Alcock single-handedly ensures that it isn’t, but it deserves to be much better, too.",
+        "url": "https://butwhytho.net/2026/06/supergirl-2026-review-lobo/"
+    },
+    {
+        "critic": "Kate Erbland",
+        "is_top_critic": true,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-06-24T16:03:03.000Z",
+        "quote": "What makes “Supergirl” stand out -- and what might, unfortunately, alienate fans looking for more of the same -- is its interest in staying small while asking some very big questions indeed.",
+        "url": "https://www.indiewire.com/criticism/movies/supergirl-2026-movie-review-superman-milly-alcock-1235201447/"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:02:29.000Z",
+        "quote": "Its lack of originality or grandeur renders it a less than super spin-off.",
+        "url": "https://www.thedailybeast.com/obsessed/supergirl-is-better-than-supermanbut-not-super-enough/"
+    },
+    {
+        "critic": "Matt Singer",
+        "is_top_critic": true,
+        "media": "ScreenCrush",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-06-24T16:02:06.000Z",
+        "quote": "A DC disappointment.",
+        "url": "https://screencrush.com/supergirl-2026-review"
+    },
+    {
+        "critic": "BJ Colangelo",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-06-24T16:01:50.000Z",
+        "quote": "The biggest surprise about \"Supergirl\" is how little it resembles the film audiences likely expect to see.\n",
+        "url": "https://www.slashfilm.com/2200480/supergirl-2026-movie-review/"
+    },
+    {
+        "critic": "Fico Cangiano",
+        "is_top_critic": false,
+        "media": "CineXpress",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:01:49.000Z",
+        "quote": "Milly Alcock is a total badass, delivering a performance that's both fierce and vulnerable as Kara Zor-El. Now the film itself is fine enough to satisfy fans, but it should've been better. And the villain? Really bad. [Full review in Spanish]",
+        "url": "https://cinexpresspr.com/2026/06/24/resena-supergirl/"
+    },
+    {
+        "critic": "Clint Cage",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-06-24T16:01:41.000Z",
+        "quote": "Kara Zor-El’s standout moment in Superman gets a feature-length follow up that almost gets everything right. Unfortunately, that means it gets everything almost wrong as well. ",
+        "url": "https://www.ign.com/articles/supergirl-movie-review-2026-milly-alcock"
+    },
+    {
+        "critic": "Roberto Tyler Ortiz",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-06-24T16:01:30.000Z",
+        "quote": "There are stretches where Supergirl threatens to become something genuinely great, largely thanks to Milly Alcock's performance and the emotional core shared between Kara and Ruthye",
+        "url": "https://geekvibesnation.com/supergirl-2026-review/"
+    },
+    {
+        "critic": "Molly Freeman",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-06-24T16:01:12.000Z",
+        "quote": "On the whole, Supergirl is a fine, even good, superhero movie from director Craig Gillespie (I, Tonya) and writer Ana Nogueira, but it doesn't quite reach the bar set by Superman last summer.",
+        "url": "https://screenrant.com/supergirl-movie-2026-review/"
+    },
+    {
+        "critic": "Don Shanahan",
+        "is_top_critic": false,
+        "media": "Every Movie Has a Lesson",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T16:01:06.000Z",
+        "quote": "Milly Alcock, thanks to all that posing working in her favor and the patience to hold putting the cape and big red “S” on her until the finale, builds to the kind of awe and presence the character needs.",
+        "url": "https://everymoviehasalesson.com/blog/2026/6/movie-review-supergirl"
+    },
+    {
+        "critic": "Joey Magidson",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-06-24T16:00:58.000Z",
+        "quote": "Supergirl has a very different tone than her cousin (with entertaining yet inconsistent results).",
+        "url": "https://awardsradar.com/2026/06/24/film-review-supergirl-has-a-very-different-tone-than-her-cousin-with-entertaining-yet-inconsistent-results/"
+    },
+    {
+        "critic": "Yasser Medina",
+        "is_top_critic": false,
+        "media": "Cinefilia",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-06-24T16:00:35.000Z",
+        "quote": "A somewhat dull and superficial superhero movie, lacking the hook to capitalize on its interstellar premise of revenge and justice. [Full review in Spanish]",
+        "url": "https://www.cinefilia.blog/2026/06/supergirl-2026-critica.html"
+    },
+    {
+        "critic": "Liz Shannon Miller",
+        "is_top_critic": true,
+        "media": "Consequence",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-24T16:00:06.000Z",
+        "quote": "When Supergirl takes big risks, they tend to pay off. There aren't enough of those moments, though.",
+        "url": "https://consequence.net/2026/06/supergirl-review-milly-alcock-jason-momoa/"
+    },
+    {
+        "critic": "Matt Oakes",
+        "is_top_critic": false,
+        "media": "Silver Screen Riot",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2026-06-24T16:00:04.000Z",
+        "quote": "The biggest issue with Supergirl: her big introductory movie keep insisting on turning her into a babysitter. ",
+        "url": "https://silverscreenriot.com/supergirl-is-boldly-inessential-for-the-dcus-sophomore-feature/"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-06-24T16:00:02.000Z",
+        "quote": "Messy, angry, funny and unexpectedly moving, Supergirl proves that being a hero doesn't always mean being nice.",
+        "url": "https://www.theaureview.com/watch/film-review-supergirl/"
+    },
+    {
+        "critic": "Michael Sowell",
+        "is_top_critic": false,
+        "media": "Nerdspin",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-24T16:00:02.000Z",
+        "quote": "'Supergirl' soars thanks to Milly Alcock’s jaded, powerful lead performance and Jason Momoa’s scene-stealing Lobo. The movie stumbles in its pacing, but its heart and ambition still shine through.",
+        "url": "https://nerdspin.com/supergirl-review-milly-alcock-carries-through-a-bold/"
+    },
+    {
+        "critic": "Jon Negroni",
+        "is_top_critic": false,
+        "media": "Thank God for Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-24T16:00:01.000Z",
+        "quote": "Supergirl never reaches the clarity, precision, or narrative confidence that made Superman such a pleasant surprise. It floats. It glides. And it cruises through its runtime on Alcock’s considerable charisma like a star cruiser running on fumes.",
+        "url": "https://thankgodformovies.com/supergirl-flies-on-charm-alone/"
+    },
+    {
+        "critic": "Brandon Lewis",
+        "is_top_critic": false,
+        "media": "AwardsWatch",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-06-24T15:59:59.000Z",
+        "quote": "In some respects, Supergirl does feel like an attempt to grapple with that dichotomy, as well as with the darker implications of superheroism, especially in the wake of Superman’s unabashedly sunny optimism.",
+        "url": "https://awardswatch.com/supergirl-review-milly-alcocks-got-swagger-to-spare-in-a-film-that-doesnt-let-her-take-flight-b/"
+    },
+    {
+        "critic": "Rocco T. Thompson",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2026-06-24T15:59:53.000Z",
+        "quote": "Despite being fairly light on its feet, Craig Gillespie’s bratty, high-flying space western is fatiguingly overfamiliar in a genre that can’t help but keep looking backward for inspiration as it clings to relevance.\n",
+        "url": "https://www.slantmagazine.com/film/supergirl-review-milly-alcock-david-corenswet/"
+    },
+    {
+        "critic": "Cody Dericks",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2026-06-24T15:59:41.000Z",
+        "quote": "The newest \"Supergirl,\" half-heartedly directed by Craig Gillespie, wastes the star quality of its lead actress, Milly Alcock, by surrounding her with ugly visuals and uninvested performances that make her efforts feel rudely unappreciated.",
+        "url": "https://nextbestpicture.com/supergirl/"
+    },
+    {
+        "critic": "Lady Jenevia",
+        "is_top_critic": false,
+        "media": "LadyJenevia (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T15:59:06.000Z",
+        "quote": "Although it suffers from some of the same VFX issues we see with most franchise films nowadays, the commitment to real dramatic stakes and allowing Milly Alcock to dig into reasons behind Kara’s pain was refreshing.",
+        "url": "https://youtu.be/Tb8y0L8u7sE"
+    },
+    {
+        "critic": "Ian Sandwell",
+        "is_top_critic": false,
+        "media": "Digital Spy",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-24T15:55:16.000Z",
+        "quote": "A performance as good as Milly Alcock's deserves a better movie, but it's battling against a blockbuster that suffers from familiar issues.",
+        "url": "https://www.digitalspy.com/movies/a71676501/supergirl-review-2026-milly-alcock/"
+    }
+]

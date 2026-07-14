@@ -1,0 +1,1422 @@
+[
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-01-01T04:50:47.000Z",
+        "quote": "The audience I sat with were chuckling along for most of the film's two hours, and they mostly seemed to agree that, although it hadn't set the world on fire, it was a decent enough extended final episode to go out on.",
+        "url": "https://www.thepost.co.nz/culture/360821360/downton-says-goodbye-again"
+    },
+    {
+        "critic": "Christy Lemire",
+        "is_top_critic": true,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-12-31T07:38:39.000Z",
+        "quote": "I found it quite cozy.",
+        "url": "https://laist.com/shows/filmweek/filmweek-the-long-walk-spinal-tap-ii-the-end-continues-downton-abbey-the-grand-finale-and-more"
+    },
+    {
+        "critic": "Tim Cogshell",
+        "is_top_critic": true,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-12-31T07:37:29.000Z",
+        "quote": "I actually enjoyed this film, but I know that you have to be \"in the know\" to really enjoy it.",
+        "url": "https://laist.com/shows/filmweek/filmweek-the-long-walk-spinal-tap-ii-the-end-continues-downton-abbey-the-grand-finale-and-more"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-12-21T23:52:42.000Z",
+        "quote": "Downton Abbey: The Grand Finale is a drama that concludes in a fitting way and in the same polished tone that defines this franchise. Divorce and financial fraud are the biggest scandals in the story, with no real surprises.",
+        "url": "https://culturemixonline.com/review-downton-abbey-the-grand-finale-starring-hugh-bonneville-jim-carter-michelle-dockery-paul-giamatti-elizabeth-mcgovern-and-penelope-wilton/"
+    },
+    {
+        "critic": "Mary Ann Brussat",
+        "is_top_critic": false,
+        "media": "Spirituality & Practice",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-12-09T00:02:36.000Z",
+        "quote": "The final chapter of the story of the Crawleys and their servants in which all the changes they have endured come to fruition.",
+        "url": "https://www.spiritualityandpractice.com/films/reviews/view/29336/downton-abbey-the-grand-finale"
+    },
+    {
+        "critic": "Jeff Beck",
+        "is_top_critic": false,
+        "media": "The Blu Spot",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-11-10T16:59:10.000Z",
+        "quote": "It's a fitting & satisfying conclusion that skillfully blends its main storylines with the rest of the vast ensemble, giving fans one final charming & delightful outing with the characters that they've come to know & love over the last 15 years.",
+        "url": "https://www.thebluspot.com/single-post/downton-abbey-the-grand-finale-a-charming-delightful-final-chapter-4k-blu-ray"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "The Travers Take",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2025-10-31T01:10:20.000Z",
+        "quote": "The world of “Downton,” as fantastical as Camelot, celebrates an ideal of civility that is foreign for today’s tech bros and one-percenters. Good reason to honor the cast and crew of this final cinema remembrance for the pleasure of their company.  ",
+        "url": "https://www.thetraverstake.com/featured/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Michael Cook",
+        "is_top_critic": false,
+        "media": "KLRT-TV ",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2025-10-18T17:56:57.000Z",
+        "quote": "It's like a comfy old pair of slippers and it's wonderful to see the gang all back together one last time. A wonderful tapestry of story lines that are beautifully woven together. ",
+        "url": "https://www.fox16.com/video/at-the-movies-film-critic-reviews-%E2%80%98the-long-walk%E2%80%99-and-%E2%80%98downton-abbey-the-grand-finale%E2%80%99/11069350/"
+    },
+    {
+        "critic": "Michael Calleri",
+        "is_top_critic": false,
+        "media": "Niagara Gazette",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-10-16T18:59:57.000Z",
+        "quote": "American audiences have long proven that they draw immense pleasure from watching wealthy Brits go about their well-heeled business. This is a comedy that respects its characters and is willing to honor traditions. There is a lot going on in this edition.",
+        "url": "https://www.niagara-gazette.com/news/night_and_day/calleri-downton-abbey-returns-with-stiff-upper-quips/article_d1c30678-d535-48cb-902c-a1656b4b3bc1.html"
+    },
+    {
+        "critic": "James Mottram",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-10-15T20:51:03.000Z",
+        "quote": "It would be unfair to claim this closing film concludes on a whimper. But neither is it quite the grand finale the title would have us believe. More like a pleasant stroll with characters you know and love.",
+        "url": "https://www.radiotimes.com/movies/downton-abbey-the-grand-finale-review/"
+    },
+    {
+        "critic": "Pablo Vázquez",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-10-13T21:08:37.000Z",
+        "quote": "...a worthy and fulfilling finale, with the pomp, protocol, and twilight tone typical of farewells. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a69006466/downton-abbey-el-gran-final-critica-pelicula/"
+    },
+    {
+        "critic": "Sean P. Means",
+        "is_top_critic": false,
+        "media": "The Movie Cricket",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-10-13T05:42:17.000Z",
+        "quote": "Because I’m not invested the way a fan would be, I could appreciate the way Fellowes and director Simon Curtis (“My Week With Marilyn”) set up the storyline to cash in on the fans’ nostalgia for these rich folks and their ceaselessly loyal staff. ",
+        "url": "https://moviecricket.net/blog/2025/9/11/review-downton-abbey-the-grand-finale-gives-fans-a-last-chance-to-luxuriate-in-1930s-wealth-and-privilege-and-soap-opera-theatrics"
+    },
+    {
+        "critic": "Pablo O. Scholz",
+        "is_top_critic": false,
+        "media": "Clarín",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-10-10T20:43:29.000Z",
+        "quote": "It's worth mentioning that the farewell atmosphere, even if you haven't seen a single image from the series, can move even the most tear-resistant viewer. [Full review in Spanish]",
+        "url": "https://www.clarin.com/espectaculos/broche-oro-downtown-abbey-llega-fin-lagrimear-visto-episodio-serie_0_ULT9QEGbt3.html"
+    },
+    {
+        "critic": "Sara Heredia",
+        "is_top_critic": false,
+        "media": "Sensacine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-10-10T19:37:09.000Z",
+        "quote": "For longtime fans, Downton Abbey: The Grand Finale will be a treat. For those who aren't as hooked on the Crawleys and company, I don't know if they'll be very satisfied. [Full review in Spanish]",
+        "url": "https://www.sensacine.com/peliculas/pelicula-328395/sensacine/"
+    },
+    {
+        "critic": "Pete Vonder Haar",
+        "is_top_critic": false,
+        "media": "Houston Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-10-10T14:55:10.000Z",
+        "quote": "The horrors of The Great War and the 1918 pandemic may drift over the transoms of the Granthams’ lives, causing temporary consternation. But in the end, things are wrapped up nicely with a cup of tea and the reinforcement of comfy class divisions.",
+        "url": "https://www.houstonpress.com/arts/things-to-watch-downton-abbey-the-grand-finale-21217511/"
+    },
+    {
+        "critic": "María Fernanda Mugica",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-10-09T20:58:57.000Z",
+        "quote": "The latest installment of Downton Abbey gives its audience what they want: old-fashioned scandals; witty lines; elegant locations; and, above all, a portrait of the bonds of a family that sticks together...[Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/downton-abbey-el-gran-final-un-cierre-perfecto-para-los-fanaticos-de-la-serie-nid09102025/"
+    },
+    {
+        "critic": "Begoña Piña",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-10-09T19:13:59.000Z",
+        "quote": "The latest film in Julian Fellowes' saga remains a mere catwalk of supposedly good intentions. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/downton-abbey-gran-final-critica-pasarela-supuestas-buenas-intenciones_6511931_0.html"
+    },
+    {
+        "critic": "Mariló Delgado",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-10-09T17:12:20.000Z",
+        "quote": "[Downton Abbey: The Grand Finale] recaptures the best of the show's spirit and the formula that has worked so well over the years without taking too many risks, and there's no need to. [Full review in Spanish]",
+        "url": "https://www.espinof.com/criticas/downton-abbey-gran-final-desenlace-emotivo-complaciente-que-contentara-a-fans-fieles-serie-creo-que-se-queda-corta"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-10-07T01:18:49.000Z",
+        "quote": "It’s all tiresomely fatuous, ﻿coasting along on the familiarity of the characters and fabulousness of the frocks. On this, at least, it doesn’t disappoint.",
+        "url": "https://observer.co.uk/culture/film/article/wendy-ides-pick-of-other-films-the-long-walk-the-man-in-my-basement-downton-abbey-and-more"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-10-03T17:36:15.000Z",
+        "quote": "The Grand Finale doesn’t offer big booming fireworks, but the little pops and poots reverberate in every wall of the manor. As ever. ",
+        "url": "https://decider.com/2025/10/02/downton-abbey-the-grand-finale-stream-it-or-skip-it/"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-27T00:37:02.000Z",
+        "quote": "It's not very good, but it doesn't need to be. ",
+        "url": "https://www.youtube.com/watch?v=QzIOI4bWqVE"
+    },
+    {
+        "critic": "Stephen Romei",
+        "is_top_critic": false,
+        "media": "The Australian",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-09-20T04:37:27.000Z",
+        "quote": "This movie is a pleasure to watch. It is beautifully shot (cinematographer Ben Smithard) and gloriously costumed (costume designer Anna Robbins). ",
+        "url": "https://www.theaustralian.com.au/arts/review/downton-abbey-shows-a-glimpse-of-ankle-in-its-grand-finale/news-story/769fbaad55e9b6d388290c04b079b8d3"
+    },
+    {
+        "critic": "Katie Walsh",
+        "is_top_critic": true,
+        "media": "Tribune News Service",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-09-20T00:34:55.000Z",
+        "quote": "With its mix of old characters and new, worldly upheaval and small-town drama, Fellowes illustrates what “Downton” has always done best, which is a social examination of how much things have changed and how they haven’t changed at all.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2025-09-12/downton-abbey-the-grand-finale-review-julian-fellowes-michelle-dockery-hugh-bonneville"
+    },
+    {
+        "critic": "Edwin Arnaudin",
+        "is_top_critic": false,
+        "media": "Asheville Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-09-19T17:53:44.000Z",
+        "quote": "Loyal audiences would watch this ensemble perform the phone book, and Fellowes gives them a good bit more to work with than The Yellow Pages.",
+        "url": "https://www.ashevillemovies.com/new/downton-abbey-the-grand-finale"
+    },
+    {
+        "critic": "Sara Michelle Fetters",
+        "is_top_critic": true,
+        "media": "MovieFreak.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-09-19T14:51:44.000Z",
+        "quote": "I smiled, I laughed, and I maybe even wiped away a couple of tears, and that’s exactly as it should be.",
+        "url": "http://moviefreak.com/downton-abbey-the-grand-finale-2025-movie-review/"
+    },
+    {
+        "critic": "Sandie Angulo Chen",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-09-19T05:19:37.000Z",
+        "quote": "With this drama, Julian Fellowes offers a fitting, nostalgic farewell to one of pop culture's favorite dramas about aristocrats and servants.",
+        "url": "https://www.commonsensemedia.org/movie-reviews/downton-abbey-the-grand-finale"
+    },
+    {
+        "critic": "Jared Rasic",
+        "is_top_critic": false,
+        "media": "Metro Times (Detroit, MI)",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-09-18T23:57:49.000Z",
+        "quote": "Watching this lovely company of actors take their final bows as these beloved characters is a treat, whether the film is perfect or not. This is cinema as comfort food, a cozy blanket for trying times. ",
+        "url": "https://www.metrotimes.com/arts/movies/downton-abbey-bids-adieu-with-grace-wit-and-quiet-subversion/"
+    },
+    {
+        "critic": "M.V. Moorhead",
+        "is_top_critic": false,
+        "media": "Less Hat, Moorhead",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-17T20:24:56.000Z",
+        "quote": "This Grand Finale doesn't feel particularly grand; as with the two earlier films, it's a relaxing, undemanding holiday, not only from our time and circumstances, but from any judgements we might have about what we're seeing.",
+        "url": "https://mvmoorhead.blogspot.com/2025/09/chesapeake-performance.html"
+    },
+    {
+        "critic": "Tomris Laffly",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-17T19:57:51.000Z",
+        "quote": "With a profound embrace of the changing times and clever winks at Downton devotees, writer Julian Fellowes and director Simon Curtis deliver a heart-swelling conclusion.",
+        "url": "https://variety.com/2025/film/reviews/downton-abbey-the-grand-finale-review-1236509799/"
+    },
+    {
+        "critic": "Mel Campbell",
+        "is_top_critic": false,
+        "media": "ABC Radio (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-17T15:45:20.000Z",
+        "quote": "The overarching theme here is not being able to let go of the past – and it applies just as much to the show's own soothing nostalgia as it does to the former staff who can't stop popping back into the kitchen for a cup of tea, or to polish the silver.",
+        "url": "https://www.abc.net.au/listen/programs/hobart-mornings/mornings/105746104"
+    },
+    {
+        "critic": "Jonathan W. Hickman",
+        "is_top_critic": false,
+        "media": "The Newnan Times-Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-09-17T10:40:00.000Z",
+        "quote": "The valiant attempt by Curtis and Fellowes is to wrap everything up as pleasantly as possible. And that goal is handsomely accomplished in a perfectly pleasing feature outing.",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/weekend-movie-reviews-and-previews/article_e3f136e0-8938-4cd0-a921-a9a1aaa96a47.html"
+    },
+    {
+        "critic": "Mark Meszoros",
+        "is_top_critic": false,
+        "media": "The News-Herald (Willoughby, OH)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-09-16T19:57:57.000Z",
+        "quote": "Boasts more than a couple of moments that should prove to be priceless for longtime fans and, more importantly, a final few emotions-stirring minutes.",
+        "url": "https://www.news-herald.com/2025/09/09/downton-abbey-the-grand-finale-review-satisfying-end-of-an-era/"
+    },
+    {
+        "critic": "Lauren Veneziani",
+        "is_top_critic": false,
+        "media": "WBAL-TV (Baltimore)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-09-16T19:53:24.000Z",
+        "quote": "A stunning conclusion for all of our beloved characters in the Crawley family and the Downton estate. Downton Abbey will go down as one of the most influential television shows and film trologies of our time. ",
+        "url": "https://www.wbaltv.com/article/downton-abbey-discussing-the-last-film/66080991"
+    },
+    {
+        "critic": "Michael Medved",
+        "is_top_critic": false,
+        "media": "The Michael Medved Show",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-09-16T18:15:17.000Z",
+        "quote": "The film is gorgeous to look at and occasionally touching, but for people who are new to this series, the identity of the characters and their relationships can be occasionally confusing.",
+        "url": "https://michaelmedved.substack.com/p/movie-review-downton-abbey-the-grand"
+    },
+    {
+        "critic": "Louisa Moore",
+        "is_top_critic": false,
+        "media": "Screen Zealots",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-16T05:51:23.000Z",
+        "quote": "While unlikely to win over new viewers, this cinematic farewell succeeds in doing exactly what it sets out to do: provide long-time fans with emotional closure, familiar comforts, and a glorious final bow for a sprawling cast of characters.",
+        "url": "https://screenzealots.com/2025/09/15/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Brian Bromberger",
+        "is_top_critic": false,
+        "media": "Bay Area Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-15T19:34:37.000Z",
+        "quote": "It seems appropriate that this movie might indeed be the fond heartwarming sendoff it purports to be, content with not overstaying its welcome, to the sad sobbing resignation of its legions of devotees.   ",
+        "url": "https://www.ebar.com/story/158094/Arts%20%26%20Culture/Movies/%E2%80%98Downton%20Abbey%3A%20The%20Grand%20Finale%E2%80%99%20%E2%80%93%20The%20concluding%20elegant%20hurrah%20of%20the%20British%20series%20and%20films"
+    },
+    {
+        "critic": "Helen Hawkins",
+        "is_top_critic": false,
+        "media": "The Arts Desk",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-15T18:41:22.000Z",
+        "quote": "This cosy insularity was probably predictable, and It may be what devoted fans want, but I didn’t believe a word of it.",
+        "url": "https://www.theartsdesk.com/film/downton-abbey-grand-finale-review-attemptedly-elegiac-final-chapter-haunted-its-past"
+    },
+    {
+        "critic": "Rick Bentley",
+        "is_top_critic": false,
+        "media": "KGET-TV (Bakersfield, CA)",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2025-09-15T18:25:31.000Z",
+        "quote": "The ending is so perfectly put together, it is a near flawless way to say goodbye.",
+        "url": "https://www.kget.com/community/ricks-reviews/downton-abbey-is-grand-finale-to-franchise/"
+    },
+    {
+        "critic": "Alison Gillmor",
+        "is_top_critic": false,
+        "media": "Winnipeg Free Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-15T18:19:33.000Z",
+        "quote": "While offering almost nothing new, this Grand Finale will provide reliable comfort viewing and a fitting farewell for Downton devotees.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/2025/09/12/class-bores"
+    },
+    {
+        "critic": "Stephanie Zacharek",
+        "is_top_critic": true,
+        "media": "TIME Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-15T17:59:34.000Z",
+        "quote": "Downton Abbey: The Grand Finale transports you to a time and place that seems so much more glamorous than our own, and to see it all splashed out on the big screen is almost overwhelming. It’s a genteel fantasy worth leaving the couch for.",
+        "url": "https://time.com/7316508/downton-abbey-grand-finale-review/"
+    },
+    {
+        "critic": "Will Bjarnar",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-09-15T15:46:39.000Z",
+        "quote": "Its pomp and circumstance has always been synonymous with silliness, just the way everyone who loves Downton has always liked it.",
+        "url": "https://insessionfilm.com/movie-review-downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Matt Zoller Seitz",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-09-15T00:47:40.000Z",
+        "quote": "The main appeal here is the chance to spend time in the company of superb actors who all wear their characters as comfortably as an old silk robe.",
+        "url": "https://www.rogerebert.com/reviews/downton-abbey-3-the-grand-finale-film-review-2025"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-14T22:45:49.000Z",
+        "quote": "Films with explosions and a lot of machinations pale in comparison to seemingly sedate storylines that will be exciting to those in the know.",
+        "url": "https://sarahgvincentviews.com/movies/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Michael Ward",
+        "is_top_critic": false,
+        "media": "Should I See It",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-09-14T21:44:19.000Z",
+        "quote": "As a casual fan of Downton Abbey, and someone who has seen all three films and worked my way through the series a few years back, I found plenty to enjoy. ",
+        "url": "https://www.shouldiseeit.net/reviews/2025/downton-abbey-the-grand-finale-2025"
+    },
+    {
+        "critic": "Luke Y. Thompson",
+        "is_top_critic": false,
+        "media": "Mortal Cinema (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-14T19:24:58.000Z",
+        "quote": "...this is a comfort-food platter for longtime devotees, like whatever the adult equivalent is of Chickie Nuggies and Choccy Milk served on a silver platter with Grey Poupon and a bouillon spoon.",
+        "url": "https://lytrules.substack.com/p/dragged-by-my-spouse-to-downton-abbey"
+    },
+    {
+        "critic": "Sarah Cartland",
+        "is_top_critic": false,
+        "media": "Caution Spoilers",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-14T12:22:56.000Z",
+        "quote": "I can attest that you don’t need to have seen any of the show’s 52 episodes to (a) work out who’s who and (b) thoroughly enjoy this whole ridiculous shebang. You could probably do it on the memes alone.",
+        "url": "https://www.cautionspoilers.com/film-reviews/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Susan Granger",
+        "is_top_critic": false,
+        "media": "SSG Syndicate",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-09-13T22:24:26.000Z",
+        "quote": "Witty writer Julian Fellowes has cleverly created and cast such fully realized, socially stratified characters that what occurs is completely credible and director Simon Curtis continues the bittersweet vibe - so the conclusion is elegant and endearing.\n",
+        "url": "https://www.susangranger.com/?p=15832"
+    },
+    {
+        "critic": "Alan French",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-09-13T21:24:36.000Z",
+        "quote": "The Grand Finale is more than a two-hour contained episode but instead a fun way to celebrate the past and future of the franchise.",
+        "url": "https://fandomwire.com/downton-abbey-the-grand-finale-dockery-bonneville/"
+    },
+    {
+        "critic": "Mattie Lucas",
+        "is_top_critic": false,
+        "media": "From the Front Row",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-09-13T20:05:57.000Z",
+        "quote": "For longtime fans of the series, it will serve as a charming, if slight, capper on the decades-spanning story. ",
+        "url": "https://www.fromthefrontrow.net/home/downton-abbey-the-grand-finale-2025"
+    },
+    {
+        "critic": "Patrick Beatty",
+        "is_top_critic": false,
+        "media": "ABC4 Utah",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-13T16:25:08.000Z",
+        "quote": "“Downton Abbey: The Grand Finale” is a fitting conclusion to the legacy, and one that fans will be satisfied with.",
+        "url": "https://www.abc4.com/dailydish/see-it-or-skip-it/utahs-biggest-movie-review-show-tackles-the-long-walk-downton-abbey-and-aka-charlie-sheen/"
+    },
+    {
+        "critic": "Ruth Maramis",
+        "is_top_critic": false,
+        "media": "FlixChatter Film Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-13T14:12:49.000Z",
+        "quote": "Not quite an epic farewell, but still delightful for franchise fans and period-drama lovers. Watching Downton Abbey often feels like indulging in comfort food or sipping a cozy cup of tea.",
+        "url": "https://flixchatter.net/2025/09/12/flixchatter-review-downton-abbey-the-grand-finale-2025-not-quite-an-epic-farewell-but-still-delightful-for-franchise-fans-and-period-drama-lovers/"
+    },
+    {
+        "critic": "John Byrne",
+        "is_top_critic": false,
+        "media": "RTÉ (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-09-13T04:38:09.000Z",
+        "quote": "All told, it's great fun and belts along. But it's over far too quickly - we may never see its like again.",
+        "url": "https://www.rte.ie/entertainment/movie-reviews/2025/0911/1531785-sumptuous-send-off-for-much-loved-downton-abbey/"
+    },
+    {
+        "critic": "Patrick McDonald",
+        "is_top_critic": false,
+        "media": "WBGR-FM (93.7 FM - Monroe, WI)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-09-13T02:42:28.000Z",
+        "quote": "Appropriate send-off to the Brit gentry & their servants, framed with the signature English wit, extreme gaiety (wink wink nudge nudge), and soap operatic twists by series creator Julian Fellowes. Absorbing and actually touching, Goodbye Mr. Carson. ",
+        "url": "https://youtu.be/iVA5gybs5Kg?si=bzqYjNAR3z4b0Xnj"
+    },
+    {
+        "critic": "Dana Han-Klein",
+        "is_top_critic": false,
+        "media": "We're Watching What?!",
+        "sentiment": "Fresh 🍅",
+        "score": "3.7/5",
+        "date": "2025-09-13T01:05:30.000Z",
+        "quote": "A more fitting sendoff than the previous film endeavor, but the Grantham / Crawleys / downstairs crew may have overstayed their welcome with this one. Superfans will find it comforting, however it suffers from several out of touch moments. ",
+        "url": "https://youtu.be/SfdpYjw9XFU?feature=shared&t=232"
+    },
+    {
+        "critic": "Lisa Trifone",
+        "is_top_critic": false,
+        "media": "Third Coast Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-09-13T01:04:49.000Z",
+        "quote": "Fellowes knows what fans of the show (and films) are looking for and he delivers.",
+        "url": "https://thirdcoastreview.com/film-tv/2025/09/12/review-downton-abbey-grand-finale"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-09-13T00:25:49.000Z",
+        "quote": "\"The Grand Finale\" goes out not with a bang, but also not with a whimper, but rather a polite wave goodbye.",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2025/09/10/downton-abbey-the-grand-finale-review-a-polite-wave-goodbye/86073136007/"
+    },
+    {
+        "critic": "Nathalie Atkinson",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-12T23:45:27.000Z",
+        "quote": "Returning director Simon Curtis still doesn’t solve the television pacing and plotting problem of making a two-hour fan film that doesn’t feel like episodes tacked together, but at least gives each of the extensive beloved cast an arc and some closure.",
+        "url": "https://www.theglobeandmail.com/arts/film/reviews/article-downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Abhishek Srivastava",
+        "is_top_critic": false,
+        "media": "The Times of India",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-09-12T23:06:00.000Z",
+        "quote": "The pleasures of the film are gentle, familiar, and domestic, rather than bold or revolutionary. For long-time followers, this last trip to ‘Downton Abbey’ is a rewarding experience in theatres. ",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/downton-abbey-the-grand-finale/movie-review/123856612.cms"
+    },
+    {
+        "critic": "Aglaia Berlutti",
+        "is_top_critic": false,
+        "media": "El nacional",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2025-09-12T22:24:11.000Z",
+        "quote": "La despedida de Downton Abbey llega con un cierre que apuesta más por la nostalgia que por la sorpresa. [Full Review in Spanish]\n",
+        "url": "https://www.elnacional.com/2025/09/downton-abbey-the-grand-finale-una-despedida-emotiva-para-una-saga-perdurable/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "Hallmarkies Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-12T22:17:47.000Z",
+        "quote": "Particularly the ending will make all the fans swoon and feel warm and fuzzy",
+        "url": "https://www.youtube.com/watch?v=NhckC-2iTng"
+    },
+    {
+        "critic": "Lachmi Deb Roy",
+        "is_top_critic": false,
+        "media": "Firstpost",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-09-12T21:36:22.000Z",
+        "quote": "Downton Abbey is not only the most loved drama by the audience, but is also a celebration of fantastic British storytelling for its grace, wit and for its enduring emotion.",
+        "url": "https://www.firstpost.com/entertainment/downton-abbey-the-grand-finale-movie-review-the-final-goodbye-of-julian-fellowess-beloved-british-soap-13933128.html"
+    },
+    {
+        "critic": "Thelma Adams",
+        "is_top_critic": true,
+        "media": "AARP Movies for Grownups",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-09-12T21:32:18.000Z",
+        "quote": "A great, big, comfy upholstered couch of a finale. ",
+        "url": "https://www.aarp.org/entertainment/television/what-to-watch-best-new-movies-shows-streaming.html"
+    },
+    {
+        "critic": "Roxana Hadadi",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-12T21:17:42.000Z",
+        "quote": "It’s a perfect threading of the fanciful fan-service needle.",
+        "url": "https://www.vulture.com/article/downton-abbey-the-grand-finale-movie-review.html"
+    },
+    {
+        "critic": "David Sexton",
+        "is_top_critic": false,
+        "media": "New Statesman",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-12T20:25:45.000Z",
+        "quote": "There’s no replacing Maggie Smith, but Simon Russell Beale is hilarious as Hector Moreland, a whiskery grump.",
+        "url": "https://www.newstatesman.com/culture/film/2025/09/spinal-tap-the-end-continues-review-downton-abbey-refuse-bow-out"
+    },
+    {
+        "critic": "Justin Chang",
+        "is_top_critic": true,
+        "media": "NPR",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-12T20:04:30.000Z",
+        "quote": "Fellowes wisely course-corrects, cutting back on the convoluted plotting and zeroing in on the emotional dynamics. ",
+        "url": "https://www.npr.org/2025/09/12/nx-s1-5536666/downton-abbey-grand-finale-review"
+    },
+    {
+        "critic": "Allan Hunter",
+        "is_top_critic": false,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-12T19:36:06.000Z",
+        "quote": "It is no mean accomplishment that The Grand Finale manages to cram in so much plot and incident yet remain a smooth flowing, comforting confection. ",
+        "url": "https://www.screendaily.com/reviews/downton-abbey-the-grand-finale-review-change-comes-to-the-abbey-in-nostalgic-final-hurrah/5208882.article"
+    },
+    {
+        "critic": "Kyle Smith",
+        "is_top_critic": false,
+        "media": "Wall Street Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-12T18:41:06.000Z",
+        "quote": "I shouldn’t have worried. The writer Mr. Fellowes and director Simon Curtis have constructed their valedictory with all due grace. ",
+        "url": "https://www.wsj.com/arts-culture/film/downton-abbey-the-grand-finale-review-a-high-class-conclusion-43478586"
+    },
+    {
+        "critic": "James Verniere",
+        "is_top_critic": false,
+        "media": "Boston Movie News",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-09-12T17:26:16.000Z",
+        "quote": "Not much drama, but cast is nicely showcased, and Michelle Dockery is a standout as usual. Fans will enjoy this. Is it really over?",
+        "url": "https://bostonmovienews.com/2025/09/11/downtons-last-waltz/"
+    },
+    {
+        "critic": "Swara Salih",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Fresh 🍅",
+        "score": "8.5/10",
+        "date": "2025-09-12T17:19:12.000Z",
+        "quote": "With confidence that Fellowes has done justice to at least most of his characters, and incisive societal commentary as he is wont to do, he can put his most famous work to rest with satisfaction.",
+        "url": "https://butwhytho.net/2025/09/downton-abbey-the-grand-finale-review/"
+    },
+    {
+        "critic": "Collin Garbarino",
+        "is_top_critic": false,
+        "media": "WORLD",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-09-12T15:42:02.000Z",
+        "quote": "Fellowes offers viewers some clever dialogue, but for the most part the film relies on our craving for nostalgia to impart pleasure, rather than its own merit.",
+        "url": "https://wng.org/articles/downton-abbey-the-grand-finale-1757558429"
+    },
+    {
+        "critic": "Ross Bonaime",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2025-09-12T15:08:47.000Z",
+        "quote": "There’s absolutely no doubt that if you’ve stuck with this series for these 15 years, The Grand Finale will give you what you want from more Downton. However, it doesn't deliver a farewell that's stronger than the last film. ",
+        "url": "https://collider.com/downton-abbey-the-grand-finale-review/"
+    },
+    {
+        "critic": "Micheal Compton",
+        "is_top_critic": false,
+        "media": "Bowling Green Daily News",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-09-12T15:07:49.000Z",
+        "quote": "...This is a fun — and somewhat nostalgic — final lap, sure to appease the fan base while entertaining casuals such as myself.\n\n",
+        "url": "https://bgdailynews.com/2025/09/12/news_moviereview091425/"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-12T14:56:20.000Z",
+        "quote": "It’s all just a big dollop of comfort caviar, escapist folly that unarguably romanticises early 20th century culture and class structures – but again, that’s the appeal of Downton Abbey in a nutshell. ",
+        "url": "https://filmfeeder.co.uk/film-reviews/downton-abbey-the-grand-finale-dir-simon-curtis"
+    },
+    {
+        "critic": "Sean Collier",
+        "is_top_critic": false,
+        "media": "Pittsburgh Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-09-12T13:53:40.000Z",
+        "quote": "If The Grand Finale often feels like a wrapping-up, it’s also a statement on the very real possibility of merging modernity with tradition.",
+        "url": "https://www.pittsburghmagazine.com/movie-review-downton-abbey-finale/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-09-12T03:46:58.000Z",
+        "quote": "It's a fond and fine farewell ... as well as a film with an endearing degree of fondness for its characters.",
+        "url": "http://www.markreviewsmovies.com/reviews/D/downtonabbey3.htm"
+    },
+    {
+        "critic": "Jeanne Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-12T02:48:01.000Z",
+        "quote": "Fellowes has created a final chapter worthy of this marvelous cast of unforgettable characters. Each and every one of them brings the energy --- and charm --- these beloved personages deserve.",
+        "url": "https://www.kaplanvskaplan.com/new-releases/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Nell Minow",
+        "is_top_critic": true,
+        "media": "Movie Mom",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-09-12T00:57:31.000Z",
+        "quote": "As always, it is gorgeous to look at and revel in. The sumptuousness of the surroundings and the empathy for the characters bring this saga to most a satisfying conclusion.",
+        "url": "https://moviemom.com/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-11T23:31:47.000Z",
+        "quote": "Fellows knows the Downton Abbey fans better than anybody, and this is a movie that is like spending time with old friends.",
+        "url": "https://punchdrunkcritics.com/2025/09/downton-62815/"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2025-09-11T21:34:31.000Z",
+        "quote": "There is no conceivable reason why anyone unfamiliar with Downton Abbey would choose to see this film—and if they did, they would likely drift into sleep from a mix of confusion and boredom. ",
+        "url": "https://www.reelviews.net/reelviews/downton-abbey-the-grand-finale"
+    },
+    {
+        "critic": "Matt Goldberg",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-09-11T20:59:07.000Z",
+        "quote": "Of the three features, the final installment feels most in line with the TV series.",
+        "url": "https://www.thewrap.com/downton-abbey-the-grand-finale-review/"
+    },
+    {
+        "critic": "Caroline Siede",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-11T20:29:37.000Z",
+        "quote": "While Grand Finale will probably be inscrutable for those who can’t tell their Lord Hexhams from their Lady Mertons, longtime fans will be rewarded by how seriously the film takes the emotional continuity of its sprawling cast of characters.",
+        "url": "https://www.thedailybeast.com/obsessed/downton-abbey-the-grand-finale-is-a-perfect-goodbye-fans-will-love/"
+    },
+    {
+        "critic": "Danny Leigh",
+        "is_top_critic": false,
+        "media": "Financial Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-11T20:11:09.000Z",
+        "quote": "The wistful tone can have an edge. There are loud barbs about the tax burden...Characters argue with such fervour for the hereditary principle, an oik like me might feel abashed. But the movie can be playful too. \n",
+        "url": "https://www.ft.com/content/6b15ce18-3957-49fd-abaa-85e6d144c510"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-09-11T20:07:29.000Z",
+        "quote": "Like all its predecessors, it’s a plush upper-crust soap opera, overstuffed with characters but visually elegant and narratively decorous.  If this is indeed the end, it will serve its devotees as a fine swan song.",
+        "url": "https://www.oneguysopinion.com/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-09-11T19:57:06.000Z",
+        "quote": "Extremely little actually happens in Downton Abbey: The Grand Finale -- certainly not enough to justify a third feature. It barely even feels like a TV episode with benefits. ",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/downton-abbey-the-grand-finale-review-1235420398/"
+    },
+    {
+        "critic": "Jocelyn Noveck",
+        "is_top_critic": false,
+        "media": "Associated Press",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-09-11T19:46:29.000Z",
+        "quote": "This final movie will give loyal Downton fans what they want: a satisfying bit of closure and the sense that the future, though a bit scary, may look kindly on Downton Abbey as long as Mary is in charge.",
+        "url": "https://apnews.com/article/downton-abbey-grand-finale-movie-review-b385c87987fadd17d85a0c943124c353"
+    },
+    {
+        "critic": "Dom Fisher",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2025-09-11T19:30:31.000Z",
+        "quote": "Downton Abbey: The Grand Finale is an emotional farewell powered by proper perseverance. The film is charming, heartwarming, incredibly dramatic, laugh-out-loud funny, and the tea is piping hot.",
+        "url": "https://geekvibesnation.com/downton-abbey-the-grand-finale-review/"
+    },
+    {
+        "critic": "Sandra Hall",
+        "is_top_critic": true,
+        "media": "Sydney Morning Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-09-11T19:18:16.000Z",
+        "quote": "It’s fun and because the nostalgia is rooted so firmly in a shared sense of history, there’s a lot of pathos in the inevitability of its ending. Less is more? Not this time.",
+        "url": "https://www.smh.com.au/culture/movies/less-is-not-more-as-downton-moves-with-the-times-to-its-grand-finale-20250905-p5mst8.html"
+    },
+    {
+        "critic": "Johnny Oleksinski",
+        "is_top_critic": false,
+        "media": "New York Post",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2025-09-11T19:06:04.000Z",
+        "quote": "Narrowly won me over, though. Perhaps that’s because from the off, it feels like the final episode of a TV series that’s past its prime. Even if your favorite characters have seen better days, you’re still sad they’re hitting the road.",
+        "url": "https://nypost.com/2025/09/11/entertainment/downton-abbey-the-grand-finale-review-soapy-british-franchise-goes-out-with-a-scandal/"
+    },
+    {
+        "critic": "Ty Burr",
+        "is_top_critic": true,
+        "media": "Washington Post",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-09-11T19:03:04.000Z",
+        "quote": "At this point, any new “Downton Abbey” is a Xerox of a facsimile of a tracing of a copy.",
+        "url": "https://www.washingtonpost.com/entertainment/movies/2025/09/11/downton-abbey-grand-finale-review/"
+    },
+    {
+        "critic": "Jeannette Catsoulis",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-11T19:00:55.000Z",
+        "quote": "Finding small pockets of humor among the intrigue and class combat, the movie delivers exactly what “Downton” fans want: yummy photography (by the brilliant Ben Smithard), stunning set pieces and Lady Mary trying on as many fabulous frocks as possible.",
+        "url": "https://www.nytimes.com/2025/09/11/movies/downton-abbey-the-grand-finale-review.html"
+    },
+    {
+        "critic": "Moira MacDonald",
+        "is_top_critic": false,
+        "media": "Seattle Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-09-11T18:58:58.000Z",
+        "quote": "Fellowes, who touchingly dedicates the film “in loving memory of Dame Maggie Smith,” treats us to a nicely sentimental final sequence that reminds us of all of Downton’s beautiful ghosts, and certainly feels like a goodbye.",
+        "url": "https://www.seattletimes.com/entertainment/movies/downton-abbey-the-grand-finale-review-a-poshly-fitting-goodbye/"
+    },
+    {
+        "critic": "Heidi Krull",
+        "is_top_critic": false,
+        "media": "MovieJawn",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-09-11T18:19:06.000Z",
+        "quote": "Downton Abbey: The Grand Finale would have been better off being made as three or four separate television episodes. The filmic medium did not do the plot any favors, and unfortunately came across as a rush job.",
+        "url": "https://www.moviejawn.com/home/2025/9/11/downtown-abbey-the-grand-finale-review"
+    },
+    {
+        "critic": "Cameron Meier",
+        "is_top_critic": false,
+        "media": "MeierMovies.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.75/5",
+        "date": "2025-09-11T17:23:27.000Z",
+        "quote": "\"The Grand Finale\" is a suitable, sentimental sendoff for an entertainment institution and easily the best of the three films.",
+        "url": "https://www.meiermovies.com/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Michael Nordine",
+        "is_top_critic": false,
+        "media": "Movie Brief",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-09-11T17:13:38.000Z",
+        "quote": "A fond farewell that bows out at just the right moment and avoids overstaying its welcome.",
+        "url": "https://www.moviebrief.com/reviews/downton-abbey-the-grand-finale"
+    },
+    {
+        "critic": "Robert Denerstein",
+        "is_top_critic": false,
+        "media": "Denerstein Unleashed",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-11T16:42:20.000Z",
+        "quote": "...the whole Downton business ended with neither a bang nor a whimper, but, if you will, with a sigh. This lavishly appointed addendum gracefully drifts into the soft embrace of a cultural comfort zone.",
+        "url": "https://denersteinunleashed.blogspot.com/2025/09/downton-abbeys-very-fond-farewell.html"
+    },
+    {
+        "critic": "Peter Sobczynski",
+        "is_top_critic": false,
+        "media": "Auteurist Class (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-11T16:31:17.000Z",
+        "quote": "Not particularly grand—even longtime devotees might find it to be a tad on the slight side—but it still has enough charm and entertainment value going for it to make it worth a look for those who already have some vested interest in the franchise",
+        "url": "https://open.substack.com/pub/petersobczynski/p/so-long-london?r=129p34&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false"
+    },
+    {
+        "critic": "Paul McGuire Grimes",
+        "is_top_critic": false,
+        "media": "Paul's Trip to the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-11T14:31:44.000Z",
+        "quote": "Downton Abbey The Grand Finale ends in a sweet, whimsical fashion that acts as a tribute to the television series as both the cast, the characters, and the audience says goodbye.",
+        "url": "https://paulstriptothemovies.com/movie-review-downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-09-11T13:30:29.000Z",
+        "quote": "A melodrama in fancy dress, “Downton Abbey: The Grand Finale” is pure fan service that allows longtime fans to spend a few extra hours with beloved characters padding around the opulent rooms, and downstairs kitchen, of one of England’s most famous homes.",
+        "url": "https://richardcrouse.ca/downton-abbey-the-grand-finale-3-%C2%BD-stars-for-fans-the-times-they-are-a-changin/"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-09-11T10:04:33.000Z",
+        "quote": "An excellent, handsome piece, its narrative menu deliciously packed with a pleasing mix of drama and humour dancing around the central theme social progress...beautifully fashioned for fans, it works perfectly well as a standalone.",
+        "url": "https://tinyurl.com/4bn7uv8v"
+    },
+    {
+        "critic": "David Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-11T04:17:19.000Z",
+        "quote": "DOWNTON ABBEY: THE GRAND FINALE will feel like a re-connecting with old friends. The movie is absolutely wonderful and easily one of the best films of the year. ",
+        "url": "https://www.kaplanvskaplan.com/new-releases/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Lynn Venhaus",
+        "is_top_critic": false,
+        "media": "PopLifeSTL",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2025-09-11T03:04:41.000Z",
+        "quote": "As always, the ensemble cast is strong – and so are the attachments to them. The sprawling cast conveys its customary lived-in quality and longtime association with each other in heartwarming fashion.",
+        "url": "https://poplifestl.com/tea-tears-and-tiaras-downton-abbey-the-grand-finale-says-farewell/"
+    },
+    {
+        "critic": "Christopher Lloyd",
+        "is_top_critic": false,
+        "media": "The Film Yap",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2025-09-11T02:41:56.000Z",
+        "quote": "Despite going in with a scandalous ignorance of the \"Downton Abbey\" world, this critic found it a smashing and sentimental sendoff, an interlocking series of curtsies and tips o' the hat to the extended Crawley family.",
+        "url": "https://filmyap.substack.com/p/downton-abbey-the-grand-finale"
+    },
+    {
+        "critic": "Joanne Soh",
+        "is_top_critic": false,
+        "media": "The Straits Times (Singapore)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-10T23:05:11.000Z",
+        "quote": "Downton Abbey fans will find this a fitting farewell to one of Britain’s most endearing period drama franchises.",
+        "url": "https://www.straitstimes.com/life/entertainment/at-the-movies-downton-abbey-the-grand-finale-a-fitting-farewell-for-franchises-fans"
+    },
+    {
+        "critic": "Rich Cline",
+        "is_top_critic": false,
+        "media": "Shadows on the Wall",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-09-10T21:57:32.000Z",
+        "quote": "This lively, funny, sprawling upstairs-downstairs romp has brisk pacing, jumping between scenes to give screen-time to a vast number of characters and plotlines. ",
+        "url": "http://www.shadowsonthewall.co.uk/25/downgran.htm"
+    },
+    {
+        "critic": "G. Allen Johnson",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-09-10T21:52:46.000Z",
+        "quote": "It’s delightful escapism for its fans, and with witty English playwright Noel Coward along to spice things up, it’s constantly amusing in a dry “Downton Abbey” way.",
+        "url": "https://www.sfchronicle.com/entertainment/article/downton-abbey-grand-finale-review-21031492.php"
+    },
+    {
+        "critic": "James Dyer",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-10T20:02:00.000Z",
+        "quote": "Fellowes’ dewy-eyed swansong isn’t likely to make many Film Of The Year lists, but it still does Downton proud, closing the book on his Faragian utopia of stiff upper lips and British brio in a way that would do Cousin Violet proud.",
+        "url": "https://www.empireonline.com/movies/reviews/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Courtney Howard",
+        "is_top_critic": false,
+        "media": "Fresh Fiction",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2025-09-10T19:46:01.000Z",
+        "quote": " It acts as a warm, cozy blanket to cuddle up with during current cynical times.",
+        "url": "https://freshfiction.tv/downton-abbey-the-grand-finale-review-a-finale-that-brings-comfort-closure/"
+    },
+    {
+        "critic": "Hilary A White",
+        "is_top_critic": false,
+        "media": "Sunday Independent (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-10T18:37:05.000Z",
+        "quote": "Let’s hold out hope for a more fitting closing chapter, perhaps featuring today’s cash-strapped Crawleys, ­staffless, ­wintering in the kitchen...Something just a little more substantial for dessert.",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/downton-abbey-the-grand-finale-review-swansong-serves-up-its-usual-style-and-little-substance/a615001855.html"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Daily Telegraph (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-09-10T18:18:48.000Z",
+        "quote": "There are countless other subplots and stand-alone scenes packed into the movie, but nothing that matches the bittersweet emotion of The Grand Finale’s final minutes, in which the fondest of farewells is waved to one and all.",
+        "url": "https://www.dailytelegraph.com.au/entertainment/movies/dakota-johnsons-racy-new-hollywood-role-in-splitsville-her-first-since-mega-hit-materialists/news-story/767da2b58783c71d0f399b7b07620509"
+    },
+    {
+        "critic": "Tara Brady",
+        "is_top_critic": true,
+        "media": "Irish Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-10T17:40:45.000Z",
+        "quote": "Thomas the Tank Engine trains are written with more subtlety than Simon Russell Beale’s flummoxed aristocrat, Sir Hector Moreland. Pointless subplots are explained and re-explained by actors who are never on screen long enough to make an impression.",
+        "url": "https://www.irishtimes.com/culture/film/review/2025/09/10/downton-abbey-the-grand-finale-review-tiresome-curtain-call-could-turn-ardent-monarchists-into-kneecap-fans/"
+    },
+    {
+        "critic": "Neil Pond",
+        "is_top_critic": false,
+        "media": "Neil's Entertainment Picks",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-10T15:09:58.000Z",
+        "quote": "A posh, sumptuous-looking period piece festooned with rich details...a fancy ball, a day at the races and a county fair where the two “classes” meet on common ground, a merry-go-round movie metaphor as Great Britain heads into its future.",
+        "url": "https://neilsentertainmentpicks.com/2025/09/10/movie-review-downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-09-10T00:15:40.000Z",
+        "quote": "“The Grand Finale” restores dramatic vitality to the saga, delivering a generally well-balanced understanding of community interests and character fears, while still retaining all the melodrama and manners Fellowes is known for.",
+        "url": "https://www.blu-ray.com/Downton-Abbey-The-Grand-Finale/1819681/#Review"
+    },
+    {
+        "critic": "Philip De Semlyen",
+        "is_top_critic": true,
+        "media": "Time Out",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-09T22:50:43.000Z",
+        "quote": "With everyone getting their moment, it’s a touching but low-key ending that gathers all your faves together for a last supper. In true Downton style, it goes out not with a bang but with a duck.",
+        "url": "https://www.timeout.com/movies/downton-abbey-3-review-2025"
+    },
+    {
+        "critic": "Gary M. Kramer",
+        "is_top_critic": false,
+        "media": "Philadelphia Gay News",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-09T22:49:22.000Z",
+        "quote": "Long live “Downton Abbey!” It had a good run. Thankfully, “Downton Abbey: The Grand Finale” provides a fine and fond sendoff. \n\n",
+        "url": "https://epgn.com/2025/09/08/downton-abbey-the-grand-finale-review/"
+    },
+    {
+        "critic": "Laura Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2025-09-09T19:35:03.000Z",
+        "quote": "Creator Julian Fellowes shepherds his ever expanding cast of characters through times which are changing dramatically with a generational handoff that leaves everyone in a good place and may just leave the audience with a lump in their throat.\n",
+        "url": "https://www.reelingreviews.com/reviews/downton-abbey-the-grand-finale/"
+    },
+    {
+        "critic": "Jason Adams",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-09T18:38:23.000Z",
+        "quote": "One long, sumptuous kissy-fest for the characters and the fans—a two hour and three minute love letter to those who’ve stuck with Grantham & Co. all these many rollercoaster years. White gloves immaculate.",
+        "url": "https://www.pajiba.com/film_reviews/review-downton-abbey-the-grand-finale.php"
+    },
+    {
+        "critic": "Alistair Harkness",
+        "is_top_critic": false,
+        "media": "Scotsman",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-09T18:08:39.000Z",
+        "quote": "The agnostic, meanwhile, can go back to pondering the puzzling appeal of a phenomenon predicated on giving us a glimpse into such a bland and boring world.",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/downton-abbey-the-grand-finale-review-a-bland-boring-end-to-an-insidiously-silly-series-5310365"
+    },
+    {
+        "critic": "Roger Friedman",
+        "is_top_critic": false,
+        "media": "Showbiz 411",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2025-09-09T16:48:34.000Z",
+        "quote": "Fellowes lays it all out in a finely tuned screenplay. He imbues his characters — especially the younger ones — with enough prescience to be aware that their royal life is undergoing a seachange.",
+        "url": "https://www.showbiz411.com/2025/09/09/downton-abbey-comes-to-a-grand-spectacular-finale-best-of-the-3-movies-gracefully-passes-the-baton-to-a-new-generation"
+    },
+    {
+        "critic": "Sarah Knight Adamson",
+        "is_top_critic": false,
+        "media": "Sarah's Backstage Pass",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2025-09-06T16:26:08.000Z",
+        "quote": "The acting is wonderful and the plot revolves around Lady Grantham’s daughter Mary who is the center of a public scandal---although the goresous Highclere Castle in Hampshire, England  where the movie was filmed steals the show! ",
+        "url": "https://sarahsbackstagepass.com/downton-abbey-the-grand-finale-pg-%E2%98%85%E2%98%85%E2%98%85%E2%98%85tv-film/"
+    },
+    {
+        "critic": "Tara Bennett",
+        "is_top_critic": false,
+        "media": "Tellyvisions",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2025-09-05T20:02:43.000Z",
+        "quote": "Fellowes & Curtis have gifted audiences with a trilogy closer that’s worth coming back for as it brings satisfying closure to world and hits about every emotional note a fan could hope for in seeing these characters off to their imagined futures. ",
+        "url": "https://tellyvisions.org/article/downton-abbey-grand-finale-review-high-class-exit"
+    },
+    {
+        "critic": "Brian Viner",
+        "is_top_critic": false,
+        "media": "Daily Mail (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-09-05T18:30:14.000Z",
+        "quote": "It's corny and formulaic, sometimes even preposterous, but two hours immersed in Downton is fundamentally the same as it's always been, like luxuriating in a warm bath. And hurrah for that. I'll rather miss it.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15062069/curtain-Downton-Abbey-like-warm-bath.html?ico=authors_pagination_desktop"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-05T06:13:47.000Z",
+        "quote": "Downton Abbey: The Grand Finale makes for a solid finale, even with limited knowledge of the series ",
+        "url": "https://www.flickeringmyth.com/movie-review-downton-abbey-the-grand-finale-2025/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-05T04:39:49.000Z",
+        "quote": " A breezy, witty and sparkling drama with a terrific ensemble cast. Michelle Dockery gives a moving, nuanced and Oscar-worthy performance.",
+        "url": "http://nycmovieguru.com/sept12th25.html#downtonabbey25"
+    },
+    {
+        "critic": "Jo Berry",
+        "is_top_critic": false,
+        "media": "Digital Spy",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-04T06:41:54.000Z",
+        "quote": "It may have taken two forgettable hours to get there, but if this really is a final goodbye to Downton Abbey, at least it is a warm one.",
+        "url": "https://www.digitalspy.com/movies/a65957914/downton-abbey-3-review/"
+    },
+    {
+        "critic": "Joe Botten",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-09-04T01:24:42.000Z",
+        "quote": "Downton Abbey: The Grand Finale succeeds because it knows the difference between an ending and a conclusion.",
+        "url": "https://loudandclearreviews.com/downton-abbey-grand-finale/"
+    },
+    {
+        "critic": "Maxance Vincent",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2025-09-04T01:08:29.000Z",
+        "quote": "When the film concludes with a soulful look back on the time spent at Downton, the tears flowed so hard that I saw the sequence through a completely imperceptible puddle in my eyes.",
+        "url": "https://awardsradar.com/2025/09/03/film-review-downton-abbey-the-grand-finale-is-a-tear-jerking-farewell-to-one-of-the-greatest-tv-series-ever-made/"
+    },
+    {
+        "critic": "Dulcie Pearce",
+        "is_top_critic": false,
+        "media": "The Sun (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-03T23:19:09.000Z",
+        "quote": "While it all feels a little dusty and over-sweetened, the sleek glamour of the fine outfits, rich scenery, top cast and that beloved theme tune sees it through.",
+        "url": "https://www.thesun.co.uk/tv/36561331/downton-abbey-grand-finale-film-review-movies/"
+    },
+    {
+        "critic": "Rachel LaBonte",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-09-03T21:54:56.000Z",
+        "quote": "It's finally time to say goodbye to the Crawleys, and Downton Abbey: The Grand Finale is the exact kind of sendoff fans are looking for.\n",
+        "url": "https://screenrant.com/downton-abbey-the-grand-finale-movie-review/"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "Mashable",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-03T20:19:48.000Z",
+        "quote": "It brings more of the same to the table, but peppers it with just enough hints of nostalgia (and narrative finality) to make this umpteenth ending feel definitive.",
+        "url": "https://mashable.com/article/downton-abbey-the-grand-finale"
+    },
+    {
+        "critic": "George Simpson",
+        "is_top_critic": false,
+        "media": "Daily Express (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-09-03T20:15:32.000Z",
+        "quote": "The franchise creator and screenwriter masterfully weaves the various personal storylines together, making sure that all the fan favourites get their special moments.",
+        "url": "https://www.express.co.uk/entertainment/films/2104018/Downton-Abbey-3-The-Grand-Finale-review"
+    },
+    {
+        "critic": "Kevin Maher",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-03T20:13:53.000Z",
+        "quote": "The film... directed by Simon Curtis, climaxes with a scene that is simultaneously grossly saccharine and deeply cynical, and is effectively a roll call of everyone unlucky enough to be cast in a long-running creepy class fantasy.",
+        "url": "https://www.thetimes.com/culture/film/article/downton-abbey-the-grand-finale-review-fss8mgsb0"
+    },
+    {
+        "critic": "Tim Robey",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-03T20:11:00.000Z",
+        "quote": "It’s not a peak for the doughty franchise so much as a reverential goodbye. ",
+        "url": "https://www.telegraph.co.uk/films/2025/09/03/downton-abbey-the-grand-finale-review-fond-farewell/"
+    },
+    {
+        "critic": "Fred Topel",
+        "is_top_critic": false,
+        "media": "United Press International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-03T20:09:51.000Z",
+        "quote": "As much a fresh start for the franchise as it is a conclusion. By dealing with substantial issues and evolving the characters, the beloved world expands rather than winding down.",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2025/09/03/Downton-Abbey-Grand-Finale-movie-review/7601756882235/"
+    },
+    {
+        "critic": "Alonso Duralde",
+        "is_top_critic": true,
+        "media": "The Film Verdict",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-03T20:09:24.000Z",
+        "quote": "Basically one giant victory lap that takes the Crawley family and their employees into 1930 and beyond — as Cole Porter once wrote, “it’s fun/it’s fresh/it’s post-/depresh.”",
+        "url": "https://thefilmverdict.com/downton-abbey-the-grand-finale-film-review/"
+    },
+    {
+        "critic": "Rafer Guzman",
+        "is_top_critic": false,
+        "media": "Newsday",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-03T20:09:23.000Z",
+        "quote": "A plummy sequel that could have used a dash of vinegar from the late Maggie Smith.",
+        "url": "https://www.newsday.com/entertainment/movies/downton-abbey-grand-finale-review-w5p3dsvk"
+    },
+    {
+        "critic": "Clarisse Loughrey",
+        "is_top_critic": true,
+        "media": "Independent (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-03T20:08:09.000Z",
+        "quote": "This is about as graceful and fitting an endnote as you could hope for.",
+        "url": "https://www.the-independent.com/arts-entertainment/films/reviews/downton-abbey-grand-finale-review-b2817740.html"
+    },
+    {
+        "critic": "Pete Hammond",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-03T20:06:27.000Z",
+        "quote": "It is a tall order, and Curtis’ elegant and assured guidance, along with Fellowes’ customarily witty and engaging scenario, make this the best Downton movie of them all, one I have to admit shedding a tear or two by the time it ended.",
+        "url": "https://deadline.com/2025/09/downton-abbey-the-grand-finale-review-1236505277/"
+    },
+    {
+        "critic": "Frank Scheck",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-03T20:05:33.000Z",
+        "quote": "An elegant farewell.\n",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/downton-abbey-the-grand-finale-review-julian-fellowes-1236352930/"
+    },
+    {
+        "critic": "Peter Bradshaw",
+        "is_top_critic": true,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-09-03T20:04:54.000Z",
+        "quote": "The film is very silly and always watchable in its weird way, with those eccentrically emphasised shots of characters thanking each other for their thoughtfulness.",
+        "url": "https://www.theguardian.com/film/2025/sep/03/downton-abbey-the-grand-finale-review-this-silly-enjoyable-nonsense-should-go-on-for-ever"
+    },
+    {
+        "critic": "India Block",
+        "is_top_critic": false,
+        "media": "London Evening Standard",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2025-09-03T20:02:48.000Z",
+        "quote": "It is an overstuffed sofa of a film, so plush you sink into it and fear you may never escape its soporific pull. ",
+        "url": "https://www.standard.co.uk/culture/film/downton-abbey-the-grand-finale-review-b1245847.html"
+    },
+    {
+        "critic": "Ian Thomas Malone",
+        "is_top_critic": false,
+        "media": "ianthomasmalone.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-09-03T20:01:02.000Z",
+        "quote": "There’s no marquee event like a visit from the King or a mysterious French villa gifted to a dying octogenarian anchoring the narrative. Instead, Fellowes’ modest intentions serve as more of an extended episode of the series, a well-deserved victory lap.",
+        "url": "https://ianthomasmalone.com/2025/09/downton-abbey-grand-finale-review/"
+    },
+    {
+        "critic": "Dan Bayer",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2025-09-03T20:00:32.000Z",
+        "quote": "With an assist from returning director Simon Curtis, who knows how to keep things moving while still feeling stately, Fellowes has managed to bring his most significant creation to a most satisfying conclusion.",
+        "url": "https://nextbestpicture.com/downton-abbey-the-grand-finale/"
+    }
+]

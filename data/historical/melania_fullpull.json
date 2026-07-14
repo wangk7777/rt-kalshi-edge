@@ -1,0 +1,612 @@
+[
+    {
+        "critic": "Travis Johnson",
+        "is_top_critic": false,
+        "media": "Blunt Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-30T23:01:57.000Z",
+        "quote": "Paper-thin, superficial, and interminably boring, Melania would be an embarrassment if anyone involved was capable of shame.",
+        "url": "https://bluntmag.com.au/features/melania-review/"
+    },
+    {
+        "critic": "Tim Miller",
+        "is_top_critic": false,
+        "media": "Cape Cod Wave Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-04-14T14:50:24.000Z",
+        "quote": "Apparently, tone-deafness runs in the family.",
+        "url": "https://capecodwave.com/melania-will-you-look-at-those-shoes-play-it-again-tim/"
+    },
+    {
+        "critic": "Michael Medved",
+        "is_top_critic": false,
+        "media": "The Michael Medved Show",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-02T20:09:24.000Z",
+        "quote": "Despite a polished presentation, the film comes across as tedious, unconvincing, and ultimately a failed experiment that struggles to justify its ambition.",
+        "url": "https://michaelmedved.substack.com/p/movie-review-melania"
+    },
+    {
+        "critic": "Bruce R. Miller",
+        "is_top_critic": false,
+        "media": "Sioux City Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-03-19T01:36:54.000Z",
+        "quote": "This doesn’t give as much as a Fox News Special might or — god forbid — a sit-down interview with one of the network anchors.",
+        "url": "https://siouxcityjournal.com/life-entertainment/nation-world/movies-tv/article_3f388abc-44c2-5b6b-b2c4-b544c5d99af2.html"
+    },
+    {
+        "critic": "A.S. Hamrah",
+        "is_top_critic": false,
+        "media": "n+1",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-16T20:48:42.000Z",
+        "quote": "Melania is an anti-documentary.",
+        "url": "https://www.nplusonemag.com/online-only/online-only/pulling-bolts-out-of-the-ferris-wheel/"
+    },
+    {
+        "critic": "John Stark",
+        "is_top_critic": false,
+        "media": "Mac the Movie Guy",
+        "sentiment": "Rotten 🤢",
+        "score": "20/100",
+        "date": "2026-03-15T20:23:03.000Z",
+        "quote": "Melania is exactly what you think it is: a very expensive ad for the brand Melania, not so much an exploration of who Melania was, is, or wants to be. ",
+        "url": "http://macthemovieguy.com/2026/03/15/melania"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "The Travers Take",
+        "sentiment": "Rotten 🤢",
+        "score": "0.5/4",
+        "date": "2026-03-14T15:52:43.000Z",
+        "quote": "Shallow, sycophantic and absent a single unguarded moment, ‘Melania’ is a near-two-hour infomercial disguised as a documentary. What’s the movie actually worth as entertainment? I’ll start the bidding at two cents.",
+        "url": "https://www.thetraverstake.com/melania/"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-12T17:11:06.000Z",
+        "quote": "The film concludes with her promise that she’ll fulfill her duties as First Lady “with purpose and style,” and a couple walls of text trumpeting her accomplishments from the past year. You’ll be lucky if you maintain consciousness long enough to read it. ",
+        "url": "https://decider.com/2026/03/09/melania-trump-documentary-stream-it-or-skip-it/"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Rotten 🤢",
+        "score": "D-",
+        "date": "2026-02-11T13:15:26.000Z",
+        "quote": "Even the most devoted fans are unlikely to discover anything here that could not be gleaned from a quick Wikipedia search. ",
+        "url": "https://www.theonlycritic.com/post/melania-review-documentary-about-first-lady-is-a-colossal-waste-of-time"
+    },
+    {
+        "critic": "Eva Terry",
+        "is_top_critic": false,
+        "media": "Deseret News (Salt Lake City)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-11T01:50:35.000Z",
+        "quote": "The camera catches Melania in moments where she seems happy. She sings along to “Billie Jean” with her driver. She appears genuinely comfortable when interacting with designer Hervé Pierre, French first lady Brigitte Macron and others.",
+        "url": "https://www.deseret.com/opinion/2026/01/31/melania-trump-documentary-review/"
+    },
+    {
+        "critic": "Armond White",
+        "is_top_critic": false,
+        "media": "National Review",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-09T21:30:58.000Z",
+        "quote": "\"Melania\" fights fairly by fighting gracefully. This is Ratner's most elegant filmmaking so far. ",
+        "url": "https://www.nationalreview.com/2026/02/melania-outfoxes-the-haters/"
+    },
+    {
+        "critic": "Coleman Spilde",
+        "is_top_critic": false,
+        "media": "Salon.com",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-07T00:53:57.000Z",
+        "quote": "This documentary doesn’t absolve any sins; it highlights them. “Melania” taunts the viewer and takes glee in the assumption that they can’t do anything about it. ",
+        "url": "https://www.salon.com/2026/02/01/the-melania-movie-is-empty-foul-and-worse-than-we-imagined/"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2026-02-06T21:18:24.000Z",
+        "quote": "Its defining trait is that it's numbingly, agonizingly dull.",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2026/02/04/melania-review-first-lady-documentary-comes-off-cold-impersonal/88497784007/"
+    },
+    {
+        "critic": "Alan Ng",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-02-06T20:41:04.000Z",
+        "quote": "For what it’s worth, this is worth watching.",
+        "url": "https://filmthreat.com/reviews/melania-documentary-2026-review/"
+    },
+    {
+        "critic": "John Semley",
+        "is_top_critic": false,
+        "media": "The New Republic",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-06T17:49:50.000Z",
+        "quote": " It’s not just that this is some self-serving spectacle. It’s that it’s a bad, totally un-entertaining self-serving spectacle. ",
+        "url": "https://newrepublic.com/article/205808/beneath-stifling-boredom-melania-documentary-review"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-02-06T07:10:35.000Z",
+        "quote": "As a portrait of a vestigial appendage to the dangerous machine dissolving democracy, \"Melania\" is merely a well shot marketing campaign for the luckiest Stepford wife as she spouts innocuous, vague details on First Lady expectations...",
+        "url": "https://www.youtube.com/watch?v=gENv4frKwPI&t=11s"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-02-06T06:46:01.000Z",
+        "quote": "More PR campaign than personal portrait, Melania is an astonishingly dull documentary that masquerades as a glamorous immigrant story while offering little insight beyond carefully curated image-making.",
+        "url": "https://youtu.be/gENv4frKwPI"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-06T00:46:45.000Z",
+        "quote": "It is the most depressing experience I have ever had in the cinema.",
+        "url": "https://www.youtube.com/watch?v=DTyUni8dbkE"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Daily Telegraph (Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-02-05T23:41:19.000Z",
+        "quote": "The whole vibe is eerily off from start to finish, leaving you feeling as if you’ve spent 105 minutes alone on a merry-go-round in an abandoned amusement park.",
+        "url": "https://www.dailytelegraph.com.au/entertainment/movies/eerily-off-review-of-melania-trumps-documentary/news-story/957a3d167e5a179053e195d61495b3bf"
+    },
+    {
+        "critic": "Deborah Ross",
+        "is_top_critic": true,
+        "media": "The Spectator",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-02-05T23:17:46.000Z",
+        "quote": "It is, it’s true, a film that could have been authored by Hello! magazine, but isn’t there some value in seeing how someone wants to be seen? There’s also no shame in being in it for the rich lifestyle porn -- on that count it delivers handsomely. ",
+        "url": "https://spectator.com/article/gripping-melania-reviewed/?edition=us"
+    },
+    {
+        "critic": "Catharine Hughes",
+        "is_top_critic": false,
+        "media": "New Statesman",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-05T20:03:46.000Z",
+        "quote": "“Everyone wants to know my story,” she announces in the opening voiceover of her new, self-titled film. “Well, here it is.” Except, it’s not. Here is absolutely nothing. Seventy-five million dollars for two hours of almost pure absence. ",
+        "url": "https://www.newstatesman.com/culture/2026/02/melania-has-nothing-to-tell-us"
+    },
+    {
+        "critic": "Pat Mullen",
+        "is_top_critic": false,
+        "media": "POV Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-05T15:53:48.000Z",
+        "quote": "There’s no mistaking it: Melania is reputation-saving hokum. But it’s mostly just pathetic.",
+        "url": "https://povmagazine.com/melania-review-trump-doc-fails-to-be-best/"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "The SS Ben Hecht",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-04T21:50:32.000Z",
+        "quote": "It’s just really, really boring. And it’s full of some very odd choices, and I’m not sure whether to blame Ratner or his subject, who reportedly 'planned every element' of the picture.",
+        "url": "https://stephensilver.substack.com/p/melania-isnt-just-a-bribe-its-boring"
+    },
+    {
+        "critic": "Jemima Kelly",
+        "is_top_critic": false,
+        "media": "Financial Times",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-04T21:34:12.000Z",
+        "quote": "It is not clear why the first lady thought she should make this film. It would be easy to write it off as pure propaganda but, if it is, it is not very successful. ",
+        "url": "https://www.ft.com/content/3d443258-bb32-41ee-bc1d-d787899e4d6a"
+    },
+    {
+        "critic": "Robert Denerstein",
+        "is_top_critic": false,
+        "media": "Denerstein Unleashed",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-03T23:17:27.000Z",
+        "quote": "By any critical standards I’m familiar with, I’ll tell you that Melania isn’t much of a documentary; it's more like a plush Life Styles of the Rich and Famous episode that bleeds into a chorus of booming triumphalism centering on Trump’s inauguration.",
+        "url": "https://denersteinunleashed.blogspot.com/2026/02/what-if-anything-melania-reveals.html"
+    },
+    {
+        "critic": "Pablo O. Scholz",
+        "is_top_critic": false,
+        "media": "Clarín",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-02-03T22:12:09.000Z",
+        "quote": "...everything we see is, if not rehearsed down to the millimeter, is calculated. [Full review in Spanish]",
+        "url": "https://www.clarin.com/espectaculos/melania-documental-costo-cuenta_0_icmzwSElKa.html"
+    },
+    {
+        "critic": "Brian Phillips",
+        "is_top_critic": false,
+        "media": "The Ringer",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-03T18:51:25.000Z",
+        "quote": "There are scenes that take place at Mar-a-Lago and scenes that take place in the White House, but really the whole film is set in an abstract non-place, a sealed cabin of opulence from which the external world is discernible only at a tranquilized remove.",
+        "url": "https://www.theringer.com/2026/02/03/movies/melania-trump-documentary-amazon-review-director"
+    },
+    {
+        "critic": "Tom Meek",
+        "is_top_critic": false,
+        "media": "Cambridge Day",
+        "sentiment": "Rotten 🤢",
+        "score": "0.5/4",
+        "date": "2026-02-03T18:28:37.000Z",
+        "quote": "Serves as something of a freakish cultural time capsule and an intriguing bit of social commentary—as much for what it says as for what it doesn’t.",
+        "url": "https://www.cambridgeday.com/2026/02/03/reviewed-melania-doc/"
+    },
+    {
+        "critic": "Joyce Slaton",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-02-03T18:17:40.000Z",
+        "quote": "Clad in enormous sunglasses and stiletto heels, Melania Trump stalks through this supposedly revealing portrait of her life, giving away exactly nothing of her private thoughts.",
+        "url": "https://www.commonsensemedia.org/movie-reviews/melania"
+    },
+    {
+        "critic": "Claudia Connell",
+        "is_top_critic": false,
+        "media": "Daily Mail (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-02-03T01:09:46.000Z",
+        "quote": "As a producer, Melania had full editorial control. Therein lies the problem. Whether it's Harry and Meghan or the Beckhams, when the subjects have the final say, the content is never going to be juicy.\n\n",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15514335/Melania-Trumps-Amazon-documentary-reviewed-outfit-changes-Devil-Wears-Prada-no-nearer-unravelling-mystery.html"
+    },
+    {
+        "critic": "Bill Goodykoontz",
+        "is_top_critic": false,
+        "media": "Arizona Republic",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-02-03T00:06:27.000Z",
+        "quote": "All I can say is, no matter who made it, no matter who paid for it, no matter who it's about, \"Melania\" is a singularly bad movie. I really did give it a fair shake.",
+        "url": "https://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2026/01/30/melania-movie-review/88421875007/"
+    },
+    {
+        "critic": "William Thomas",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-02-02T22:51:08.000Z",
+        "quote": "An obsequious, ring-kissing portrait of the current US administration, dressed in gauche, glossy reality-TV clothing. And yet somehow still better than Rush Hour 3.",
+        "url": "https://www.empireonline.com/movies/reviews/melania/"
+    },
+    {
+        "critic": "Barry Hertz",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-02T22:08:43.000Z",
+        "quote": "Ratner has accidentally delivered the ultimate chronicle of 21st-century excess and greed, a world of casual yet immense cruelty covered in flop sweat and gold glitter.",
+        "url": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-melania-trump-documentary-amazon-brett-ratner/"
+    },
+    {
+        "critic": "Heather Schwedel",
+        "is_top_critic": false,
+        "media": "Slate",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-02T21:35:34.000Z",
+        "quote": "It contains nothing: no ideas, no point of view, no tension beyond whether the tailors will be able to properly alter her inauguration turtleneck.",
+        "url": "https://slate.com/culture/2026/01/melania-trump-movie-review-documentary-tickets.html"
+    },
+    {
+        "critic": "Amy Nicholson",
+        "is_top_critic": true,
+        "media": "Los Angeles Times",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-02T21:17:12.000Z",
+        "quote": "\"Melania\" plays like a sizzle reel for her post-political (post-spousal?) future career in which she may rouse herself to be a guest judge on a reality competition show. ",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-02-02/melania-review-donald-trump-brett-ratner-documentary-amazon"
+    },
+    {
+        "critic": "Vincent Mancini",
+        "is_top_critic": false,
+        "media": "GQ",
+        "sentiment": "Rotten 🤢",
+        "score": "F",
+        "date": "2026-02-02T19:05:39.000Z",
+        "quote": "Quite possibly the least revealing documentary ever made. Even her favorite recording artist seems to be a lie. Did you know she used to be a model? ",
+        "url": "https://www.gq.com/story/melania-one-of-the-least-revealing-documentaries-ever-made"
+    },
+    {
+        "critic": "Alison Willmore",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-02T18:27:38.000Z",
+        "quote": "Melania can’t, despite its efforts, make its subject look like the movie star it tries to pretend she is, but she’s not the reason people will buy tickets. ",
+        "url": "https://www.vulture.com/article/melania-review-the-nightmare-end-point-of-celebrity-docs.html"
+    },
+    {
+        "critic": "Manohla Dargis",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-02T18:25:16.000Z",
+        "quote": "By the end of “Melania,” a glossy, curiously impersonal, outwardly apolitical portrait of Melania Trump, you are no closer to knowing its famous subject than you were at the start, even after many changes of time, place, clothes and towering high heels. ",
+        "url": "https://www.nytimes.com/2026/01/30/movies/melania-trump-movie-review.html"
+    },
+    {
+        "critic": "Calum Cooper",
+        "is_top_critic": false,
+        "media": "Cinerama Film",
+        "sentiment": "Rotten 🤢",
+        "score": "0/5",
+        "date": "2026-02-02T18:22:04.000Z",
+        "quote": "Melania is shambolic, putrid, pitiful garbage: A brazen, awkward, irredeemable infomercial that ignores truth and scrutiny in favour of performative humility. It’s not just wretched – it’s offensive to the collective intelligence of the human race.",
+        "url": "https://cineramafilm.com/2026/02/02/melania-review/"
+    },
+    {
+        "critic": "Pete Hammond",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-02T15:57:26.000Z",
+        "quote": "A movie whose release is off-key with so much wrong in this country and this world in the year that has passed since it was shot. \"Melania\" seems a little too rich for these times.",
+        "url": "https://deadline.com/2026/01/melania-review-documentary-love-letter-first-lady-1236704287/"
+    },
+    {
+        "critic": "Dana Barbuto",
+        "is_top_critic": false,
+        "media": "Boston Movie News",
+        "sentiment": "Rotten 🤢",
+        "score": "F",
+        "date": "2026-02-02T15:24:12.000Z",
+        "quote": "\"Melania\" reveals nothing about its subject. Not even her shoe size. ",
+        "url": "https://bostonmovienews.com/2026/02/02/melania-expensive-and-empty/"
+    },
+    {
+        "critic": "Sean Burns",
+        "is_top_critic": false,
+        "media": "North Shore Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-02-01T16:11:12.000Z",
+        "quote": "At least Leni Riefenstahl could frame a shot.",
+        "url": "https://northshoremovies.wpcomstaging.com/2026/01/31/review-melania/"
+    },
+    {
+        "critic": "Linda Cook",
+        "is_top_critic": false,
+        "media": "OurQuadCities / WHBF-TV (Illinois)",
+        "sentiment": "Rotten 🤢",
+        "score": "1 star",
+        "date": "2026-02-01T04:36:57.000Z",
+        "quote": "It's everything a documentary shouldn't be. Except for the music. ",
+        "url": "https://www.ourquadcities.com/news/local-news/cook-review-melania-is-everything-a-documentary-shouldnt-be-except-for-music/"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-01-31T20:01:20.000Z",
+        "quote": "It’s fascinating to see so pure and naked an instrument of graft and propaganda deployed to great effect on an audience happy to lap it up.",
+        "url": "https://www.thebulwark.com/p/melania-review"
+    },
+    {
+        "critic": "Michael Clark",
+        "is_top_critic": false,
+        "media": "Epoch Times",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-01-31T19:12:59.000Z",
+        "quote": "She’s attempting to reach those closer to the middle and on the fence, meaning a majority of the American people. It is an ingenuous \"soft\" marketing masterstroke.",
+        "url": "https://www.theepochtimes.com/bright/melania-our-stunning-first-lady-radiating-warmth-and-compassion-5979066"
+    },
+    {
+        "critic": "Donald Clarke",
+        "is_top_critic": true,
+        "media": "Irish Times",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-01-31T10:50:54.000Z",
+        "quote": "No good impression emerges of the former Slovenian model. No bad impression emerges either. Ratner’s film achieves, rather, a sort of passive distance – as you might get by pointing a camera, for close to two hours, at a waterfall or a wheat field. ",
+        "url": "https://www.irishtimes.com/culture/film/review/2026/01/31/melania-review-shameless-propaganda-that-could-put-you-to-sleep/"
+    },
+    {
+        "critic": "Robert Hutton",
+        "is_top_critic": false,
+        "media": "The Critic",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-01-31T10:04:57.000Z",
+        "quote": "The significance of Melania isn’t the contents of the film so much as the fact that it happened. It’s not impossible that it might be evidence in an impeachment trial. And in any case, it is an important document in the decline of American public life.",
+        "url": "https://thecritic.co.uk/an-ego-trip-to-the-movies/"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-01-31T05:36:06.000Z",
+        "quote": "I have no idea why she was okay with this movie being released, because Brett Ratner couldn’t find the humanity in a funeral. Literally. ",
+        "url": "https://www.thewrap.com/creative-content/reviews/melania-documentary-review/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-01-31T04:43:11.000Z",
+        "quote": " Melania mistakes its subject’s fame for star quality, and mistakes a life of leisure for one of accomplishment and importance, forcing Ratner to create a film that’s all lazy patchwork.",
+        "url": "https://decider.com/2026/01/30/melania-trump-documentary-movie-review/"
+    },
+    {
+        "critic": "Adam Olinger",
+        "is_top_critic": false,
+        "media": "Adam Does Movies (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-01-31T04:28:25.000Z",
+        "quote": "I'd rather rewatch January 6th.",
+        "url": "https://youtu.be/Al-DyhsmY0E"
+    },
+    {
+        "critic": "Karl Quinn",
+        "is_top_critic": false,
+        "media": "The Age (Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-01-30T23:30:00.000Z",
+        "quote": "...it’s impossible not to feel that the real purpose of this portrait is not insight, but rather distraction from the awfulness and corruption of her husband’s regime.\n\n",
+        "url": "https://www.theage.com.au/culture/movies/lavish-documentary-on-us-first-lady-beautifully-shot-but-short-on-substance-20260130-p5nyay.html"
+    },
+    {
+        "critic": "Liz Shannon Miller",
+        "is_top_critic": true,
+        "media": "Consequence",
+        "sentiment": "Rotten 🤢",
+        "score": "F",
+        "date": "2026-01-30T23:22:03.000Z",
+        "quote": "Look, Leni Riefenstahl was a terrible person, but at least she had some style. Accused sex pest/confirmed hack Brett Ratner, meanwhile, captures the proceedings with all the flair of an HGTV show. ",
+        "url": "https://consequence.net/2026/01/melania-review-documentary-amazon-trump/"
+    },
+    {
+        "critic": "George Simpson",
+        "is_top_critic": false,
+        "media": "Daily Express (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-01-30T22:17:48.000Z",
+        "quote": "In the end, what transpired was mostly dull behind-the-scenes movements offering little new insight into the private world of Mrs Trump.",
+        "url": "https://www.express.co.uk/entertainment/films/2164832/melania-film-review-trump"
+    },
+    {
+        "critic": "Frank Scheck",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-01-30T21:46:48.000Z",
+        "quote": "To say that Melania is a hagiography would be an insult to hagiographies. This is a film that fawns so lavishly over its subject that you feel downright unpatriotic not gushing over it.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/melania-review-brett-ratner-melania-trump-documentary-1236489604/"
+    },
+    {
+        "critic": "Kevin Fallon",
+        "is_top_critic": false,
+        "media": "The Daily Beast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-01-30T21:09:56.000Z",
+        "quote": "I don’t want to blow anyone’s minds here or throw you off your balance when I inform you that the Melania documentary, now in theaters, is terrible.",
+        "url": "https://www.thedailybeast.com/obsessed/review-melania-doc-is-an-unbelievable-abomination-of-filmmaking/"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-01-30T20:24:32.000Z",
+        "quote": "A documentary that never comes to life. It’s a “portrait” of the First Lady of the United States, but it’s so orchestrated and airbrushed and stage-managed that it barely rises to the level of a shameless infomercial.",
+        "url": "https://variety.com/2026/film/news/melania-review-melania-trump-brett-ratner-1236645379/"
+    },
+    {
+        "critic": "Xan Brooks",
+        "is_top_critic": false,
+        "media": "Guardian",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-01-30T20:21:53.000Z",
+        "quote": "The fun’s not infectious and the guests are a nightmare, and two hours of Melania feels like pure, endless hell.",
+        "url": "https://www.theguardian.com/film/2026/jan/30/melania-review-trump-film-is-a-gilded-trash-remake-of-the-zone-of-interest"
+    },
+    {
+        "critic": "Nick Hilton",
+        "is_top_critic": false,
+        "media": "Independent (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-01-30T20:21:07.000Z",
+        "quote": "To call \"Melania\" vapid would do a disservice to the plumes of florid vape smoke that linger around British teenagers. ",
+        "url": "https://www.the-independent.com/arts-entertainment/films/reviews/melania-trump-movie-review-documentary-b2911108.html"
+    },
+    {
+        "critic": "Sophie Gilbert",
+        "is_top_critic": true,
+        "media": "The Atlantic",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-01-30T19:55:36.000Z",
+        "quote": "Ratner seems desperate to find action, but there is none. The pace is stultifying. ",
+        "url": "https://www.theatlantic.com/culture/2026/01/melania-trump-documentary-review/685829/"
+    },
+    {
+        "critic": "Melanie McDonagh",
+        "is_top_critic": false,
+        "media": "London Evening Standard",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-01-30T19:05:22.000Z",
+        "quote": "If you take this film for what it is, Melania’s own, curated take on herself, then there’s one thing she wants to get across, it’s that there’s human warmth there under the cheekbones and the slanting feline eyes.",
+        "url": "https://www.standard.co.uk/culture/film/melania-film-review-b1269002.html"
+    },
+    {
+        "critic": "Simon Foster",
+        "is_top_critic": false,
+        "media": "Screen-Space (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-01-30T10:52:09.000Z",
+        "quote": "This is not a film concerned at all with the America of today; it is propaganda that serves the formation of a future non-democracy.",
+        "url": "https://screenspace.substack.com/p/the-animated-pics-vying-for-your"
+    }
+]

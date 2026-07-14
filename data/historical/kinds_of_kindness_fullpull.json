@@ -1,0 +1,2892 @@
+[
+    {
+        "critic": "Don Kaye",
+        "is_top_critic": false,
+        "media": "Moviefone",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-07-06T09:36:37.000Z",
+        "quote": "This is a rewarding, eerie, and unpredictable look at human behavior and the dark lengths to which people will go to win approval or acceptance.",
+        "url": "https://www.moviefone.com/news/movie-review-kinds-of-kindness/"
+    },
+    {
+        "critic": "Jon Winkler",
+        "is_top_critic": false,
+        "media": "InBetweenDrafts",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-04-14T15:37:00.000Z",
+        "quote": "It says a lot about the skill of Yorgos Lanthimos when even at his most confusing, he can still make a near three-hour movie compelling.",
+        "url": "https://inbetweendrafts.com/kinds-of-kindness-review-emma-stone/"
+    },
+    {
+        "critic": "Ela Bittencourt",
+        "is_top_critic": true,
+        "media": "Sight & Sound",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-12-31T19:41:54.000Z",
+        "quote": "Lanthimos follows up Poor Things (2023) with some far darker social experiments in this chilling portmanteau featuring brilliant, shapeshifting performances.\n\n",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/kinds-kindness-yorgos-lanthimos-spins-three-wicked-yarns-from-different-threads-human-cruelty"
+    },
+    {
+        "critic": "Stephen Garrett",
+        "is_top_critic": false,
+        "media": "Book & Film Globe",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-08-26T19:18:41.000Z",
+        "quote": "It’s a serious look at average people navigating a world that all too often feels alarmingly unserious. ",
+        "url": "https://bookandfilmglobe.com/film/kind-of-cruel/"
+    },
+    {
+        "critic": "Clotilde Chinnici",
+        "is_top_critic": false,
+        "media": "The People's Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2025-08-19T17:06:16.000Z",
+        "quote": "Its brilliant performances and interesting plotlines – if not only a little absurd at times – elevate the movie and make it a true Lanthimos classic that fans of the director will recognise and love.",
+        "url": "https://thepeoplesmovies.com/film-review-kind-of-kindness-2024/"
+    },
+    {
+        "critic": "Guillermo Troncoso",
+        "is_top_critic": false,
+        "media": "Screen Realm",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2025-07-27T10:40:05.000Z",
+        "quote": "Heavy on the craziness and, unfortunately, light on the engagement... The three loosely connected stories here all have interesting elements, but they unfold in lethargic ways.",
+        "url": "https://screenrealm.com/kinds-of-kindness-movie-review/"
+    },
+    {
+        "critic": "Sammie Purcell",
+        "is_top_critic": false,
+        "media": "Rough Draft Atlanta",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-07-22T20:05:38.000Z",
+        "quote": "“Kinds of Kindness” is interested in the nastier side of humanity, and interested in exploring the lengths to which we’ll go to convince ourselves we’re doing the right thing as we unleash inexcusable cruelty. ",
+        "url": "https://roughdraftatlanta.com/2024/06/28/kinds-of-kindness-film-review/"
+    },
+    {
+        "critic": "Tim Miller",
+        "is_top_critic": false,
+        "media": "Cape Cod Wave Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2025-07-21T23:21:45.000Z",
+        "quote": "Is it profound? Is it enlightening? Inspiring? Entertaining? Or is it mostly just cynical posturing? I watched it twice, and both times that’s how it struck me. And now I’m ready to move on.\n",
+        "url": "https://capecodwave.com/kinds-of-kindness-unkind-play-it-again-tim/"
+    },
+    {
+        "critic": "Rua Fay",
+        "is_top_critic": false,
+        "media": "Cinemasters",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-07-21T21:02:57.000Z",
+        "quote": "None of the vignettes last long enough for you to really get attached to any of the characters or care about their motives. ",
+        "url": "https://www.cinemasters.net/post/the-perplexing-nature-of-kinds-of-kindness"
+    },
+    {
+        "critic": "Andrew Kendall",
+        "is_top_critic": false,
+        "media": "Stabroek News",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-04-13T18:34:13.000Z",
+        "quote": "It might be easy to mistake the bleakness as signs of a filmmaker who looks at his characters with ambivalent contempt but even when the world is cruel, the sharpest thing about “Kinds of Kindness” is how Lanthimos finds dignity in each action.",
+        "url": "https://www.stabroeknews.com/2024/08/25/sunday/reel-encounters/limited-love-in-kinds-of-kindness/"
+    },
+    {
+        "critic": "Rick Burin",
+        "is_top_critic": false,
+        "media": "iNews.co.uk",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2025-01-16T20:46:25.000Z",
+        "quote": "As with all his American movies, Kinds of Kindness is both unremittingly cruel and unstintingly self-satisfied.",
+        "url": "https://inews.co.uk/culture/film/kinds-of-kindness-review-emma-stone-3130624"
+    },
+    {
+        "critic": "David Walsh",
+        "is_top_critic": false,
+        "media": "World Socialist Web Site",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2025-01-13T18:26:38.000Z",
+        "quote": "The characters are all deluded and continuously pushed around, under external control of various kinds and in love with that control. They want to be enslaved and abused, they long or even beg for it. It is the only source of genuine pleasure for them.",
+        "url": "https://www.wsws.org/en/articles/2024/10/18/pnsy-o18.html"
+    },
+    {
+        "critic": "Lex Briscuso",
+        "is_top_critic": false,
+        "media": "Dread Central",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-12-22T03:05:16.000Z",
+        "quote": "Altogether exhilarating and horrifying—a totally Lanthimos experience. ",
+        "url": "https://www.dreadcentral.com/reviews/503665/kinds-of-kindness-cannes-2024-review-new-yorgos-lanthimos-film-leans-into-the-horror/"
+    },
+    {
+        "critic": "Ben Turner",
+        "is_top_critic": false,
+        "media": "The Pink Lens",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-12-01T11:01:37.000Z",
+        "quote": "This is a film solely for Lanthimos fans, but even for them this is like listening to a B-sides collection of your favourite singer, not a studio album.",
+        "url": "https://www.thepinklens.com/post/kinds-of-kindness"
+    },
+    {
+        "critic": "Rene Sanchez",
+        "is_top_critic": false,
+        "media": "Cine Sin Fronteras",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-11-14T19:49:13.000Z",
+        "quote": "A twisted anthology that plays into Lanthimos’ peculiar style to study the weaknesses of the human spirit. [Full Review in Spanish]",
+        "url": "https://cinesinfronteras.com/2024/05/21/tipos-de-gentileza-kinds-of-kindness-resena-critica-resumen-pelicula-yorgos-lanthimos-emma-stone-cannes-2024/"
+    },
+    {
+        "critic": "Ernesto Diezmartinez",
+        "is_top_critic": false,
+        "media": "Letras Libres",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-11-07T18:16:35.000Z",
+        "quote": "Yorgos Lanthimos defiantly returns to his roots in Kinds of Kindness, a lucid film about our worst inner demons. [Full review in Spanish] ",
+        "url": "https://letraslibres.com/cine-tv/ernesto-diezmartinez-tipos-de-gentileza-yorgos-lanthimos/"
+    },
+    {
+        "critic": "Nick Rogers",
+        "is_top_critic": false,
+        "media": "Midwest Film Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-31T04:38:56.000Z",
+        "quote": "This parable for pathetic pursuits of respect and affection follows the lyrics of its film-opening Eurythmics song. If you can roll with often graphically violent, morbidly funny misery, this will have you keeping your head up. Everyone else? Movin’ on.",
+        "url": "https://midwestfilmjournal.com/2024/10/31/on-blu-ray-kinds-of-kindness/"
+    },
+    {
+        "critic": "Asia Frey",
+        "is_top_critic": false,
+        "media": "Lagniappe (Mobile, AL)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-18T18:57:38.000Z",
+        "quote": "Both audience and cast alike are tortured in “Kinds of Kindness,” a three-part exercise in endurance from cruel genius Yorgos Lanthimos.",
+        "url": "https://www.lagniappemobile.com/arts_and_entertainment/reelworld/kinds-of-kindness-is-just-torture/article_42128886-6fbe-11ef-9ab1-53b41f1d4db5.html"
+    },
+    {
+        "critic": "June Butler",
+        "is_top_critic": false,
+        "media": "Film Ireland Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-18T00:32:25.000Z",
+        "quote": "The beauty of Kinds of Kindness is that this film is clever enough to have an absence of ego, prompting audiences to view it as either viscerally disconnected, or arguing the case for a sharp-eyed observation on the gullibility of humans. ",
+        "url": "https://www.filmireland.net/review-kinds-of-kindness/"
+    },
+    {
+        "critic": "Ally Ham",
+        "is_top_critic": false,
+        "media": "The Review Geek",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-08T15:50:33.000Z",
+        "quote": "It’s a hostile way of telling these stories, but their twisted nature reveals the darker facets of humanity, shedding light on what we’re willing to overlook and embrace for a pittance of love.",
+        "url": "https://www.thereviewgeek.com/kindsofkindness-moviereview/"
+    },
+    {
+        "critic": "Douglas Davidson",
+        "is_top_critic": false,
+        "media": "Elements of Madness",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-08T12:08:43.000Z",
+        "quote": "... \"Kinds of Kindness,\" in its role as a fable, is a warning and not a declaration akin to stories like \"The Favourite\" (2018) or the implication of the end of \"The Lobster\" (2015). ",
+        "url": "https://elementsofmadness.com/2024/10/08/kok-hv-2/"
+    },
+    {
+        "critic": "Ilan Preskovsky",
+        "is_top_critic": false,
+        "media": "Channel24 (South Africa)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-09-16T01:50:11.000Z",
+        "quote": "Everything about Kinds of Kindness is carefully honed to be as alienating as possible. It's grotesque. It's incredibly strange. It's very slow and very long. But more than anything, it just begs not to be \"enjoyed\" in any conventional sense of the word.",
+        "url": "https://www.news24.com/life/arts-and-entertainment/film/reviews/review-yorgos-lanthimos-crafts-a-cynical-and-surreal-cinematic-experience-in-kinds-of-kindness-20240914-2"
+    },
+    {
+        "critic": "Filipe Freitas",
+        "is_top_critic": false,
+        "media": "Always Good Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-09-14T05:01:38.000Z",
+        "quote": "Potentially interesting ideas simply can't fill the emotional void at the film's core.",
+        "url": "https://alwaysgoodmovies.com/reviews/kinds-of-kindnes-2024"
+    },
+    {
+        "critic": "Robert W. Butler",
+        "is_top_critic": false,
+        "media": "Butler's Cinema Scene",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-09-14T04:20:42.000Z",
+        "quote": "Kinds of Kindness (the title practically drips irony…there’s not much kindness on display here) has been impeccably made but isn’t particularly inviting on either an emotional or intellectual level.",
+        "url": "https://butlerscinemascene.com/2024/09/03/short-takes-a-quiet-place-day-one-kinds-of-kindness-napoleon-the-directors-cut/"
+    },
+    {
+        "critic": "Rob Dean",
+        "is_top_critic": false,
+        "media": "Bullz-Eye.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-09-13T14:10:11.000Z",
+        "quote": "The subject matter can certainly be a bit grim, but the movie never feels like it’s trying too hard or is some edgelord poser that just wants to be provocative for the sake of being brash.",
+        "url": "https://www.bullz-eye.com/2024/06/28/movie-review-kinds-of-kindness/"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2024-09-06T19:26:15.000Z",
+        "quote": "It’s a pitch-black and bone-dry dark comedy that is too amused by its own weirdness to generate any actual humor. But its biggest problem is the utter lack of a human pulse.",
+        "url": "https://keithandthemovies.com/2024/09/06/review-kinds-of-kindness-2024/"
+    },
+    {
+        "critic": "Abhishek Srivastava",
+        "is_top_critic": false,
+        "media": "The Times of India",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-09-04T21:59:50.000Z",
+        "quote": "Ultimately, Kinds of Kindness is bizarre, esoteric, and overly self-indulgent, making it a major disappointment.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/kinds-of-kindness/ottmoviereview/112982528.cms"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Cinencuentro",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-09-03T18:37:45.000Z",
+        "quote": "It's an uneven experience, difficult to connect with on an emotional level, but intellectually stimulating, especially when you compare the different narrative elements and messages of the three stories. Full review in Spanish.",
+        "url": "https://www.cinencuentro.com/2024/09/03/critica-tipos-de-gentileza-de-yorgos-lanthimos/#google_vignette"
+    },
+    {
+        "critic": "Yasmine Kandil",
+        "is_top_critic": false,
+        "media": "Discussing Film",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-09-02T16:31:30.000Z",
+        "quote": "Kinds of Kindness takes great pleasure in toeing the line between realism and absurdism, and its script excels at examining human’s natural desires through an unfiltered lens. ",
+        "url": "https://discussingfilm.net/2024/05/18/kinds-of-kindness-review-yorgos-lanthimos-and-emma-stone-continue-to-strike-gold/"
+    },
+    {
+        "critic": "John Lui",
+        "is_top_critic": false,
+        "media": "The Straits Times (Singapore)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-08-30T23:57:31.000Z",
+        "quote": "With a stellar cast in hand, Lanthimos takes viewers into an alternate universe filled with doppelgangers, corpse revivers and deranged husbands.",
+        "url": "https://www.straitstimes.com/life/entertainment/at-the-movies-kinds-of-kindness-tears-down-love-free-will-and-family"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-08-28T23:13:20.000Z",
+        "quote": "[Lanthimos] tends to leave characters’ motives opaque and capitalizes on our curiosity, sometimes testing our patience, sometimes compelling us to puzzle out meaning from all the dream-logic weirdness – if there’s any meaning to be had.",
+        "url": "https://decider.com/2024/08/28/kinds-of-kindness-streaming-movie-review/"
+    },
+    {
+        "critic": "Yasser Medina",
+        "is_top_critic": false,
+        "media": "Cinefilia",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-08-28T17:21:30.000Z",
+        "quote": "Frankly, it's an absurd comedy that I find unnecessarily long and has nothing to offer in its boring triptych. [Full review in Spanish]",
+        "url": "https://www.cinefilia.blog/2024/08/critica-tipos-de-gentileza.html"
+    },
+    {
+        "critic": "Hugo Hernández Valdivia",
+        "is_top_critic": false,
+        "media": "Cinexcepción",
+        "sentiment": "Fresh 🍅",
+        "score": "75/100",
+        "date": "2024-08-27T00:16:07.000Z",
+        "quote": "In the end, the whole thing, which lasts 164 minutes, is excessive… necessarily, because perhaps the subject demands it. [Full review in Spanish]",
+        "url": "https://cinexcepcion.mx/tipos-de-gentileza-la-rareza-exhibe-la-vileza/"
+    },
+    {
+        "critic": "Michelle Kisner",
+        "is_top_critic": false,
+        "media": "The Movie Sleuth",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-08-25T20:43:00.000Z",
+        "quote": " Lanthimos is the God of these stories, an ultimately cruel master who creates these characters and puts them through the wringer.",
+        "url": "https://www.spoilerfreemoviesleuth.com/2024/06/yorgos-lanthimos-is-cruel-god-in-kinds.html"
+    },
+    {
+        "critic": "Paula Vázquez Prieto",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-08-22T22:12:50.000Z",
+        "quote": "Whether moral scruples, devotion to an ideal, or the desire to belong, everyone hides behind their sheep's skin the chains they have volunteered to bear. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/en-tipos-de-gentileza-yorgos-lanthimos-regresa-a-su-cruel-estilo-con-emma-stone-y-un-elenco-de-lujo-nid22082024/"
+    },
+    {
+        "critic": "Pablo O. Scholz",
+        "is_top_critic": false,
+        "media": "Clarín",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-08-22T20:28:42.000Z",
+        "quote": "The common theme of all three [segments] is to demonstrate that being gentle or kind does not necessarily imply that things won't go to hell. [Full review in Spanish]",
+        "url": "https://www.clarin.com/espectaculos/tipos-gentileza-emma-stone-amar-odiar_0_oXTtQ7LJzn.html"
+    },
+    {
+        "critic": "Juanma Fernández París",
+        "is_top_critic": false,
+        "media": "El Nuevo Día (Puerto Rico)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-08-12T14:03:06.000Z",
+        "quote": "Although the lack of dramatic cohesion and the excesses of graphic violence are frustrating, what sustains the film and is completely fascinating is how each actor fully responds to their director's demands. [Full review in Spanish]",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/resena-willem-dafoe-se-roba-el-show-en-kinds-of-kindness/"
+    },
+    {
+        "critic": "Steve Pond",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-08-08T17:14:51.000Z",
+        "quote": "“Kindness,” which displays precious little of its title virtue, is a cornucopia of black humor, dark thrills and assorted murders, couplings and things that make you go eeewww.",
+        "url": "https://www.thewrap.com/kinds-of-kindness-review-yorgos-lanthimos-emma-stone-willem-dafoe-cannes/"
+    },
+    {
+        "critic": "Elissa Suh",
+        "is_top_critic": false,
+        "media": "Moviepudding (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-08-06T15:54:49.000Z",
+        "quote": "This nasty little (actually very bloated) anthology film doesn’t so much highlight the Greek director’s idiosyncratic flair for cruelty as it does provide a hackneyed low-rent version of it",
+        "url": "https://moviepudding.substack.com/p/summer-blockbusters"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-08-05T14:35:38.000Z",
+        "quote": "For better or worse, it’s fascinating to have this Yorgos Lanthimos back.",
+        "url": "https://filmfeeder.co.uk/film-reviews/kinds-of-kindness-2024-dir-yorgos-lanthimos"
+    },
+    {
+        "critic": "Wael Khairy",
+        "is_top_critic": false,
+        "media": "The Cairo Scene",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-08-04T20:10:26.000Z",
+        "quote": "The film delves into the ways individuals navigate between personal autonomy and societal norms or external influence. In true Lanthimos fashion, he pushes these themes to exaggerated, yet darkly humorous, extremes.",
+        "url": "https://scenenow.com/ArtsAndCulture/Cannes-2024-Kinds-of-Kindness-is-a-Minimalist-Touch-of-Dark-Whimsy"
+    },
+    {
+        "critic": "Abe Friedtanzer",
+        "is_top_critic": false,
+        "media": "Awards Buzz",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-07-27T21:59:54.000Z",
+        "quote": "For those keeping close watch of Lanthimos’ filmography, this film feels like a throwback to some of his earlier work like Dogtooth and The Lobster, not nearly as pitch-black as The Killing of a Sacred Deer or as playful as The Favourite.",
+        "url": "https://awardsbuzz.com/review-kinds-of-kindness-magnetizes-and-intrigues-but-doesnt-fully-deliver/"
+    },
+    {
+        "critic": "Taylor Baker",
+        "is_top_critic": false,
+        "media": "Drink in the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "75/100",
+        "date": "2024-07-26T17:37:11.000Z",
+        "quote": "Kinds of Kindness is one of the sharpest films of the year and a real performance showcase for Plemons and Stone. It doesn’t reach the heights that Alps or The Favourite did, nor is it trying to.",
+        "url": "https://drinkinthemovies.com/2024/07/22/kinds-of-kindness/"
+    },
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-26T10:05:07.000Z",
+        "quote": "It is spectacularly well-made, mordantly funny and – quite possibly – has something going on beneath the surface that isn't immediately apparent. ",
+        "url": "https://www.stuff.co.nz/culture/350338965/stuff-watch-best-new-movies-see-and-avoid-kiwi-cinemas-weekend"
+    },
+    {
+        "critic": "Eileen Jones",
+        "is_top_critic": false,
+        "media": "The Jacobin",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-25T23:01:08.000Z",
+        "quote": "That’s the kind of humor this film offers — the kind that’s not actually funny. You have to guess if an act of comedy was committed anywhere in the making of this film.",
+        "url": "https://jacobin.com/2024/07/kinds-of-kindness-yorgos-lanthimos-nihilism"
+    },
+    {
+        "critic": "Nicolás Medina",
+        "is_top_critic": false,
+        "media": "Montevideo Portal / Latido Beat",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-07-25T02:47:46.000Z",
+        "quote": "Lanthimos delivers a satire that feels like an experiment that has yet to find its balance. The film falls into a no-man's land between brilliance and mediocrity. [Full review in Spanish]",
+        "url": "https://www.latidobeat.uy/Beat/-Kinds-of-Kindness--Lanthimos-vuelve-a-explorar-las-relaciones-de-poder-a-traves-del-cine-uc895020"
+    },
+    {
+        "critic": "Austin Burke",
+        "is_top_critic": false,
+        "media": "Austin Burke/Flick Fan Nation",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-07-22T16:19:05.000Z",
+        "quote": "The pulse-pounding score, reoccurring motifs, and series of fantastic performances will satisfy many Yorgos Lanthimos fans. The issues lie within the writing and failure to create unique ideas that will resonate.",
+        "url": "https://youtu.be/9BFlxX23fKA"
+    },
+    {
+        "critic": "Jane Freebury",
+        "is_top_critic": false,
+        "media": "Jane Freebury",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-07-20T09:00:52.000Z",
+        "quote": "With scenes of casual, gratuitous misanthropy that are hard to take, the dark and savage satire carries fine performances but lacks the pleasures of the filmmaker's recent wildly offbeat historical dramas, and becomes something like an ordeal ",
+        "url": "https://janefreeburywriter.com.au/kinds-of-kindness/"
+    },
+    {
+        "critic": "John McDonald",
+        "is_top_critic": false,
+        "media": "Australian Financial Review",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-20T05:13:10.000Z",
+        "quote": "All three chapters involve demands for “love”, which can’t be separated from total submission. Sexual pathologists such as Krafft-Ebing, who investigated sado-masochism and other perversions, would have plenty to say.",
+        "url": "https://www.johnmcdonald.net.au/2024/kinds-of-kindness/"
+    },
+    {
+        "critic": "Jeffrey Edalatpour",
+        "is_top_critic": false,
+        "media": "KQED (San Francisco)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-20T00:48:44.000Z",
+        "quote": "Like Francis Bacon, Lanthimos favors a brutal vision of humanity that makes realistic portraiture pale in comparison.",
+        "url": "https://www.kqed.org/arts/13960151/kinds-of-kindness-yorgos-lanthimos-film-review"
+    },
+    {
+        "critic": "Fico Cangiano",
+        "is_top_critic": false,
+        "media": "CineXpress",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-07-19T19:59:10.000Z",
+        "quote": "Yorgos Lanthimos' most dark and twisted film in some time, results in his most mean and boring yet. [Full review in Spanish]",
+        "url": "https://cinexpresspr.com/site/2024/07/18/critica-kinds-of-kindness/"
+    },
+    {
+        "critic": "Adam Kempenaar",
+        "is_top_critic": false,
+        "media": "Filmspotting",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-07-19T16:26:10.000Z",
+        "quote": "...a film about the human condition but not about humans.",
+        "url": "https://www.filmspotting.net/episodes-archive/2024/7/19/975-do-the-right-thing-at-35-kinds-of-kindness-fly-me-to-the-moon"
+    },
+    {
+        "critic": "Louisa Moore",
+        "is_top_critic": false,
+        "media": "Screen Zealots",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-15T18:56:54.000Z",
+        "quote": "An unsettling triptych of stories that hits all of the director’s high notes: macabre and funny, yet also disturbing and cruel.",
+        "url": "https://screenzealots.com/2024/07/12/kinds-of-kindness/"
+    },
+    {
+        "critic": "Wenlei Ma",
+        "is_top_critic": true,
+        "media": "The Nightly (AU)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-13T08:48:18.000Z",
+        "quote": "Kinds of Kindness, like the other works from Lanthimos and Filippou’s partnership, is spikier, intentionally mannered, and far more challenging. But at least when you’re squirming, you know you’re not bored.",
+        "url": "https://thenightly.com.au/culture/film/kinds-of-kindness-review-yorgos-lanthimoss-trilogy-of-uncomfortable-short-stories-c-15280381"
+    },
+    {
+        "critic": "Christy Lemire",
+        "is_top_critic": true,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-13T01:52:36.000Z",
+        "quote": "I was riveted always. Yes, it's very long, but it moves.",
+        "url": "https://laist.com/shows/filmweek/filmweek-kinds-of-kindness-the-exorcism-summer-solstice-and-more"
+    },
+    {
+        "critic": "Andy Klein",
+        "is_top_critic": false,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-13T01:50:44.000Z",
+        "quote": "Implicitly a film about current American politics.",
+        "url": "https://laist.com/shows/filmweek/filmweek-kinds-of-kindness-the-exorcism-summer-solstice-and-more"
+    },
+    {
+        "critic": "Stephen Romei",
+        "is_top_critic": false,
+        "media": "The Australian",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-12T23:10:30.000Z",
+        "quote": "A wonderfully acted absurdist drama that made me look away at times and laugh out loud at others.\n",
+        "url": "https://www.theaustralian.com.au/arts/review/poor-things-director-yorgos-lanthimos-explores-control-and-submission-in-new-film/news-story/8cff8f2019bb3700aa04552b82d81e9f"
+    },
+    {
+        "critic": "Danny Minton",
+        "is_top_critic": false,
+        "media": "Houston Community Newspapers",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-07-12T20:06:19.000Z",
+        "quote": "Here he seems to be going back to a world that is left up to the audience to decide on its meaning and value.  Is it about relationships?  Is it about religion?  There is nothing given easily here. ",
+        "url": "https://crunchonthis.com/2024/07/popcorn-perspectives-with-danny-minton-week-of-june-24/"
+    },
+    {
+        "critic": "Doug Jamieson",
+        "is_top_critic": false,
+        "media": "The Jam Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-12T03:44:33.000Z",
+        "quote": "A quirky, macabre, and devilishly funny enigma that only becomes stranger as each puzzle piece falls into place.",
+        "url": "https://thejamreport.com/2024/07/12/review-kinds-of-kindness-is-a-quirky-macabre-and-devilishly-funny-enigma/"
+    },
+    {
+        "critic": "Simon Miraudo",
+        "is_top_critic": false,
+        "media": "Movie Squad (RTRFM 92.1)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-07-12T01:50:12.000Z",
+        "quote": "A pleasing and very funny return to the dark voodoo of Alps, The Lobster and The Killing of a Sacred Deer.",
+        "url": "https://rtrfm.com.au/story/maxxxine-and-kinds-of-kindness-movie-squad-podcast-174/"
+    },
+    {
+        "critic": "Tom Meek",
+        "is_top_critic": false,
+        "media": "Cambridge Day",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-07-11T21:50:58.000Z",
+        "quote": "At nearly three hours, “Kindness” is long, but it puts its hooks in you from frame one and from there you can’t look away. ",
+        "url": "https://www.cambridgeday.com/2024/07/11/reviewed-kinds-of-kindness-beverly-hills-cop-axel-f-and-maxxxine-in-theaters-and-streaming/"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Herald Sun (Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-07-10T23:25:43.000Z",
+        "quote": "Yes, there is style as far as the eye can see here, but where the substance might be hiding in this long, 165-minute head-scratcher affair is a matter for each individual viewer.",
+        "url": "https://www.heraldsun.com.au/entertainment/movies/leigh-paatsch/pass-on-the-plot-as-tornadoes-rule-in-twisters/news-story/8687b4c1c17c08df84a51287f68ad96a"
+    },
+    {
+        "critic": "Nadine Whitney",
+        "is_top_critic": false,
+        "media": "The Curb",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-10T22:53:02.000Z",
+        "quote": "Kinds of Kindness is a lesser Lanthimos and unlikely to bring sceptics into the hive – but it nonetheless coheres to his conviction to disorient and disturb.",
+        "url": "https://www.thecurb.com.au/kinds-of-kindness-review-yorgos-lanthimos/"
+    },
+    {
+        "critic": "JD Duran",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-07-10T19:27:45.000Z",
+        "quote": "A part of me wants to love Kinds of Kindness as its ideas of control - funneled through corporate, marital and religious lenses - are pretty gripping, but there isn't enough time to fully realize everything its aiming for.",
+        "url": "https://insessionfilm.com/movie-podcast-review-kinds-of-kindness/"
+    },
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "0/4",
+        "date": "2024-07-10T19:03:48.000Z",
+        "quote": "...the movie, when all is said and done, feels like an experiment concocted by none-too-bright adolescents...",
+        "url": "https://reelfilm.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Mark Meszoros",
+        "is_top_critic": false,
+        "media": "The News-Herald (Willoughby, OH)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-07-10T18:29:35.000Z",
+        "quote": "A film that, with every scene, has you hanging on with great interest to see what will come next. As a result, it is a two-and-a-half-hour-plus endeavor that goes by remarkably quickly. Whatever",
+        "url": "https://www.news-herald.com/2024/06/26/kinds-of-kindness-review-more-entertaining-indulgent-fare-from-lanthimos/"
+    },
+    {
+        "critic": "Namrata Joshi",
+        "is_top_critic": true,
+        "media": "The New Indian Express",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-10T17:44:53.000Z",
+        "quote": "It’s a cinema that is edgy and plays with excesses. Certainly not everybody’s cup of tea but one that can’t be ignored. It is riveting, in fact.",
+        "url": "https://www.cinemaexpress.com/english/features/2024/May/21/cannes-xpress-2024-polarising-picture-show"
+    },
+    {
+        "critic": "Lisa Nesselson",
+        "is_top_critic": false,
+        "media": "France24",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-09T17:44:19.000Z",
+        "quote": "If you're new to this director, I wouldn't tell you to start here with this one. ",
+        "url": "https://www.france24.com/en/tv-shows/arts24/20240626-film-show-an-unkindly-triptych-from-greek-director-yorgos-lanthimos"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-07-09T13:21:44.000Z",
+        "quote": "Yorgos crafts a trilogy of abuse and the nature of false support offered by the abusers but like the relationships themselves each story is allowed to go on longer than they should and just repeat the cycle.",
+        "url": "https://erikthemovieman.substack.com/p/episode-486-choose-your-warrior-of-12c"
+    },
+    {
+        "critic": "Lisa Laman",
+        "is_top_critic": false,
+        "media": "Culturess",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-09T01:20:17.000Z",
+        "quote": "This is another daringly creative and hysterically bleak Lanthimos movie. It especially excels as a showcase for its superb ensemble cast.",
+        "url": "https://culturess.com/posts/kinds-of-kindness-isn-t-peak-yorgos-lanthimos-but-it-is-deviously-bleak-fun-01j1ah7w6d1e"
+    },
+    {
+        "critic": "Emma Wolfe",
+        "is_top_critic": false,
+        "media": "SpookyAstronauts",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-07-09T01:01:22.000Z",
+        "quote": "It's not like a deep layered watch. It's an easy watch. ",
+        "url": "https://www.youtube.com/watch?v=V8ZomPb5oFQ"
+    },
+    {
+        "critic": "Dan Lybarger",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-07-08T22:17:58.000Z",
+        "quote": "The creativity and daring are abundantly evident, but there is a sense that he’s overlooking his characters as if they are ants, torching them with a magnifying glass and asking us to delight in their misfortunes.",
+        "url": "https://filmthreat.com/reviews/kind-of-kindness/"
+    },
+    {
+        "critic": "Hector A. Gonzalez",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2024-07-08T21:12:01.000Z",
+        "quote": "What is missing here is the blend of the sadistic and absurd with the humanistic and sensitive, which Filippou does not know how to construct through Yorgos’ mad ideas.",
+        "url": "https://insessionfilm.com/movie-review-kinds-of-kindness/"
+    },
+    {
+        "critic": "Gustavo Herrera Taboada",
+        "is_top_critic": false,
+        "media": "Cinencuentro",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-08T16:43:21.000Z",
+        "quote": "The stories go from more to less, the third one being the weakest even on a humoristic level, but the power of the first two compensates for it. [Full review in Spanish]",
+        "url": "https://www.cinencuentro.com/2024/07/06/tipos-de-gentileza-yorgos-lanthimos-kind-of-kindness/"
+    },
+    {
+        "critic": "Sarah Marrs",
+        "is_top_critic": false,
+        "media": "Lainey Gossip",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-08T02:41:44.000Z",
+        "quote": "Yorgos Lanthimos has made some exceptional films, but it finally feels like it’s time for him to find a new story to tell.",
+        "url": "https://www.laineygossip.com/review-yorgos-lanthimos-kinds-of-kindness-will-test-your-patience-to-varying-degrees/78477"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2024-07-08T01:43:16.000Z",
+        "quote": "It’s unconventional, to be sure, but more repulsive than engrossing, a trio of malicious turn-off jokes told with a sadistic cinematic grin.",
+        "url": "https://www.oneguysopinion.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Susan Granger",
+        "is_top_critic": false,
+        "media": "SSG Syndicate",
+        "sentiment": "Rotten 🤢",
+        "score": "2/10",
+        "date": "2024-07-07T23:05:59.000Z",
+        "quote": "Yorgos Lanthimos' tediously twisted triptych exploring themes of dominance/control, faith and love.",
+        "url": "https://www.susangranger.com/?p=15171"
+    },
+    {
+        "critic": "Raquel Stecher",
+        "is_top_critic": false,
+        "media": "Quelle Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-06T23:45:40.000Z",
+        "quote": "Kinds of Kindness is delightfully twisted. A must-see for lovers of the absurd.",
+        "url": "https://quellemovies.com/2024/07/kinds-of-kindness/"
+    },
+    {
+        "critic": "Emily Wheeler",
+        "is_top_critic": false,
+        "media": "Emily Wheeler Movie Ops",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-06T19:26:32.000Z",
+        "quote": "Kinds of Kindness is most effective at sorting out the strengths and weaknesses of Lanthimos’ approach.",
+        "url": "https://emilywheelerfilm.com/2024/07/06/kinds-of-kindness/"
+    },
+    {
+        "critic": "Tina Kakadelis",
+        "is_top_critic": false,
+        "media": "Beyond the Cinerama Dome",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-05T16:55:15.000Z",
+        "quote": "Even with the narrative aspects that could have benefitted from tightening up, there’s still something exciting about a film like Kinds of Kindness being heavily promoted and available to casual theatergoers.",
+        "url": "https://beyondthecineramadome.com/movie-reviews/mh18syy79ptftm2gxcmiv00puwfmvd"
+    },
+    {
+        "critic": "Edwin Arnaudin",
+        "is_top_critic": false,
+        "media": "Asheville Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-07-05T16:02:52.000Z",
+        "quote": "Lanthimos is back to his old tricks, and we fellow sickos are all the better for it.",
+        "url": "https://www.ashevillemovies.com/new/kinds-of-kindness"
+    },
+    {
+        "critic": "Tom Beasley",
+        "is_top_critic": false,
+        "media": "The Popcorn Muncher (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-05T08:25:30.000Z",
+        "quote": "Kinds of Kindness stretches its darkness to the point that it becomes mundane — perhaps deliberately — and more than a little boring — almost certainly not deliberately.",
+        "url": "https://thepopcornmuncher.substack.com/p/kinds-of-sadness"
+    },
+    {
+        "critic": "Ray Pride",
+        "is_top_critic": false,
+        "media": "Newcity",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-07-04T21:50:12.000Z",
+        "quote": "Traffics enthusiastically in eccentric juxtapositions and... still-resonant vocabulary of the earliest 20th-century manifestations of the Surrealist movement... Water. Tears, seas. Sprays and eddies and piddles of blood. Cannibalism. Taxonomies. Assault.",
+        "url": "https://www.newcityfilm.com/2024/06/25/three-mean-lean-fables-a-review-of-kinds-of-kindness/"
+    },
+    {
+        "critic": "Lee McCoy",
+        "is_top_critic": false,
+        "media": "DrumDums",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-07-04T20:40:25.000Z",
+        "quote": "Yorgos brings an ambitious and often confusing story trio with challenging performances by Plemons and Stone. It's unapologetically long in the tooth, but highly entertaining and jaw dropping. ",
+        "url": "https://www.youtube.com/watch?v=Wr0csAOeWzs&t=9s"
+    },
+    {
+        "critic": "Scott Phillips",
+        "is_top_critic": false,
+        "media": "Forbes",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-04T17:22:57.000Z",
+        "quote": "Kinds of Kindness feels like it was made by a cynical god as he watches our silly attempts to control our own lives and laughs at our foolishness. If the laughs are a litmus test for mental health, then I may be leaning a bit toward madness myself.",
+        "url": "https://www.forbes.com/sites/scottphillips/2024/06/24/kinds-of-kindness-more-like-minds-of-madness/"
+    },
+    {
+        "critic": "Jorge Rivera Rubio",
+        "is_top_critic": false,
+        "media": "QiiBO",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-04T07:50:58.000Z",
+        "quote": "One of those movies that 100 people will see, and they'll have 100 different takes. In a cinematic ocean of sequels, prequels, “reboots” and “remakes,” I greatly appreciate such a strange, frustrating and complicated choice. [Full review in Spanish]",
+        "url": "https://qiibo.com/entretenimiento/pelicula/criiticas-cine/critica-de-kind-of-kindness/182429/"
+    },
+    {
+        "critic": "Sean P. Means",
+        "is_top_critic": false,
+        "media": "The Movie Cricket",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-07-04T06:47:28.000Z",
+        "quote": "By using these actors as an ensemble, shifting roles and attitudes from story to story, Lanthimos deepens the common threads that tie these stories to each other.",
+        "url": "https://moviecricket.net/blog/2024/7/1/review-kinds-of-kindness-is-three-twisted-tales-of-human-love-with-brilliant-triple-performances-by-jesse-plemons-emma-stone-and-willem-dafoe"
+    },
+    {
+        "critic": "Paul Salfen",
+        "is_top_critic": false,
+        "media": "AMFM Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-07-04T04:49:03.000Z",
+        "quote": "Maybe it was fun for the actors to showcase their obvious talents but it’s not what you would call an enjoyable watch, which makes it hard to recommend to most anyone unless you’re a devout Lanthimos fan. ",
+        "url": "https://www.amfm-magazine.tv/kinds-of-kindness-movie-minute-review/"
+    },
+    {
+        "critic": "Robert Denerstein",
+        "is_top_critic": false,
+        "media": "Denerstein Unleashed",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-04T00:44:48.000Z",
+        "quote": "Not Lanthimos’s best work, but the director kept me watching with the mixture of attention and curiosity his work always demands.",
+        "url": "https://denersteinunleashed.blogspot.com/2024/06/a-triptych-from-yogos-lanthimos.html"
+    },
+    {
+        "critic": "Charles Koplinski",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4.0",
+        "date": "2024-07-04T00:43:46.000Z",
+        "quote": "As such, “Kindness” will provoke much conversation, likely to be deeply felt, perhaps contentious. This is to be expected, when a mirror as sharp and clear as this is put before us.",
+        "url": "https://reeltalkwithchuckandpam.com/kinds-of-kindness-chuck-recommends/"
+    },
+    {
+        "critic": "Julian Lytle",
+        "is_top_critic": false,
+        "media": "RIOTUS",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-07-04T00:15:11.000Z",
+        "quote": "Kinds of Kindness is a film that is divisive, jarring, weird, and hilarious. It’s one of my favorites, and I hope people can go in with an open mind or not expect Poor Things again.  ",
+        "url": "https://riot-us.com/2024/06/30/kinds-of-kindness/"
+    },
+    {
+        "critic": "James Verniere",
+        "is_top_critic": false,
+        "media": "Boston Movie News",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-07-03T23:39:38.000Z",
+        "quote": "Academy Award-winning surrealist Yorgos Lanthimos gives us an American \"tripdytch fable\" for these disturbing times. ",
+        "url": "https://bostonmovienews.com/2024/06/25/kinds-of-kindness-youve-gotta-be-cruel-to-be-kind/"
+    },
+    {
+        "critic": "Chris McCoy",
+        "is_top_critic": false,
+        "media": "Memphis Flyer",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-03T20:59:07.000Z",
+        "quote": "As with all of Lanthimos’ films, this isn’t for everyone. But if you’re already on board with his unique, often disturbing world view, you will find Kinds of Kindness ranks with the director’s best work.",
+        "url": "https://www.memphisflyer.com/kinds-of-kindness"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-03T20:51:07.000Z",
+        "quote": "Due to its slow pacing, this strange, dry, and very long comedy doesn't quite achieve the punch that its three stories could have pulled off, but it at least manages more than a few offbeat giggles. ",
+        "url": "https://www.commonsensemedia.org/movie-reviews/kinds-of-kindness"
+    },
+    {
+        "critic": "Sherin Nicole",
+        "is_top_critic": false,
+        "media": "RIOTUS",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-03T17:12:48.000Z",
+        "quote": "[It] rings the shame bell while pointing and giggling at the corrosive effects of three kinds of obsession... I appreciated KINDS OF KINDNESS as a piece of “art” because of its vibrant visuals and literary leanings … but I’m still processing my feelings.",
+        "url": "https://riot-us.com/2024/07/03/the-three-kinds-of-kindness/"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-03T13:43:15.000Z",
+        "quote": "The tone is broadly absurdist misanthropic kafkaesque, often cruelly hilarious. ",
+        "url": "https://www.youtube.com/watch?v=-bn_Od4BhEg"
+    },
+    {
+        "critic": "Anthony O'Connor",
+        "is_top_critic": false,
+        "media": "FILMINK (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "12.5/20",
+        "date": "2024-07-03T07:14:42.000Z",
+        "quote": "… other than some wry moments and pretty images, and it leaves the experience feeling ultimately unsatisfying, hollow and indulgent.",
+        "url": "https://www.filmink.com.au/reviews/kinds-of-kindness/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "rachelsreviews.net",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-03T06:48:05.000Z",
+        "quote": "the whole experience is unbearable and I couldn’t wait for it to be over.",
+        "url": "https://rachelsreviews.net/2024/07/03/current-mini-reviews-the-bikeriders-horizon-kinds-of-kindness-the-imaginary-despicable-me-4/"
+    },
+    {
+        "critic": "Joonatan Itkonen",
+        "is_top_critic": false,
+        "media": "Region Free",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-07-03T00:40:57.000Z",
+        "quote": "Maybe this is what others felt like when I raved about the latest Wes Anderson. Perhaps they, too, saw something handsomely produced, yet felt nothing. ",
+        "url": "https://toisto.net/cannes-2024-kinds-of-kindness-is-a-dull-provocation-without-bite/"
+    },
+    {
+        "critic": "Shakyl Lambert",
+        "is_top_critic": false,
+        "media": "CGMagazine",
+        "sentiment": "Rotten 🤢",
+        "score": "6.5/10",
+        "date": "2024-07-02T22:53:31.000Z",
+        "quote": "Kinds of Kindness’ trio of darkly comedic tales will satisfy longtime Yorgos Lanthimos fans and alienate pretty much everyone else.",
+        "url": "https://www.cgmagonline.com/review/movie/kinds-of-kindness-2024-review/"
+    },
+    {
+        "critic": "Stef Rubino",
+        "is_top_critic": false,
+        "media": "Autostraddle",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-02T19:36:53.000Z",
+        "quote": "The three stories in Kinds of Kindness... reflect the parts of our humanity that we try to ignore, destroy, and, in the worst circumstances, distort in order to feel better about ourselves. ",
+        "url": "https://www.autostraddle.com/kinds-of-kindness-review/"
+    },
+    {
+        "critic": "Sergi Sánchez",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-02T19:23:48.000Z",
+        "quote": "Kinds of Kindness demonstrates that Lanthimos' main interest with his work is to embrace us as vulnerable beings, capable of doing anything to be loved. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a61435761/kinds-of-kindness-critica-polemica/"
+    },
+    {
+        "critic": "Eulàlia Iglesias",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-07-02T19:19:51.000Z",
+        "quote": "... A supposedly explosive cocktail that dazzles for its incapacity to disturb or drum up the minimal amount of entertainment. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a61435761/kinds-of-kindness-critica-polemica/"
+    },
+    {
+        "critic": "Jim Laczkowski",
+        "is_top_critic": false,
+        "media": "Director's Club",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-02T17:19:25.000Z",
+        "quote": "Mixed positive here despite its ideas about control and chaos. This is a wild anomaly soaked in misanthropy that isn’t entirely satisfying in the end. Plemons really shines throughout though, providing distinguishably flawed characters, lost and broken.",
+        "url": "https://5years.substack.com/p/june"
+    },
+    {
+        "critic": "Josh Larsen",
+        "is_top_critic": false,
+        "media": "LarsenOnFilm",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-07-02T17:12:40.000Z",
+        "quote": "...suggests what it might have been like if Stanley Kubrick had directed a handful of Twilight Zone episodes.",
+        "url": "https://larsenonfilm.com/kinds-of-kindness"
+    },
+    {
+        "critic": "Harry Guerin",
+        "is_top_critic": false,
+        "media": "RTÉ (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-02T14:27:54.000Z",
+        "quote": "Issues of identity, belonging, and control abound... the performances are all CV-enhancing, but punters may struggle to feel an emotional connection with the characters.",
+        "url": "https://www.rte.ie/entertainment/movie-reviews/2024/0628/1456054-kinds-of-kindness-may-not-be-your-kind-of-movie/"
+    },
+    {
+        "critic": "Christopher Connor",
+        "is_top_critic": false,
+        "media": "Movie Marker Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-07-02T12:40:13.000Z",
+        "quote": "Kinds of Kindness is a return to roots for Lanthimos, resulting in an exhilarating, upending 2 hrs 45 of cinema that makes the most of its esteemed cast.",
+        "url": "https://moviemarker.co.uk/kinds-of-kindness-%e2%98%85%e2%98%85%e2%98%85%e2%98%85/"
+    },
+    {
+        "critic": "Kristian M. Lin",
+        "is_top_critic": false,
+        "media": "Fort Worth Weekly",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-01T23:27:06.000Z",
+        "quote": "Kinds of Kindness is the sort of epic a filmmaker makes when he’s found mainstream acceptance and can truly blow it out, and it also shows the limits to Lanthimos’ vision.",
+        "url": "https://www.fwweekly.com/2024/06/27/kinds-of-kindness-look-what-you-made-me-do/"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-07-01T23:04:10.000Z",
+        "quote": "Without the full-bore stylistic visual onslaught that oiled the wheels of Lanthimos’s last two films, Kinds of Kindness can feel rather a slog. ",
+        "url": "https://www.theguardian.com/film/article/2024/jun/30/kinds-of-kindness-review-yorgos-lanthimos-jesse-plemons-emma-stone-willem-dafoe"
+    },
+    {
+        "critic": "Demetrios Matheou",
+        "is_top_critic": false,
+        "media": "The Arts Desk",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-07-01T22:05:07.000Z",
+        "quote": "The three stories are designed to belong in a unified world, and it’s one that is persistently nasty and cruel; and, at nearly three hours, that can become wearing. Nevertheless, it’s presented with great relish and style.",
+        "url": "https://www.theartsdesk.com/film/kinds-kindness-review-too-cruel-be-kind"
+    },
+    {
+        "critic": "Paula Farmer",
+        "is_top_critic": false,
+        "media": "culturevulture.net",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-01T19:58:45.000Z",
+        "quote": "Love it or hate it; engaged or disdained, there are plenty aspects to appreciate about Kinds of Kindness.",
+        "url": "https://culturevulture.net/film/kinds-of-kindness-2024/"
+    },
+    {
+        "critic": "Kelly Vance",
+        "is_top_critic": false,
+        "media": "East Bay Express",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-07-01T19:57:04.000Z",
+        "quote": "All three episodes could function as genre parodies, none of them nearly as much fun as Poor Things. Kinds of Kindness is more of a misconceived malpractice farce.",
+        "url": "https://eastbayexpress.com/kinds-of-kindness-is-kind-of-a-chore/"
+    },
+    {
+        "critic": "Matthew Jackson",
+        "is_top_critic": false,
+        "media": "The Huntsville Item (TX)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-01T16:42:45.000Z",
+        "quote": "“Kinds of Kindness” will not be for everyone, but like every other Yorgos Lanthimos film, the people who can find its particular wavelength will be swept away by one of the most fascinating filmmakers working right now.",
+        "url": "https://www.itemonline.com/news/movie-review-kinds-of-kindness-is-a-challenging-stunner/article_c1d87d92-33ea-11ef-beab-1fa3122ea645.html"
+    },
+    {
+        "critic": "Tom Shone",
+        "is_top_critic": false,
+        "media": "Sunday Times (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-07-01T14:35:49.000Z",
+        "quote": "Kafka by way of the emergency room. I’d say give it a hard pass unless you happen to be a fan of Plemons, who won the acting prize at Cannes for his almost permanent air of swimming perplexity, like a man remembering he left the oven on.",
+        "url": "https://www.thetimes.com/culture/film/article/its-the-battle-of-the-misfires-emma-stone-v-kevin-costner-k8l9gjxbd"
+    },
+    {
+        "critic": "Jason Shawhan",
+        "is_top_critic": false,
+        "media": "Nashville Scene",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-30T22:25:47.000Z",
+        "quote": "This kind of movie — an uncompromising art film about the unspeakable awfulness lurking just beneath everyone’s skin — doesn’t tend to happen on this scale very often.",
+        "url": "https://www.nashvillescene.com/arts_culture/film_tv/kinds-of-kindness-review/article_601b446e-355b-11ef-bae1-6f8358526c77.html"
+    },
+    {
+        "critic": "Jourdain Searles",
+        "is_top_critic": false,
+        "media": "Reverse Shot",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-30T18:01:20.000Z",
+        "quote": "Much like The Lobster and The Killing of a Sacred Deer, Kinds of Kindness frequently registers as a satire of society and the roles we’re each assigned to play. ",
+        "url": "https://reverseshot.org/reviews/entry/3236/kinds_kindness"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-30T14:27:27.000Z",
+        "quote": "Though intellectually inventive and provocative, it does drag at times. ",
+        "url": "https://sarahgvincentviews.com/movies/kinds-of-kindness/"
+    },
+    {
+        "critic": "Rebecca Johnson",
+        "is_top_critic": false,
+        "media": "Talking Films",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-30T12:12:33.000Z",
+        "quote": "With sharp dialogue, laugh out loud black comedy and a lot of themes and ideas to chew on (perhaps too many), Kinds of Kindness is a bold, divisive character study that will be commended by most, but not loved by all.",
+        "url": "https://talkingfilms.net/kinds-of-kindness-review-this-wonderfully-wacky-psychosexual-triptych-wont-be-for-everyone/"
+    },
+    {
+        "critic": "Korey Coleman",
+        "is_top_critic": false,
+        "media": "Double Toasted",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-30T04:57:16.000Z",
+        "quote": "Kinds of Kindness feels like it's weird for the sake of being weird. If you're a fan of Yorgos Lanthimos, give it a shot.",
+        "url": "https://www.twitch.tv/videos/2183572014"
+    },
+    {
+        "critic": "Amelia Harvey",
+        "is_top_critic": false,
+        "media": "Nerdspin",
+        "sentiment": "Fresh 🍅",
+        "score": "C",
+        "date": "2024-06-29T20:58:42.000Z",
+        "quote": "It’s an outstanding feat to be one of the most revered directors in the world and to make something as bold as Kinds of Kindness. At no point does it feel like the movie holds back its ideas nor does the actors hold back their performances.",
+        "url": "https://nerdspin.com/kind-of-kindness-review-power-and-control/"
+    },
+    {
+        "critic": "Alan French",
+        "is_top_critic": false,
+        "media": "Sunshine State Cineplex",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-06-29T20:48:19.000Z",
+        "quote": "While Yorgos’ last two features showcase his newfound prowess as a technical filmmaker, the darkness and cringy comedy of Kinds of Kindness meets his career oeuvre. It’s not his best work, but it proves he truly has a knack for the weird.",
+        "url": "https://sunshinestatecineplex.com/2024/06/29/kinds-of-kindness-frozen-empire-a-family-affair/"
+    },
+    {
+        "critic": "John Urbancich",
+        "is_top_critic": false,
+        "media": "JMuvies",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-29T15:02:37.000Z",
+        "quote": "The follow-up to an occasionally amazing, four-time Oscar-winning \"Poor Things,\" from director Yorgos Lanthimos, might have viewers thinking \"it's all Greek to me\" when everything in his latest with screenwriter Efthimis Filippou is said and done.\n",
+        "url": "https://jmuvies.blogspot.com/2024/06/daddio-takes-brief-perceptive-ride.html"
+    },
+    {
+        "critic": "Jeff Mitchell",
+        "is_top_critic": false,
+        "media": "Phoenix Film Festival",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-29T11:24:54.000Z",
+        "quote": "Yorgos doesn’t kill his audience with kindness.  He tests our endurance for cruelty.",
+        "url": "https://www.phoenixfilmfestival.com/blog/2024/6/kinds-of-kindness-movie-review"
+    },
+    {
+        "critic": "Nestor Bentancor",
+        "is_top_critic": false,
+        "media": "Nestor Cine Desde Hollywood",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-29T07:22:23.000Z",
+        "quote": "More kinds of strangeness than kindness in a triptych and cryptic dose of sweet nightmares that, despite being excessive, does entertain and captivate.\n[Full Review in Spanish]",
+        "url": "https://youtu.be/XTmteVn27VE"
+    },
+    {
+        "critic": "Sarah Gopaul",
+        "is_top_critic": false,
+        "media": "Digital Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-29T02:48:11.000Z",
+        "quote": "The recurring, slow, purposeful yet haunting piano [...hints] at the disturbance that lurks beneath the surface... This isn’t a movie that’s going to have mass appeal, but if you enjoy twisted narratives it’s definitely worth a watch.",
+        "url": "https://www.digitaljournal.com/entertainment/review-kinds-of-kindness-has-a-unique-appeal/article"
+    },
+    {
+        "critic": "Steven Prokopy",
+        "is_top_critic": false,
+        "media": "Third Coast Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-29T00:18:43.000Z",
+        "quote": "I don't need Lanthimos to be shocking or disgusting or explicit to be interesting. ",
+        "url": "https://thirdcoastreview.com/2024/06/28/film-review-kinds-of-kindness"
+    },
+    {
+        "critic": "Carson Timar",
+        "is_top_critic": false,
+        "media": "ClapperCast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T22:03:26.000Z",
+        "quote": "Incredibly funny, but sometimes a bit too condensed taking away a real sense of conclusion for some of the segments.",
+        "url": "https://www.youtube.com/watch?v=KYKALrflzHg"
+    },
+    {
+        "critic": "Jonathan W. Hickman",
+        "is_top_critic": false,
+        "media": "The Newnan Times-Herald",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-06-28T21:47:15.000Z",
+        "quote": "The themes explored are control and abuse, and Lanthimos’ darkly sardonic narratives are punishing. ",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/movie-reviews-previews/article_5edf22aa-3592-11ef-92bb-2fceb8ddac88.html"
+    },
+    {
+        "critic": "Linda and Al Lerner",
+        "is_top_critic": false,
+        "media": "Movies and Shakers",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T21:32:43.000Z",
+        "quote": "It's one perverse story after another with great actors stretching the bounds of their characters in this trilogy. You'll be thinking about it long after it ends, and we think messing with your head about life is what Lanthimos intended from the start.",
+        "url": "https://moviesandshakers.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T21:11:12.000Z",
+        "quote": "A fully committed ensemble cast provides emotional depth in scenarios that seem harsh and unforgiving, if also wickedly funny.",
+        "url": "https://cinemalogue.com/2024/06/28/kinds-of-kindness/"
+    },
+    {
+        "critic": "Thelma Adams",
+        "is_top_critic": true,
+        "media": "AARP Movies for Grownups",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-06-28T20:52:11.000Z",
+        "quote": "Poor Things director Yorgos Lanthimos... crushed it at the Oscars when his muse Emma Stone won best actress. But, oof, this nearly three-hour triptych fable trips.",
+        "url": "https://www.aarp.org/entertainment/television/info-2024/what-to-watch-best-new-movies-shows-streaming.html"
+    },
+    {
+        "critic": "Nick Johnston",
+        "is_top_critic": false,
+        "media": "Vanyaland",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T20:14:55.000Z",
+        "quote": "It’s a thin line between kindness and cruelty, and Lanthimos is interested in everything between their two most extreme forms. ",
+        "url": "https://vanyaland.com/2024/06/27/kinds-of-kindness-review-three-icky-excellent-fables/"
+    },
+    {
+        "critic": "Oscar Goff",
+        "is_top_critic": false,
+        "media": "Boston Hassle",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T19:15:59.000Z",
+        "quote": "Kinds of Kindness may be the comedy of our times. God help us all.",
+        "url": "https://bostonhassle.com/review-kinds-of-kindness-2024-dir-yorgos-lanthimos/"
+    },
+    {
+        "critic": "Robert Horton",
+        "is_top_critic": false,
+        "media": "The Scarecrow",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-28T18:50:31.000Z",
+        "quote": "Freakily enjoyable, a vision of a cruel world rendered in oblique strokes, its humor erupting in gasps.",
+        "url": "https://scarecrowvideo.org/posts/the-seasoned-ticket-273-kinds-of-kindness"
+    },
+    {
+        "critic": "J Hurtado",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T17:12:35.000Z",
+        "quote": "Viewers aching for something different and challenging in their cinema, has Yorgos got a gift for you.",
+        "url": "https://screenanarchy.com/2024/06/kinds-of-kindness-review.html"
+    },
+    {
+        "critic": "Odie Henderson",
+        "is_top_critic": true,
+        "media": "Boston Globe",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-06-28T16:37:03.000Z",
+        "quote": "I should warn there’s some rough material here. In fact, the two women sitting behind me at my screening were so repulsed they audibly complained before walking out.\n\nI admit I was jealous; I wanted to see the sick movie they thought they were watching.",
+        "url": "https://www.bostonglobe.com/2024/06/27/arts/kinds-of-kindness-movie-review/"
+    },
+    {
+        "critic": "Victoria Luxford",
+        "is_top_critic": false,
+        "media": "City AM",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-28T15:23:04.000Z",
+        "quote": "Kinds of Kindness is decidedly uncomfortable, pushing boundaries to the point of breaking. The director has crafted a twisted anthology that will either leave you crying with laughter or pale with concern.",
+        "url": "https://www.cityam.com/emma-stone-shines-in-new-dark-comedy-by-poor-things-director/"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-28T15:19:08.000Z",
+        "quote": "Lanthimos can be hit or miss; when he's on, we get gems like The Favourite and Poor Things, but his more bizarre creations can lose the audience's interest.",
+        "url": "https://flickdirect.com/movie-review/3081/kinds-of-kindness/movie.ashx"
+    },
+    {
+        "critic": "Brian Tallerico",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-28T14:42:46.000Z",
+        "quote": "[T}he audacity of the project carries the day, and a cast once again bringing their A-game for a director who knows how to work with ensembles. ",
+        "url": "https://www.rogerebert.com/reviews/kinds-of-kindness-film-review-2024"
+    },
+    {
+        "critic": "Chris Wasser",
+        "is_top_critic": false,
+        "media": "Sunday Independent (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-28T14:06:20.000Z",
+        "quote": "Thank goodness, then, for a committed A-list cast, who deliver their lines and control their roles in a way that this unique if decidedly uneven feature doesn’t always deserve.",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/kinds-of-kindness-review-trippy-tale-from-the-director-of-poor-things-needs-a-trim/a1506181727.html"
+    },
+    {
+        "critic": "Chris Knight",
+        "is_top_critic": false,
+        "media": "National Post",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-28T13:52:29.000Z",
+        "quote": "Kinds of Kindness continues Lanthimos's penchant for absurdism and stilted speech patterns, neither of which endear him to me. He is a filmmaker I will readily admire, even as his creations continue to leave me cold.",
+        "url": "https://nationalpost.com/entertainment/movies/film-review-kinds-of-kindness-delivers-all-kinds-but-little-kindness"
+    },
+    {
+        "critic": "Nell Minow",
+        "is_top_critic": true,
+        "media": "Movie Mom",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-06-28T11:11:03.000Z",
+        "quote": "The screenplay relies heavily on the shock value, the performances, and the production design by Anthony Gasparro to make the movie seem weightier than it is. And when that’s not enough, it winks at the audience to let us know that it just doesn’t care.",
+        "url": "https://moviemom.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-06-28T09:13:30.000Z",
+        "quote": "Funny, frustrating, and unforgettable, you gotta be cruel to be a Kinds of Kindness fan. \n",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=fa976db9-87e0-4399-b537-15b62f4a0ed1"
+    },
+    {
+        "critic": "Christopher Llewellyn Reed",
+        "is_top_critic": false,
+        "media": "Film Festival Today",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-27T22:07:00.000Z",
+        "quote": "The result is a disjointed viewing experience, leaving us as cold and forlorn as a typical Lanthimos character.",
+        "url": "https://filmfestivaltoday.com/film-reviews/kinds-of-kindness-never-quite-gels"
+    },
+    {
+        "critic": "Jeff York",
+        "is_top_critic": false,
+        "media": "The Establishing Shot",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-06-27T21:18:11.000Z",
+        "quote": "It’s adult filmmaking for certain, but whether or not it’s the kind that stimulates robust conversation afterward depends upon one’s willingness to ponder a film that is excessively strange, violent and unsavory.",
+        "url": "https://theestablishingshot.org/2024/06/kinds-of-kindness-challenges-in-all-kinds-of-ways/"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-06-27T19:50:21.000Z",
+        "quote": "The film questions the absurd lengths to which people will go to feel acknowledged, embraced, or loved, and it achieves this with a sublime variety of bizarre, funny, shocking, and witty stories.",
+        "url": "https://www.deepfocusreview.com/reviews/kinds-of-kindness/"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-06-27T18:53:07.000Z",
+        "quote": "Lanthimos trips over himself reconnecting with his inner freak in \"Kinds of Kindness,\" a frustrating triptych that works hard to reconfirm his weirdo cred after he experienced a pair of mainstream successes.",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2024/06/27/kinds-of-kindness-review-weirdness-to-the-third-degree/74221729007/"
+    },
+    {
+        "critic": "Michael Phillips",
+        "is_top_critic": true,
+        "media": "Chicago Tribune",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-06-27T18:41:38.000Z",
+        "quote": "It’s a luxe treatment of some puny satiric ideas.",
+        "url": "https://www.chicagotribune.com/2024/06/26/kinds-of-kindness-review-emma-stone-and-jesse-plemons-plunge-into-an-empty-pool/"
+    },
+    {
+        "critic": "Ty Burr",
+        "is_top_critic": true,
+        "media": "Washington Post",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-27T18:35:08.000Z",
+        "quote": "Stone may get all the attention but with his sandy, anonymous mustache and eyes fixed on the middle distance, Plemons is the movie’s anxious soul.",
+        "url": "https://www.washingtonpost.com/entertainment/movies/2024/06/27/kinds-kindness-lanthimos-emma-stone-review/"
+    },
+    {
+        "critic": "Daniel de Partearroyo",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-06-27T18:30:45.000Z",
+        "quote": "Each story in this triptych could have been developed in more depth in a feature film, instead of being delivered half-baked, in a capricious and irregular manner. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/kinds-of-kindness-critica-estreno-reparto-5524863/"
+    },
+    {
+        "critic": "Richard Whittaker",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-27T18:27:50.000Z",
+        "quote": "The experience is like watching a pretentious reboot of Tales From the Darkside.",
+        "url": "https://www.austinchronicle.com/events/film/2024-06-28/kinds-of-kindness/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-06-27T18:24:14.000Z",
+        "quote": "It’s a black comedy that’s surprisingly low on laughs, but the production does have the commitment of the cast, who do their best to bring Lanthimos’s peculiarities and fetishes to life.",
+        "url": "https://www.blu-ray.com/Kinds-of-Kindness/1632948/#Review"
+    },
+    {
+        "critic": "David Sexton",
+        "is_top_critic": false,
+        "media": "New Statesman",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T18:22:15.000Z",
+        "quote": "Clocking in at 165 minutes, the impact of Kinds of Kindness is cumulative and distinctly alienating, despite the various treats offered en route.",
+        "url": "https://www.newstatesman.com/culture/film/2024/06/yorgos-lanthimos-kinds-of-kindness-review-is-grotesque-emma-stone"
+    },
+    {
+        "critic": "Clarisse Loughrey",
+        "is_top_critic": true,
+        "media": "Independent (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-27T18:20:21.000Z",
+        "quote": "Kinds of Kindness lives in a place equal in ideas and riches to The Favourite or Poor Things’s ruffled luxuries -- it’s just not as immediately welcoming to the viewer. ",
+        "url": "https://www.independent.co.uk/arts-entertainment/films/reviews/kinds-of-kindness-review-b2568925.html"
+    },
+    {
+        "critic": "Kyle Pinion",
+        "is_top_critic": false,
+        "media": "Screen Rex",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-27T18:14:52.000Z",
+        "quote": "The middle tale alone is one of the finest things Lanthimos has shot.",
+        "url": "https://screenrex.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Michael J. Casey",
+        "is_top_critic": false,
+        "media": "Boulder Weekly",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-27T15:20:29.000Z",
+        "quote": "Everyone is good in \"Kindness\"; everyone is game — 100% necessary in a Lanthimos film.",
+        "url": "https://boulderweekly.com/entertainment/kinds-of-kindness-film-review/"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-27T14:54:41.000Z",
+        "quote": "Kinds of Kindness isn’t a masterpiece nor is it even a great movie, but the inherent unpredictability in Lanthimos’ approach makes for a fun and surprising three hours.",
+        "url": "https://www.reelviews.net/reelviews/kinds-of-kindness"
+    },
+    {
+        "critic": "Richard Roeper",
+        "is_top_critic": true,
+        "media": "Chicago Sun-Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-27T02:23:41.000Z",
+        "quote": "On the whole, Kinds of Kindness is a mixed bag of tricks and treats.",
+        "url": "https://chicago.suntimes.com/movies-and-tv/2024/06/25/kinds-of-kindness-review-emma-stone-movie-yorgos-lanthimos"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-06-26T21:34:37.000Z",
+        "quote": "The tone of all these stories embraces absurdism and puts the characters in strange, wholly original situations that are very twisted in the best ways.",
+        "url": "https://www.comingsoon.net/movies/reviews/1766509-kinds-of-kindness-review-a-darkly-peculiar-anthology"
+    },
+    {
+        "critic": "Cameron Meier",
+        "is_top_critic": false,
+        "media": "MeierMovies.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.25/5",
+        "date": "2024-06-26T21:21:04.000Z",
+        "quote": "\"Kinds of Kindness\" is less than the sum of its parts. But the parts are spasmodically fantastic and, when allowed to simmer in the film’s Louisiana kitchen, produce the strangest three-course meal of the year. Dig in.",
+        "url": "https://www.meiermovies.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Laura Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-06-26T18:29:44.000Z",
+        "quote": "Lanthimos’s themes about control and the need for love and belonging become increasingly difficult to care about...is never boring, quite the feat given its 165 minute running time, but I for one doubt I’ll ever want to watch it again.",
+        "url": "https://www.reelingreviews.com/reviews/kinds-of-kindness/"
+    },
+    {
+        "critic": "Michael Walsh",
+        "is_top_critic": false,
+        "media": "Nerdist",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-26T17:56:26.000Z",
+        "quote": "It’s operating on its own bizarre frequency and how you hear it, and what you make of it when you do, is entirely up for you. The result is a movie that is equally fascinating and frustrating.",
+        "url": "https://nerdist.com/article/kinds-of-kindness-yorgos-lanthimos-film-review/"
+    },
+    {
+        "critic": "Barbara Goslawski",
+        "is_top_critic": false,
+        "media": "Exclaim!",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-06-26T17:27:47.000Z",
+        "quote": "Lanthimos can't be blamed for trying something new — it's just that not all experiments work.",
+        "url": "https://exclaim.ca/music/article/yorgos-lanthimos-kinds-of-kindness-film-review-emma-stone"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-26T09:08:59.000Z",
+        "quote": "Kinds of Kindness is like the Yorgos of old: bizarre, cynical, and finding humor in societal rot and human degradation.",
+        "url": "https://punchdrunkcritics.com/2024/06/review-kinds-of-kindness/"
+    },
+    {
+        "critic": "Dan Scully",
+        "is_top_critic": false,
+        "media": "ScullyVision",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-25T22:24:38.000Z",
+        "quote": "A darkly comic, playfully misanthropic, and utterly absurd picture that plays to all of Lanthimos’ storytelling strengths without ever feeling like a greatest hits reel. It’s incredible. You’re probably going to hate it. ",
+        "url": "https://scullyvision.com/2024/06/25/kinds-of-kindness-is-a-bizarre-and-hilarious-anthology-from-a-prestige-weirdo/"
+    },
+    {
+        "critic": "Maxwell Rabb",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-25T21:38:11.000Z",
+        "quote": "The fables are violently obscure, each stimulating an almost insatiable desire to put together the disparate pieces of these worlds. It is old-school Lanthimos, with stilted scenes and gelastic dialogue, brutally crashing into his heart-dropping punches.",
+        "url": "https://chicagoreader.com/film/review-kinds-of-kindness/"
+    },
+    {
+        "critic": "Alistair Harkness",
+        "is_top_critic": false,
+        "media": "Scotsman",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-25T19:13:19.000Z",
+        "quote": "It’s Plemons, though, who emerges as the film’s star. With his mix of Matt Damon-style boyishness and Philip Seymour Hoffman-style gravitas... his range comes into play in a big way across all three stories.",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/kinds-of-kindness-review-shot-through-with-kinky-sex-grisly-tests-of-character-and-glib-punchlines-4679337"
+    },
+    {
+        "critic": "Lou Thomas",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-25T17:01:25.000Z",
+        "quote": "Another humane, odd and highly accomplished Yorgos Lanthimos film, one that sees him returning to the tone of his earlier work after The Favourite and Poor Things. ",
+        "url": "https://www.empireonline.com/movies/reviews/kinds-of-kindness/"
+    },
+    {
+        "critic": "Barry Hertz",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-25T16:46:59.000Z",
+        "quote": "A truly torturous experience for almost everyone involved, the film is an aggressively juvenile and tedious dissection of the notion of free will.",
+        "url": "https://www.theglobeandmail.com/arts/film/reviews/article-poor-things-jesse-plemons-and-emma-stone-cannot-save-the-snide-and/"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B- ",
+        "date": "2024-06-25T16:16:02.000Z",
+        "quote": "Kinds of Kindness is Yorgos at his most simple & bizarre. Depending on how you feel for his earlier work will decide if this is for you. For me it’s a nice snack of 3 short stories brought together by its atmosphere & performances!",
+        "url": "https://youtu.be/WrM0PLU1oeA"
+    },
+    {
+        "critic": "Yasmin Omar",
+        "is_top_critic": false,
+        "media": "The Curzon Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-25T15:11:23.000Z",
+        "quote": "Emma Stone has two Oscars and the world at her feet, but prefers to collaborate with Lanthimos on freaky curios that require her to fellate nightsticks as opposed to following a more conventional, A-list path. More power to her. ",
+        "url": "https://www.curzon.com/journal/kinds-of-kindness-review/"
+    },
+    {
+        "critic": "Mick LaSalle",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-06-25T13:23:53.000Z",
+        "quote": "Lanthimos is essentially offering us his worldview, which amounts to an emptiness contemplating an emptiness — stylish narcissism posing as wisdom, sprinkled with misogyny posing as a post-misogynistic commentary on misogyny.",
+        "url": "https://datebook.sfchronicle.com/movies-tv/kinds-of-kindness-yorgos-lanthimos-19532433"
+    },
+    {
+        "critic": "Kyle Logan",
+        "is_top_critic": false,
+        "media": "Cultured Vultures",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-06-25T10:55:58.000Z",
+        "quote": "Kinds of Kindness has great performances from a fantastic cast, and delivers some of Lanthimos’s trademark black comedy, but it often feels as if it's trying too hard to provoke its audience.",
+        "url": "https://culturedvultures.com/kinds-of-kindness-2024-review/"
+    },
+    {
+        "critic": "Bill Goodykoontz",
+        "is_top_critic": false,
+        "media": "Arizona Republic",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-06-24T21:44:06.000Z",
+        "quote": "“Kinds of Kindness” has its own demented charms. You just have to wade through a lot to find them.",
+        "url": "https://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2024/06/24/kinds-of-kindness-review/74120211007/"
+    },
+    {
+        "critic": "Alci Rengifo",
+        "is_top_critic": false,
+        "media": "Entertainment Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-24T19:10:48.000Z",
+        "quote": "It is a free-wheeling challenge that might require more than one viewing to fully process. Even if one viewing might be more than enough for you, it will nonetheless be hard to forget.",
+        "url": "https://entertainmentvoice.com/2024/06/20/kinds-of-kindness-pushes-yorgos-lanthimos-surreal-style-to-unnerving-limits/"
+    },
+    {
+        "critic": "MaryAnn Johanson",
+        "is_top_critic": false,
+        "media": "Flick Filosopher",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-06-24T14:21:42.000Z",
+        "quote": "A mad monstrosity of a movie: absurdist, enigmatic, perverse. Lanthimos’s typical grotesque humor is on full display. Yay for a film that actually attempts to capture how insane the world is today?",
+        "url": "https://www.flickfilosopher.com/2024/06/kinds-of-kindness-movie-review-twilight-zones-of-contention.html"
+    },
+    {
+        "critic": "Jim Slotek",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Fresh 🍅",
+        "score": "B-minus",
+        "date": "2024-06-24T13:07:30.000Z",
+        "quote": "Kinds of Kindness is like a promo for three uncooked movie ideas. They are various levels of \"weird\" and “interesting.” But their connection is so tenuous that they come off more like separate episodes of a Black Mirror-ish anthology series than a film.",
+        "url": "https://www.original-cin.ca/posts/2024/6/17/kinds-of-kindness-yorgos-lanthimos-offers-three-kinds-all-weirdly-undercooked-1"
+    },
+    {
+        "critic": "Ian Sandwell",
+        "is_top_critic": false,
+        "media": "Digital Spy",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-23T08:39:11.000Z",
+        "quote": "Stick with it and you're rewarded with another movie that only Lanthimos could make, one that'll have you wincing, laughing and thinking – often all within the same scene.",
+        "url": "https://www.digitalspy.com/movies/a61171557/kinds-of-kindness-review/"
+    },
+    {
+        "critic": "Farah Cheded",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-22T14:45:27.000Z",
+        "quote": "Following Poor Things’ brief foray into happy endings, Kinds Of Kindness sees Lanthimos return to the kind of movie it feels perverse to say you “enjoy.” In short: The Greek freak is back.",
+        "url": "https://www.avclub.com/kinds-of-kindness-review-peak-yorgos-lanthimos-1851493786"
+    },
+    {
+        "critic": "Rania Richardson",
+        "is_top_critic": false,
+        "media": "Film-Forward.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2024-06-22T00:40:59.000Z",
+        "quote": "A psychological horror leavened with sly comedy, KINDS OF KINDNESS from Yorgos Lanthimos stars Emma Stone, Jesse Plemons, and Willem Dafoe playing different characters in three audacious, self-contained stories with recurring themes.",
+        "url": "https://film-forward.com/star-reviews/kinds-of-kindness"
+    },
+    {
+        "critic": "Neely Swanson",
+        "is_top_critic": false,
+        "media": "Beverly Hills Courier",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-21T23:32:47.000Z",
+        "quote": "It is apparent that Lanthimos has given his actors great latitude to improvise and explore their characters. Good for the actors; not so good for us. I like a good plot; actually, I’ll settle for any plot. ",
+        "url": "https://beverlyhillscourier.com/2024/06/20/kinds-of-kindness/"
+    },
+    {
+        "critic": "Armond White",
+        "is_top_critic": false,
+        "media": "National Review",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-21T23:24:50.000Z",
+        "quote": "Lanthimos literalizes a “theater of cruelty,” misunderstanding Antonin Artaud’s original concept in favor of fashionable nihilism. Lanthimos’s phoniness doesn’t intend to shock audiences, but to indulge their decadence.",
+        "url": "https://www.nationalreview.com/2024/06/kinds-of-ugliness/"
+    },
+    {
+        "critic": "David Sims",
+        "is_top_critic": true,
+        "media": "The Atlantic",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T22:49:45.000Z",
+        "quote": "I enjoyed plenty of its nearly three-hour run time, suffered through other parts, and was practically praying for the credits by the end. Most of all, I salute Lanthimos for getting back to his freaky roots, only this time on American soil.",
+        "url": "https://www.theatlantic.com/culture/archive/2024/06/kinds-of-kindness-review/678752/"
+    },
+    {
+        "critic": "Oli Welsh",
+        "is_top_critic": false,
+        "media": "Polygon",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T21:58:53.000Z",
+        "quote": "Kinds of Kindness returns us to the Lanthimos who — cruelly, but with tenderness and wry humor — prefers to pick people apart, open them up, and lay them out on the slab.",
+        "url": "https://www.polygon.com/24181309/kinds-of-kindness-review-yorgos-lanthimos-emma-stone"
+    },
+    {
+        "critic": "Michael Atkinson",
+        "is_top_critic": false,
+        "media": "LA Weekly/Village Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T21:38:28.000Z",
+        "quote": "Built largely upon character and the characters’ capacity for keeping secrets, the movie is faultlessly performed, in Lanthimos’s signature bottle-it-up style.",
+        "url": "https://www.villagevoice.com/review-kinds-of-kindness-does-not-live-up-to-its-title-and-thats-a-good-thing/"
+    },
+    {
+        "critic": "Jocelyn Noveck",
+        "is_top_critic": false,
+        "media": "Associated Press",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-21T21:37:36.000Z",
+        "quote": "What’s clear is that the Stone-Lanthimos pairing, in their third feature together, is continuing to nurture an aspect of Stone’s talents that increasingly sets her apart: Her fearlessness and the obvious joy she derives from it.",
+        "url": "https://apnews.com/article/movie-review-kinds-of-kindness-emma-stone-lanthimos-e5e790b6bb9ee4eda7195abb1e6a6aa0"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-21T21:21:23.000Z",
+        "quote": "This movie is one of the more out-there entries in Lanthimos’ filmography (which is saying something), but it is one that I cannot quite get over.",
+        "url": "https://www.themarysue.com/kinds-of-kindness-review-yorgos-lanthimos/"
+    },
+    {
+        "critic": "Dan Tabor",
+        "is_top_critic": false,
+        "media": "Cinapse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T20:25:41.000Z",
+        "quote": "Kinds of Kindness feels like the Yang to Poor Things Yin. ",
+        "url": "https://cinapse.net/2024/06/kinds-of-kindness-is-a-brutal-and-unflinching-exploration-of-the-male-ego/"
+    },
+    {
+        "critic": "Jason Adams",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T19:18:50.000Z",
+        "quote": "All’s fair in love and Yorgos. The dreams might be sweet, but make no mistake that they are dreams—beautiful wisps built by sheer force of blind will. ",
+        "url": "https://www.pajiba.com/film_reviews/it-takes-all-kinds-of-kindness-in-yorgos-lanthimos-latest-delicious-grotesquierie-of-the-human-condition.php"
+    },
+    {
+        "critic": "Michael Medved",
+        "is_top_critic": false,
+        "media": "The Michael Medved Show",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-06-21T18:50:55.000Z",
+        "quote": "All of the three separate stories focus on people who are severely mentally ill and painfully self-destructive, with very few moments of sympathy or emotional connection.",
+        "url": "https://michaelmedved.substack.com/p/movie-review-kinds-of-kindness"
+    },
+    {
+        "critic": "Amy Nicholson",
+        "is_top_critic": true,
+        "media": "Los Angeles Times",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-21T18:44:19.000Z",
+        "quote": "These slight and samey parables are being hailed as a nasty return to form, which is a polite way of saying that Lanthimos and his co-writer Efthymis Filippou have already said everything in here before",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2024-06-21/kinds-of-kindness-review-yorgos-lanthimos-emma-stone-jesse-plemons"
+    },
+    {
+        "critic": "Morgan Rojas",
+        "is_top_critic": false,
+        "media": "Cinemacy",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-21T18:22:42.000Z",
+        "quote": "'Kinds of Kindness' is a film you may not completely understand, but it’s surely one you will not forget.",
+        "url": "https://cinemacy.com/kinds-of-kindness-review/"
+    },
+    {
+        "critic": "Oliver Jones",
+        "is_top_critic": false,
+        "media": "Observer",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-21T17:46:45.000Z",
+        "quote": "A car crash, self amputation, a sex cult—Yorgos Lanthimos' new film is so singular and divisive, it’s likely not to just turn viewers against each other but also against themselves.\n",
+        "url": "https://observer.com/2024/06/kinds-of-kindness-review-bold-bizarre-self-impressed-also-masterful/"
+    },
+    {
+        "critic": "Alissa Wilkinson",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T15:59:47.000Z",
+        "quote": "There are many ways to read a fable, especially one as unhinged as this. You might love it. You might hate it. ",
+        "url": "https://www.nytimes.com/2024/06/20/movies/kinds-of-kindness-review.html"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "ABC News",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T15:32:03.000Z",
+        "quote": "Oscar winner Emma Stone teams up again with her Poor Things director Yorgos Lanthimos  for a mesmerizing mindteaser, costarring a fabulous Jesse Plemons, that tells three stories that you can’t stop thinking about as they entertain and exasperate.",
+        "url": "https://abcnews.go.com/GMA/Culture/review-jesse-plemons-kinds-fabulous-kinds-kindness/story?id=111260172"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "Splice Today",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-21T15:19:03.000Z",
+        "quote": "Will leave many people scratching their heads if they don’t walk out before it’s over. But I liked what it had to offer.",
+        "url": "https://www.splicetoday.com/moving-pictures/hats-off-to-yorgos"
+    },
+    {
+        "critic": "Michael Nordine",
+        "is_top_critic": false,
+        "media": "Film Occasionally",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T14:08:26.000Z",
+        "quote": "Through all the unrelenting oddity — like the husband who tells his wife to cut off a finger and cook it for him — what emerges is a perplexing, at times touching meditation on what we do for the people we love.",
+        "url": "https://filmoccasionally.substack.com/p/kinds-of-kindness-review"
+    },
+    {
+        "critic": "Robert Daniels",
+        "is_top_critic": true,
+        "media": "Mashable",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-21T13:41:41.000Z",
+        "quote": "Kinds of Kindness — despite Plemons' best efforts — is a shaggy imitation of the director's previous era.",
+        "url": "https://mashable.com/article/kinds-of-kindness-review"
+    },
+    {
+        "critic": "Rosalie Kicks",
+        "is_top_critic": false,
+        "media": "MovieJawn",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-06-21T13:22:47.000Z",
+        "quote": "KINDS OF KINDNESS is a lot to take in. It will undoubtedly get get cinema goers talking… it just might take a bit before they are ready to do so.",
+        "url": "https://www.moviejawn.com/home/2024/6/21/kinds-of-kindness"
+    },
+    {
+        "critic": "Cole Smithey",
+        "is_top_critic": false,
+        "media": "ColeSmithey.com",
+        "sentiment": "Rotten 🤢",
+        "score": "ZERO STARS",
+        "date": "2024-06-21T09:46:24.000Z",
+        "quote": "If you are going to punish your audience, there ought to be a good reason for it. You will find no such purpose in \"Kinds of Kindness\" unless you are willing to put yourself through days of mental gymnastics.",
+        "url": "https://www.colesmithey.com/capsules/2024/06/kinds-of-kindness-cannes-2024.html"
+    },
+    {
+        "critic": "Ayelet Dekel",
+        "is_top_critic": false,
+        "media": "Midnight East",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T09:05:54.000Z",
+        "quote": "Kinds of Kindness is an unsettling film, riveting, disturbing, and with its own dark humor and quirky beauty.",
+        "url": "https://www.midnighteast.com/mag/?p=54629"
+    },
+    {
+        "critic": "Alex Nguyen",
+        "is_top_critic": false,
+        "media": "Spectrum Culture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T06:51:29.000Z",
+        "quote": "Yorgos Lanthimos’ Kinds of Kindness combines the old and the new, marking a return to his sadistic roots while incorporating the talents of a star-studded cast.\n",
+        "url": "https://spectrumculture.com/2024/06/20/kinds-of-kindness-review/"
+    },
+    {
+        "critic": "Jeanne Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T03:39:56.000Z",
+        "quote": "KINDS OF KINDNESS doesn’t actually contain much kindness, but it certainly awakens the viewer’s sensibilities to such depraved indifference.",
+        "url": "https://www.kaplanvskaplan.com/new-releases/kinds-of-kindness/"
+    },
+    {
+        "critic": "David Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-21T03:39:06.000Z",
+        "quote": "If you’re a fan of Lanthimos’ vivid imagination, you likely know to expect the unexpected. In that case, KINDS OF KINDNESS may be just what you crave.\n\n",
+        "url": "https://www.kaplanvskaplan.com/new-releases/kinds-of-kindness/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T02:57:35.000Z",
+        "quote": "An audacious, outrageously funny and wildly entertaining ride.",
+        "url": "http://nycmovieguru.com/june21st24.html#kindsofkindness"
+    },
+    {
+        "critic": "Kurt Loder",
+        "is_top_critic": false,
+        "media": "Creators Syndicate",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-21T02:42:24.000Z",
+        "quote": "\"Poor Things\" would be a hard movie to top, and with his new film, Lanthimos has in fact not come close to topping it. ",
+        "url": "https://www.creators.com/read/screener/06/24/kinds-of-kindness-an-unexpected-miss-by-poor-things-director-yorgos-lanthimos"
+    },
+    {
+        "critic": "Prabhjot Bains",
+        "is_top_critic": false,
+        "media": "RANGE Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-21T01:36:15.000Z",
+        "quote": "This tri-pronged anthology goes to grotesque lengths to communicate simple ideas, transforming them into something not only profound but oddly human. ",
+        "url": "https://readrange.com/kinds-of-kindness-review/"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-20T22:58:36.000Z",
+        "quote": "It's weird and not always wonderful, but Kinds of Kindness has committed performances from the cast members in this unpredictable anthology film. This acerbic comedy/drama cuttingly explores the dark sides of power, control, and manipulation.",
+        "url": "https://culturemixonline.com/review-kinds-of-kindness-starring-emma-stone-jesse-plemons-willem-dafoe-margaret-qualley-hong-chau-joe-alwyn-mamoudou-athie-and-hunter-schafer/"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-20T20:13:42.000Z",
+        "quote": "Kinds of Kindness feels weird for weirdness’ sake\n",
+        "url": "https://www.flickeringmyth.com/movie-review-kinds-of-kindness-2024/"
+    },
+    {
+        "critic": "David Gonzalez",
+        "is_top_critic": false,
+        "media": "The Cinematic Reel",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-20T20:05:05.000Z",
+        "quote": "A visceral and absurdist anthology channeling the aura of The Twilight Zone, Kinds of Kindness is what sweet dreams are made of.",
+        "url": "https://thecinematicreel.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Kyle Smith",
+        "is_top_critic": false,
+        "media": "Wall Street Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-20T19:35:31.000Z",
+        "quote": "It’s a film that demands to be watched several times to figure it out, but although I occasionally enjoyed its mordant humor, it’s so unpleasant that it’s hard to sit through once.",
+        "url": "https://www.wsj.com/arts-culture/film/kinds-of-kindness-review-yorgos-lanthimos-emma-stone-willem-dafoe-jesse-plemons-0b90acc4"
+    },
+    {
+        "critic": "David Crow",
+        "is_top_critic": false,
+        "media": "Den of Geek",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-06-20T16:52:34.000Z",
+        "quote": "To look for the point of Kinds of Kindness is like looking for meaning in a particularly obscure barroom joke. Its appeal matters only to the bon vivant muttering it into his cups, and his sense of humor has already gone three sheets to the wind.",
+        "url": "https://www.denofgeek.com/movies/kinds-of-kindness-review-yorgos-lanthimos-emma-stone/"
+    },
+    {
+        "critic": "Andrew Dignan",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-20T16:44:15.000Z",
+        "quote": "No matter how committed the actors are or how rigorously Lanthimos orchestrates an air of inscrutable chaos, the film’s distended runtime allows far too long to consider how familiar the wind-up on the jokes are and how unsurprising the punchline is.",
+        "url": "https://inreviewonline.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Matt Oakes",
+        "is_top_critic": false,
+        "media": "Silver Screen Riot",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-06-20T16:27:19.000Z",
+        "quote": "This is unlikely to realize mass appeal but those on Yorgos’ acerbic wavelength will find this uncanny anthology a darkly sumptuous delight.",
+        "url": "https://silverscreenriot.com/kinds-of-kindness-a-freaky-foray-into-yorgos-hilarious-depravity/"
+    },
+    {
+        "critic": "Clint Worthington",
+        "is_top_critic": false,
+        "media": "Consequence",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-06-20T15:24:36.000Z",
+        "quote": "As these things go, two out of three ain’t bad, and it’s nice to see Lanthimos back in the saddle as one of our foremost mainstream explorers of abuse and malaise.",
+        "url": "https://consequence.net/2024/06/kinds-of-kindness-review-yorgos-lanthimos/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-06-20T14:43:48.000Z",
+        "quote": "[T]he whole affair feels like Lanthimos and co-screenwriter Efthimis Filippou are just getting some clever but half-considered premises out of their collective system.",
+        "url": "http://www.markreviewsmovies.com/reviews/K/kindsofkindness.htm"
+    },
+    {
+        "critic": "Marco Vito Oddo",
+        "is_top_critic": false,
+        "media": "We Got This Covered",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-20T13:07:23.000Z",
+        "quote": "Yorgos Lanthimos' 'Kinds of Kindness' is a unique, thought-provoking anthology exploring human kindness's dark side. With stellar performances, the film's surreal and unsettling narrative will captivate long-term fans, but will alienate some viewers.",
+        "url": "https://wegotthiscovered.com/movies/review-kinds-of-kindness-wont-win-yorgos-lanthimos-any-oscars-and-is-all-the-better-for-it/"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "5.5/10",
+        "date": "2024-06-20T12:53:00.000Z",
+        "quote": "Tends to deteriorate as this overly-long and quizzical offering goes along, and the whole thing left me puzzled on what I just watched.",
+        "url": "https://edwarddouglas.substack.com/p/the-weekend-warrior-june-21-2024"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-19T22:46:32.000Z",
+        "quote": "We're being trolled. Lanthamos wants to prove that audiences and critics will blindly praise his work, but I'm not going to be fooled.",
+        "url": "https://youtu.be/n3oZoS3JCcs?si=sfNai-wntzNOd2zu"
+    },
+    {
+        "critic": "Courtney Howard",
+        "is_top_critic": false,
+        "media": "Fresh Fiction",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-06-19T18:14:15.000Z",
+        "quote": "Audacious, outrageous and ridiculous, the three unfolding stories show a range of hilarious provocation and deliberate shock value, along with terrific performances from its acting gallery",
+        "url": "https://freshfiction.tv/kinds-of-kindness-review-yorgos-lanthimos-anthology-is-a-playfully-peculiar-oddity/"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-19T12:02:46.000Z",
+        "quote": "Alternately electric and maddening, it’s likely to polarize audiences more than any multiplex offering this year.",
+        "url": "https://www.thedailybeast.com/obsessed/emma-stones-wild-kind-of-kindness-lets-its-freak-flag-fly"
+    },
+    {
+        "critic": "Joey Magidson",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-06-19T07:11:58.000Z",
+        "quote": "Kinds of Kindness is Yorgos Lanthimos at his most unhinged and you can't help but be entranced.",
+        "url": "https://awardsradar.com/2024/06/19/film-review-kinds-of-kindness-is-yorgos-lanthimos-at-his-most-unhinged-and-you-cant-help-but-be-entranced/"
+    },
+    {
+        "critic": "Joanna Langfield",
+        "is_top_critic": false,
+        "media": "The Movie Minute",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-19T01:36:16.000Z",
+        "quote": "It takes a lot to surprise me, but gotta hand it to Yorgos Lanthimos. Maybe I didn’t always like what I was seeing happen in this trifecta of nastiness, but I surely do appreciate his masterful unpredictability. \n\n",
+        "url": "https://themovieminute.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Jeff Nelson",
+        "is_top_critic": false,
+        "media": "Guy at the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-06-18T22:44:04.000Z",
+        "quote": "Kinds of Kindness is a ferocious mixture of Lanthimos’ abstract early works and the visual prowess of his latest efforts.",
+        "url": "https://www.guyatthemovies.com/gatmhome/kinds-of-kindness-movie-review-yorgos-lanthimos-twists-the-knife-on-human-nature-in-dark-comedy-triptych"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "7.2/10",
+        "date": "2024-06-18T16:46:35.000Z",
+        "quote": "At times, it resembles the kind of untoward poking, prodding, libidinous-yet-grotesque project Bella Baxter herself might wind up writing and directing.",
+        "url": "https://www.pastemagazine.com/movies/yorgos-lanthimos/kinds-of-kindness-movie-review"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-06-18T14:45:05.000Z",
+        "quote": "There’s a major learning curve for those not quite into director Yorgos Lanthimos and co-writer Efthimis Flippou’s idiosyncrasies, but I was fully on board with a return to his brand of pitch-black humor. ",
+        "url": "https://weliveentertainment.com/welivefilm/kinds-of-kindness-review"
+    },
+    {
+        "critic": "Ryan Coleman",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-06-18T00:57:18.000Z",
+        "quote": "The abstraction is presented with cloying cuteness, the sadism is juvenile and purposeless, and the humor is stomach-turningly glib.",
+        "url": "https://www.slantmagazine.com/film/kinds-of-kindness-review-emma-stone-yorgos-lanthimos/"
+    },
+    {
+        "critic": "Fred Topel",
+        "is_top_critic": false,
+        "media": "United Press International",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-17T23:05:34.000Z",
+        "quote": "These are fairly simple stories and stretching them out shows how little substance they had to begin with.",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2024/06/17/Kinds-of-Kindness-movie-review/5761718391149/"
+    },
+    {
+        "critic": "Witney Seibold",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-06-17T13:14:38.000Z",
+        "quote": "It may not be the best Lanthimos, but it's certainly the most Lanthimos.",
+        "url": "https://www.slashfilm.com/1597147/kinds-of-kindness-review-yorgos-lanthimos-emma-stone/"
+    },
+    {
+        "critic": "Kristen Lopez",
+        "is_top_critic": true,
+        "media": "The Film Maven",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-14T19:46:32.000Z",
+        "quote": "Lanthimos doesn’t make things easy with an audacious, esoteric exploration of humanity and society.",
+        "url": "https://kristenlopez.substack.com/p/kinds-of-kindess-review-yorgos-lanthimos"
+    },
+    {
+        "critic": "Jillian Chilingerian",
+        "is_top_critic": false,
+        "media": "Offscreen Central",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-14T18:06:09.000Z",
+        "quote": "Part Dekalog, part hipster sketch show, part children’s tall tale, Kinds of Kindness is a deeply comedic return to freak form for Yorgos Lanthimos as he explores the desperation spectrum of co-dependent humanity. ",
+        "url": "https://offscreencentral.com/2024/06/14/kinds-of-kindness-review/"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-14T17:58:47.000Z",
+        "quote": "Kinds of Kindness is an intriguing and entertaining collection of three films that play like a study of humanity and mental manipulation. All of the actors deliver incredible performances, but Jesse Plemons is a scene stealer.",
+        "url": "https://mamasgeeky.com/2024/06/kinds-of-kindness-movie-review.html"
+    },
+    {
+        "critic": "Frank J. Avella",
+        "is_top_critic": false,
+        "media": "Edge Media Network",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-06-14T17:05:55.000Z",
+        "quote": "The strangest, most flummoxing situations are played as if they're the norm in \"Kinds of Kindness,\" and one of the most exhilarating things about the film is how it treats bisexuality as commonplace, even under the creepiest of circumstances.",
+        "url": "https://www.edgemedianetwork.com/story/333804#"
+    },
+    {
+        "critic": "Don Shanahan",
+        "is_top_critic": false,
+        "media": "Every Movie Has a Lesson",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-06-13T21:20:21.000Z",
+        "quote": "The result is about as sturdy as a model of a triangular prism made of toothpicks and marshmallows like the ones elementary students pieced together in their early geometry lessons on solid figures in math class.",
+        "url": "https://everymoviehasalesson.com/blog/2024/6/movie-review-kinds-of-kindness"
+    },
+    {
+        "critic": "Àngel Quintana",
+        "is_top_critic": false,
+        "media": "Caimán Cuadernos de Cine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-13T21:19:02.000Z",
+        "quote": "The result is a hollow film that works as an interpretive recital by Emma Stone and fails as a pretentious exercise towards nothingness. [Full review in Spanish]",
+        "url": "https://www.caimanediciones.es/kinds-of-kindness-yorgos-lanthimos-cannes-2024-seccion-oficial/"
+    },
+    {
+        "critic": "Carlos F. Heredero",
+        "is_top_critic": false,
+        "media": "Caimán Cuadernos de Cine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-06-13T21:18:04.000Z",
+        "quote": "What Kinds of Kindness actually shows is the creator's haughty contempt for his creatures. [Full review in Spanish]",
+        "url": "https://www.caimanediciones.es/kinds-of-kindness-yorgos-lanthimos-cannes-2024-seccion-oficial/"
+    },
+    {
+        "critic": "Zhuo-Ning Su",
+        "is_top_critic": false,
+        "media": "Awards Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-12T18:04:50.000Z",
+        "quote": "Although Kinds of Kindness is much more malevolent in tone than say, Poor Things or The Favourite, Lanthimos still managed to craft LOL moments that catch you completely off guard. ",
+        "url": "https://www.awardsdaily.com/2024/05/cannes-dispatch-kinds-of-kindness/"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-11T15:25:35.000Z",
+        "quote": "A 164-minute blackly comic, absurdist, and boundary-pushing surrealist drama that makes his previous oddity, last year’s award-winning Poor Things, practically child’s play in comparison.",
+        "url": "https://www.theaureview.com/watch/kinds-of-kindness-sydney-film-festival-review/"
+    },
+    {
+        "critic": "Rich Cline",
+        "is_top_critic": false,
+        "media": "Shadows on the Wall",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-11T15:07:07.000Z",
+        "quote": "The actors deliver committed, eerily realistic performances that are often disarmingly emotional. With continual surprises, this is fiercely original and unforgettable.",
+        "url": "http://www.shadowsonthewall.co.uk/24/kindkind.htm"
+    },
+    {
+        "critic": "Matthew Creith",
+        "is_top_critic": false,
+        "media": "Matinee With Matt",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-04T18:20:03.000Z",
+        "quote": "\"Kinds of Kindness\" takes us back to Lanthimos' filmmaking techniques in the early part of his career, emphasizing Plemons and Stone's characters in robust ways that give both performers time to shine.",
+        "url": "https://www.matineewithmatt.com/post/jesse-plemons-and-emma-stone-get-weird-in-new-yorgos-lanthimos-ensemble-kinds-of-kindness"
+    },
+    {
+        "critic": "Dennis Schwartz",
+        "is_top_critic": false,
+        "media": "Dennis Schwartz Movie Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-06-03T05:05:50.000Z",
+        "quote": "Stylish, surreal and never boring.",
+        "url": "https://dennisschwartzreviews.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2024-06-01T16:25:20.000Z",
+        "quote": "Lanthimos returns to his days of nasty absurdism, with three vicious, amusing stories about love and obsession. The recurring ensemble delivers a showcase of versatility in which they meet the director on his peculiar wavelength.",
+        "url": "https://www.ign.com/articles/kinds-of-kindness-review-emma-stone-jesse-plemons-yorgos-lanthimos"
+    },
+    {
+        "critic": "Justin Chang",
+        "is_top_critic": true,
+        "media": "The New Yorker",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-30T16:53:52.000Z",
+        "quote": "From start to finish to start to finish to start to finish, it maintains a persistent through line of self-assured, self-admiring nastiness. By the time we see someone driving a car in circles, it’s Lanthimos who seems to be spinning his wheels.",
+        "url": "https://www.newyorker.com/magazine/2024/07/01/kinds-of-kindness-movie-review"
+    },
+    {
+        "critic": "Peter Howell",
+        "is_top_critic": false,
+        "media": "Toronto Star",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-28T17:53:55.000Z",
+        "quote": "Lanthimos doesn’t instruct the audience how to feel about his film, which may be the only kind thing about it.",
+        "url": "https://www.thestar.com/entertainment/movies/emma-stone-and-jesse-plemons-get-freaky-in-kinds-of-kindness-the-sick-new-satire/article_0643d6d2-3401-11ef-afc8-ef466d2817aa.html"
+    },
+    {
+        "critic": "Alex Billington",
+        "is_top_critic": false,
+        "media": "FirstShowing.net",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-05-27T23:37:16.000Z",
+        "quote": "The greatest strength of Lanthimos' Kinds of Kindness is the extraordinary cast that he has lined up to make his Twilight Zone believable...",
+        "url": "https://www.firstshowing.net/2024/cannes-2024-yorgos-lanthimos-funky-triptych-kinds-of-kindness/"
+    },
+    {
+        "critic": "Jordan Ruimy",
+        "is_top_critic": false,
+        "media": "World of Reel",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-05-25T22:09:11.000Z",
+        "quote": "This is Lanthimos going back to his Bunuel-inspired roots — think “Dogtooth.” You can just hear Lanthimos telling the mainstream to f*ck off. He strives to alienate the timidest of viewers and, for that, we should be grateful.\n",
+        "url": "https://www.worldofreel.com/blog/2024/5/17/kinds-of-kindness-is-lanthimos-back-in-non-conformist-and-nasty-form"
+    },
+    {
+        "critic": "Sarah Manvel",
+        "is_top_critic": false,
+        "media": "Movies We Texted About",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-25T04:11:19.000Z",
+        "quote": "Kinds of Kindness is a hateful and nasty movie, which its stylistic cleverness does nothing to redeem.",
+        "url": "https://movieswetextedabout.com/kinds-of-kindness-review-a-remarkably-sour-film-from-yorgos-lanthimos-cannes/#more-1696"
+    },
+    {
+        "critic": "Shubhra Gupta",
+        "is_top_critic": true,
+        "media": "The Indian Express",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-24T17:28:26.000Z",
+        "quote": "At its best, Kind Of Kindness does what Lanthimos does best: he gives us pure, visceral, original cinema imbued with such startling imagery, that you forgive him his excesses.",
+        "url": "https://indianexpress.com/article/entertainment/hollywood/express-at-cannes-kinds-of-kindness-yorgos-lanthimos-master-of-macabre-and-all-things-weird-is-back-9337296/"
+    },
+    {
+        "critic": "Tori Brazier",
+        "is_top_critic": false,
+        "media": "metro.co.uk",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-05-23T09:24:16.000Z",
+        "quote": "Simply put, Kinds of Kindness is not an enjoyable film. It’s even hard to like with its unrelentingly dark situations, which include rape, miscarriage, animal cruelty, fresh human organs and Stone chopping her finger off.",
+        "url": "https://metro.co.uk/2024/05/17/emma-stone-yorgos-lanthimos-get-disturbing-poor-things-follow-20863130/"
+    },
+    {
+        "critic": "Esther Zuckerman",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-22T20:04:40.000Z",
+        "quote": "The message of Kinds of Kindness is that to win the affection of their desires, humans will do the unspeakable and therefore are selfish and unredeemable. It’s great.",
+        "url": "https://www.thedailybeast.com/obsessed/kinds-of-kindness-cannes-review-yorgos-lanthimos-at-his-twisted-best"
+    },
+    {
+        "critic": "Jorge (JJ) Negrete",
+        "is_top_critic": false,
+        "media": "Cine Premiere",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-22T00:10:50.000Z",
+        "quote": "Lanthimos shows that at no time is he a filmmaker who understands kindness, but only vileness. [Full review in Spanish]",
+        "url": "https://cinepremiere.com.mx/cannes-2024-kinds-of-kindness-critica-de-la-nueva-pelicula-de-yorgos-lanthimos.html"
+    },
+    {
+        "critic": "Jo-Ann Titmarsh",
+        "is_top_critic": false,
+        "media": "London Evening Standard",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-21T21:09:03.000Z",
+        "quote": "Although it lacks the totally out-there oddness of the director’s earlier works and the richness of his latter films, it is an intelligent and darkly funny film that brings together a bevy of cast and crew members all at the top of their game...",
+        "url": "https://www.standard.co.uk/culture/film/kinds-of-kindness-cannes-film-festival-review-emma-stone-jessie-plemons-b1158300.html"
+    },
+    {
+        "critic": "Dave Calhoun",
+        "is_top_critic": false,
+        "media": "Time Out",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-21T17:38:01.000Z",
+        "quote": "Anyone who shares Lanthimos’s pleasure at swatting his humans like flies will surely extract wry pleasure from it.",
+        "url": "https://www.timeout.com/movies/kinds-of-kindness-review-2024"
+    },
+    {
+        "critic": "Luis Martínez ",
+        "is_top_critic": false,
+        "media": "El Mundo (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-21T17:18:33.000Z",
+        "quote": "A disturbing and cruel triptych about power and its daily drifts. [Full review in Spanish] ",
+        "url": "https://www.elmundo.es/cultura/cine/2024/06/27/667c290321efa074668b459d.html"
+    },
+    {
+        "critic": "Audrey Fox",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-05-21T12:52:00.000Z",
+        "quote": "If nothing else, \"Kinds of Kindness\" features three show-stopping performances from Jesse Plemons, giving Lanthimos a new muse to champion.",
+        "url": "https://www.looper.com/1585201/kinds-of-kindness-movie-review/"
+    },
+    {
+        "critic": "Hoai-Tran Bui",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-21T12:08:00.000Z",
+        "quote": "If there was any concern that Lanthimos’ sense of pitch-black humor might have been dulled once he started attaining mainstream success, Kinds of Kindness shows that the director is as sharp and eviscerating as ever.",
+        "url": "https://www.inverse.com/entertainment/kinds-of-kindness-review-cannes-2024"
+    },
+    {
+        "critic": "Diego Batlle",
+        "is_top_critic": false,
+        "media": "Otroscines.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-05-21T01:00:57.000Z",
+        "quote": "Sumptuous, whimsical, and twisted, Kinds of Gentleness is one of Lanthimos's most pretentious and least convincing films in recent years. [Full review in Spanish]",
+        "url": "https://www.otroscines.com/nota-20323-critica-de-tipos-de-gentileza-kinds-of-kindness-pelicul"
+    },
+    {
+        "critic": "Tara Brady",
+        "is_top_critic": true,
+        "media": "Irish Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-20T23:49:53.000Z",
+        "quote": "The longest and weakest film from Yorgos Lanthimos is not really a film at all. A triptych that recalls the uneven horror portmanteaux of the 1960s and 1970s, only the first instalment resembles the director’s earlier, funnier ones.",
+        "url": "https://www.irishtimes.com/culture/film/2024/05/20/cannes-2024-kevin-costners-epic-sprawl-julianne-moores-return-and-kermits-green-coat/"
+    },
+    {
+        "critic": "Nicholas Barber",
+        "is_top_critic": false,
+        "media": "BBC.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-20T22:03:21.000Z",
+        "quote": "His fans will be intoxicated by this triple shot of pure, unfiltered Lanthimos. And they can rest assured that, at the very end, he puts in one of his trademark wacky dance routines.",
+        "url": "https://www.bbc.com/culture/article/20240518-kinds-of-kindness-cannes-film-festival-review-emma-stone-jesse-plemons-yogos-lanthimos"
+    },
+    {
+        "critic": "Manu Yáñez",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-20T20:13:28.000Z",
+        "quote": "The human factor that gave The Favorite and Poor Things a certain dramatic depth disappears almost completely in Kinds of Kindness, giving way to a feast of cruelty and sarcasm that is in tune with [Lanthimos'] debut feature. [Full review in Spanish] ",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a60817124/kinds-of-kindness-critica-pelicula-yorgos-lanthimos-emma-stone/"
+    },
+    {
+        "critic": "Maureen Lee Lenker",
+        "is_top_critic": false,
+        "media": "Entertainment Weekly",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-05-20T19:56:41.000Z",
+        "quote": "Lanthimos leans into an odd compulsion to simultaneously shock and underwhelm the audience, losing some of the keenly pointed provocations of his earlier work. ",
+        "url": "https://ew.com/kinds-of-kindness-review-emma-stone-yorgos-lanthimos-8650659"
+    },
+    {
+        "critic": "Juan Luis Caviaro",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-20T17:59:18.000Z",
+        "quote": "'Kinds of Kindness' is pure comedy. Behaviors of dominant and dominated beings are bathed in Yorgos Lanthimos' peculiar and provocative sense of humor; It is decidedly not suitable for all audiences. [Full review in Spanish]",
+        "url": "https://www.espinof.com/criticas/festival-cannes-kinds-of-kindness-yorgos-lanthimos-estado-puro-tres-cuentos-humor-negro-violencia-relaciones-horribles"
+    },
+    {
+        "critic": "Anna Smith",
+        "is_top_critic": true,
+        "media": "Total Film",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-20T17:12:36.000Z",
+        "quote": "It’s hard to enjoy the film in between its comical moments. You might care to see this as an allegory about power, sex and control, but it doesn’t feel like it’s saying anything particularly profound. ",
+        "url": "https://www.gamesradar.com/entertainment/comedy-movies/kinds-of-kindness-review/"
+    },
+    {
+        "critic": "Brittany Patrice Witherspoon",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-20T15:02:32.000Z",
+        "quote": "A culmination of unsettling acts of desperation & a humorous attack on acquiescence, the film boasts an uncomfortable yet entertaining experience.",
+        "url": "https://screenrant.com/kinds-of-kindness-movie-review/"
+    },
+    {
+        "critic": "Luke Hicks",
+        "is_top_critic": false,
+        "media": "The Film Stage",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-05-19T13:20:40.000Z",
+        "quote": "This is a Jesse Plemons showcase, the actor putting his instinct for the screen on full display across three heavily depicted characters. Lanthimos has put together another dark, well-crafted delight, if not a slightly more forgettable one.",
+        "url": "https://thefilmstage.com/cannes-review-yorgos-lanthimos-kinds-of-kindness-is-an-anthology-film-of-dark-if-slight-delights/"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-19T10:54:38.000Z",
+        "quote": "It’s not cynicism but a chuckling curiosity that fuels this sideways parable, which aligns it with Lanthimos’ past work in the most perfect of ways. You can’t say that it’s a movie for everybody. But it takes all kinds.",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/kinds-of-kindness-review-yorgos-lanthimos-emma-stone-1235021126/"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "IONCINEMA.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-19T10:41:21.000Z",
+        "quote": "There are definitely highlights peppered throughout this anthology worth seeing. But overall it plays like a tumescent, vacuous rambling, as if Allen Ginsburg had hallucinated himself into The Twilight Zone and could not, would not, stop talking.",
+        "url": "https://www.ioncinema.com/reviews/yorgos-lanthimos-kinds-of-kindness-movie-review"
+    },
+    {
+        "critic": "Fionnuala Halligan",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-19T09:23:16.000Z",
+        "quote": "A profoundly puzzling, dizzyingly disturbing and dark-hearted set of loosely-connected stories which manage to be discordantly amusing and strangely exhilarating -- a cinematic salt-rub.",
+        "url": "https://www.screendaily.com/reviews/kinds-of-kindness-cannes-review/5193502.article"
+    },
+    {
+        "critic": "Savina Petkova",
+        "is_top_critic": false,
+        "media": "AwardsWatch",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-05-18T17:13:54.000Z",
+        "quote": "‘Uncanny’ is another word that’s been used to death to describe the Lanthimos universe, but there is something invigorating and forever fresh in between the repetition and the difference; the kind of freshness that slightly stings.",
+        "url": "https://awardswatch.com/kinds-of-kindness-review-domination-and-submission-grab-hold-in-fresh-triptych-for-the-lanthimos-pilled-cannes/"
+    },
+    {
+        "critic": "Serena Seghedoni",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-18T13:56:01.000Z",
+        "quote": "If you’re a fan of the director’s early work, you will be mesmerized by Kinds of Kindness, a film where he once again puts up a mirror to our flawed society and shows us the worst, and also the best, that humanity has to offer.",
+        "url": "https://loudandclearreviews.com/kinds-of-kindness-review-lanthimos-film/"
+    },
+    {
+        "critic": "Rory Doherty",
+        "is_top_critic": false,
+        "media": "Flicks (AU, NZ, UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-18T04:25:46.000Z",
+        "quote": "Lanthimos’ longest, nastiest film yet marks an unapologetic turning point for his studio filmmaking, and will neatly divide the converts from the squeamish.",
+        "url": "https://www.flicks.co.nz/reviews/cannes-review-the-delirious-thrills-of-yorgos-lanthimos-kinds-of-kindness/"
+    },
+    {
+        "critic": "James Mottram",
+        "is_top_critic": false,
+        "media": "South China Morning Post",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-18T02:43:32.000Z",
+        "quote": "Looking at humanity in all its weirdness, Kinds of Kindness is a baffling film to take in.",
+        "url": "https://www.scmp.com/lifestyle/entertainment/article/3263170/cannes-2024-kinds-kindness-movie-review-poor-things-director-yorgos-lanthimos-returns-another-deeply"
+    },
+    {
+        "critic": "David Jenkins",
+        "is_top_critic": false,
+        "media": "Little White Lies",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-05-18T00:54:03.000Z",
+        "quote": "Indeed, beyond its direct subject matter, the film is also something of an ode to experimental theatre, as it feels as if we’re watching a well-oiled troupe who are able to slink into different roles and guises at the drop of a hat.",
+        "url": "https://lwlies.com/reviews/kinds-of-kindness/"
+    },
+    {
+        "critic": "Peter Bradshaw",
+        "is_top_critic": true,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-18T00:41:09.000Z",
+        "quote": "Kinds of Kindness feels heavier and longer than I expected, as if reaching for a meaningful resolution that might not be there. Yet absence and loss is perhaps the whole point.",
+        "url": ""
+    },
+    {
+        "critic": "Stephanie Bunbury",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-17T22:23:56.000Z",
+        "quote": "Here it is, the new Lanthimos: puzzling, brilliant and, in all honesty, not easy to like. What is this teasingly unfathomable filmmaker telling us? We may never know.",
+        "url": "https://deadline.com/2024/05/kinds-of-kindness-review-yorgos-lanthimos-emma-stone-willem-dafoe-jesse-plemons-1235920797/"
+    },
+    {
+        "critic": "Martin Tsai",
+        "is_top_critic": false,
+        "media": "Critic's Notebook",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-17T22:05:08.000Z",
+        "quote": "Though a lot in this movie is intentionally off-putting, there’s still much to like.",
+        "url": "https://www.criticsnotebook.com/2024/05/kinds-of-kindness-movie-review-yorgos-lanthimos-emma-stone-jesse-plemons-cannes-film-festival.html"
+    },
+    {
+        "critic": "Kevin Maher",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-17T21:56:56.000Z",
+        "quote": "There’s no kindness, in other words, in Kinds of Kindness. But that’s fine too, and probably all part of the brilliant, bravura joke.",
+        "url": "https://www.thetimes.co.uk/article/kinds-of-kindness-review-sophisticated-writing-and-perfect-performances-skk265kfc"
+    },
+    {
+        "critic": "Stephanie Zacharek",
+        "is_top_critic": true,
+        "media": "TIME Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-17T20:50:02.000Z",
+        "quote": "A stiff, tedious follow-up to Poor Things...",
+        "url": "https://time.com/6979467/kinds-of-kindness-review/"
+    },
+    {
+        "critic": "Chase Hutchinson",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-05-17T19:10:33.000Z",
+        "quote": "Small gripes aside, the film is still a more unrestrained version of the filmmaker than we’ve seen of late, and all the better for it. It’s a reminder that he’s still got the heater to throw at us and knock us off our balance.",
+        "url": "https://collider.com/kinds-of-kindness-review/"
+    },
+    {
+        "critic": "Matt Neglia",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-05-17T18:52:47.000Z",
+        "quote": "\"Kinds Of Kindness\" can be described as many things, but dull is certainly not one of them, as Lanthimos and Filippou continually subvert expectations, lean into the strange, and occasionally shock with a bit of bloody violence along the way.",
+        "url": "https://nextbestpicture.com/kinds-of-kindness/"
+    },
+    {
+        "critic": "Gregory Ellwood",
+        "is_top_critic": false,
+        "media": "The Playlist",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-05-17T17:07:57.000Z",
+        "quote": "“Kinds Of Kindness” stands as another compelling work from an auteur willing to push buttons and make daring choices.",
+        "url": "https://theplaylist.net/kinds-of-kindness-review-yorgos-lanthimos-twisted-triptych-on-control-the-human-condition-20240517/"
+    },
+    {
+        "critic": "Peter Debruge",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-17T17:02:34.000Z",
+        "quote": "This long, scaldingly original film enthralls even as it frustrates, defying conventional logic while presenting an absurdist riff on modern society. It’s never boring, and yet, Lanthimos’ outré sensibility demands a special brand of patience.",
+        "url": "https://variety.com/2024/film/reviews/kinds-of-kindness-review-emma-stone-yorgos-lanthimos-1236006458/"
+    },
+    {
+        "critic": "Raphael Abraham",
+        "is_top_critic": false,
+        "media": "Financial Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-17T17:00:41.000Z",
+        "quote": "For a film called Kinds of Kindness, benevolence is thin on the ground, Lanthimos and Filippou toying with their protagonists like fickle gods manipulating the fates of unsuspecting humans.",
+        "url": "https://www.ft.com/content/64b0beed-e32c-434e-b270-6fa5ede16909"
+    },
+    {
+        "critic": "Robbie Collin",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-17T16:55:39.000Z",
+        "quote": "A huge part of the fun is getting caught in the mesh of mind games the film sets for its audience... But it’s also a treat just to watch the well-picked ensemble show off their range in the constantly rotating supporting roles.",
+        "url": "https://www.telegraph.co.uk/films/0/kinds-of-kindness-review-emma-stone-yorgos-lanthimos/"
+    },
+    {
+        "critic": "Bilge Ebiri",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-17T16:53:46.000Z",
+        "quote": "It can be a bit exhausting -- anthology films often are, and this one is long -- but we can feel the director’s excitement. He’s fully back in his sandbox.",
+        "url": "https://www.vulture.com/article/review-kinds-of-kindness-is-pure-sicko-yorgos-lanthimos.html"
+    },
+    {
+        "critic": "Radhika Seth",
+        "is_top_critic": false,
+        "media": "Vogue",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-17T16:52:19.000Z",
+        "quote": "At a time when cinema is often maddeningly simplistic or prescriptive, Kinds of Kindness delights in its own ambiguity. It also provides no shortage of things to get your teeth into.",
+        "url": "https://www.vogue.co.uk/article/kinds-of-kindness-review"
+    },
+    {
+        "critic": "Richard Lawson",
+        "is_top_critic": true,
+        "media": "Vanity Fair",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-17T16:50:11.000Z",
+        "quote": "Those hoping for some sense of grand meaning -- or, really, any kind of explanation of what’s going on -- are denied. Kinds of Kindness is clever and a bit snide, a curio cabinet not designed for beauty.",
+        "url": "https://www.vanityfair.com/hollywood/story/kinds-of-kindness-cannes-review"
+    },
+    {
+        "critic": "David Rooney",
+        "is_top_critic": true,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-17T16:47:55.000Z",
+        "quote": "It may not be as thematically cohesive on a first watch as some audiences will wish for, but the longer you mull it over the more the pieces of the puzzle begin to fit and the common threads start to emerge.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/kinds-of-kindness-review-emma-stone-jesse-plemons-yorgos-lanthimos-1235896796/"
+    },
+    {
+        "critic": "David Ehrlich",
+        "is_top_critic": true,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-05-17T16:47:00.000Z",
+        "quote": "This nearly three-hour bonfire of Searchlight Pictures’ annual budget is a towering monument to human love that betrays almost zero interest in actually being liked. ",
+        "url": "https://www.indiewire.com/criticism/movies/kinds-of-kindness-review-yorgos-lanthimos-1235005999/"
+    }
+]

@@ -1,0 +1,472 @@
+[
+    {
+        "critic": "Jefferson Everest Crawford",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-10T00:05:06.000Z",
+        "quote": "A cheap American imitation of Wagnerian hero worship. Neither operatic nor historically cognizant, Young Washington is nothing but cheap, uninspiring propaganda.",
+        "url": "https://inreviewonline.com/2026/07/06/young-washington-review/"
+    },
+    {
+        "critic": "Thelma Adams",
+        "is_top_critic": true,
+        "media": "AARP Movies for Grownups",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-07-07T18:02:29.000Z",
+        "quote": "Stirring and inspirational without being preachy, Young Washington dramatizes the lesson that a brave man’s mistakes, when faced, can lead to his greatest triumphs.",
+        "url": "https://www.aarp.org/entertainment/television/what-to-watch-best-new-movies-shows-streaming.html"
+    },
+    {
+        "critic": "Tom Meek",
+        "is_top_critic": false,
+        "media": "Cambridge Day",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2026-07-06T21:38:21.000Z",
+        "quote": "It’s interesting and informative history, but not great filmmaking — the dialogue’s stilted, the acting at times is hyperbolic and the directional timing is off.",
+        "url": "https://www.cambridgeday.com/2026/07/04/washington-fought-for-british/"
+    },
+    {
+        "critic": "Alan Ng",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2026-07-06T21:34:43.000Z",
+        "quote": "This one survives on strong performances and Erwin’s confident sense of place — not groundbreaking cinema, but a well-made piece of American cinematic history.",
+        "url": "https://filmthreat.com/reviews/young-washington/"
+    },
+    {
+        "critic": "Mick LaSalle",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-07-06T19:31:19.000Z",
+        "quote": "The movie is artistically conservative, with some of the bland sincerity of an afternoon special. Yet as afternoon specials go, “Young Washington” is a good one.",
+        "url": "https://www.sfchronicle.com/entertainment/movies-tv/article/young-washington-movie-review-22328807.php"
+    },
+    {
+        "critic": "Johnny Oleksinski",
+        "is_top_critic": false,
+        "media": "New York Post",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-07-06T18:00:21.000Z",
+        "quote": "What the movie lacks is a clear moment when we collectively know that George is going to be the guy. A scene with real chills. In that sense it’s the viewer who feels ambushed… by disappointment.  \n\n",
+        "url": "https://nypost.com/2026/07/03/entertainment/young-washington-review-meh-george-washington-origin-story-fails-to-inspire/"
+    },
+    {
+        "critic": "Shawn Edwards",
+        "is_top_critic": false,
+        "media": "Fox 4 Kansas City",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-07-06T17:39:11.000Z",
+        "quote": "This surface-level biopic pays a respectful, if not dull, nod to the first president of the United States. ",
+        "url": "https://www.youtube.com/watch?v=UH3Eb92V9IY&list=PLYIuAMO7HHjjMBXV3sEz6ssmoX3rvevyL&index=1"
+    },
+    {
+        "critic": "Deniz Arslan",
+        "is_top_critic": false,
+        "media": "Battle Royale With Cheese",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-07-05T20:38:14.000Z",
+        "quote": "Young Washington is unapologetically patriotic and occasionally idealized, but strong action, solid storytelling, and confident direction make it an engaging historical crowd-pleaser.",
+        "url": "https://battleroyalewithcheese.com/2026/07/young-washington-review/"
+    },
+    {
+        "critic": "Charles Koplinski",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-07-05T17:58:15.000Z",
+        "quote": "The period accurate production design isn’t the film’s only surprise, as Franklyn-Miller gives an arresting performance as Washington. ",
+        "url": "https://reeltalkwithchuckandpam.com/young-washington-chuck-recommends/"
+    },
+    {
+        "critic": "Jim Vejvoda",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-07-04T19:43:39.000Z",
+        "quote": "Young Washington’s epic ambition clearly exceeded its limited grasp to realize its grand vision. It’s an earnest but cursory exploration of the first US President’s early years as a wannabe British officer in the French & Indian War. ",
+        "url": "https://www.ign.com/articles/young-washington-review"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-07-04T08:04:44.000Z",
+        "quote": "As long as you’re not using it as source material for an exam, film hits a lot of broad strokes in a non-messy way and fulfills its obligation to tell a story specifically about a younger George Washington before things get more complicated.",
+        "url": "https://weliveentertainment.com/welivefilm/house-reviews-177-young-washington-gail-daughtry-enola-holmes/"
+    },
+    {
+        "critic": "Nora Lee Mandel",
+        "is_top_critic": false,
+        "media": "Maven's Nest",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-07-04T02:01:11.000Z",
+        "quote": "Epic but nuance-free, one-dimensional story of the key developments in the early life and career that shaped the man before he became the monument. Few famous actors are ponderous anchors. Franklyn-Miller is appealing.",
+        "url": "http://mavensnest.net/YoungGW.html"
+    },
+    {
+        "critic": "Rick Romancito",
+        "is_top_critic": false,
+        "media": "The Taos News",
+        "sentiment": "Fresh 🍅",
+        "score": "C",
+        "date": "2026-07-03T20:51:11.000Z",
+        "quote": "Instead or revealing how Washington really became the father of our country by way of speeches in the Continental Congress, the movie squeezes as much as it can out the plot to fashion an action movie using muskets and heavy cannon fire. ",
+        "url": "https://www.taosnews.com/tempo/reviews/historical-drama-hopes-to-capitalize-on-patriotic-mood/article_1b647537-dc99-46f3-b9e7-8c61a860a655.html"
+    },
+    {
+        "critic": "Adam Olinger",
+        "is_top_critic": false,
+        "media": "Adam Does Movies (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-03T20:02:54.000Z",
+        "quote": "I liked the part where George Washington brandished double muskets and said \"It's Washington Time!\". This movie is about as accurate as a drunk truck driver at a men's urinal. ",
+        "url": "https://youtu.be/W9r_kA-8jcI"
+    },
+    {
+        "critic": "Al Alexander",
+        "is_top_critic": false,
+        "media": "Movies Thru the Spectrum",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-07-03T17:29:36.000Z",
+        "quote": "What better way to spend our nation’s 250th birthday than getting back in touch with America’s OG? So, forget about the Benjamins and go with the one on the One.",
+        "url": "https://moviesthruthespectrum.com/2026/07/01/young-washington-2026/"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "The Travers Take",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2026-07-03T16:47:40.000Z",
+        "quote": "Aimed at a Christian demographic, the film plays like an ‘Afterschool Special’ with a hot Brit model acting the twentysomething rebel before he became our first POTUS. Sticks surprisingly close to history without finding a way to enliven it.",
+        "url": "https://www.thetraverstake.com/featured/young-washington/"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-07-03T08:51:19.000Z",
+        "quote": "This film avoids controversy in favor of an old fashioned tale of leadership and patrotism at a time when our country could use a Hell of a lot more of both. ",
+        "url": "https://punchdrunkcritics.com/2026/07/review-young-washington/#google_vignette"
+    },
+    {
+        "critic": "Connor Petrey",
+        "is_top_critic": false,
+        "media": "Pop Culture Leftovers",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-03T01:41:51.000Z",
+        "quote": "Young Washington offers a glimpse at romance, captures Washington’s passion for his homeland, and delivers a powerful message of overcoming the odds - it’s a history lesson worth indulging in.",
+        "url": "https://www.cinefied.com/post/young-washington-review"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-03T01:09:30.000Z",
+        "quote": "By the time Washington is fighting the French in slow-mo gunfights, doing sick horseback stunts while sick with dysentery, any pretense that Jon Erwin’s film should be taken seriously is out the window.",
+        "url": "https://www.thewrap.com/creative-content/movies/young-washington-review-angel-studios/"
+    },
+    {
+        "critic": "Kyle Smith",
+        "is_top_critic": false,
+        "media": "Wall Street Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-02T23:05:22.000Z",
+        "quote": "Most of the characters are flat and the portrayals stagey.",
+        "url": "https://www.wsj.com/arts-culture/film/young-washington-review-a-flat-portrait-of-a-founding-father-7687f32a"
+    },
+    {
+        "critic": "Pete Hammond",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-02T20:14:07.000Z",
+        "quote": "Even if this movie feels like it more comfortably belongs on the History Channel instead of a wide summer break in theaters, it fills the bill for patriotism over this Fourth of July weekend. ",
+        "url": "https://deadline.com/2026/07/young-washington-review-sanitized-origin-story-1st-president-1236972839/"
+    },
+    {
+        "critic": "Ben Kenigsberg",
+        "is_top_critic": false,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-02T18:36:18.000Z",
+        "quote": "Declamatory acting, cleanly stated motivations and a few solidly staged battle sequences are the order of the day. ",
+        "url": "https://www.nytimes.com/2026/07/02/movies/young-washington-review.html"
+    },
+    {
+        "critic": "Frank Scheck",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-07-02T18:19:40.000Z",
+        "quote": "Feeling much longer than its two hours, Young Washington suffers from the stiff, stodgy quality of so many historical dramas, especially those concerning that particular period of history.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/young-washington-review-1236635203/"
+    },
+    {
+        "critic": "Josh Parham",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2026-07-02T15:31:53.000Z",
+        "quote": "Even apart from the dull filmmaking and hollow storytelling, the deeper complexities within the lens of Washington’s story are properly explored. ",
+        "url": "https://nextbestpicture.com/young-washington/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-07-02T14:00:05.000Z",
+        "quote": "It's a story that is inherently compelling as a piece of overlooked history, but the execution of that storytelling is inherently flawed and counterintuitive.",
+        "url": "http://www.markreviewsmovies.com/reviews/Y/youngwashington.htm"
+    },
+    {
+        "critic": "Brett McCracken",
+        "is_top_critic": false,
+        "media": "The Gospel Coalition",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-02T13:48:35.000Z",
+        "quote": "The film demystifies Washington and shows him as simply a model American: hardscrabble, resilient, always learning and growing from setbacks. It’s interesting to see him come alive in this more relatable, not-yet-a-face-on-Rushmore way.",
+        "url": "https://www.thegospelcoalition.org/article/young-washington-review/"
+    },
+    {
+        "critic": "Matt Zoller Seitz",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-07-02T13:46:51.000Z",
+        "quote": "[It is] a well-crafted but accessible biopic about the maturation of a person who helped shape the nation’s image of itself.",
+        "url": "https://www.rogerebert.com/reviews/young-washington-george-washington-film-review-2026"
+    },
+    {
+        "critic": "Joey Magidson",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-07-02T07:28:03.000Z",
+        "quote": "Young Washington is a mediocre film hardly worthy of the Father of Our Country, George Washington.",
+        "url": "https://awardsradar.com/2026/07/02/film-review-young-washington-is-hardly-worthy-of-the-father-of-our-country/"
+    },
+    {
+        "critic": "Russ Simmons",
+        "is_top_critic": false,
+        "media": "KKFI-FM (Kansas City)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-07-02T02:55:32.000Z",
+        "quote": "Washington's ambitions and his strategic blunders in a skirmish with the French are the focus of this well-mounted but superficial biopic.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-minions-and-monsters-pg-young-washington-pg-13-enola-holmes-3-pg-13/"
+    },
+    {
+        "critic": "Rick Bentley",
+        "is_top_critic": false,
+        "media": "KGET-TV (Bakersfield, CA)",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-07-01T16:20:09.000Z",
+        "quote": "Kristopher Kimlin’s photography and David de Vos’ editing make the battle sequences work as they show the contrast between the gentlemanly style of fighting and the more chaotic approach that would become an American trademark.",
+        "url": "https://www.kget.com/community/ricks-reviews/young-washington-shows-path-to-becoming-a-leader/"
+    },
+    {
+        "critic": "Christopher Lloyd",
+        "is_top_critic": false,
+        "media": "The Film Yap",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-07-01T12:43:24.000Z",
+        "quote": "OG POTUS gets a rip-roaring historical adventure chronicling his early days as an ambitious climber whose mistakes started a war and cost lives, but proved the forge to mold greatness.\n\n",
+        "url": "https://filmyap.substack.com/p/young-washington"
+    },
+    {
+        "critic": "Cody Benjamin",
+        "is_top_critic": false,
+        "media": "Christianity Today",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-01T09:29:02.000Z",
+        "quote": "Young Washington effectively portrays the sheer improbability of the free country that would follow this man’s unforgotten lead. It previews the unlikely triumphs -- and tragically regular loss of life -- it took to carve a land of imperfect liberty.",
+        "url": "https://www.christianitytoday.com/2026/06/young-washington-review/"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-01T09:27:54.000Z",
+        "quote": "Young Washington is just competent enough to create that crisp tug of schoolkid patriotism the books we read as children provided. Nothing wrong with that, as long as you’re not an adult confusing feel-good heroism with the lessons of history.",
+        "url": "https://variety.com/2026/film/reviews/young-washington-review-1236799429/"
+    },
+    {
+        "critic": "Alonso Duralde",
+        "is_top_critic": true,
+        "media": "The Film Verdict",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-30T23:20:27.000Z",
+        "quote": "Erwin’s most impressive achievements here are the battle sequences; between Kristopher Kimlin’s photography and David de Vos’ editing, they capture both the chaos of war and the specific fighting styles of the era.",
+        "url": "https://thefilmverdict.com/young-washington-film-review/"
+    },
+    {
+        "critic": "Neil Pond",
+        "is_top_critic": false,
+        "media": "Parade Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-30T22:12:08.000Z",
+        "quote": "A rip-roaring slice of rah-rah American history carved by war, wrapped in Sunday school homilies and served up as an Independence Day appetizer.",
+        "url": "https://parade.com/movies/young-washington-review"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "6/10",
+        "date": "2026-06-30T16:43:02.000Z",
+        "quote": "A movie marred by its flagrant over-acting and an abundance of tree-chopping references.",
+        "url": "https://edwarddouglas.substack.com/p/the-weekend-warrior-show-for-july"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-30T04:22:31.000Z",
+        "quote": "A mildly engaging, but somewhat dull biopic with great cinematography and set design. ",
+        "url": "http://nycmovieguru.com/july3rd26.html#youngwashington"
+    },
+    {
+        "critic": "Sean Burns",
+        "is_top_critic": false,
+        "media": "Spliced Personality (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-29T10:33:07.000Z",
+        "quote": "Yet another semiquincentennial scam.",
+        "url": "https://splicedpersonality.substack.com/p/review-young-washington"
+    },
+    {
+        "critic": "Michael Clark",
+        "is_top_critic": false,
+        "media": "Epoch Times",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-06-27T17:55:50.000Z",
+        "quote": "This should be the first installment of a trilogy, followed by \"General Washington\" and \"President Washington,\" released at this same time in 2028 and 2030. There’s no reason that authentic patriotism can’t also coincide with timely marketing.",
+        "url": "https://www.theepochtimes.com/bright/young-washington-the-father-of-our-country-as-youve-never-seen-him-6051323"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/5",
+        "date": "2026-06-27T01:18:14.000Z",
+        "quote": "Young Washington is a tedious history lesson designed to be played in middle school history classrooms rather than in movie theaters. The unmistakable, hideous generative AI throughout doesn’t help anything\n",
+        "url": "https://www.flickeringmyth.com/movie-review-young-washington-2026/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2026-06-24T01:59:27.000Z",
+        "quote": "I cannot tell a lie, dear reader: this is one incredibly mediocre movie.",
+        "url": "https://www.blu-ray.com/Young-Washington/2003073/#Review"
+    },
+    {
+        "critic": "Christian Toto",
+        "is_top_critic": false,
+        "media": "HollywoodInToto.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2026-06-23T22:06:44.000Z",
+        "quote": "Angel Studios' best film to date comes at precisely the right time.",
+        "url": "https://www.hollywoodintoto.com/young-washington-review-angel-studios/"
+    },
+    {
+        "critic": "James Parker",
+        "is_top_critic": false,
+        "media": "The Atlantic",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-18T19:24:50.000Z",
+        "quote": "Clichés and hoary tropes abound... In one respect, though, Young Washington nails it.",
+        "url": "https://www.theatlantic.com/magazine/2026/07/young-washington-biopic/687308/"
+    },
+    {
+        "critic": "Paul Salfen",
+        "is_top_critic": false,
+        "media": "AMFM Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-06-17T06:13:57.000Z",
+        "quote": "Religion and politics aside, it’s a hero’s journey and an origin story that's respectful, honorable, and quite timely. A great celebration just in time for July 4th and America's 250th.\"",
+        "url": "https://www.amfm-magazine.tv/young-washington-movie-minute-review/"
+    },
+    {
+        "critic": "Hosea Rupprecht",
+        "is_top_critic": false,
+        "media": "Pauline Media Studies",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-14T23:28:15.000Z",
+        "quote": "Washington learned from the many failures he endured, the mistakes he made. \"Young Washington\" provides a rousing example of one who learned from his experiences, rose from the ashes, and changed the world.",
+        "url": "https://pauline.org/film-tv-reviews/young-washington-learning-from-failure/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "rachelsreviews.net",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-14T05:47:34.000Z",
+        "quote": "it will inspire you to learn more about Washington and other Founding Fathers. At the very least it’s a rousing reminder that even our greatest heroes start out as young men and women brimming with potential.",
+        "url": "https://rachelsreviews.net/2026/06/13/tribeca-2026-young-washington/"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2026-06-13T20:22:43.000Z",
+        "quote": "A history lesson that’s alive, vibrant, and entertaining.",
+        "url": "https://aisleseat.com/young-washington.html"
+    }
+]

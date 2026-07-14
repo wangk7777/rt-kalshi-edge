@@ -1,0 +1,2942 @@
+[
+    {
+        "critic": "Lexi Amoriello",
+        "is_top_critic": false,
+        "media": "Movie Recs by Lex",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-07-10T13:24:17.000Z",
+        "quote": "While my opinion of The Drama is mostly positive, I think the conversations this film will foster might end up being more intriguing than the film itself. ",
+        "url": "https://www.instagram.com/p/DWryLSkiW0G/"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-07-07T15:11:19.000Z",
+        "quote": "The Drama is a tense, beautifully acted relationship thriller that turns pre-wedding doubt into something far darker and more uncomfortable.",
+        "url": "https://flickdirect.com/4k-review/3354/the-drama/4k.ashx"
+    },
+    {
+        "critic": "Jeff Beck",
+        "is_top_critic": false,
+        "media": "The Blu Spot",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-07-06T15:22:57.000Z",
+        "quote": "The single biggest issue with The Drama is that, despite it being a mildly interesting scenario, it's one that simply doesn't have anywhere particularly compelling to go.",
+        "url": "https://www.thebluspot.com/single-post/the-drama-an-intriguing-premise-undone-by-narrative-limitations-4k"
+    },
+    {
+        "critic": "Paul McGuire Grimes",
+        "is_top_critic": false,
+        "media": "Paul's Trip to the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-07-03T02:17:51.000Z",
+        "quote": "Kristoffer Borgli has created an explosive film that will no doubt have audiences talking as the credits roll. You get an immediate sense from the opening sequence that something isn’t right. ",
+        "url": "https://paulstriptothemovies.com/movie-review-the-drama/"
+    },
+    {
+        "critic": "Manuel São Bento",
+        "is_top_critic": false,
+        "media": "MSB Reviews (Ghost.io)",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2026-06-22T11:25:26.000Z",
+        "quote": "Kristoffer Borgli holds up a mirror to a culture obsessed with performative virtue, exposing how easily society discards the possibility of genuine human redemption in favor of self-righteous judgment.",
+        "url": "https://www.manuelsbento.com/the-drama-2026-the-agonizing-fragility-of-modern-acceptance/"
+    },
+    {
+        "critic": "Tim Miller",
+        "is_top_critic": false,
+        "media": "Cape Cod Wave Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2026-06-21T20:09:14.000Z",
+        "quote": "Despite its strong cast, despite the compelling questions it asks, The Drama doesn’t provide nearly enough to justify how irritating it is. It trivializes its ideas with shallow, obnoxious characters making bad decisions.",
+        "url": "https://capecodwave.com/odenkirk-action-a-new-mummy-and-an-annoying-drama-play-it-again-tim/"
+    },
+    {
+        "critic": "Adam Kempenaar",
+        "is_top_critic": false,
+        "media": "Filmspotting",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-06-15T21:57:49.000Z",
+        "quote": "If nothing else, what Borgli expresses incisively is how shattering that is – when the narrative you’ve ordered your life around gets rewritten.",
+        "url": "https://www.filmspotting.net/episodes-archive/2026/4/10-1059-the-drama-elite-8"
+    },
+    {
+        "critic": "Charlotte Simmons",
+        "is_top_critic": false,
+        "media": "The Treatment (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-06-12T22:13:13.000Z",
+        "quote": "This scar is what The Drama makes to address; the emotion — the nutrition — that becomes lost and/or compromised when we’re trained to stay surface-level.",
+        "url": "https://thetreatment.substack.com/p/the-drama-and-the-sins-of-the-surface"
+    },
+    {
+        "critic": "Rene Sanchez",
+        "is_top_critic": false,
+        "media": "Cine Sin Fronteras",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2026-06-09T07:05:06.000Z",
+        "quote": "Despite its intriguing premise and its strong performances, The Drama delivers a superficial and repetitive thematic exploration that undermines its emotional punch. [Full Review in Spanish]",
+        "url": "https://cinesinfronteras.com/2026/04/02/resena-the-drama-el-drama/"
+    },
+    {
+        "critic": "Sergio Burstein ",
+        "is_top_critic": false,
+        "media": "Los Angeles Times",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-06-03T17:49:23.000Z",
+        "quote": "The screenwriter and director has miscalculated poorly. [Full review in Spanish]",
+        "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2026-04-04/the-drama-desperdicia-robert-pattinson-y-zendaya-en-una-trama-sombria-y-mal-pensada"
+    },
+    {
+        "critic": "Luis Martínez ",
+        "is_top_critic": false,
+        "media": "El Mundo (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-05-29T22:28:28.000Z",
+        "quote": "Borgli continues his personal investigation into the diseases of the modern soul with a farce that borders upon the abyss. [Full review in Spanish]",
+        "url": "https://www.elmundo.es/cultura/cine/2026/05/28/6a17247ee4d4d89f218b45a1.html"
+    },
+    {
+        "critic": "Carlos Boyero",
+        "is_top_critic": false,
+        "media": "El Pais (Spain)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-29T17:43:36.000Z",
+        "quote": "Because I'm bored, I couldn't care less about this couple's past, present, or future. [Full review in Spanish]",
+        "url": "https://elpais.com/cultura/cine/2026-05-29/el-drama-inmune-al-culto-masivo-a-la-reina-zendaya.html"
+    },
+    {
+        "critic": "Randy Meeks",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-05-29T17:12:45.000Z",
+        "quote": "...it can't avoid excessive repetition once the story gets going, but this is forgivable thanks to a bold premise that takes risks with a story that transcends archetypes and embraces discomfort with gusto. [Full review in Spanish]",
+        "url": "https://www.espinof.com/criticas/drama-magistral-tirando-comedia-incomodisima-para-hablar-tema-tabu-delicioso-pastel-bodas-coronado-quimica-arrolladora-zendaya-robert-pattinson"
+    },
+    {
+        "critic": "Andrea Zamora",
+        "is_top_critic": false,
+        "media": "Sensacine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-05-28T18:07:32.000Z",
+        "quote": "The Drama isn't perfect, but it's so close to the complexities of life itself that it's almost perfect. [Full review in Spanish]",
+        "url": "https://www.sensacine.com/peliculas/pelicula-1000008742/sensacine/"
+    },
+    {
+        "critic": "Andrea G. Bermejo",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2026-05-27T17:38:33.000Z",
+        "quote": "The drama is a grand and powerful Trojan horse. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-drama-zendaya-robert-pattinson_6975905_3.html"
+    },
+    {
+        "critic": "Fausto Fernandez",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-05-26T22:41:51.000Z",
+        "quote": "Nightmarish, provocative, subversive and without any foothold for the viewers...'The Drama' shamelessly and quite maliciously explores the feeling of shame...the same uncomfortable shame of Bergman and 'The Joke' by Milan Kundera. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a71397911/el-drama-pelicula-zendaya-robert-pattinson-critica-opinion/"
+    },
+    {
+        "critic": "Ty Burr",
+        "is_top_critic": true,
+        "media": "Ty Burr's Watch List (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-05-26T18:51:57.000Z",
+        "quote": "Zendaya continues to convey remarkable complexities of emotion and reaction while seeming to do very little... she just thinks and it comes right off the screen—and Pattinson seems to love playing handsome dudes with spines of jello. ",
+        "url": "https://www.tyburrswatchlist.com/wh/"
+    },
+    {
+        "critic": "Ruben Peralta Rigaud",
+        "is_top_critic": false,
+        "media": "Cocalecas",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-26T16:45:46.000Z",
+        "quote": "In the end, The Drama is far more interesting than satisfying. It has extraordinary moments, magnificent performances, and genuinely uncomfortable emotional questions about love, perception, and morality. [Full review in Spanish]",
+        "url": "https://cocalecas.net/2026/05/the-drama-critica-zendaya-robert-pattinson/"
+    },
+    {
+        "critic": "Leandro Ariel Porcelli",
+        "is_top_critic": false,
+        "media": "Cinéfilo Serial",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2026-05-21T22:08:01.000Z",
+        "quote": "An uncomfortable dive into the collective trauma of the north american psyche that offers some of the most interesting and funny moments of the year. [Full review in Spanish]",
+        "url": "https://cinefiloserial.com.ar/critica-de-el-drama-de-kristoffer-borgli-2026/"
+    },
+    {
+        "critic": "Ridge Harripersad",
+        "is_top_critic": false,
+        "media": "CGMagazine",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-05-20T00:38:15.000Z",
+        "quote": "\"This movie ponders how accepting and understanding one can be of someone they love, beyond what anyone else thinks. The film holds a mirror to the audience’s face and never lets them breathe...\"",
+        "url": "https://www.cgmagonline.com/review/movie/the-drama-2026/"
+    },
+    {
+        "critic": "Luke Goodsell",
+        "is_top_critic": false,
+        "media": "ABC News (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-09T02:52:18.000Z",
+        "quote": "This layered, thorny, often unnerving film is as psychologically intense as it is comedic. In other words, it's a perfect date movie.",
+        "url": "https://www.abc.net.au/news/2026-04-01/the-drama-review-robert-pattinson-zendaya/106512184"
+    },
+    {
+        "critic": "Megan Kearns",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-05-07T18:03:45.000Z",
+        "quote": "It doesn't handle the themes that it raises very well, and almost feels like it's bringing them up to be shocking and provocative.",
+        "url": "https://insessionfilm.com/movie-podcast-review-the-drama/"
+    },
+    {
+        "critic": "Beandrea July",
+        "is_top_critic": false,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-07T00:38:23.000Z",
+        "quote": "It ultimately feels hollow and gimmicky. ",
+        "url": "https://laist.com/news/arts-and-entertainment/filmweek-the-drama-the-super-mario-galaxy-movie-palestine-36-and-more"
+    },
+    {
+        "critic": "Christy Lemire",
+        "is_top_critic": true,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-05-07T00:38:04.000Z",
+        "quote": "Well-made... but grotesque in retrospect. ",
+        "url": "https://laist.com/news/arts-and-entertainment/filmweek-the-drama-the-super-mario-galaxy-movie-palestine-36-and-more"
+    },
+    {
+        "critic": "Yasser Medina",
+        "is_top_critic": false,
+        "media": "Cinefilia",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-05-06T21:53:37.000Z",
+        "quote": "A pointless melodrama that gets lost in a convoluted and empty jumble about toxic relationships. [Full review in Spanish]",
+        "url": "https://www.cinefilia.blog/2026/05/el-drama-2026-critica.html"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-05T21:56:38.000Z",
+        "quote": "The Drama is alluring for its star power and its high-potential concept, and it has its memorable moments. But it’s ultimately dissatisfying in its attempt to find comedy and insight within an outrageous scenario.",
+        "url": "https://decider.com/2026/05/05/the-drama-stream-it-or-skip-it/"
+    },
+    {
+        "critic": "Mark Jackson",
+        "is_top_critic": false,
+        "media": "Epoch Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-05-05T21:48:57.000Z",
+        "quote": "\"The Drama\" is an example of a foreign film director attempting to tell a uniquely American tale but being largely tone-deaf to American culture and sentiment.",
+        "url": "https://www.theepochtimes.com/bright/the-drama-zendaya-cant-rescue-this-cultural-faux-pas-6013995"
+    },
+    {
+        "critic": "Michael Nordine",
+        "is_top_critic": false,
+        "media": "Movie Brief",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-05T18:43:54.000Z",
+        "quote": "Won’t be for everyone, but sickos who can’t help enjoying a little cringe mixed in with their comedy will be glad they RSVP’d.",
+        "url": "https://www.moviebrief.com/articles/epilogue-april-2026"
+    },
+    {
+        "critic": "Scott Howard",
+        "is_top_critic": false,
+        "media": "Under the Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "8.5/10",
+        "date": "2026-05-05T18:08:24.000Z",
+        "quote": "A rock-star cast, a smart and timely script, and excellent dedication to the visual medium make for a winning experience.",
+        "url": "https://www.undertheradarmag.com/reviews/the_drama"
+    },
+    {
+        "critic": "Pat Mullen",
+        "is_top_critic": false,
+        "media": "That Shelf",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-05T13:54:29.000Z",
+        "quote": "The Drama forces intensely uncomfortable conversations with its gambit of extreme awkwardness. ",
+        "url": "https://thatshelf.com/the-drama-review-something-new-something-old-something-awkward-something-blue/"
+    },
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-05-05T01:54:25.000Z",
+        "quote": "The Drama is a smart film and it deserves an audience. It doesn't quite pull off The Materialists neat trick of being a rom-com, while also deconstructing the entire genre. But it does have plenty on its mind.",
+        "url": "https://www.thepost.co.nz/culture/360980097/zendaya-and-pattinson-dial-blackly-funny-rom-com"
+    },
+    {
+        "critic": "Oscar Aitchison",
+        "is_top_critic": false,
+        "media": "Battle Royale With Cheese",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2026-05-04T11:05:52.000Z",
+        "quote": "The Drama is that rare perfect blend of the serious and satirical that gives a universally recognised topic a fresh and incisive angle – if you don’t laugh you’ll cry. ",
+        "url": "https://battleroyalewithcheese.com/2026/04/the-drama-the-brwc-review/"
+    },
+    {
+        "critic": "Austin Burke",
+        "is_top_critic": false,
+        "media": "Austin Burke/Flick Fan Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-05-03T15:49:43.000Z",
+        "quote": "The result is a chaotic journey that’s hard to look away from. Zendaya and Pattinson are outstanding, and the frantic style serves the story perfectly.",
+        "url": "https://youtu.be/F4UaOiMunh0"
+    },
+    {
+        "critic": "Neal Pollack",
+        "is_top_critic": false,
+        "media": "Book & Film Globe",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2026-05-01T19:31:27.000Z",
+        "quote": "In its attempts to subvert norms, it just ends up feeling grim, shallow, and unpleasant, and its main plot point is so tone-deaf that it blots out the sun of anything else that the film is trying to do. ",
+        "url": "https://bookandfilmglobe.com/film/the-drama-uses-vomit-in-place-of-emotion-thats-just-the-start/"
+    },
+    {
+        "critic": "Ricardo Mendoza",
+        "is_top_critic": false,
+        "media": "Cinencuentro",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-05-01T18:08:38.000Z",
+        "quote": "...while the film doesn't always fully sustain its conflict through its writing, it at least attempts to imbue its form with the same suffocating mental atmosphere that grips its protagonists. [Full review in Spanish]",
+        "url": "https://www.cinencuentro.com/2026/05/01/critica-el-drama-2006-el-teatro-del-amor-contemporaneo/"
+    },
+    {
+        "critic": "Mattie Lucas",
+        "is_top_critic": false,
+        "media": "From the Front Row",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2026-05-01T03:24:30.000Z",
+        "quote": "A fascinating deconstruction of the social mores of the digital age, where the appearance of morality often supersedes actual morals.",
+        "url": "https://www.fromthefrontrow.net/home/the-drama-2026"
+    },
+    {
+        "critic": "David Griffiths",
+        "is_top_critic": false,
+        "media": "Subculture Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-04-30T11:49:00.000Z",
+        "quote": "One of the best films of 2026. Its brilliantly written screenplay should be used as a template of what a character-driven suspense needs to be. Dramatic and tension filled this is a must-see film made even better by the performances of its leads.",
+        "url": "https://subcultureentertainment.com/2026/04/film-review-the-drama-review-2026/"
+    },
+    {
+        "critic": "Marcelo Paredes",
+        "is_top_critic": false,
+        "media": "Cinencuentro",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-27T18:35:05.000Z",
+        "quote": "While it addresses a real and serious problem in the United States, it doesn't ultimately offer anything substantial about it, using it more as a springboard to explore social hypocrisy. [Full review in Spanish]",
+        "url": "https://www.cinencuentro.com/2026/04/27/el-drama-2026-critica-zendaya/"
+    },
+    {
+        "critic": "Sheraz Farooqi",
+        "is_top_critic": false,
+        "media": "CinemaDebate",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-27T16:50:29.000Z",
+        "quote": "The Drama brings solid performances from Zendaya and Pattinson. While it's a little narratively confused in what it wants to be, strong chemistry between the leads and an unique plot carries the film through.",
+        "url": "https://youtu.be/-MiLOtRXwWE?si=KPf8Kh4UZvwYUlMK"
+    },
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-04-25T17:10:32.000Z",
+        "quote": "...an erratically-paced yet mostly compelling endeavor that benefits from its compelling storyline and solid lead performances...",
+        "url": "https://reelfilm.com/the-drama/"
+    },
+    {
+        "critic": "Michael Cook",
+        "is_top_critic": false,
+        "media": "KARK-TV",
+        "sentiment": "Fresh 🍅",
+        "score": "8.5/10",
+        "date": "2026-04-24T17:18:53.000Z",
+        "quote": "This is a fantastic, unique well-written drama and I was loving every minute of it. ",
+        "url": "https://www.kark.com/arkansas-style/reel-reviews-michael-cook-on-youre-dating-a-narcissist-and-the-drama/"
+    },
+    {
+        "critic": "Mauricio Jarufe Caballero",
+        "is_top_critic": false,
+        "media": "Cinencuentro",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-24T17:11:31.000Z",
+        "quote": "To a certain extent, it seems to attempt to serve as a sharp commentary on progressivism in the US...but it doesn't seem particularly interested in saying anything new about it. [Full review in Spanish]",
+        "url": "https://www.cinencuentro.com/2026/04/23/el-drama-2026-todos-tienen-un-secreto/"
+    },
+    {
+        "critic": "Max Copeman",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-23T21:50:07.000Z",
+        "quote": "By the time a killer final scene rolls around, The Drama is somewhat limping over the line, but its leads lend a crucial heartbeat to a film frustratingly engineered for discourse, not depth.",
+        "url": "https://www.radiotimes.com/movies/the-drama-review-spoilers-robert-pattinson-zendaya/"
+    },
+    {
+        "critic": "Coleman Spilde",
+        "is_top_critic": false,
+        "media": "Salon.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-21T20:42:45.000Z",
+        "quote": "The Drama is not a tidy film from any angle. Its themes are extreme and uncomfortable. Its director’s past actions are more than questionable. But if audiences are willing to keep an open mind and engage with it, it will reward on a massive scale.",
+        "url": "https://www.salon.com/2026/04/03/the-drama-twist-zendaya-holds-a-mirror-to-america/"
+    },
+    {
+        "critic": "Wenlei Ma",
+        "is_top_critic": true,
+        "media": "The Nightly (AU)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-21T13:35:19.000Z",
+        "quote": "It's not as strange or absurd as it could’ve been, and lands somewhere in the middle, not enough one thing or the other. Mid is an apt description for The Drama, which is neither offensive nor tremendous.",
+        "url": "https://thenightly.com.au/culture/film/the-drama-review-robert-pattinson-and-zendayas-darkly-comical-romance-is-designed-to-stir-controversy-c-22081642"
+    },
+    {
+        "critic": "Alfred Castaneda",
+        "is_top_critic": false,
+        "media": "Shade Studios",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-21T05:18:42.000Z",
+        "quote": "Is this a commentary on human behavior?  Presumably yes, but Borgli is too caught up in the vibes of The Drama then to tell us what that commentary is.  ",
+        "url": "https://shadestudios.com/f/the-drama-review"
+    },
+    {
+        "critic": "Linda Cook",
+        "is_top_critic": false,
+        "media": "OurQuadCities / WHBF-TV (Illinois)",
+        "sentiment": "Fresh 🍅",
+        "score": "4 stars",
+        "date": "2026-04-20T05:26:27.000Z",
+        "quote": "You won't soon forget 'The Drama.'",
+        "url": "https://www.ourquadcities.com/uncategorized/cook-review-you-wont-soon-forget-the-drama/"
+    },
+    {
+        "critic": "Dionar Hidalgo",
+        "is_top_critic": false,
+        "media": "Algo Más Que Cine",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-04-19T18:31:49.000Z",
+        "quote": "A sharp, unsettling essay on intimacy and truth, elevated by Pattinson’s restraint, though Borgli’s calculated style keeps viewers at a distance.",
+        "url": "https://algomasquecine.com/el-drama-2026-amar-en-tiempos-de-lo-irreparable-critica-puede-tener-spoilers/"
+    },
+    {
+        "critic": "Natasha Alvar",
+        "is_top_critic": false,
+        "media": "The Fiction Department",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-19T13:47:15.000Z",
+        "quote": "The Drama walks the tight-rope of audacity with balance and finesse.",
+        "url": "https://thefictiondepartment.com/the-drama-2026-review/"
+    },
+    {
+        "critic": "Emily Wheeler",
+        "is_top_critic": false,
+        "media": "Emily Wheeler Movie Ops",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-18T21:00:26.000Z",
+        "quote": "There’s not enough behind the revelation to make it memorable, but at least you’ll laugh while watching it.",
+        "url": "https://emilywheelerfilm.com/2026/04/18/the-drama/"
+    },
+    {
+        "critic": "Michael J. Casey",
+        "is_top_critic": false,
+        "media": "Metro Arts",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-04-17T21:52:42.000Z",
+        "quote": "Far too flippant for its own good.",
+        "url": "https://kgnu.org/after-image-with-michael-j-casey-reviews-the-christophers-and-the-drama/"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-17T20:20:55.000Z",
+        "quote": "Kristoffer Borgli returns with another heightened exercise on our implicit obsession and socially codified need to control the narrative of how are perceived while also examining how humans are constantly compromised by the performative hypocrisy...",
+        "url": "https://www.youtube.com/watch?v=ZRxJj1JojT8&t=84s"
+    },
+    {
+        "critic": "Prabhjot Bains",
+        "is_top_critic": false,
+        "media": "RANGE Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-17T18:47:40.000Z",
+        "quote": " A cringy, elliptical experience that shocks and awes as much as it elicits bouts of unsettling, uncontrollable laughter.",
+        "url": "https://readrange.com/the-drama-review/"
+    },
+    {
+        "critic": "Dwight Brown",
+        "is_top_critic": true,
+        "media": "DwightBrownInk.com",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-04-17T17:33:17.000Z",
+        "quote": "Audiences may find themselves watching until the very end, hoping for a coda that redeems what they’ve just witnessed.",
+        "url": "https://dwightbrownink.com/the-drama/"
+    },
+    {
+        "critic": "Brian Gill",
+        "is_top_critic": false,
+        "media": "Mad About Movies Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-04-17T16:04:24.000Z",
+        "quote": "Going in blind to the twist is crucial to the experience of the movie but it's also a triggering twist. It's an uncomfy movie with very good performances that's also difficult to blindly recommend. ",
+        "url": "https://madaboutmoviespodcast.com/episodes/2026/4/15/the-drama-2026"
+    },
+    {
+        "critic": "Dana Stevens",
+        "is_top_critic": true,
+        "media": "Slate",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-16T21:34:49.000Z",
+        "quote": "There’s something not just undercooked but insulting about how little attention The Drama pays to the inner life of Emma, ostensibly the movie’s co-lead and the character whose adolescent breakdown serves as the plot’s convenient catalyst. ",
+        "url": "https://slate.com/culture/2026/04/the-drama-zendaya-robert-pattinson-movie-spoilers-a24.html"
+    },
+    {
+        "critic": "Alejandro Alemán",
+        "is_top_critic": false,
+        "media": "El Universal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-16T19:03:27.000Z",
+        "quote": "Zendaya, Alana Haim, and Robert Pattinson are perfect in their roles. [Full review in Spanish]",
+        "url": "https://www.eluniversal.com.mx/opinion/alejandro-aleman/the-drama-humor-horror-e-incomodidad/"
+    },
+    {
+        "critic": "Whang Yee Ling",
+        "is_top_critic": false,
+        "media": "The Straits Times (Singapore)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-16T18:59:39.000Z",
+        "quote": "Daring and darkly funny, this anti-romance on the limits of unconditional love is no date flick.",
+        "url": "https://www.straitstimes.com/life/entertainment/the-drama-a-daring-and-darkly-funny-anti-romance-girl-is-shu-qis-unflinching-memoir"
+    },
+    {
+        "critic": "Kathleen Newman-Bremang",
+        "is_top_critic": false,
+        "media": "Refinery29",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-15T18:27:09.000Z",
+        "quote": "As a twisted dark comedy about forgiveness, the price of radical honesty, and the limits of unconditional love, The Drama works. As a romance, it leaves a lot to be desired.",
+        "url": "https://www.refinery29.com/en-us/the-drama-movie-review-zendaya-emma-character-explained"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Cinencuentro",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-15T04:41:36.000Z",
+        "quote": "By addressing a sensitive and potentially controversial topic through a narrative full of unexpected twists, the film prompts viewers to have interesting post-screening conversations. [Full review in Spanish].",
+        "url": "https://www.cinencuentro.com/2026/04/14/el-drama-zendaya-robert-pattinson-critica/"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-14T15:35:55.000Z",
+        "quote": "it’s hard not to lose yourself in the messiness…. That’s because Borgli views it through an honest and incisive lens while the formidable performances from Zendaya and Pattinson is the glue that holds it all together.",
+        "url": "https://keithandthemovies.com/2026/04/14/review-the-drama-2026/"
+    },
+    {
+        "critic": "Fico Cangiano",
+        "is_top_critic": false,
+        "media": "CineXpress",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-13T19:46:03.000Z",
+        "quote": "Unhinged, provocative, messy and funny, The Drama definitely delivers on, well... the drama. Includes banger performances by Zendaya and Pattison, great editing and music. And the last 20 minutes or so are a dandy. [Full review in Spanish]",
+        "url": "https://cinexpresspr.com/2026/04/13/resena-the-drama/"
+    },
+    {
+        "critic": "Scott Tobias",
+        "is_top_critic": true,
+        "media": "The Reveal",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-13T18:43:50.000Z",
+        "quote": "A compelling high-wire act, wonky at times yet committed to living in discomfort. ",
+        "url": "https://thereveal.film/in-review-the-drama-the-super-mario-galaxy-movie/"
+    },
+    {
+        "critic": "Andrea Thompson",
+        "is_top_critic": false,
+        "media": "A Reel of One's Own",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-04-13T16:51:04.000Z",
+        "quote": " The movie at least has a dark sense of humor that carries it at points, and I suppose that’s remarkable for a film so invested in mediocrity.",
+        "url": "https://www.areelofonesown.com/home/2026/4/8/the-drama-is-quite-dull-actually"
+    },
+    {
+        "critic": "Ilan Preskovsky",
+        "is_top_critic": false,
+        "media": "Channel24 (South Africa)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-04-13T01:58:15.000Z",
+        "quote": "It’s so thoroughly engrossing, in fact, and so grounded by note-perfect performances from both its leads and its supporting cast, that you almost don’t notice the multitude of themes and ideas it throws our way.",
+        "url": "https://www.news24.com/life/arts-and-entertainment/film/reviews/review-the-drama-zendaya-and-pattinson-captivate-in-a-twisted-provocative-masterpiece-20260407-0829"
+    },
+    {
+        "critic": "Hector A. Gonzalez",
+        "is_top_critic": false,
+        "media": "The Movie Buff",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-04-13T01:39:23.000Z",
+        "quote": "While there are many truths to his critiques, the film does not reach the heights of its premise and examinations due to his difficulty in navigating Zendaya’s tricky character.",
+        "url": "https://www.themoviebuff.net/2026/04/the-drama-review-kristoffer-borgli/"
+    },
+    {
+        "critic": "Michael Calleri",
+        "is_top_critic": false,
+        "media": "Niagara Gazette",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-12T16:15:24.000Z",
+        "quote": "Across the board, the film’s acting is as good as you want it to be. \"The Drama\" goes against what a romance movie should deliver. I give Borgli immense credit for being unafraid to take risks. As well as for daring to deliver something different.",
+        "url": "https://www.niagara-gazette.com/news/night_and_day/calleri-the-drama-has-a-shocking-secret-that-must-be-kept/article_9064a09a-7d83-458f-a98b-72d3773aa20b.html"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-12T11:33:57.000Z",
+        "quote": "\"The Drama\" may be Borgli’s best film to date ",
+        "url": "https://sarahgvincentviews.com/movies/the-drama/"
+    },
+    {
+        "critic": "Jim Ross",
+        "is_top_critic": false,
+        "media": "TAKE ONE Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-12T10:37:06.000Z",
+        "quote": "THE DRAMA renders philosophical thought experiments as tangible personal relationships. The film is both fiendishly juvenile and thought-provoking, with Kristoffer Borgli's black comedy approach harmonising these two qualities.",
+        "url": "https://takeonecinema.net/2026/the-drama/"
+    },
+    {
+        "critic": "Isabella Cantillano-Sanchez",
+        "is_top_critic": false,
+        "media": "InBetweenDrafts",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2026-04-11T17:25:16.000Z",
+        "quote": "The Drama is shallow provocation at best, and irresponsible at worst. It primes itself for the same hollow discourse it’s aiming to criticize, which is emblematic of its failure as a film that aims to engage with taboo.",
+        "url": "https://inbetweendrafts.com/the-drama-review-robert-pattinson-zendaya/"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-11T07:10:22.000Z",
+        "quote": "…does unearth a genuinely romantic idea at its core, that it’s only really about what happens between two people and nobody else really matters...a rare serious Hollywood film that dares to ask questions about how we judge each other.",
+        "url": "https://film-authority.com/2026/04/11/the-drama/"
+    },
+    {
+        "critic": "Adam Olinger",
+        "is_top_critic": false,
+        "media": "Adam Does Movies (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-10T22:33:39.000Z",
+        "quote": "The Drama was a refreshingly dark dramedy with some witty writing and great performances by the two leads.",
+        "url": "https://youtu.be/SsnVIOvKD1Y"
+    },
+    {
+        "critic": "Cate Young",
+        "is_top_critic": false,
+        "media": "Thirty, Flirty + Film",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-10T21:19:08.000Z",
+        "quote": "In an ironic twist, that narrative emptiness gives Zendaya lots of room to play in her craft, and consequently her work in The Drama is the best of her career. ",
+        "url": "https://30flirtyfilm.beehiiv.com/p/issue-95-inconvenient-implosion-sentimental-value-the-drama"
+    },
+    {
+        "critic": "Louisa Moore",
+        "is_top_critic": false,
+        "media": "Screen Zealots",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-10T21:12:08.000Z",
+        "quote": "A provoking film that will make you squirm in your seat and then immediately want to argue about it afterward.",
+        "url": "https://screenzealots.com/2026/04/09/the-drama/"
+    },
+    {
+        "critic": "Jeffrey Harris",
+        "is_top_critic": false,
+        "media": "411mania",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-04-10T18:14:15.000Z",
+        "quote": "Kristoffer Borgli brings a distinct visual style and crafts an awkward, messy, raw, and dark relationship comedy with The Drama.",
+        "url": "https://411mania.com/movies/the-drama-review/"
+    },
+    {
+        "critic": "Gaius Bolling",
+        "is_top_critic": false,
+        "media": "Geek Vibes Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "9.5/10",
+        "date": "2026-04-10T17:00:21.000Z",
+        "quote": "The Drama won't be for everyone since it turns convention on its head on more than one occasion, but its approach to complex themes, without any judgment, makes it an intriguing watch.",
+        "url": "https://geekvibesnation.com/the-drama-review/"
+    },
+    {
+        "critic": "Ryan Syrek",
+        "is_top_critic": false,
+        "media": "The Reader (Omaha, NE)",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2026-04-10T11:45:17.000Z",
+        "quote": "Art that strikes at the deepest, darkest questions surrounding our relationships (both intimate and more broadly) is inherently uncomfortable. The comedy may help The Drama go down, but it remains a decidedly upsetting endeavor. ",
+        "url": "https://thereader.com/2026/04/10/the-drama-review/"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-10T08:35:09.000Z",
+        "quote": "A compelling, well-thought through, morally complex chamber piece that confronts a host of hot-button topics...The ever-tightening narrative is tempered with some well-judged humour as the chain of cause-and-effect runs its course.",
+        "url": "https://tinyurl.com/bdzmuxj3"
+    },
+    {
+        "critic": "Simon Miraudo",
+        "is_top_critic": false,
+        "media": "Movie Squad (RTRFM 92.1)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-10T02:10:00.000Z",
+        "quote": "An American couldn't (or wouldn't) make this movie. I'm not even convinced an American viewer can properly process it. But this dark and very funny relationship satire tackles a taboo subject with a surprising amount of grace and empathy.",
+        "url": "https://rtrfm.com.au/podcasts/movie-squad/the-drama-undertone-super-mario-galaxy-movie-and-megadoc-movie-squad-podcast-531/"
+    },
+    {
+        "critic": "Pablo O. Scholz",
+        "is_top_critic": false,
+        "media": "Clarín",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-09T21:45:12.000Z",
+        "quote": "The Drama is like a dissection of a couple which everyone saw as \"the\" perfect couple. It's provocative, raises a moral question, and stars Zendaya and Robert Pattinson. What more could you ask of a film to make it successful? [Full review in Spanish]",
+        "url": "https://www.clarin.com/espectaculos/polemica-drama-zendaya-robert-pattinson-secreto-condena_0_qYtP6kqzqW.html"
+    },
+    {
+        "critic": "Paula Vázquez Prieto",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-09T21:13:18.000Z",
+        "quote": "...Borgli is a director of concrete, deeply rooted ideas...but here they lose any real substance in the story, turning it into mere window dressing for the \"important\" message [Borgli] wants to convey. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/el-drama-un-relato-que-se-retuerce-a-conveniencia-y-rompe-con-toda-expectativa-nid09042026/"
+    },
+    {
+        "critic": "Anna Hoang",
+        "is_top_critic": false,
+        "media": "Boston Hassle",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-09T10:56:45.000Z",
+        "quote": "THE DRAMA‘s trials and tribulations will want us to push past the hard stuff to get to the more scary part: the unknown.",
+        "url": "https://bostonhassle.com/review-the-drama-2026-dir-kristoffer-borgli/"
+    },
+    {
+        "critic": "Jeffrey Overstreet",
+        "is_top_critic": false,
+        "media": "JeffreyOverstreet.com (Ghost.io)",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-04-09T06:04:42.000Z",
+        "quote": "I’m recommending this movie — begrudgingly — so that you can see Zendaya and Pattinson prove that they really are two of the most gifted actors of their generation, giving what may be remembered as their peak performances.",
+        "url": "https://www.jeffreyoverstreet.com/2026/04/08/first-impressions-of-the-drama/"
+    },
+    {
+        "critic": "M.V. Moorhead",
+        "is_top_critic": false,
+        "media": "Phoenix Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-08T23:51:21.000Z",
+        "quote": "The young Norwegian writer-director Kristoffer Borgli shows a remarkably confident touch. He somehow sustains the polished romance and erotic glamour of the characters even as their lives are falling apart, and he raises the tension expertly.",
+        "url": "https://www.phoenixmag.com/2026/04/07/phoenix-flicks-nuptial-nightmare-powers-the-drama/"
+    },
+    {
+        "critic": "David Sims",
+        "is_top_critic": true,
+        "media": "The Atlantic",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-08T23:44:29.000Z",
+        "quote": "In The Drama, Pattinson embodies Charlie as the model of tame, harmless Brit charm, and the minute the actor has built his character up, he clearly takes perverse delight in unraveling him.",
+        "url": "https://www.theatlantic.com/culture/2026/04/the-drama-movie-review-zendaya-robert-pattinson/686690/"
+    },
+    {
+        "critic": "Pamela Powell",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2026-04-08T21:45:08.000Z",
+        "quote": "In the end, \"The Drama\" doesn’t just ask whether love can endure the truth, it forces you to confront whether it should.",
+        "url": "https://reeltalkwithchuckandpam.com/the-drama-pam-highly-recommends/"
+    },
+    {
+        "critic": "Patrick Beatty",
+        "is_top_critic": false,
+        "media": "See It or Skip It",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-08T21:08:45.000Z",
+        "quote": "\"The Drama\" is shocking, funny, and layered, with strong performances across the board.",
+        "url": "https://seeitorskipitreviews.com/2026/04/08/utahs-1-review-show-decides-whats-worth-your-time/"
+    },
+    {
+        "critic": "Joshua Mbonu",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2026-04-08T17:53:58.000Z",
+        "quote": "Even within its more shaky components, thanks to the chemistry of its two leads and unbelievably stressful reveals, The Drama will stand out as one of 2026’s most unconventional films, completely reveling in its prickly complexities.",
+        "url": "https://insessionfilm.com/movie-review-the-drama/"
+    },
+    {
+        "critic": "Saibal Chatterjee",
+        "is_top_critic": false,
+        "media": "NDTV",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-08T17:45:50.000Z",
+        "quote": "The Drama is somewhat reductionist in the manner it probes social hypocrisies and the vicissitudes of life...but with the two lead actors at their very best - this is Zendaya's career-best performance for sure - the film never ceases to be watchable.",
+        "url": "https://www.ndtv.com/entertainment/the-drama-review-zendaya-gives-career-best-performance-in-watchable-film-3-stars-11306226"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2026-04-08T17:22:25.000Z",
+        "quote": "Sure, the feature could be more twisted and direct with its serving of apprehension, but Borgli still retains itchiness while trying to reach a wider audience.",
+        "url": "https://www.blu-ray.com/The-Drama/1935811/#Review"
+    },
+    {
+        "critic": "Margot Harrison",
+        "is_top_critic": false,
+        "media": "Seven Days (VT)",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-04-08T17:12:04.000Z",
+        "quote": "If you accept its limitations, you can enjoy The Drama as a cleverly orchestrated cringe comedy...But when it comes time for the film to reveal whether love still conquers all, we simply don’t know enough about both parties in this relationship to care.",
+        "url": "https://www.sevendaysvt.com/on-screen/moviereviews/the-drama-deconstructs-the-rom-com-with-middling-success/"
+    },
+    {
+        "critic": "Alistair Harkness",
+        "is_top_critic": false,
+        "media": "Scotsman",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-08T17:07:50.000Z",
+        "quote": "Written and directed by Kristoffer Borgli (Dream Scenario), the end result is sharp, funny and excruciating in equal measure.",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/film-reviews-california-schemin-the-drama-father-mother-sister-brother-the-stranger-6567111"
+    },
+    {
+        "critic": "Matt Oakes",
+        "is_top_critic": false,
+        "media": "Silver Screen Riot",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2026-04-08T15:36:35.000Z",
+        "quote": "‘The Drama’ finds Zendaya and Robert Pattinson pulling apart at the seams in Kristoffer Borgli’s incisive, destabilizing anti-rom-com, a nervy A24 anxiety spiral that sits comfortably alongside ‘Uncut Gems’ and ‘If I Had Legs I’d Kick You’.",
+        "url": "https://silverscreenriot.com/zendaya-and-rob-pat-invite-you-to-an-anxiety-drenched-wedding-in-the-drama/"
+    },
+    {
+        "critic": "Aisha Harris",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-07T22:46:41.000Z",
+        "quote": "This movie kind of handles the bleakness with the comedy in a really interesting way. I have never been an Ari Aster fan, but I feel like this movie is able to do a lot of what Ari Aster tries to do with his movies. ",
+        "url": "https://www.npr.org/transcripts/nx-s1-5771636"
+    },
+    {
+        "critic": "Bedatri D. Choudhury",
+        "is_top_critic": false,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-07T22:44:56.000Z",
+        "quote": "This film is very effective in putting forth the discourse.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5771636"
+    },
+    {
+        "critic": "Tre'vell Anderson",
+        "is_top_critic": true,
+        "media": "Pop Culture Happy Hour (NPR Podcast)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-07T22:44:55.000Z",
+        "quote": "To see how they play with the comedy and the dark element of the comedy, I really liked it. It kept me interested in what was coming next.",
+        "url": "https://www.npr.org/transcripts/nx-s1-5771636"
+    },
+    {
+        "critic": "Matthew Bond",
+        "is_top_critic": false,
+        "media": "Daily Mail (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-07T21:42:06.000Z",
+        "quote": "Zendaya is pitch-perfect as Emma, who can be charm personified when she’s in the right mood but has a steely determination underneath.",
+        "url": "https://www.dailymail.co.uk/tv/article-15701979/the-drama-review-subversive-rom-com-psycho-drama.html"
+    },
+    {
+        "critic": "Brian Viner",
+        "is_top_critic": false,
+        "media": "Daily Mail (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-07T21:37:59.000Z",
+        "quote": "It is smartly written and directed, splendidly acted, and the premise is irresistibly naughty.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15702799/BRIAN-VINER-Drama-Like-Richard-Curtis-romcom-wickedly-dark-heart.html?ico=authors_pagination_desktop"
+    },
+    {
+        "critic": "Robert Denerstein",
+        "is_top_critic": false,
+        "media": "Denerstein Unleashed",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-07T21:21:32.000Z",
+        "quote": "The Drama doesn't lack ambition. It uses an extreme example to pose interesting questions about relationships, but winds up being a dispiriting collection of hits, misses, and questionable choices.",
+        "url": "https://denersteinunleashed.blogspot.com/2026/04/the-drama-cant-find-its-footing.html"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-07T20:54:39.000Z",
+        "quote": "The film is certainly uncomfortable and off-putting, but it lacks the wit or satirical bite necessary to be considered amusing.",
+        "url": "https://www.reelviews.net/reelviews/the-drama"
+    },
+    {
+        "critic": "Cortlyn Kelly",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-07T20:51:51.000Z",
+        "quote": " The physicality of Zendaya and Pattinson’s performances saves the story from some of its shortcomings, but in the end, the questions raised are more interesting than the attempts to answer them.",
+        "url": "https://chicagoreader.com/film-tv/movie-review/the-drama-film-review/"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2026-04-07T19:56:10.000Z",
+        "quote": "\"The Drama\" is the rare star-driven film that is willing to tackle big ideas, ask big questions and cause big discomfort. We need more of these movies, not less, messiness and all. Wedding season just got a lot more provocative.",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2026/04/02/the-drama-review-daring-wedding-story-boldly-sits-in-awkwardness/89425285007/"
+    },
+    {
+        "critic": "Angelo Muredda",
+        "is_top_critic": false,
+        "media": "Film Freak Central",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-07T19:47:02.000Z",
+        "quote": "Borgli invests these characters with no aesthetics whatsoever, no tastes outside of the knick-knacks in their A24-core home, and no opinions outside of whatever might provoke the next drama.",
+        "url": "https://filmfreakcentral.net/2026/04/the-drama-2026/"
+    },
+    {
+        "critic": "Rich Cline",
+        "is_top_critic": false,
+        "media": "Shadows on the Wall",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-07T18:59:26.000Z",
+        "quote": "Expertly shot and edited to pull the audience into a moral dilemma that turns increasingly messy, this pitch-black romantic comedy offers meaty roles to Zendaya and Robert Pattinson, and they seriously rise to the occasion.",
+        "url": "http://www.shadowsonthewall.co.uk/26/drama.htm"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-07T17:49:17.000Z",
+        "quote": "Borgli’s sharp writing﻿ achieves a precarious balance of provocation and bad taste﻿. And the craft of the picture is impressive﻿. But the film’s ﻿wit, daring and overall success is largely owed to the ﻿formidable performances by Zendaya and Pattinson.",
+        "url": "https://observer.co.uk/culture/film/article/the-drama-is-a-caustic-dissection-of-a-relationship-on-the-rocks"
+    },
+    {
+        "critic": "Adam Nayman",
+        "is_top_critic": true,
+        "media": "The New Republic",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-07T17:37:01.000Z",
+        "quote": "No less than marriage, dark comedy requires commitment, but Borgli traffics in opportunism.",
+        "url": "https://newrepublic.com/article/208431/drama-big-reveal-and-strangely-anodyne-effect-zendaya-pattinson-borgli"
+    },
+    {
+        "critic": "Justin Chang",
+        "is_top_critic": true,
+        "media": "The New Yorker",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-07T17:31:16.000Z",
+        "quote": "The Drama has a juicy, combustible premise that it struggles to justify, not because there’s anything inherently distasteful... but, rather, because Emma’s deep, dark secret simply doesn’t ring true.",
+        "url": "https://www.newyorker.com/culture/the-current-cinema/the-drama-has-a-combustible-premise-that-it-struggles-to-justify"
+    },
+    {
+        "critic": "Richard Brody",
+        "is_top_critic": true,
+        "media": "The New Yorker",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-07T17:29:30.000Z",
+        "quote": "Borgli offers a childish view of romance, leaping from acquaintance to engagement with no substance in between, and the fancy editing scheme of flashbacks and leaps ahead merely calls attention to the underlying void.",
+        "url": "https://www.newyorker.com/culture/goings-on/new-directors-new-films"
+    },
+    {
+        "critic": "Tom Shone",
+        "is_top_critic": false,
+        "media": "Sunday Times (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-07T17:16:55.000Z",
+        "quote": "The actors are in their element.",
+        "url": "https://www.thetimes.com/culture/film/article/getting-hitched-when-glitched-s0s69gh73"
+    },
+    {
+        "critic": "Tara McNamara",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2026-04-07T17:05:48.000Z",
+        "quote": "The Drama is a rare film that makes you laugh, gasp, and rethink the way we treat each other—and it lingers in a way that just might last a lifetime.",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-drama"
+    },
+    {
+        "critic": "Diego Batlle",
+        "is_top_critic": false,
+        "media": "Otroscines.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-04-07T16:45:49.000Z",
+        "quote": "...The Drama ultimately becomes a moral treatise dominated by cynicism, exploring existential angst, secrets and lies, and guilt—overly elaborate and at times contrived. [Full review in Spanish]",
+        "url": "https://www.otroscines.com/post/critica-de-el-drama-the-drama-pelicula-de-kristoffer-borgli-con-zendaya-y-robert-pattinson"
+    },
+    {
+        "critic": "Troy Ribeiro",
+        "is_top_critic": false,
+        "media": "Free Press Journal (India)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/ 5",
+        "date": "2026-04-07T04:45:40.000Z",
+        "quote": "The film’s beating heart is its lead pair. Zendaya brings a quiet, simmering intensity to Emma, allowing vulnerability to coexist with something far more unsettling. Robert Pattinson, on the other hand, operates as the audience’s uneasy surrogate. ",
+        "url": "https://www.freepressjournal.in/entertainment/the-drama-review-zendaya-robert-pattinson-shine-in-a-bold-yet-uneven-relationship-drama"
+    },
+    {
+        "critic": "Matthew Koss",
+        "is_top_critic": false,
+        "media": "The Wandering Screen (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2026-04-06T23:24:28.000Z",
+        "quote": "Borgli’s script really propels the humor into romantic comedy territory, and it all somehow feels grounded. Confronting the idea that the person you love might not be who you think they are is what makes this film so compelling.\n",
+        "url": "https://www.youtube.com/watch?v=VdjDvpDoVY8&t=4s"
+    },
+    {
+        "critic": "Alci Rengifo",
+        "is_top_critic": false,
+        "media": "Entertainment Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-06T19:44:59.000Z",
+        "quote": "The pieces are eventually held together by Zendaya and Pattinson, who together say what the script might struggle to get across. ",
+        "url": "https://entertainmentvoice.com/2026/04/02/zendaya-and-robert-pattinson-are-all-about-the-drama-in-absurdist-dark-comedy/"
+    },
+    {
+        "critic": "Max Weiss",
+        "is_top_critic": true,
+        "media": "Baltimore Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-06T19:43:32.000Z",
+        "quote": "By embracing an outlier and taking the premise to such an extreme, the film lost its grip—both on reality and my interest.",
+        "url": "https://www.baltimoremagazine.com/section/artsentertainment/movie-review-the-drama/"
+    },
+    {
+        "critic": "Kate Stables",
+        "is_top_critic": false,
+        "media": "Sight & Sound",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-06T19:23:46.000Z",
+        "quote": "Committing to realism and relatability for the first time onscreen, Borgli keeps things accessible enough for us to wonder repeatedly what we’d do in Charlie’s place. ",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/drama-slyly-funny-psychological-drama-neat-rom-com-disguise"
+    },
+    {
+        "critic": "Sammie Purcell",
+        "is_top_critic": false,
+        "media": "Rough Draft Atlanta",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-06T19:23:45.000Z",
+        "quote": "When a game of sharing secrets goes a little too far ... \"The Drama\" becomes a darkly funny, cringe-tastic and chaotic takedown of humankind’s obsession with the way we’re perceived. ",
+        "url": "https://roughdraftatlanta.com/2026/04/03/performativity-and-perception-are-our-ruination-in-the-drama/"
+    },
+    {
+        "critic": "Bradley Gibson",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2026-04-06T19:22:25.000Z",
+        "quote": "Despite the flaws in the script, Pattinson and Zendaya deliver their roles beautifully. ",
+        "url": "https://filmthreat.com/reviews/the-drama-review/"
+    },
+    {
+        "critic": "Ian Thomas Malone",
+        "is_top_critic": false,
+        "media": "ianthomasmalone.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-06T19:21:59.000Z",
+        "quote": "Zendaya and Pattinson have enough chemistry to buoy the experience, but The Drama lacks depth. This is a really interesting subject, explored solely at the surface level.",
+        "url": "https://ianthomasmalone.com/2026/04/the-drama-review/"
+    },
+    {
+        "critic": "Josh Larsen",
+        "is_top_critic": false,
+        "media": "LarsenOnFilm",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-04-06T16:46:05.000Z",
+        "quote": "... inflicts a contrived construct on Zendaya and Robert Pattinson, one from which they never escape.",
+        "url": "https://larsenonfilm.com/the-drama"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-04-06T12:51:59.000Z",
+        "quote": "\"The Drama\" argues that forgiveness is possible, even necessary, but only if we are willing to sit with the discomfort of how messy and human that process actually is.\n\n",
+        "url": "https://www.theonlycritic.com/post/the-drama-review-robert-pattinson-and-zendaya-face-the-limits-of-forgiveness-in-a-pressure-cooker"
+    },
+    {
+        "critic": "Harris Dang",
+        "is_top_critic": false,
+        "media": "Impulse Gamer",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-04-06T05:28:11.000Z",
+        "quote": "The Drama is an insightful, darkly funny, and emotionally stirring romantic-comedy. It serves as an instant conversation starter that will either engage or enrage in equal measure.",
+        "url": "https://www.impulsegamer.com/the-drama-film-review/"
+    },
+    {
+        "critic": "Breeze Riley",
+        "is_top_critic": false,
+        "media": "Multiverse of Color",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-05T23:15:07.000Z",
+        "quote": "The most surprising and satisfying thing about The Drama is that, after all it puts you through, you end the film where you started – with a love story.",
+        "url": "https://multiverseofcolor.com/2026/04/the-drama-movie-review/"
+    },
+    {
+        "critic": "Scott Mendelson",
+        "is_top_critic": false,
+        "media": "The Outside Scoop (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-04-05T21:25:35.000Z",
+        "quote": "Kristoffer Borgli delivers a distinctly modern rom-com, a thrillingly topical and of-the-moment macabre melodrama that earns its potentially challenging premise.",
+        "url": "https://scottmendelson.substack.com/p/the-drama-review-zendaya-robert-pattinson-a24"
+    },
+    {
+        "critic": "Nathalia Aryani",
+        "is_top_critic": false,
+        "media": "The MovieMaven",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-05T21:15:30.000Z",
+        "quote": "The entire movie is built around a chain of fixations and overreactions. People will evaluate this story based on their own life filters; belief system, past experiences, moral compass. Drama-filled, tense and anxious, expect the unexpected. ",
+        "url": "https://sdmoviemaven.blogspot.com/2026/04/the-drama.html"
+    },
+    {
+        "critic": "Sean P. Means",
+        "is_top_critic": false,
+        "media": "The Movie Cricket",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-05T18:06:11.000Z",
+        "quote": "The central conundrum of \"The Drama\" is that it raises a topic that’s so serious that it’s impossible to make funny — and then doesn’t want treat that topic with any seriousness. ",
+        "url": "https://moviecricket.net/blog/2026/4/2/review-the-drama-has-the-trappings-of-an-edgy-rom-com-but-is-only-a-provocation-that-tries-to-make-light-of-a-dark-topic"
+    },
+    {
+        "critic": "Derrick Murray",
+        "is_top_critic": false,
+        "media": "NERDBOT",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-05T16:53:40.000Z",
+        "quote": "...provocation can only work with proper intention, and I don’t believe The Drama, even with its heart in the right place and plenty of other interesting themes scattered around to unpack ends up making good on those intentions.",
+        "url": "https://nerdbot.com/2026/04/03/the-drama-provocative-but-confused-pitch-black-dramedy-spoiler-free-review/#gsc.tab=0"
+    },
+    {
+        "critic": "Vincent Mancini",
+        "is_top_critic": false,
+        "media": "The #Content Report (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2026-04-05T15:48:07.000Z",
+        "quote": "A good old-fashioned farce, with \"American characteristics.\" Says the things you're not supposed to.",
+        "url": "https://open.substack.com/pub/vincemancini/p/the-drama-review-american-farce?r=2cg5qw&utm_campaign=post&utm_medium=web"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-05T09:38:45.000Z",
+        "quote": "The end result is more uncomfortable than it is truly provocative.",
+        "url": "https://filmfeeder.co.uk/film-reviews/the-drama-dir-kristoffer-borgli"
+    },
+    {
+        "critic": "Sara Michelle Fetters",
+        "is_top_critic": true,
+        "media": "MovieFreak.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-04-05T05:56:33.000Z",
+        "quote": "While there’s plenty of food for thought, by the time this cinematic meal concluded, I still felt famished. Even worse, I was angry at Borgli for cooking up such a frustratingly unsatisfying banquet in the first place.",
+        "url": "http://moviefreak.com/drama-2026-movie-review/"
+    },
+    {
+        "critic": "Brooke Obie",
+        "is_top_critic": false,
+        "media": "Black Girl Watching ",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-05T03:37:54.000Z",
+        "quote": "A navel-gazing thought experiment of a movie that laughs at our pain. Borgli was not up to the task of tackling the impact of the racial imagery he was creating or sensitively handling a uniquely American problem.",
+        "url": "https://blackgirlwatching.substack.com/p/the-drama-review"
+    },
+    {
+        "critic": "Linda and Al Lerner",
+        "is_top_critic": false,
+        "media": "Movies and Shakers",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-05T03:33:49.000Z",
+        "quote": "Borgli takes it too far, making wedding day way too intense, bloody and explosive. Pattinson and Zendaya show great range of emotions throughout, but even with some light comedy, it’s hard to call this psychologically depressing film a honeymoon.",
+        "url": "https://moviesandshakers.com/the-drama/"
+    },
+    {
+        "critic": "Kristy Puchko",
+        "is_top_critic": true,
+        "media": "Mashable",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-05T02:20:57.000Z",
+        "quote": "But much like Dream Scenario, his actors give more than his undercooked script deserves. ",
+        "url": "https://mashable.com/article/the-drama-movie-review-zendaya"
+    },
+    {
+        "critic": "Marianna Neal",
+        "is_top_critic": false,
+        "media": "Impression Blend",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-04-04T22:22:59.000Z",
+        "quote": "Some of the movie might leave you wondering if this is something you should be laughing at, but overall \"The Drama\" feels fresh, engaging, thought-provoking, and entertaining.",
+        "url": "https://youtube.com/shorts/7brVZcN28jU"
+    },
+    {
+        "critic": "André Hereford",
+        "is_top_critic": false,
+        "media": "Metro Weekly (Washington, DC)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-04T21:09:18.000Z",
+        "quote": "For the most part, Borgli pulls off the difficult sleight of hand, marrying modern romance to devilishly dark comedy in warmhearted harmony, till death do they part.",
+        "url": "https://www.metroweekly.com/2026/04/the-drama-movie-review/"
+    },
+    {
+        "critic": "Christopher Lloyd",
+        "is_top_critic": false,
+        "media": "The Film Yap",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2026-04-04T18:52:51.000Z",
+        "quote": "Well-acted but manipulative, starts to explore some interesting, disturbing territory but then zags in the last act into the most obvious, sitcommy space.",
+        "url": "https://filmyap.substack.com/p/the-av-room-indy-now-april-3"
+    },
+    {
+        "critic": "Andrew Parker",
+        "is_top_critic": false,
+        "media": "The Gate",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-04-04T17:34:42.000Z",
+        "quote": "I loved it. I also feel terrible after viewing it.",
+        "url": "https://www.thegate.ca/film/072404/the-drama-review-double-empathy/"
+    },
+    {
+        "critic": "Michael Ward",
+        "is_top_critic": false,
+        "media": "Should I See It",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2026-04-04T16:47:39.000Z",
+        "quote": "By the end, this pivots from an examination of human relationships to more of an experiment in audience reaction. Overall the film feels disingenuous.",
+        "url": "https://www.shouldiseeit.net/reviews/2026/the-drama-2026"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2026-04-04T12:08:21.000Z",
+        "quote": "Robert Pattinson’s performance is wonderfully suited for the Seinfeld-ian farce lying beneath the surface of this misshapen comedy that leaves too many angles dangling which reduce Zendaya’s character to more of a subject than participant.",
+        "url": "https://erikthemovieman.substack.com/p/episode-642-do-you-want-pizza-or"
+    },
+    {
+        "critic": "Jordy Sirkin",
+        "is_top_critic": false,
+        "media": "Jordy Reviews It",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-04T03:44:57.000Z",
+        "quote": "The Drama certainly has plenty of that to entertain and mortify audiences. And while the film definitely pushes boundaries, it’s a message we should perhaps not overlook as sensationalism.",
+        "url": "https://jordyreviewsit.com/2026/04/03/the-unexpected-drama-in-the-drama/"
+    },
+    {
+        "critic": "Dana Barbuto",
+        "is_top_critic": false,
+        "media": "Boston Movie News",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2026-04-04T02:57:12.000Z",
+        "quote": "\"The Drama\" doesn’t offer tidy answers; it wants you squirming, questioning trust, forgiveness, and how much truth is too much. Couples may leave the theater glancing at each other side-eyed, wondering what secrets are better left unsaid.",
+        "url": "https://bostonmovienews.com/2026/04/03/the-drama-till-doubt-do-us-part/"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5",
+        "date": "2026-04-04T00:29:51.000Z",
+        "quote": "Kristoffer Borgli’s latest film annihilates your comfort zone with a wedding story filled with cringe, tension, and remarkable performances by Zendaya and Robert Pattinson ",
+        "url": "https://fortworthreport.org/2026/04/03/the-drama-review-shotgun-wedding-not-exactly-zendaya-and-robert-pattinson-give-it-their-best-shot/"
+    },
+    {
+        "critic": "Tina Kakadelis",
+        "is_top_critic": false,
+        "media": "Beyond the Cinerama Dome",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-03T23:12:16.000Z",
+        "quote": "The Drama provides a series of dramatics, but isn’t interested in engaging with them to get to the heart of this relationship.",
+        "url": "https://beyondthecineramadome.com/movie-reviews/the-drama-film-review"
+    },
+    {
+        "critic": "Jason Adams",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-03T23:11:35.000Z",
+        "quote": "The Drama though, for all of the \"hot topics\" it stabs at in its bleak black comedy flailings, can’t seem to pin down its diagnosis. It’s screaming \"This soup is cold!\" when it’s been served a hamburger. ",
+        "url": "https://www.pajiba.com/film_reviews/zendaya-robert-pattinson-wring-what-little-life-they-can-from-the-drama.php"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-03T22:59:02.000Z",
+        "quote": "The Drama presents a darkly comedic look at a couple affected by a shocking and scandalous confession made just days before the couple's wedding. This intriguing movie is an effective satire of oversharing and keeping secrets.",
+        "url": "https://culturemixonline.com/review-the-drama-2026-starring-zendaya-and-robert-pattinson/"
+    },
+    {
+        "critic": "Daniel Barnes",
+        "is_top_critic": false,
+        "media": "Dare Daniel",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-03T22:44:48.000Z",
+        "quote": "Borgli once again manages to draw humor and poignancy out of a scenario that is not the least bit funny or poignant. ",
+        "url": "https://daredaniel.com/2026/04/03/single-take-the-drama-and-miroirs-no-3/"
+    },
+    {
+        "critic": "Rebecca Johnson",
+        "is_top_critic": false,
+        "media": "Nerdspin",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2026-04-03T22:11:30.000Z",
+        "quote": "Asking intriguing questions whilst making us uncomfortably laugh in the process, The Drama is a fresh, unique rom-com headed by two incredible central performances.",
+        "url": "https://nerdspin.com/the-drama-pattinson-zendaya-deliver-romantic-thriller/"
+    },
+    {
+        "critic": "Dan Scully",
+        "is_top_critic": false,
+        "media": "ScullyVision",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-03T22:01:06.000Z",
+        "quote": "Borgli has proven himself a master of casting a butt-clenching spell upon even the most savvy crowd, showcasing an alchemy that only cinema can provide. Yes, you should see this with a crowd.",
+        "url": "https://scullyvision.com/2026/04/03/the-drama-go-ahead-and-have-the-strangest-date-night-of-your-life-i-dare-you/"
+    },
+    {
+        "critic": "Patrick McDonald",
+        "is_top_critic": false,
+        "media": "HollywoodChicago.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-03T21:34:21.000Z",
+        "quote": "This is the type of film that lingers on the senses, and doesn't announce itself as cut and dried. Dir Borgli's unique worldview uses the wedding ceremony as an absurdist counterpoint to real life mental health issues and compatibility. Toast!",
+        "url": "https://youtu.be/A8g0nUuab3E?si=Yk_5CXMb9QFlEFy4"
+    },
+    {
+        "critic": "Shawn Edwards",
+        "is_top_critic": false,
+        "media": "Fox 4 Kansas City",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-03T21:33:00.000Z",
+        "quote": "The entire movie is one huge false note. ",
+        "url": "https://www.youtube.com/watch?v=4n8cV_h8y1c&list=PLYIuAMO7HHjjMBXV3sEz6ssmoX3rvevyL&index=1"
+    },
+    {
+        "critic": "Tom Meek",
+        "is_top_critic": false,
+        "media": "Cambridge Day",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-04-03T21:23:21.000Z",
+        "quote": "The one thing “The Drama” is not: predictable. It’s also surprisingly funny in awkward, uncomfortable ways. ",
+        "url": "https://www.cambridgeday.com/2026/04/03/reviewed-the-drama/"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "The Travers Take",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2026-04-03T20:55:11.000Z",
+        "quote": "Zendaya and Robert Pattinson bring a bracing charge to turning a romcom about wedding jitters into a deep-dish think piece about the limits of condoning violence, real or imagined. The ending doesn’t work, but oh the drama!",
+        "url": "https://www.thetraverstake.com/featured/the-drama/"
+    },
+    {
+        "critic": "Kyle Smith",
+        "is_top_critic": false,
+        "media": "Wall Street Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-03T20:41:05.000Z",
+        "quote": "Some movies are toxically misconceived, and “The Drama” is among them. It wants to be wicked and outrageous but it’s really just dismal and depressing.",
+        "url": "https://www.wsj.com/arts-culture/film/the-drama-review-zendaya-robert-pattinson-and-a-revelation-eb3ed156"
+    },
+    {
+        "critic": "Susan Kamyab",
+        "is_top_critic": false,
+        "media": "AWFJ.org",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2026-04-03T20:20:37.000Z",
+        "quote": "This film is bleak, witty, organized chaos that’s cringey, but digestible thanks to the sensational performances by the entire cast and the riveting, unforgettable premise.",
+        "url": "https://awfj.org/blog/2026/04/01/the-drama-review-by-susan-kamyab/"
+    },
+    {
+        "critic": "Frank Wilkins",
+        "is_top_critic": false,
+        "media": "Reel Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-03T19:26:59.000Z",
+        "quote": "Leaves us with a question that’s as unsettling as it is universal: Is there anything you could learn about your soulmate that would make you question your love for them?",
+        "url": "https://www.reelreviews.com/intheaters/the-drama-movie-review"
+    },
+    {
+        "critic": "Dulcie Pearce",
+        "is_top_critic": false,
+        "media": "The Sun (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-03T19:23:00.000Z",
+        "quote": "Unlike Borgli’s brilliant and un­apologetically dark and daring 2022 film, Sick Of Myself, this movie seems to stop before the real sick stuff happens. It softens too quickly.",
+        "url": "https://www.thesun.co.uk/tv/38704470/drama-film-review-kooky-stressful-dark-comedy/"
+    },
+    {
+        "critic": "Leo Brady",
+        "is_top_critic": false,
+        "media": "AMovieGuy.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-03T19:13:53.000Z",
+        "quote": "The result is a film that provokes discomfort and reflects a bleak view of modern life. It may not be perfect, but it will certainly spark conversation.",
+        "url": "https://amovieguy.com/2026/04/the-drama/"
+    },
+    {
+        "critic": "Mathew DeKinder",
+        "is_top_critic": false,
+        "media": "Mat's Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-03T19:10:14.000Z",
+        "quote": "But if you can handle a little mess, you might just find that the most exciting part of \"The Drama\" isn’t the movie itself, but the conversations it’s likely to inspire. ",
+        "url": "https://matsentertainment.com/the-drama-turns-wedding-jitters-into-delicious-chaos/"
+    },
+    {
+        "critic": "Katie Walsh",
+        "is_top_critic": true,
+        "media": "Tribune News Service",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-03T19:00:50.000Z",
+        "quote": "A film about a wedding that’s not really about a wedding, nor is it really about the confession that sends the wedding off the rails. Rather, it is about what kinds of secrets we can reveal to those closest to us and still be accepted and loved by them.",
+        "url": "https://www.courant.com/2026/04/02/movie-review-shocking-revelation-causes-a-freak-out-in-the-drama-2/"
+    },
+    {
+        "critic": "Allyson Johnson",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Rotten 🤢",
+        "score": "6/10",
+        "date": "2026-04-03T18:53:29.000Z",
+        "quote": "The Drama is often a frustrating test of patience. Its greatest strength is also its greatest weakness, possessing an inability to settle down.",
+        "url": "https://butwhytho.net/2026/04/the-drama-review-zendaya-robert-pattinson/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "Rachel's Reviews (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-03T18:40:37.000Z",
+        "quote": "The whole conflict was incredibly flimsy. One adult conversation would solve everything",
+        "url": "https://www.youtube.com/live/C6gw8UiegK8"
+    },
+    {
+        "critic": "Shalini Langer",
+        "is_top_critic": false,
+        "media": "The Indian Express",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-03T18:30:19.000Z",
+        "quote": "While the basic idea of how a relationship can easily wobble is strong, some of the set-ups seem to be staged more for laughs than real insight. However, the distractions notwithstanding, it’s hard to keep eyes off Zendaya and Pattinson.",
+        "url": "https://indianexpress.com/article/entertainment/movie-review/the-drama-movie-review-zendaya-and-robert-pattinson-are-terrific-in-kristoffer-borglis-jarring-pre-wedding-nightmare-10617561/"
+    },
+    {
+        "critic": "Kathia Woods",
+        "is_top_critic": false,
+        "media": "The Philadelphia Tribune",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-04-03T17:45:33.000Z",
+        "quote": "Borgli has constructed something far more disturbing than a breakup story. He has built a confession booth for a grief that an entire nation carries but rarely names.",
+        "url": "https://www.phillytrib.com/entertainment/movies/robert-pattinson-zendaya-put-happily-ever-to-the-test-in-the-drama/article_7eb28e1a-5a53-49f6-94d0-f5ed8893529e.html"
+    },
+    {
+        "critic": "Nandini Ramnath",
+        "is_top_critic": false,
+        "media": "Scroll.in",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-03T17:40:28.000Z",
+        "quote": "Kristoffer Borgli’s anti-romcom rattles the cage but doesn’t shatter it, leaving us with hilariously off-kilter moments and lovely scenes of a couple dragging themselves to the wedding aisle, not quite sure of anything anymore.",
+        "url": "https://scroll.in/reel/1091772/the-drama-review-relationship-film-has-a-crusty-exterior-and-a-tender-heart"
+    },
+    {
+        "critic": "Daniel M. Kimmel",
+        "is_top_critic": false,
+        "media": "North Shore Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-03T17:38:39.000Z",
+        "quote": "Unfortunately, one cannot explain why THE DRAMA is a failure without explaining its premise, which is the major spoiler. ",
+        "url": "https://northshoremovies.wpcomstaging.com/2026/04/03/review-the-drama/"
+    },
+    {
+        "critic": "Chuck Bowen",
+        "is_top_critic": false,
+        "media": "Style Weekly (Richmond, VA)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-03T17:15:31.000Z",
+        "quote": "Wanting hipster quotient for his pro forma art-fart, Borgli utilizes American trauma as an ideal accessory for Pattinson and Zendaya’s spring reveal.",
+        "url": "https://www.styleweekly.com/trauma-queen/"
+    },
+    {
+        "critic": "Codie Allen",
+        "is_top_critic": false,
+        "media": "fade in, breathe out (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-04-03T16:30:23.000Z",
+        "quote": "A jarring, frustrating mess that mishandles one of the most sensitive issues imaginable.",
+        "url": "https://fadeinbreatheout.substack.com/p/the-drama-review-misguided-messy"
+    },
+    {
+        "critic": "Anthony Morris",
+        "is_top_critic": false,
+        "media": "It's Better in the Dark",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-03T16:17:15.000Z",
+        "quote": "Patterson is basically playing a Hugh Grant character from the 1990s; it's extremely plausible he would obsess over even a minor revelation, so his growing commitment to the worst possible decisions - which drives a lot of the comedy here - works well",
+        "url": "https://itsbetterinthedark.blogspot.com/2026/04/review-drama.html"
+    },
+    {
+        "critic": "Reuben Baron",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Rotten 🤢",
+        "score": "4.5/10",
+        "date": "2026-04-03T16:15:47.000Z",
+        "quote": "The Drama is a very well-crafted, never-boring dark comedy that is unfortunately completely broken at its core, handling a loaded premise in ways that are unbelievable at best and offensively tacky at worst.",
+        "url": "https://www.looper.com/2139255/the-drama-zendaya-a24-movie-review/"
+    },
+    {
+        "critic": "Sreeju Sudhakaran",
+        "is_top_critic": false,
+        "media": "Rediff.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-03T15:47:58.000Z",
+        "quote": "The Drama is what you can call a 'feel-bad' romance done right.",
+        "url": "https://www.rediff.com/movies/review/the-drama-review-robert-pattinson-zendaya-are-superb/20260403.htm"
+    },
+    {
+        "critic": "Kyle Logan",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-03T15:29:36.000Z",
+        "quote": "Maintains a much more visceral unease than most comedies can allow without entirely giving up on being a comedy, though any genre marker seems inadequate. Except maybe \"romance,\" because ... it might just make you believe in love again.",
+        "url": "https://screenanarchy.com/2026/04/the-drama-review-viscerally-affecting-comedy.html"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-03T15:00:38.000Z",
+        "quote": "Straddling a line between exploitation and provocation, the film skillfully shifts our loyalties, challenges our boundaries, and toys with our emotions. As you laugh and cringe, it also shakes you to the core.",
+        "url": "https://cinemalogue.com/2026/04/03/the-drama/"
+    },
+    {
+        "critic": "Rain Jokinen",
+        "is_top_critic": false,
+        "media": "MullingMovies.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-03T14:42:30.000Z",
+        "quote": "Conversations about it are likely to be more complex and insightful than anything the movie has to say about the controversial topic at its center. But maybe that's the point? ",
+        "url": "https://www.mullingmovies.com/2026/04/weekend-mullings-drama.html"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-03T14:07:48.000Z",
+        "quote": "Never pedantic and is often quite (darkly) funny.",
+        "url": "https://www.thebulwark.com/p/the-drama-review"
+    },
+    {
+        "critic": "Jeanine T. Abraham",
+        "is_top_critic": false,
+        "media": "VisAbleBlackwoman (Medium)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5",
+        "date": "2026-04-03T13:35:30.000Z",
+        "quote": "The Drama reflects how within the saint there’s a sinner. Well done y’all.  Well done.\n",
+        "url": "https://medium.com/p/a3e37a4ff53f?postPublishedType=initial"
+    },
+    {
+        "critic": "CJ Sheu",
+        "is_top_critic": false,
+        "media": "Review Film Review",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-03T11:51:50.000Z",
+        "quote": "The schematic vibe of the film may make it a failure at realism, but it is successful agitprop for one important idea: Everyone is ultimately a stranger, so you should never ask your partner questions to which you’re unprepared to hear the \"wrong\" answer.",
+        "url": "https://reviewfilmreview.wordpress.com/2026/04/03/the-drama-2026/"
+    },
+    {
+        "critic": "Joseph Neff",
+        "is_top_critic": false,
+        "media": "Spectrum Culture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-03T06:47:54.000Z",
+        "quote": "The Drama may be a satisfying watch, but with an ending that’s a little familiar and a tad too tidy, the experience falls short of excellence.",
+        "url": "https://spectrumculture.com/2026/04/02/the-drama/"
+    },
+    {
+        "critic": "David Poland",
+        "is_top_critic": false,
+        "media": "Hot Button (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-03T05:08:18.000Z",
+        "quote": "I found this movie extremely frustrating. Love the actors. The direction was more than competent. Ideas were in the air. But it was too busy being clever and smirky to ever go where it kept screaming that it wanted to go. ",
+        "url": "https://open.substack.com/pub/davidpoland/p/thb-820-the-drama?r=7wlst&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Christian Toto",
+        "is_top_critic": false,
+        "media": "HollywoodInToto.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-03T03:03:13.000Z",
+        "quote": "Pattinson, Zendaya hit massive road block en route to shallow 'I do'",
+        "url": "https://www.hollywoodintoto.com/the-drama-review-zendaya-pattinson/"
+    },
+    {
+        "critic": "Russ Simmons",
+        "is_top_critic": false,
+        "media": "KKFI-FM (Kansas City)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-03T02:15:33.000Z",
+        "quote": "The scenario of \"The Drama\" is designed to make you squirm. On that count, it’s very successful.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-the-super-mario-galaxy-movie-pg-the-drama-r-a-great-awakening-pg-13/"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-03T00:43:35.000Z",
+        "quote": "The Drama, despite the misleading marketing, is an audacious work, not always entirely on point but perpetually challenging.",
+        "url": "https://aisleseat.com/the-drama.html"
+    },
+    {
+        "critic": "Amy Nicholson",
+        "is_top_critic": true,
+        "media": "Los Angeles Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-02T23:51:06.000Z",
+        "quote": "\"The Drama\" is the movie equivalent of a half-glass of Champagne: a toast Borgli trusts us to decide whether its ideas are half-empty or half-full. I’ll raise my cup to full, but only because of how pleasurably it bubbles.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-04-02/drama-review-zendaya-robert-pattinson-alana-haim-kristoffer-borgli"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-02T23:45:13.000Z",
+        "quote": "I thought it was excruciating, but in a good way.",
+        "url": "https://www.youtube.com/watch?v=c7v_-8uXcrU"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-04-02T22:25:33.000Z",
+        "quote": "Provocative, bold, and uncomfortably comedic, The Drama tackles a hot-button issue with striking nuance.",
+        "url": "https://youtu.be/ZRxJj1JojT8"
+    },
+    {
+        "critic": "Andrew Dignan",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-02T22:21:56.000Z",
+        "quote": "Luxuriates in the clammy isolation of laying yourself metaphorically bare... Depending on your appreciation for \"cringe,\" it’s as funny as it is excoriating.",
+        "url": "https://inreviewonline.com/2026/04/02/the-drama-review/"
+    },
+    {
+        "critic": "Nell Minow",
+        "is_top_critic": true,
+        "media": "Movie Mom",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2026-04-02T19:35:32.000Z",
+        "quote": "It's the kind of movie actors like to be in because of the some very intriguing acting challenges. Ifyou can handle the cringe, you will appreciate the performances, excellent as we would expect from four of the best young actors working today.",
+        "url": "https://moviemom.com/the-drama/"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-04-02T19:14:55.000Z",
+        "quote": "Borgli intends 'The Drama' to be a dark satire that upends rom-com conventions by coupling them with observations on the rot in American society.  But the goal is undercut by shallow plotting and insecure execution.",
+        "url": "https://www.oneguysopinion.com/the-drama/"
+    },
+    {
+        "critic": "Manohla Dargis",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-02T19:05:52.000Z",
+        "quote": "Zendaya and Pattinson are both enjoyable to watch, but she’s given too little to do and he’s given too much. ",
+        "url": "https://www.nytimes.com/2026/04/02/movies/the-drama-review-zendaya-robert-pattinson.html"
+    },
+    {
+        "critic": "Rodrigo Perez",
+        "is_top_critic": false,
+        "media": "The Playlist",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-04-02T18:58:10.000Z",
+        "quote": "...the experience will definitely feel too punishing for some. But for anyone with a high tolerance for embarrassing social nightmares and emotional sadism, Borgli extracts real big LOLs from the slow, steady erosion of composure.",
+        "url": "https://theplaylist.net/the-drama-review-robert-pattinson-crashes-out-in-kristoffer-borglis-twisted-nightmare-wedding-comedy-20260402/"
+    },
+    {
+        "critic": "Rachit Gupta",
+        "is_top_critic": false,
+        "media": "Filmfare",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-02T18:56:05.000Z",
+        "quote": "Despite its prickly nature, The Drama is one of the most provocative and intelligent films of the year. It is a thorny exploration of the primordial desire for connection and the equally strong urge for destruction. ",
+        "url": "https://www.filmfare.com/reviews/hollywood-movies/the-drama-review-a-brutal-brilliant-deconstruction-of-love-82862.html"
+    },
+    {
+        "critic": "Kimberley Jones",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-02T18:54:38.000Z",
+        "quote": "Zendaya gets a fully adult role to stretch out in and show off her range, from sweet to steely to utterly undone. ",
+        "url": "https://www.austinchronicle.com/screens/film-review/the-drama-review-to-spill-or-not-to-spill/"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-02T18:52:29.000Z",
+        "quote": "It was heavy, hilarious, engaging.",
+        "url": "https://www.youtube.com/watch?v=2EGn3rJB7DI"
+    },
+    {
+        "critic": "Alex Bentley",
+        "is_top_critic": false,
+        "media": "CultureMap",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-02T18:22:55.000Z",
+        "quote": "The situation in which Emma and Charlie find themselves in The Drama is not one to be wished on anyone, but it’s presented well by Borgli, keeping tensions high for the bulk of the film. ",
+        "url": "https://dallas.culturemap.com/news/entertainment/zendaya-and-robert-pattinson-face-pre-marriage-jitters-in-the-drama/"
+    },
+    {
+        "critic": "Sandra Hall",
+        "is_top_critic": true,
+        "media": "The Age (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-02T18:22:51.000Z",
+        "quote": "It all confirms Borgli’s credentials as a skilled satirist as well as showing that he’s a master when it comes to fomenting suspense. His ending lives up to your expectations and your forebodings. ",
+        "url": "https://www.theage.com.au/culture/movies/robert-pattinson-and-zendaya-s-romantic-drama-with-bite-and-other-new-movies-to-watch-this-week-20260401-p5zkno.html"
+    },
+    {
+        "critic": "Caroline Siede",
+        "is_top_critic": true,
+        "media": "Girl Culture (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2026-04-02T17:58:46.000Z",
+        "quote": "The Drama aims to provoke, but ends up as another entry in the male auteur \"would you still love me if I were a worm?\" cinematic canon.",
+        "url": "https://girlculture.substack.com/p/the-drama-isnt-worth-the-fuss"
+    },
+    {
+        "critic": "Stephanie Zacharek",
+        "is_top_critic": true,
+        "media": "TIME Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-02T17:52:24.000Z",
+        "quote": "It’s hard to have any idea what The Drama is trying to say or do, beyond tease its audience with its lack of specificity.",
+        "url": "https://time.com/article/2026/03/31/the-drama-review/"
+    },
+    {
+        "critic": "Deborah Ross",
+        "is_top_critic": true,
+        "media": "The Spectator",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-02T17:05:28.000Z",
+        "quote": "It is intended to shock but it may not be as shocking as it thinks it is -- or even very convincing.",
+        "url": "https://spectator.com/article/the-drama-makes-no-sense/?edition=us"
+    },
+    {
+        "critic": "Lachmi Deb Roy",
+        "is_top_critic": false,
+        "media": "Firstpost",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-02T17:04:11.000Z",
+        "quote": "Not just a humorous romantic success story, [The] Drama is much more complex than what you can think it to be. It is indeed a raw and intense love story and a very intelligently made film. ",
+        "url": "https://www.firstpost.com/entertainment/drama-movie-review-zendaya-and-robert-pattinson-wedding-film-is-deliciously-dark-and-intense-13995346.html"
+    },
+    {
+        "critic": "Barry Hertz",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-02T16:55:30.000Z",
+        "quote": "There is some drama here, all right. But the curtain can’t draw down soon enough.",
+        "url": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-the-drama-review-robert-pattinson-zendaya-kristoffer-borgli/"
+    },
+    {
+        "critic": "Chase Hutchinson",
+        "is_top_critic": false,
+        "media": "The Inlander (Spokane, WA)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-02T16:08:11.000Z",
+        "quote": "Yet while the filmmaker’s latest lacks the same withering and ultimately mournful power as his feature debut, 2022’s shattering Sick of Myself, it also proves to be far more interesting than his hit-and-miss 2023 film Dream Scenario. ",
+        "url": "https://www.inlander.com/screen/zendaya-and-robert-pattinson-are-a-match-made-in-hell-in-the-bleakly-funny-if/article_3e06b47d-8e81-4d84-be13-19f72c27eeb2.html"
+    },
+    {
+        "critic": "Samuel Leggett Jr.",
+        "is_top_critic": false,
+        "media": "JVS Media & Productions/Team JVS",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2026-04-02T15:50:00.000Z",
+        "quote": "It's well acted, it's well scripted and it completely catches you off guard... they both in their own right to me give award-worthy performances. I really think that they got something special here.",
+        "url": "https://youtu.be/ngQHL1y_ICw?si=GL9kVTRfeZb9J4bH"
+    },
+    {
+        "critic": "Alan Zilberman",
+        "is_top_critic": false,
+        "media": "Washington City Paper",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-02T15:22:59.000Z",
+        "quote": "It reminds us that, underneath the trappings of an otherwise strong relationship, whether it’s Charlie and Emma or our own, there is always a possibility of Bergman-esque existential drama bubbling to the surface. ",
+        "url": "https://washingtoncitypaper.com/article/782993/the-drama-exhumes-the-inherent-terror-of-marriage/"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2026-04-02T15:17:39.000Z",
+        "quote": "Packed with provocation, The Drama superficially misfires in its performative execution.\n",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=6467ea73-e24e-4633-ba38-7fcce5a5952d"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-02T14:40:16.000Z",
+        "quote": "Unconventional and uncomfortable, The Drama is a showcase for Zendaya and Robert Pattinson who bring messy humanity to their characters that feels authentic no matter how twisted the plot machinations.",
+        "url": "https://richardcrouse.ca/the-drama-4-stars-dark-material-somehow-maintains-a-fizzy-tone/"
+    },
+    {
+        "critic": "Kim Hughes",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2026-04-02T14:08:11.000Z",
+        "quote": "Writer-director Kristoffer Borgli’s exceedingly black comedy completely deconstructs the rom-com, casting it as both a shiny and sinister thing… and one frequently inducing vomiting.",
+        "url": "https://www.original-cin.ca/posts/2026/4/2/the-drama-when-pre-wedding-jitters-shoot-sky-high"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2026-04-02T14:00:31.000Z",
+        "quote": "Zendaya and Pattinson give such nuanced and riotous performances, each teeming with anxiety and terror over their exposure, that I found it impossible not to enjoy even its edgiest and most mortifying scenes.",
+        "url": "https://www.deepfocusreview.com/reviews/the-drama/"
+    },
+    {
+        "critic": "Maxance Vincent",
+        "is_top_critic": false,
+        "media": "The Cosmic Circus",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-04-02T13:48:17.000Z",
+        "quote": "The Drama is somewhat intriguing, but I can’t be certain that it all works.",
+        "url": "https://thecosmiccircus.com/the-drama-movie-review-a24/"
+    },
+    {
+        "critic": "Yasmin Omar",
+        "is_top_critic": false,
+        "media": "The Curzon Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-02T12:13:26.000Z",
+        "quote": "The Drama constructs a trolley problem for the Instagram age that could easily double as a viral op-ed from The Cut’s relationships section.",
+        "url": "https://www.curzon.com/journal/the-drama-review-a-bitterly-funny-anti-rom-com/"
+    },
+    {
+        "critic": "Damien Straker",
+        "is_top_critic": false,
+        "media": "Impulse Gamer",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-02T08:42:46.000Z",
+        "quote": "An effective cocktail of cultural satire and twisted imagination. It will have people debating whether action and intent equally define us. \n\n",
+        "url": "https://www.impulsegamer.com/the-drama-film-review-2/"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-04-02T05:22:59.000Z",
+        "quote": "It’s provocative, yes. Potentially confronting, absolutely. But above all, it’s thrillingly alive – messy, funny, unsettling, and just a little bit dangerous. Exactly the kind of drama worth having.",
+        "url": "https://www.theaureview.com/watch/film-review-the-drama/"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-02T05:01:07.000Z",
+        "quote": "[I]t's funny, in significant part because it dares to discomfort and provoke in such a specific way.",
+        "url": "http://www.markreviewsmovies.com/reviews/D/drama.htm"
+    },
+    {
+        "critic": "Lady Jenevia",
+        "is_top_critic": false,
+        "media": "LadyJenevia (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-02T04:36:19.000Z",
+        "quote": "In the most unpleasant, 'explore the ugliest caverns of a person’s interiority' type of way, this film could be said to be romantic, but not to the people in the audience who will be put off by how humiliating this story is for both of its leads.",
+        "url": "https://youtu.be/3xyzB-c2rIk"
+    },
+    {
+        "critic": "Doug Jamieson",
+        "is_top_critic": false,
+        "media": "The Jam Report",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-02T02:06:18.000Z",
+        "quote": "Dark, daring, and deeply uncomfortable, this is a love story that asks whether knowing everything about your significant other is a gift, a curse...or perhaps both.",
+        "url": "https://thejamreport.com/2026/04/02/review-the-drama-a-dark-daring-love-story-that-refuses-to-play-nice/"
+    },
+    {
+        "critic": "Andiee Paviour",
+        "is_top_critic": false,
+        "media": "Nobody's Reading This But Me",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-01T22:53:57.000Z",
+        "quote": "The laugh-out-loud moments are deep-rooted in disturbing home truths.",
+        "url": "https://www.nobodysreadingthisbutme.com/2026/03/30/the-drama/"
+    },
+    {
+        "critic": "Danny Leigh",
+        "is_top_critic": false,
+        "media": "Financial Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-04-01T21:14:04.000Z",
+        "quote": "With giddy glee, Borgli is testing our discomfort with the taboo he drops into the heart of his film. Yet he also seems sure you will think The Drama (almost) as brilliant as he does.\n",
+        "url": "https://www.ft.com/content/ff21853d-c7da-4787-801e-63b4414b81f0"
+    },
+    {
+        "critic": "Shreyas Pande",
+        "is_top_critic": false,
+        "media": "The Hindu",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T21:11:16.000Z",
+        "quote": "It is all filmed with sensitivity, mingling rather smoothly with the changing dynamics between Emma and Charlie, knowing when to pull back from its ironical overlays and cast an eye of empathy.",
+        "url": "https://www.thehindu.com/entertainment/movies/the-drama-movie-review-zendaya-and-robert-pattinson-glitter-and-jitter-in-crackling-edgy-romance/article70810870.ece"
+    },
+    {
+        "critic": "Hannah Strong",
+        "is_top_critic": true,
+        "media": "Little White Lies",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-01T21:11:00.000Z",
+        "quote": "The prickly tension between fantasy and reality in The Drama feels particularly well-judged, both in the relationship between Charlie and Emma and within Emma’s dark confession.",
+        "url": "https://lwlies.com/reviews/the-drama"
+    },
+    {
+        "critic": "Odie Henderson",
+        "is_top_critic": true,
+        "media": "Boston Globe",
+        "sentiment": "Rotten 🤢",
+        "score": "0/4",
+        "date": "2026-04-01T21:10:31.000Z",
+        "quote": "I’m beginning to wonder if today’s filmmakers understand the concept of satire. Outside of Jordan Peele, the situation is dire enough for Paddy Chayefsky to spin in his grave. ",
+        "url": "https://www.bostonglobe.com/2026/03/31/arts/the-drama-robert-pattinson-zendaya/"
+    },
+    {
+        "critic": "India Block",
+        "is_top_critic": false,
+        "media": "London Evening Standard",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2026-04-01T20:52:34.000Z",
+        "quote": "It’s cringe-inducing and gross-out in places, but artfully shot, interestingly edited and set to some of the freakest flute toots in arthouse cinema. ",
+        "url": "https://www.standard.co.uk/culture/film/the-drama-review-zendaya-and-robert-pattinson-b1277224.html"
+    },
+    {
+        "critic": "Jeff York",
+        "is_top_critic": false,
+        "media": "The Establishing Shot",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2026-04-01T20:39:32.000Z",
+        "quote": "Borgli’s pungent take makes the case that love is nothing if not exceedingly hard, requiring not only sensitivity and forgiveness, but adaptation, moral character even in the most daunting moments, and frankly, the backbone of an ox.  ",
+        "url": "https://theestablishingshot.org/2026/04/the-drama-showcases-just-how-fragile-funny-love-can-be/"
+    },
+    {
+        "critic": "Larushka Ivan-Zadeh",
+        "is_top_critic": true,
+        "media": "Time Out",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-01T20:36:04.000Z",
+        "quote": "It’s about cold feet and how well we know the people close to us or want to -- the irony being the movie itself doesn’t seem all that invested in its own characters, who rarely behave like plausible human beings.",
+        "url": "https://www.timeout.com/movies/the-drama-review-2026"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-01T20:33:42.000Z",
+        "quote": "The fact that so much hinges on the poking of a wound doesn’t automatically make it audacious in a way that’s taboo-breaking. It’s the sort of too-edgy-for-the-mainstream movie that’s not nearly as edgy as it thinks it is.",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/the-drama-review-zendaya-robert-pattinson-1235537504/"
+    },
+    {
+        "critic": "Peter Sobczynski",
+        "is_top_critic": false,
+        "media": "Auteurist Class (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T19:20:20.000Z",
+        "quote": "The fact that it is willing to push, prod and provoke audiences instead of merely placating them is something worth celebrating.",
+        "url": "https://open.substack.com/pub/petersobczynski/p/champagne-problems-or-rue-the-past?r=129p34&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Robin Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2026-04-01T19:15:12.000Z",
+        "quote": "Writer-director Kristoffer Borgli lays out the dilemma quickly and milks it longer than it should, though Pattinson does the slow burn to manic comic purpose.",
+        "url": "https://www.reelingreviews.com/reviews/the-drama/"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "Eric Goldman's Cultured Pop (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T18:35:54.000Z",
+        "quote": "Pattinson and Zendaya play off each other very well when Emma and Charlie are feeling madly in love and then are even better as things are collapsing around them and everything they do becomes charged and performative.",
+        "url": "https://ericgoldman.substack.com/p/review-the-drama-delivers-on-the"
+    },
+    {
+        "critic": "Jourdain Searles",
+        "is_top_critic": false,
+        "media": "The Film Stage",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T17:46:32.000Z",
+        "quote": "Zendaya delivers one of her best performances, externalizing the film’s racial politics by being a perfectly normal, loving partner marginalized by the narrative constructed around her. ",
+        "url": "https://thefilmstage.com/the-drama-review-kristoffer-borglis-provocations-mask-greater-ignorance/"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Daily Telegraph (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-01T17:45:55.000Z",
+        "quote": "Zendaya and Pattinson are expertly cast in two tonally different, but equally difficult roles. Yes, they have chemistry, but it is the commitment they display to their characters in crisis that truly impresses here.",
+        "url": "https://www.dailytelegraph.com.au/entertainment/movies/the-drama-review-sick-twist-ruins-perfect-wedding-in-zendaya-and-robert-pattinsons-new-movie/news-story/a2e0b96150412ca5f95ea22830de90d0"
+    },
+    {
+        "critic": "Johnny Oleksinski",
+        "is_top_critic": false,
+        "media": "New York Post",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-01T17:42:28.000Z",
+        "quote": "Much of “The Drama” is gripping, quite stressfully so, and it’s sometimes stomach-churning in the topical subjects it touches.",
+        "url": "https://nypost.com/2026/03/31/entertainment/the-drama-review-zendaya-and-robert-pattinson-star-in-one-of-the-most-controversial-movies-of-the-year/"
+    },
+    {
+        "critic": "Anushka Halve",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter India",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-04-01T17:40:54.000Z",
+        "quote": "A smug, uncomfortable romance that never quite earns its own provocation.\n",
+        "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/the-drama-movie-review-a-clever-unsettling-romance-that-mistakes-repetition-for-revelation"
+    },
+    {
+        "critic": "Moira MacDonald",
+        "is_top_critic": false,
+        "media": "Seattle Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2026-04-01T17:40:22.000Z",
+        "quote": "Zendaya, as always, lifts the movie higher.",
+        "url": "https://www.seattletimes.com/entertainment/movies/the-drama-review-fine-performances-cant-save-uninteresting-story/"
+    },
+    {
+        "critic": "Nick Johnston",
+        "is_top_critic": false,
+        "media": "Vanyaland",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T17:39:01.000Z",
+        "quote": "Pattinson is fantastic, evoking the sort of buttoned-up goofball that Cary Grant played for Howard Hawks in Bringing Up Baby, only it’s his internal conflict rather than Katharine Hepburn causing him so much trouble. ",
+        "url": "https://vanyaland.com/2026/04/01/the-drama-review-the-boston-cream-of-the-crop/"
+    },
+    {
+        "critic": "Peter Howell",
+        "is_top_critic": false,
+        "media": "Toronto Star",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-04-01T17:15:47.000Z",
+        "quote": "Kristoffer Borgli’s marital dramedy turns the rituals of love and commitment into a warped mirror for modern guilt, exposing how easily intimacy curdles into self-serving hypocrisy.",
+        "url": "https://www.thestar.com/entertainment/movies/zendaya-shares-a-devastating-secret-with-robert-pattinson-in-the-drama-a-traumatic-dark-comedy/article_0c58c46c-8952-464d-b927-da0c78a627d2.html"
+    },
+    {
+        "critic": "Randy Myers",
+        "is_top_critic": false,
+        "media": "San Jose Mercury News",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2026-04-01T16:07:41.000Z",
+        "quote": "The Drama might seem like it’s an anti-wedding movie. But it deserves better than that since, in the end, it asks the most essential question any couple needs to answer before exchanging rings: Is it really worth all the drama?",
+        "url": "https://www.mercurynews.com/2026/04/01/review-the-drama-takes-wedding-jitters-to-chilling-heights/"
+    },
+    {
+        "critic": "Matt Maytum",
+        "is_top_critic": false,
+        "media": "NME (New Musical Express)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-04-01T15:55:07.000Z",
+        "quote": "This is cinema to make you squirm",
+        "url": "https://www.nme.com/reviews/film-reviews/the-drama-review-zendaya-robert-pattinson-trigger-warning-3938011"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T15:44:21.000Z",
+        "quote": "Handling the nature of what’s being discussed in such a darkly comedic way is key. Because of the writing and directorial choices, there’s plenty to latch onto in terms of this film’s take on entertainment value.",
+        "url": "https://weliveentertainment.com/welivefilm/the-drama-review-it-had-to-be-you/"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-04-01T15:14:29.000Z",
+        "quote": "A Twisted dark comedy that takes the most stressful piece of a couples life & twists it into an even darker pit of uncomfortability, moral thoughts, & even makes for a deconstruction of romcoms. Pattinson + Zendaya are great",
+        "url": "https://youtu.be/pBWO96vwL0I?si=OMZBdEJObQmOHrqR"
+    },
+    {
+        "critic": "Emma Simmonds",
+        "is_top_critic": false,
+        "media": "The List",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-01T14:00:10.000Z",
+        "quote": "The ideal fit for our social media obsessed age, a time of extreme content and quests for perfection. The Drama shows us the horror behind a carefully cultivated façade.",
+        "url": "https://list.co.uk/news/the-drama-film-review-haunting-and-unsettling-48202"
+    },
+    {
+        "critic": "Edgar Ortega",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-01T07:06:33.000Z",
+        "quote": "Even for those who might perceive the film’s subject matter as problematic, I find it hard to believe they would not acknowledge that, if The Drama works on any level, it is because of the performances.",
+        "url": "https://loudandclearreviews.com/the-drama-movie-review/"
+    },
+    {
+        "critic": "Stephen A. Russell",
+        "is_top_critic": false,
+        "media": "ScreenHub",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-04-01T04:01:47.000Z",
+        "quote": "Twists what appears to be a sassy romantic comedy right out of shape, bent into an anxiety-inducing WTF ... Borgli’s The Drama, expertly commanded by Zendaya and Pattinson sliding along the knife’s edge, is the moment we find ourselves mired in.",
+        "url": "https://bit.ly/4m3ApVy"
+    },
+    {
+        "critic": "Chris Tait",
+        "is_top_critic": false,
+        "media": "Tait's Take (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-04-01T03:32:01.000Z",
+        "quote": "Here we have an original idea, great cast, and a movie that’s gonna have people talking at the end of it!",
+        "url": "https://youtu.be/d0ba2xcIL1w?si=bbEM1-AZodmZ1bfd"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "The SS Ben Hecht",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T21:25:05.000Z",
+        "quote": "I admired its audacity, as it’s a movie about relationships and marriage that’s dramatically different from every other one I’ve ever seen",
+        "url": "https://stephensilver.substack.com/p/the-drama-is-a-delightfully-uncomfortable"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2026-03-31T20:36:56.000Z",
+        "quote": "This absorbing, darkly funny film seems to exist to challenge the limits of empathy. It makes for multi-layered characters and drama worth revisiting",
+        "url": "https://www.flickeringmyth.com/movie-review-the-drama-2026/"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-03-31T20:30:54.000Z",
+        "quote": "It’s not the love story you’d expect, but it’s one you’ll never forget.",
+        "url": "https://www.comingsoon.net/movies/reviews/2114084-the-drama-review-zendaya-robert-pattinsons-dark-movie"
+    },
+    {
+        "critic": "Rendy Jones",
+        "is_top_critic": false,
+        "media": "Rendy Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5 ",
+        "date": "2026-03-31T20:15:21.000Z",
+        "quote": "A sharp, unapologetic, deeply funny, and tragic fable about the importance of accepting one's entire past before saying \"I do.\" Though I am getting slightly burned by Borgli going for \"ego death\" as his main mode of operation. ",
+        "url": "https://www.rendyreviews.com/movie-reviews/the-drama-review"
+    },
+    {
+        "critic": "Kyle Pinion",
+        "is_top_critic": false,
+        "media": "Screen Rex",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T20:12:36.000Z",
+        "quote": "A movie with balls, with a capital B.",
+        "url": "https://screenrex.com/the-drama/"
+    },
+    {
+        "critic": "Lauren Veneziani",
+        "is_top_critic": false,
+        "media": "DC Film Girl",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2026-03-31T20:11:37.000Z",
+        "quote": "A completely unpredictable love story. Zendaya and Robert Pattinson give two of the most memorable performances of the year in a film about toxic love, trust, forgiveness and all around unhinged craziness! ",
+        "url": "https://www.youtube.com/shorts/p2k_4wAmRqE"
+    },
+    {
+        "critic": "Kevin Slane",
+        "is_top_critic": false,
+        "media": "Boston.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-03-31T19:26:47.000Z",
+        "quote": "Borgli has purpose-built \"The Drama\" to provoke, unnerve, and leave you wondering if you’re allowed to laugh at its audacity.",
+        "url": "https://www.boston.com/culture/movie-reviews/2026/03/31/the-drama-movie-review-robert-pattinson-zendaya/"
+    },
+    {
+        "critic": "Mark Kennedy",
+        "is_top_critic": false,
+        "media": "Associated Press",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2026-03-31T19:25:39.000Z",
+        "quote": "The writer-director has miscalculated badly. Maybe he’s trolling America but “The Drama” is clearly the worst thing he’s ever done.",
+        "url": "https://apnews.com/article/drama-movie-review-zendaya-robert-pattinson-d1f403692c80c5cb5fc1864500925def"
+    },
+    {
+        "critic": "Nikki Gemmell",
+        "is_top_critic": false,
+        "media": "The Australian",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2026-03-31T18:15:16.000Z",
+        "quote": "The Drama is a film written by a man about a complicated female. As a woman, it doesn’t ring true. It normalises violent psychopathic tendencies in females – I didn’t have that on my bingo card for a movie marketed as a...black comedy about weddings.",
+        "url": "https://www.theaustralian.com.au/culture/zendaya-new-film-the-dramas-twist-is-a-repulsive-one-star-mess/news-story/a412f5825e6c466d4241cf2e83c8ac3b"
+    },
+    {
+        "critic": "David Gonzalez",
+        "is_top_critic": false,
+        "media": "The Cinematic Reel",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-03-31T17:53:30.000Z",
+        "quote": "Anchored by two compelling performances and a premise that sparks conversation long after the credits roll, Borgli delivers a film that may divide audiences, but never feels disposable.",
+        "url": "https://thecinematicreel.com/the-drama/"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2026-03-31T17:46:35.000Z",
+        "quote": "Kristoffer Borgli imbues his bleakly comic stress-test of modern romance with a destabilizing cinematic energy, as a deep, dark, and very American secret threatens his characters’ domestic bliss ",
+        "url": "https://www.ign.com/articles/the-drama-review-robert-pattinson-zendaya"
+    },
+    {
+        "critic": "Tim Robey",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2026-03-31T17:44:44.000Z",
+        "quote": "The Drama promises bombshell revelations and the wedding from hell, but serves up a cramped, feel-bad, unromantic comedy with characters we don’t care about.",
+        "url": "https://www.telegraph.co.uk/films/2026/03/31/zendaya-robert-pattinson-drama-review/"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-03-31T17:16:17.000Z",
+        "quote": "It’s a deeply uncomfortable film, good for some nervous laughter, and is a movie that is sure to spark intense conversations.",
+        "url": "https://punchdrunkcritics.com/2026/03/drama-65680/"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T17:14:28.000Z",
+        "quote": "It’s disquieting, and even though it’s also riveting, it’s difficult to shake the sense that everyone is getting away with something they shouldn’t.",
+        "url": "https://www.thewrap.com/creative-content/reviews/the-drama-review-zendaya-robert-pattinson/"
+    },
+    {
+        "critic": "Rachel Ho",
+        "is_top_critic": false,
+        "media": "Exclaim!",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-03-31T16:36:19.000Z",
+        "quote": "The Drama rings true to its title, but it serves up far more than piping hot tea.",
+        "url": "https://exclaim.ca/film/article/the-drama-film-review"
+    },
+    {
+        "critic": "Alonso Duralde",
+        "is_top_critic": true,
+        "media": "The Film Verdict",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T15:48:57.000Z",
+        "quote": "More’s the pity, then, that Borgli whiffs the ending, because up until the film’s final sequence, he’s made the most of an uncomfortable situation. ",
+        "url": "https://thefilmverdict.com/the-drama-film-review/"
+    },
+    {
+        "critic": "Danielle Solzman",
+        "is_top_critic": false,
+        "media": "Solzy at the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "0.5/5",
+        "date": "2026-03-31T14:27:10.000Z",
+        "quote": "The Drama is not the film it was marketed to be, and that disconnect is both misleading and irresponsible.",
+        "url": "https://solzyatthemovies.com/2026/03/31/the-drama-2026/"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-03-31T14:11:24.000Z",
+        "quote": "The Drama douses the romcom fantasy in gasoline and lights a bonfire. Robert Pattinson and Zendaya are fantastic in a darkly comic exploration of America's worst tragedy.",
+        "url": "https://movieweb.com/the-drama-review/"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T13:51:53.000Z",
+        "quote": "A haunting character study that will surely have viewers feverishly debating with one another as they walk out of the theater.",
+        "url": "https://mamasgeeky.com/2026/03/the-drama-review-zendaya-robert-pattinson-at-their-best.html"
+    },
+    {
+        "critic": "Caralynn Matassa",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2026-03-31T13:46:09.000Z",
+        "quote": "It is prickly, ugly, hilarious, and destined to divide audiences. But even when it threatens to spin out, it remains gripping.",
+        "url": "https://www.cbr.com/the-drama-review/"
+    },
+    {
+        "critic": "Brandon Lewis",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2026-03-31T13:39:04.000Z",
+        "quote": "The final 40 or so minutes should be several steps too far, and, on paper, it is. Yet, we can’t help but be transfixed by Borgli’s take-no-prisoners audacity.",
+        "url": "https://fandomwire.com/the-drama-review-zendaya-robert-pattinson/"
+    },
+    {
+        "critic": "Robert Daniels",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2026-03-31T13:37:49.000Z",
+        "quote": "What gives this glib, circuitous film the right to persecute the apathetic when it barely understands its own characters?",
+        "url": "https://www.rogerebert.com/reviews/the-drama-robert-pattinson-zendaya-a24-film-review-2026"
+    },
+    {
+        "critic": "David Ehrlich",
+        "is_top_critic": true,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-03-31T13:27:53.000Z",
+        "quote": "Hell is always other people in Borgli’s films, and this one -- if thinner and more rhetorical than his others -- stands out for how sharply it details the freefall down from heaven. ",
+        "url": "https://www.indiewire.com/criticism/movies/the-drama-movie-review-robert-pattinson-zendaya-1235186011/"
+    },
+    {
+        "critic": "Rihaana Stephens",
+        "is_top_critic": false,
+        "media": "Geeks of Color",
+        "sentiment": "Fresh 🍅",
+        "score": "10/10",
+        "date": "2026-03-31T13:23:13.000Z",
+        "quote": "If you want to laugh, cringe, cry, and just have a good time in a room packed full of fans, please do yourself a favor and see The Drama.",
+        "url": "https://geeksofcolor.co/2026/03/31/the-drama-review/"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-03-31T13:22:39.000Z",
+        "quote": "Both Zendaya and Pattinson strike a perfect balance between a loving couple you want to see figure it out and the right amount of tension that makes The Drama a fascinating watch.",
+        "url": "https://www.themarysue.com/the-drama-review-robert-pattinson-learns-a-hard-lesson-about-compassion-for-zendaya-in-the-new-a24-film/"
+    },
+    {
+        "critic": "Laura Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T13:22:36.000Z",
+        "quote": "Borgli has specialized in a type of dark comedy where people's worst impulses spiral out of control.  But while that is also true of his latest, what he's pinned on Emma is a really questionable choice to mine for comedy.\n",
+        "url": "https://www.reelingreviews.com/reviews/the-drama/"
+    },
+    {
+        "critic": "G. Allen Johnson",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2026-03-31T13:21:50.000Z",
+        "quote": "It’s Zendaya’s movie. Her layered performance holds back then lets go as Emma’s full complexity is gradually revealed. If you can’t get on board with Emma, then you’re the problem -- which partly is Borgli’s intention.",
+        "url": "https://www.sfchronicle.com/entertainment/movies-tv/article/zendaya-the-drama-review-22095188.php"
+    },
+    {
+        "critic": "Kevin Maher",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2026-03-31T13:19:53.000Z",
+        "quote": "A nuptial apocalypse has rarely been explored with such dark intelligence and mordant wit as in this often piercing and cringe-out-loud dramedy starring Robert Pattinson and Zendaya. ",
+        "url": "https://www.thetimes.com/culture/film/article/the-drama-review-robert-pattinson-and-zendaya-excel-in-cringe-out-loud-satire-qpl7rblx5"
+    },
+    {
+        "critic": "Brian Truitt",
+        "is_top_critic": false,
+        "media": "USA Today",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-03-31T13:18:51.000Z",
+        "quote": "One of the boldest, brashest movies in some time... When not giddily tearing apart the rom-com, Borgli asks really major thematic questions with his controversial subject matter.",
+        "url": "https://www.usatoday.com/story/entertainment/movies/2026/03/31/the-drama-movie-review-robert-pattinson-zendaya/89339703007/"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T13:17:32.000Z",
+        "quote": "While the film’s balance of thorny laughs and thought-provoking themes is not always smoothly executed, Borgli’s provocation succeeds thanks to the grounded performances of his stars.",
+        "url": "https://www.screendaily.com/reviews/the-drama-review-zendaya-and-robert-pattinson-steer-provocative-dark-comedy/5215155.article"
+    },
+    {
+        "critic": "Clarisse Loughrey",
+        "is_top_critic": true,
+        "media": "Independent (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-03-31T13:16:30.000Z",
+        "quote": "It’s provocative and compulsively watchable -- a romcom that obliterates the very meaning of the word by thrusting love underneath the psychoanalyst’s microscope and tearing laughter by force from its audience’s throats.",
+        "url": "https://www.the-independent.com/arts-entertainment/films/reviews/the-drama-review-zendaya-robert-pattinson-b2948988.html"
+    },
+    {
+        "critic": "Pete Hammond",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T13:15:07.000Z",
+        "quote": "As for the stars they could not be better, especially Pattinson who shows levels of vulnerability I have not noticed before. His journey into the dark side with his financee is pitch perfect.",
+        "url": "https://deadline.com/2026/03/the-drama-review-zendaya-robert-pattinson-wedding-problems-1236769484/"
+    },
+    {
+        "critic": "Natalia Keogan",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2026-03-31T13:12:59.000Z",
+        "quote": "A wonderfully thorny exploration of primordial desires for connection, destruction, and stability. Don’t expect any genuine relationship advice, but also be warned that this is not a glib exercise in aimless edginess. ",
+        "url": "https://www.avclub.com/the-drama-review"
+    },
+    {
+        "critic": "Emma Stefansky",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-03-31T13:11:40.000Z",
+        "quote": "As dark as it gets, it is often hilarious in that cruel, keen way that Borgli has proved to be a specialist. ",
+        "url": "https://www.empireonline.com/movies/reviews/the-drama/"
+    },
+    {
+        "critic": "Richard Lawson",
+        "is_top_critic": true,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T13:11:02.000Z",
+        "quote": "A handsomely made, sharply performed letdown. It is yet another example of a far too common occurrence: a kicky logline premise having no real structure behind it. ",
+        "url": "https://www.empireonline.com/movies/reviews/the-drama/"
+    },
+    {
+        "critic": "Peter Bradshaw",
+        "is_top_critic": true,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-03-31T13:08:59.000Z",
+        "quote": "It offers us a provocation, a jeu d’ésprit of outrage, a psychological meltdown that is more astutely articulated than in many another more solemnly intended film. And it gives us what it promises in the title.",
+        "url": "https://www.theguardian.com/film/2026/mar/31/the-drama-review-zendaya-robert-pattinson-wedding-film"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T13:06:59.000Z",
+        "quote": "You’ve got to say this much for Kristoffer Borgli: In “The Drama” he’s an original, like the bastard stepchild of Dogme 95 and “Wedding Crashers.”",
+        "url": "https://variety.com/2026/film/reviews/the-drama-review-robert-pattinson-zendaya-1236701583/"
+    },
+    {
+        "critic": "Rocco T. Thompson",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2026-03-31T12:33:10.000Z",
+        "quote": "Kristoffer Borgli delights in creating a hypothetical trap for his lovers, but he also acknowledges that there’s something romantic about being stuck in it together.",
+        "url": "https://www.slantmagazine.com/film/the-drama-review-robert-pattinson-zendaya/"
+    },
+    {
+        "critic": "Chris Bumbray",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T12:27:08.000Z",
+        "quote": "Deliberately provocative, but refreshingly European feeling and far removed from the mainstream despite the starry cast.",
+        "url": "https://www.joblo.com/the-drama-review-the-controversial-a24-movie-will-be-divisive/"
+    },
+    {
+        "critic": "Jackson Weaver",
+        "is_top_critic": false,
+        "media": "CBC News",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2026-03-31T12:26:31.000Z",
+        "quote": "The Drama's squirm-inducing, watch-through-your-fingers-style comedy stands a greater chance of alienating mainstream audiences than enraging them. But however divisive it ends up being, it won't remove its value. ",
+        "url": "https://www.cbc.ca/news/entertainment/the-drama-review-9.7147900"
+    },
+    {
+        "critic": "Lauren LaMagna",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2026-03-31T12:25:18.000Z",
+        "quote": "But, despite the controversial subject matter, the film would not be nearly as strong without Zendaya and Pattinson delivering these complex performances.",
+        "url": "https://nextbestpicture.com/the-drama-review/"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2026-03-31T12:15:27.000Z",
+        "quote": "Plays like a torturous tone-deaf joke that won’t end.",
+        "url": "https://www.thedailybeast.com/obsessed/the-drama-robert-pattinson-and-zendayas-new-movie-has-an-insane-secret/"
+    },
+    {
+        "critic": "Sherin Nicole",
+        "is_top_critic": false,
+        "media": "RIOTUS",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T11:12:19.000Z",
+        "quote": "highly effective but emotionally challenging...The Drama isn’t an easy film; its finish is too much like sandpaper to love, but it’s a well-made argument with faceted sides.",
+        "url": "https://riot-us.com/2026/03/31/zendaya-and-robert-pattinson-are-the-drama/"
+    },
+    {
+        "critic": "Bill Bria",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-03-31T10:59:17.000Z",
+        "quote": "Robert Pattinson and Zendaya are perfectly cast, with each getting to play to their strengths. \n",
+        "url": "https://www.slashfilm.com/2135266/the-drama-movie-review-zendaya-robert-pattinson/"
+    },
+    {
+        "critic": "Sean Burns",
+        "is_top_critic": false,
+        "media": "WBUR’s Arts & Culture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2026-03-31T10:29:45.000Z",
+        "quote": "Teetering on the edge of tastelessness and pushing touchy buttons with diabolical delight, ‘The Drama’ is the most provocative American movie I’ve seen since ‘Eddington,’ and will probably be just as divisive. ",
+        "url": "https://www.wbur.org/news/2026/03/31/kristoffer-borgli-the-drama-zendaya-robert-pattinson-film-review"
+    },
+    {
+        "critic": "Tori Brazier",
+        "is_top_critic": false,
+        "media": "Metro",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2026-03-31T10:23:13.000Z",
+        "quote": "The Drama is daring, intelligent and expertly judged in its unexpected and taboo-breaking approach to a heavy and highly sensitive topic. If you don’t watch it, you’re missing out.",
+        "url": "https://metro.co.uk/2026/03/31/zendayas-new-film-drama-will-provoke-just-27782377/"
+    },
+    {
+        "critic": "Courtney Howard",
+        "is_top_critic": false,
+        "media": "Fresh Fiction",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2026-03-31T10:16:39.000Z",
+        "quote": "It's truly a feat how Borgli shades his scenario as two sides of the same coin – both absurdist and alarming, hilarious and horrifying, comedic and caustic. ",
+        "url": "https://freshfiction.tv/the-drama-review-say-i-do-to-robert-pattinson-and-zendayas-prenuptial-predicament/"
+    },
+    {
+        "critic": "Linda Marric",
+        "is_top_critic": true,
+        "media": "HeyUGuys",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2026-03-31T10:05:09.000Z",
+        "quote": "Borgli has made something genuinely rare here: a relationship film with real teeth, one that refuses to let either its characters, or its audience, off the hook.",
+        "url": "https://www.heyuguys.com/the-drama-review/"
+    },
+    {
+        "critic": "Ross Bonaime",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2026-03-31T10:01:15.000Z",
+        "quote": "In exploring these often-ignored ideas, Borgli makes one of the most excruciatingly uncomfortable and wonderfully honest approaches to a romance story to come around in quite some time.",
+        "url": "https://collider.com/the-drama-review-zendaya-robert-pattinson-a24/"
+    },
+    {
+        "critic": "Alex Harrison",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2026-03-31T10:00:39.000Z",
+        "quote": "It may be an entertaining conversation piece, but make no mistake, The Drama is also one of the best movies you'll see this year.",
+        "url": "https://screenrant.com/the-drama-movie-2026-review/"
+    },
+    {
+        "critic": "Joey Magidson",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2026-03-31T10:00:37.000Z",
+        "quote": "The Drama has a game Zendaya and Robert Pattinson but can't sustain the comedic momentum.",
+        "url": "https://awardsradar.com/2026/03/31/film-review-the-drama-has-a-game-zendaya-and-robert-pattinson-but-cant-sustain-the-comedic-momentum/"
+    },
+    {
+        "critic": "Ian Sandwell",
+        "is_top_critic": false,
+        "media": "Digital Spy",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2026-03-31T10:00:21.000Z",
+        "quote": "It's a movie made to be debated and mulled over, and while it's far from flawless, we'll always RSVP to a movie like that.",
+        "url": "https://www.digitalspy.com/movies/a70881859/the-drama-review-zendaya-robert-pattinson/"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2026-03-31T09:59:41.000Z",
+        "quote": "The darkest of comedies, elevated by a thought-provoking script and a compelling cast. (Video  Review)",
+        "url": "https://edwarddouglas.substack.com/p/the-drama-video-review"
+    },
+    {
+        "critic": "Sophia Ciminello",
+        "is_top_critic": false,
+        "media": "AwardsWatch",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2026-03-31T04:41:04.000Z",
+        "quote": "Zendaya has the difficult task of creating a woman who has the charm and charisma to make Charlie fall in love with her, while also conjuring someone who is completely unknowable with a complicated past.",
+        "url": "https://awardswatch.com/the-drama-review-zendaya-gets-a-case-of-the-mondays-in-kristoffer-borglis-twisted-marriage-story-c/"
+    }
+]

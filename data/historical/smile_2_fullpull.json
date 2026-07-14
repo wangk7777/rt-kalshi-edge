@@ -1,0 +1,2122 @@
+[
+    {
+        "critic": "Bryce Hanson",
+        "is_top_critic": false,
+        "media": "Horror Movie Talk",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2025-12-04T18:02:14.000Z",
+        "quote": " I couldn’t help but think of the public mental breakdowns of celebrities like Brittany Spears while watching this movie. It really gives perspective into the pressures of a job where hundreds of people are relying on you to perform. ",
+        "url": "https://www.horrormovietalk.com/2024/10/22/smile-2-review-interview-with-brande-roderick/"
+    },
+    {
+        "critic": "Stephen Garrett",
+        "is_top_critic": false,
+        "media": "Book & Film Globe",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2025-08-26T19:43:24.000Z",
+        "quote": "Constructing Smile 2 all around a cracking-under-the-pressure Lady Gaga type who is losing her sense of sanity is a playfully inspired stand-alone sequel idea.",
+        "url": "https://bookandfilmglobe.com/film/smile-2-shinier-spookier-sadder/"
+    },
+    {
+        "critic": "Patrick Beatty",
+        "is_top_critic": false,
+        "media": "ABC4 Utah",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-11T15:26:55.000Z",
+        "quote": "The scale of scares is larger, and you feel that in the cinematography, camerawork, and sets.",
+        "url": "https://www.abc4.com/dailydish/see-it-or-skip-it/smile-2-is-something-to-grin-about-movie-review/"
+    },
+    {
+        "critic": "Rebecca Sayce",
+        "is_top_critic": false,
+        "media": "The People's Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-07-24T14:02:21.000Z",
+        "quote": "Both grim and goofy, Finn understands what Smile fans want and gives it to them in droves in Smile 2, a starry follow-up to the unexpected 2022 hit.",
+        "url": "https://thepeoplesmovies.com/smile-2-review/"
+    },
+    {
+        "critic": "Alise Chaffins",
+        "is_top_critic": false,
+        "media": "MacGuffin or Meaning (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-07-23T15:50:18.000Z",
+        "quote": "Smile 2 reminds us that we never know what demons someone is facing. And some of them will definitely ruin the tour.",
+        "url": "https://alisechaffins.substack.com/p/smile-2-review-parker-finn-naomi-scott-horror"
+    },
+    {
+        "critic": "Tim Miller",
+        "is_top_critic": false,
+        "media": "Cape Cod Wave Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2025-07-22T01:17:54.000Z",
+        "quote": "The repulsive, gory shots used for shock value eventually lose their impact, and just seem nauseating and depressing, while Skye’s ongoing struggle to maintain her sanity and survive, while true to her experience, for the moviegoer becomes monotonous.\n",
+        "url": "https://capecodwave.com/scary-stuff-crazed-smiles-art-the-clown-and-the-donald-play-it-again-tim/"
+    },
+    {
+        "critic": "Sammie Purcell",
+        "is_top_critic": false,
+        "media": "Rough Draft Atlanta",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-07-18T19:46:24.000Z",
+        "quote": "This time, the trauma feeder is not after a therapist, but rather a pop star. This small deviation allows this film to find some of the specificity the first lacks, digging into the most visceral and upsetting aspects of stardom with glee. ",
+        "url": "https://roughdraftatlanta.com/2024/10/18/smile-2-movie-review/"
+    },
+    {
+        "critic": "James Kendrick",
+        "is_top_critic": false,
+        "media": "Q Network Film Desk",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2025-04-01T04:19:26.000Z",
+        "quote": "takes the ideas from the first film and uses them to explore completely different characters inhabiting a completely different world",
+        "url": "https://www.qnetwork.com/review/4762"
+    },
+    {
+        "critic": "Matt Minton",
+        "is_top_critic": false,
+        "media": "Vague Visages",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-21T10:52:32.000Z",
+        "quote": "“While there’s a great movie hiding inside a solid one, ‘Smile 2’ remains one of the most demonically entertaining horror films of the year through Finn’s twisted and refreshing style.”",
+        "url": "https://vaguevisages.com/2024/11/18/smile-2-review-amazon-apple-paramount-movie-film/"
+    },
+    {
+        "critic": "Ian Bunting",
+        "is_top_critic": false,
+        "media": "Daily Record (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-01-03T22:59:25.000Z",
+        "quote": "This follow-up’s two biggest strengths are its lead actress and the stunning shooting style.",
+        "url": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/movie-review-see-horror-sequel-34237136"
+    },
+    {
+        "critic": "Sharai Bohannon",
+        "is_top_critic": false,
+        "media": "A Nightmare On Fierce Street Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-12-30T22:53:44.000Z",
+        "quote": "Smile 2 has some strong performances and cool camera work. However, it also muddles its own lore and takes the predictable route to the obvious conclusions. ",
+        "url": "https://podcasts.apple.com/us/podcast/the-fosse-moment-smile-2/id1526482052?i=1000682128941"
+    },
+    {
+        "critic": "Maitland McDonagh",
+        "is_top_critic": false,
+        "media": "MaitlandOnMovies (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-12-29T00:39:36.000Z",
+        "quote": "Both 'Smile' and 'Smile 2' are genuinely creepy. ... This sequel is driven by the U.K.-born [Naomi] Scott.... 'Smile 2' showcases her as an impressive performer — she can sing, dance and act — and gives her much more to do than run and scream.",
+        "url": "https://maitlandonmovies.substack.com/p/smile-2"
+    },
+    {
+        "critic": "Maria Lattila",
+        "is_top_critic": false,
+        "media": "Film Stories",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-12-19T16:27:57.000Z",
+        "quote": "For the most part, Smile 2 is just a carbon copy of its predecessor, repeating the same beats and scares but with an increased budget.",
+        "url": "https://filmstories.co.uk/reviews/smile-2-review-the-smiling-demon-is-at-it-again-in-horror-sequel/"
+    },
+    {
+        "critic": "Scott Mendelson",
+        "is_top_critic": false,
+        "media": "The Outside Scoop (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-12-11T21:24:54.000Z",
+        "quote": "The sequel has many of the same issues as its predecessor, but Parker Finn (with help from Naomi Scott) so over-delivers on cinematic razzle dazzle that it barely matters.",
+        "url": "https://scottmendelson.substack.com/p/smile-2-review-bigger-is-better"
+    },
+    {
+        "critic": "Lyvie Scott",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-12-11T20:23:36.000Z",
+        "quote": "A relentless, brittle, and brutally-funny splice of psychological and supernatural horror, and with Scott center stage, it’s anything but predictable.",
+        "url": "https://www.inverse.com/entertainment/horror-movies-december-2024-paramount-plus-smile-2"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-12-04T23:33:43.000Z",
+        "quote": "Smile 2 is likely to put the thing from the title of the movie on your face.",
+        "url": "https://decider.com/2024/12/03/smile-2-streaming-movie-review/"
+    },
+    {
+        "critic": "Doug Walker",
+        "is_top_critic": false,
+        "media": "Channel Awesome",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5 / 4",
+        "date": "2024-11-29T23:43:36.000Z",
+        "quote": "One of the rare sequels that's better than the original in every way.",
+        "url": "https://www.youtube.com/watch?v=w68Jg_q52FE&t=153s"
+    },
+    {
+        "critic": "Alyse Wax",
+        "is_top_critic": false,
+        "media": "Screenopolis",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-27T06:59:05.000Z",
+        "quote": "Smile 2 is a different kind of horror movie than the first one. It is bigger, brighter, bolder than the original Smile. This isn’t a bad thing.",
+        "url": "https://screenopolis.com/reviews/big-brash-smile-2-is-a-horror-fans-anti-frown/"
+    },
+    {
+        "critic": "Amanda the Jedi",
+        "is_top_critic": false,
+        "media": "Amanda the Jedi (Youtube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-24T23:30:48.000Z",
+        "quote": "Entirely too long for what it is but when it hits, it hits! Even with an ending you can see a mile away, it just delivers a more consistent experience to its predecessor ",
+        "url": "https://youtu.be/gmXeEufOrf8"
+    },
+    {
+        "critic": "Pete Vonder Haar",
+        "is_top_critic": false,
+        "media": "Houston Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-11-20T19:29:12.000Z",
+        "quote": "But the same criticism of the first movie can be leveled here, and that's in how the numerous fake-outs and hallucinatory transitions cheapen some of Scott's more emotional scenes and render a good chunk of the third act incomprehensible.",
+        "url": "https://www.houstonpress.com/arts/things-to-watch-smile-2-19159566"
+    },
+    {
+        "critic": "Trace Thurman",
+        "is_top_critic": false,
+        "media": "Horror Queers Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-11-18T23:41:46.000Z",
+        "quote": "It's more of the same, but better! ",
+        "url": "https://www.patreon.com/posts/smile-2-2024-114708045"
+    },
+    {
+        "critic": "Chuck Bowen",
+        "is_top_critic": false,
+        "media": "Style Weekly (Richmond, VA)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-15T21:01:27.000Z",
+        "quote": "The film’s ending, a knockout, likens the modern media fame game to nothing less than ritual sacrifice.",
+        "url": "https://www.styleweekly.com/heart-of-gold/"
+    },
+    {
+        "critic": "Jared Rasic",
+        "is_top_critic": false,
+        "media": "Metro Times (Detroit, MI)",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-11-12T23:58:28.000Z",
+        "quote": "Fun in the moment, but ultimately nothing too memorable.",
+        "url": "https://www.metrotimes.com/arts/four-new-movies-to-watch-in-november-in-a-theater-37832757"
+    },
+    {
+        "critic": "Bruce R. Miller",
+        "is_top_critic": false,
+        "media": "Sioux City Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-11-12T21:36:08.000Z",
+        "quote": " A better film could have been made from this situation, had it not been part of the “Smile” franchise.",
+        "url": "https://siouxcityjournal.com/life-entertainment/nation-world/movies-tv/smile-2-review-parker-finn-naomi-scott-horror-film-lukas-gage/article_89d5a03e-8fdc-11ef-86bd-9f356a812469.html"
+    },
+    {
+        "critic": "Juanma Fernández París",
+        "is_top_critic": false,
+        "media": "El Nuevo Día (Puerto Rico)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-12T19:42:08.000Z",
+        "quote": "Parker Finn, who returns to write and direct, focuses entirely on destroying nerves with images destined to invade the brain and generate anxiety long after the film has concluded. [Full review in Spanish]",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/considera-tus-niveles-de-ansiedad-si-piensas-ver-la-pelicula-smile-2/"
+    },
+    {
+        "critic": "Joe Lipsett",
+        "is_top_critic": false,
+        "media": "Horror Queers Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-12T15:45:43.000Z",
+        "quote": "Parker Finn's direction is more assured and confident, but narratively, this is more of the same. It's not bad, but the third film needs to capitalize on the big swing hinted at in the finale of Smile 2. ",
+        "url": "https://www.patreon.com/posts/smile-2-2024-114708045"
+    },
+    {
+        "critic": "Walter Chaw",
+        "is_top_critic": false,
+        "media": "Film Freak Central",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-11-11T22:52:57.000Z",
+        "quote": "Smile 2 is an intelligent genre picture and a worthy showcase for an actor to portray a range of difficult, ugly emotions. It’s a maximalist exercise in introspection. ",
+        "url": "https://filmfreakcentral.net/2024/10/smile-2022-smile-2-2024/"
+    },
+    {
+        "critic": "Karlie Rogers",
+        "is_top_critic": false,
+        "media": "Exclaim!",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-11-11T17:21:17.000Z",
+        "quote": "Skye has officially solidified 2024 as the year of the Pop-Star-Stuck-in-a-Horror-Film Cinematic Universe.",
+        "url": "https://exclaim.ca/film/article/naomi-scott-is-grin-worthy-in-smile-2"
+    },
+    {
+        "critic": "Sean P. Means",
+        "is_top_critic": false,
+        "media": "The Movie Cricket",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-11-11T02:34:35.000Z",
+        "quote": "The problem is that watching the movie devolves into a simple guessing game — is this part real or in her head? — that often becomes predictable, which is the worst thing a horror thriller can be. ",
+        "url": "https://moviecricket.net/blog/2024/10/15/review-smile-2-with-naomi-scotts-dynamic-turn-as-a-tormented-pop-idol-puts-the-staging-of-its-gore-ahead-of-a-plotline-that-isnt-ploddingly-predictable"
+    },
+    {
+        "critic": "Matt Hudson",
+        "is_top_critic": false,
+        "media": "Bloody Awesome Movie Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-08T14:55:20.000Z",
+        "quote": "Smile 2 has stunning visuals, incredible production design, and genuine scares. Naomi Scott is fantastic in the lead and this is a sequel that lives up to the original - even if it may not surpass it",
+        "url": "https://open.spotify.com/episode/3l6UvMmzEpBQ5uVR7yGjwI?si=051dbc0fbf774a6b"
+    },
+    {
+        "critic": "Rob Dean",
+        "is_top_critic": false,
+        "media": "Bullz-Eye.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5 ",
+        "date": "2024-11-07T12:36:17.000Z",
+        "quote": "“Smile 2” still has the same awkward/unfortunate allegory as “Smile,” though it’s not as repugnant in its presentation of mental illness as that first entry.",
+        "url": "https://www.bullz-eye.com/2024/10/18/movie-review-smile-2/"
+    },
+    {
+        "critic": "Lauren Veneziani",
+        "is_top_critic": false,
+        "media": "WBAL-TV (Baltimore)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-11-06T14:53:38.000Z",
+        "quote": "One of the best and scariest cinematic experiences of the year. Naomi Scott's performance in SMILE 2 should be studied and I haven't been able to get the songs out of my head, incredible soundtrack!",
+        "url": "https://www.wbaltv.com/article/dc-film-girl-woman-of-the-hour-review/62724674"
+    },
+    {
+        "critic": "Gabriela Meza",
+        "is_top_critic": false,
+        "media": "Fuera de Foco",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5",
+        "date": "2024-11-05T21:43:37.000Z",
+        "quote": "\"Smile 2 is more than just another horror film. It’s a dark mirror reflecting the hidden burdens of fame, the pain behind a smile, and the fragility of the human mind.\" [Full review in Spanish]",
+        "url": "https://youtu.be/vpvqZRJ3v4I"
+    },
+    {
+        "critic": "Deirdre Crimmins",
+        "is_top_critic": false,
+        "media": "That Shelf",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-04T20:08:32.000Z",
+        "quote": "While 2022’s Smile is a perfectly cromulent movie, Smile 2 is destined to be one of the films mentioned in the pantheon of sequels that outshine the original. It really is that good.",
+        "url": "https://thatshelf.com/smile-2-review-grin-for-the-win/"
+    },
+    {
+        "critic": "Micheal Compton",
+        "is_top_critic": false,
+        "media": "Bowling Green Daily News",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-11-04T20:03:29.000Z",
+        "quote": "Fortunately, Finn provides enough wrinkles to keep it fresh with Scott doing enough heavy lifting to make Smile 2 a worthy predecessor to the very creative original.",
+        "url": "https://bgdailynews.com/2024/10/24/smile-2-enhances-lore-created-from-original/"
+    },
+    {
+        "critic": "Jackie K. Cooper",
+        "is_top_critic": false,
+        "media": "jackiekcooper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-11-03T22:49:33.000Z",
+        "quote": "The makers of this movie have plenty to smile about.",
+        "url": "https://www.youtube.com/watch?v=yJ1wvzL1xJA"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-11-03T22:42:47.000Z",
+        "quote": "A little bit better than its predecessor, this gory horror sequel features surprisingly confident cinematography and sound design, with a vigorous, exhaustive lead performance by Scott.",
+        "url": "https://www.commonsensemedia.org/search/smile 2"
+    },
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-11-02T12:45:37.000Z",
+        "quote": "Smile 2 doesn’t become completely captivating and enthralling until it enters its nigh apocalyptic closing stretch...",
+        "url": "https://reelfilm.com/smile-2/"
+    },
+    {
+        "critic": "Sabrina Ramirez",
+        "is_top_critic": false,
+        "media": "Geeks of Color",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-11-01T21:53:23.000Z",
+        "quote": "Jump scares are present but more effective, and the setup leads to a more impactful payoff. Even though Smile 2  is much more humorous than the first, the overall tone is well-balanced, making this one all the more eerie. ",
+        "url": "https://geeksofcolor.co/2024/10/31/smile-2-review/"
+    },
+    {
+        "critic": "Jenn Adams",
+        "is_top_critic": false,
+        "media": "Strong Female Antagonist",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-11-01T14:12:55.000Z",
+        "quote": "Smile is a grim reminder that overcoming mental illness is an arduous process—one that we might not survive. Smile 2 may put a shiny, pop filter over addiction and recovery, but its message still hits just as hard. ",
+        "url": "https://femaleantagonist.com/smile-2-puts-a-pop-filter-on-a-devastating-story/"
+    },
+    {
+        "critic": "Daniel Rester",
+        "is_top_critic": false,
+        "media": "Willamette Week",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-31T18:04:30.000Z",
+        "quote": "Smile 2 feels overlong at 127 minutes, and it ends with a predictable finale, but Finn’s sequel still offers a hair-raising ride.",
+        "url": "https://www.wweek.com/arts/movies/2024/10/22/your-roundup-of-new-movies-trump-biopic-the-apprentice-is-as-superficial-as-the-former-president/"
+    },
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-31T09:23:07.000Z",
+        "quote": "Smile 2 could have used a slightly tighter edit – a couple of scenes could have been dropped – but this is still one of the best-staged, best-directed and well-thought-through movies I've seen this year.",
+        "url": "https://www.stuff.co.nz/culture/360462674/stuff-watch-best-new-movies-see-and-avoid-kiwi-cinemas-labour-weekend"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-30T20:39:53.000Z",
+        "quote": "The special effects are bracingly revolting, the malevolent smiles as creepy as ever. And the film has the added bonus of some killer choreography, in every sense of the word.",
+        "url": "https://www.theguardian.com/film/2024/oct/20/smile-2-review-parker-finn-naomi-scott-horribly-entertaining-fright-sequel"
+    },
+    {
+        "critic": "Brian Bisesi",
+        "is_top_critic": false,
+        "media": "Horror Movie Club Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-10-30T17:33:46.000Z",
+        "quote": "Not since James Wan has a director so deftly landed this many jump scares. But Parker Finn’s films go harder and darker than any Conjuring or Insidious film and bring their own unique and grimly playful style. An excellent performance from Scott...",
+        "url": "https://www.horrormovieclub.com/episodes/smile-2-movie-review-podcast"
+    },
+    {
+        "critic": "Justin Brown",
+        "is_top_critic": false,
+        "media": "Medium Popcorn",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-10-30T14:17:20.000Z",
+        "quote": "This expanded this world in a fantastic, thrilling way. It also doesn't hurt to have a masterful performance from Naomi Scott. ",
+        "url": "https://www.mediumpopcorn.com/episodes/smile-2"
+    },
+    {
+        "critic": "Brandon Collins",
+        "is_top_critic": false,
+        "media": "Medium Popcorn",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-30T14:16:23.000Z",
+        "quote": "As much as I dislike gore and jump scares, this movie was thrilling. This did everything you're supposed to do with a sequel!",
+        "url": "https://www.mediumpopcorn.com/episodes/smile-2"
+    },
+    {
+        "critic": "Harry Thorfinn-George",
+        "is_top_critic": false,
+        "media": "The Arts Desk",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-30T01:10:33.000Z",
+        "quote": "There are long stretches of Smile 2's 128-minute runtime where there is no puerile gimmick in sight -- just a clammy feeling of unease.",
+        "url": "https://www.theartsdesk.com/film/smile-2-review-worthy-follow-runaway-hit"
+    },
+    {
+        "critic": "Nicolás Delgadillo",
+        "is_top_critic": false,
+        "media": "Knotfest",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-29T20:38:01.000Z",
+        "quote": "Smile 2 is a masterwork of terror, a sequel that doesn’t just go bigger but better in all the right ways.",
+        "url": "https://knotfest.com/blogs/screen-crusades/smile-2-is-a-masterwork-of-terror"
+    },
+    {
+        "critic": "Austin Burke",
+        "is_top_critic": false,
+        "media": "Austin Burke/Flick Fan Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2024-10-28T16:04:37.000Z",
+        "quote": "It is bigger and ultimately better than the first because it doubles down on this outlandish but creative premise and delivers some surprisingly shocking scares.",
+        "url": "https://youtu.be/dlSXma95bAY"
+    },
+    {
+        "critic": "Candice McMillan",
+        "is_top_critic": false,
+        "media": "Seattle Refined",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-28T15:31:04.000Z",
+        "quote": "[Writer-director Parker] Finn writes the slow burn into the pit of insanity, carefully and leisurely turning the dial so as not to let audiences realize that he's cooked us well-done.",
+        "url": "https://seattlerefined.com/lifestyle/review-smile-2-sequel-the-monstrosity-lukas-gage-naomi-scott-horror-film-halloween-parker-finn-movies"
+    },
+    {
+        "critic": "Sara Michelle Fetters",
+        "is_top_critic": true,
+        "media": "MovieFreak.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-10-28T02:51:33.000Z",
+        "quote": "While I’m sure I’ll again be in the minority, for all of its obvious strengths, and just like its predecessor, Smile 2 made me angry, and that’s all there is to say.",
+        "url": "http://moviefreak.com/smile-2-2024-movie-review/"
+    },
+    {
+        "critic": "John Lui",
+        "is_top_critic": false,
+        "media": "The Straits Times (Singapore)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-26T01:53:16.000Z",
+        "quote": "Scott puts her musical background to stunning use as Skye, the diva terrorised by a demonic force.",
+        "url": "https://www.straitstimes.com/life/entertainment/at-the-movies-gory-sequel-smile-2-remixes-pop-stardom-with-slasher-thrills"
+    },
+    {
+        "critic": "Sebastian Zavala Kahn",
+        "is_top_critic": false,
+        "media": "Me gusta el cine",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-10-25T23:12:41.000Z",
+        "quote": "What Finn has done with “Smile 2” is EXPAND the concepts introduced in its predecessor, developing them in increasingly original and disturbing ways, changing the protagonist—which makes sense—but staying in the same universe. Full review in Spanish.",
+        "url": "https://megustaelcine.com/critica-sonrie-2-naomi-scott-esta-increible-en-esta-terrorifica-secuela/"
+    },
+    {
+        "critic": "Neil Soans",
+        "is_top_critic": false,
+        "media": "The Times of India",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-24T20:49:17.000Z",
+        "quote": "The ending does provide a memorable moment of dark, twisted humour that fans of the genre will appreciate. It’s a satisfying conclusion, though it’s easy to see where the film might have benefited from more creativity and risk-taking.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/smile-2/movie-review/114325954.cms"
+    },
+    {
+        "critic": "Amy Nicholson",
+        "is_top_critic": true,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-24T19:05:48.000Z",
+        "quote": "This is the rare case of a horror sequel that is better than the original. ",
+        "url": "https://laist.com/shows/filmweek/filmweek-smile-2-anora-rumors-and-more"
+    },
+    {
+        "critic": "Troy Ribeiro",
+        "is_top_critic": false,
+        "media": "Free Press Journal (India)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5",
+        "date": "2024-10-24T07:39:08.000Z",
+        "quote": "While the film offers effective scares and bloody sequences that satisfy the seasonal horror fan—complete with practical effects of blood oozing and faces peeling off skulls—it often falls short of its central message. ",
+        "url": "https://www.freepressjournal.in/entertainment/smile-2-review-naomi-scotts-film-fails-to-deliver-genuine-fear"
+    },
+    {
+        "critic": "Charles Koplinski",
+        "is_top_critic": false,
+        "media": "Reel Talk with Chuck and Pam",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-10-24T02:20:08.000Z",
+        "quote": "Eschewing the notion that less is more with a vengeance, Parker Finn’s “Smile 2,” is everything his surprise 2022 hit was not. Loud, bloated, and gratuitous, the sequel stumbles into the trap so many films of its kind fall victim to. ",
+        "url": "https://reeltalkwithchuckandpam.com/smile-2-chuck-skip-it/"
+    },
+    {
+        "critic": "Fausto Fernandez",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-23T22:53:38.000Z",
+        "quote": "'Smile 2' is not a sequel: it is the infected and infectious work of that cursed force that dedicated itself to scaring us in the first installment, now in charge of something that is no longer a movie -- it's Terror. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a62633924/smile-2-critica-pelicula/"
+    },
+    {
+        "critic": "Javier Ocaña",
+        "is_top_critic": false,
+        "media": "El Pais (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-23T21:57:46.000Z",
+        "quote": "Somewhat more gruesome and confusing than the original film but with the same precision in the direction, Smile 2 goes for greater explicitness and bloodier gore... [Full review in Spanish]",
+        "url": "https://elpais.com/cultura/2024-10-18/smile-2-una-interpretacion-deslumbrante-en-un-estudio-sobre-el-colapso-mental-de-una-estrella-pop.html"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Herald Sun (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-23T18:39:48.000Z",
+        "quote": "While Smile 2 will not evade any accusations of delivering more of the same, it still finds searingly memorable and distinctly shocking ways to improve upon its predecessor.",
+        "url": "https://www.heraldsun.com.au/entertainment/movies/leigh-paatsch/gore-alert-how-smile-2-doubles-down-on-macabrely-malevolent-original/news-story/6f55aa50c444a5682ceea8af652c77c1"
+    },
+    {
+        "critic": "Sarah Gopaul",
+        "is_top_critic": false,
+        "media": "Digital Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-23T14:00:28.000Z",
+        "quote": "This movie definitely measures up to the first chapter, delivering all the anticipated creepiness with a good number of scares that rival its predecessor.",
+        "url": "https://www.digitaljournal.com/entertainment/review-smile-2-finds-new-ways-to-go-from-grin-to-cringe/article"
+    },
+    {
+        "critic": "Kristen Maldonado",
+        "is_top_critic": false,
+        "media": "Pop Culture Planet",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-22T21:45:12.000Z",
+        "quote": "It's disturbing and gory, with Scott proving she’s a scream queen on the rise. Between her blood-curdling screams and the realistic terror behind her eyes, this is a career-best performance for the actress.",
+        "url": "https://www.popcultureplanet.net/articles/from-smile-2-to-your-monster-should-you-add-these-to-your-watchlist"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-22T19:04:26.000Z",
+        "quote": "Horror movies mandate a certain degree of gore and there’s enough in Smile 2 to keep fans of the Grand Guignol happy. But the creepiest moments aren’t necessarily the bloodiest.",
+        "url": "https://www.reelviews.net/reelviews/smile-2"
+    },
+    {
+        "critic": "Rob Gonsalves",
+        "is_top_critic": false,
+        "media": "Rob's Movie Vault",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-10-22T15:51:34.000Z",
+        "quote": "\"Smile 2\" is a step in the right direction; it has better focus than the first one. ",
+        "url": "https://robsmovievault.wordpress.com/2024/10/20/smile-2-2/"
+    },
+    {
+        "critic": "Katie Walsh",
+        "is_top_critic": true,
+        "media": "Tribune News Service",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-22T04:02:22.000Z",
+        "quote": "Finn supplies bigger, even more effective jump-scares than the last time, which will keep the popcorn flying. The sound design booms and rattles, the delusions are even more elaborate and the body horror is even bloodier and more disturbing. ",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2024-10-18/smile-2-review-horror-naomi-scott-parker-finn"
+    },
+    {
+        "critic": "Jordy Sirkin",
+        "is_top_critic": false,
+        "media": "Jordy Reviews It",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-22T02:52:44.000Z",
+        "quote": "Successfully follows and improves upon its predecessor by raising the bar higher for a more frightening and mind-bending descent.",
+        "url": "https://jordyreviewsit.com/2024/10/21/smile-2-a-terrifying-pop-star-comeback/"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-22T02:22:54.000Z",
+        "quote": "“Smile 2” is consistent with the first in showcasing a talented, lesser-known actor who can convincingly carry an entire movie. Naomi Scott delivers the best 2024 performance as a world-famous performer, fictional or fact-based",
+        "url": "https://sarahgvincentviews.com/movies/smile-2/"
+    },
+    {
+        "critic": "Rick Bentley",
+        "is_top_critic": false,
+        "media": "KGET-TV (Bakersfield, CA)",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-10-22T00:30:46.000Z",
+        "quote": "It is simply an average tale of horror amped up slightly by intense scenes of gore and a performance by Scott that is far better than the material deserves.",
+        "url": "https://www.kget.com/community/ricks-reviews/best-part-of-smile-2-is-naomi-scotts-performance/"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-22T00:08:51.000Z",
+        "quote": "It's got a nicely nasty thing on its tail... it's very entertaining, Friday night crowd-pleasing, give-you-the-shivers fare. ",
+        "url": "https://www.youtube.com/watch?v=OS8Aw0pebSk"
+    },
+    {
+        "critic": "Chris Sawin",
+        "is_top_critic": false,
+        "media": "Bounding Into Comics",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-21T23:05:10.000Z",
+        "quote": "Parker Finn continues to deliver gushy, gurgly horror with outlandishly terrifying ideas and fiendishly mesmerizing performances. ",
+        "url": "https://boundingintocomics.com/movies/movie-reviews/smile-2-review-self-destructing-in-the-spotlight/"
+    },
+    {
+        "critic": "Marianna Neal",
+        "is_top_critic": false,
+        "media": "Impression Blend",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-10-21T22:01:43.000Z",
+        "quote": "Unfortunately, “Smile 2” doesn’t have much else to add to what we already know about the curse or to how it manifests in its victims, instead opting to play things safe, relying way too much on fake outs and jump scares.",
+        "url": "https://youtu.be/k68hjys7-Ow"
+    },
+    {
+        "critic": "Megan McCluskey",
+        "is_top_critic": false,
+        "media": "TIME Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-21T21:32:05.000Z",
+        "quote": "Smile 2 can't quite deliver on the promise of its premise, ultimately relying on the same trick of the original—but it's still a fittingly horrific final twist...",
+        "url": "https://time.com/7093800/smile-2-explained/"
+    },
+    {
+        "critic": "Tina Kakadelis",
+        "is_top_critic": false,
+        "media": "Beyond the Cinerama Dome",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-21T20:14:11.000Z",
+        "quote": "Smile 2 is far bloodier, nastier, and angrier than its predecessor, but it also unfolds itself in a way that could’ve provided some peace without losing the preceding viciousness.",
+        "url": "https://beyondthecineramadome.com/movie-reviews/smile-2-film-review"
+    },
+    {
+        "critic": "Josh Korngut",
+        "is_top_critic": false,
+        "media": "Dread Central",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-21T19:26:09.000Z",
+        "quote": "‘Smile 2’ is a fun, mean, and maddeningly inventive sequel that manages to outshine the original with bigger and bolder swings. ",
+        "url": "https://www.dreadcentral.com/reviews/514278/smile-2-review-inventive-scares-and-deadly-comedy-will-leave-you-ghastly-grinning/"
+    },
+    {
+        "critic": "Ruben Peralta Rigaud",
+        "is_top_critic": false,
+        "media": "Cocalecas",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-21T18:28:02.000Z",
+        "quote": "Yes, there are a few too many scares and at least one plot twist, but it's all forgivable when you think about the true terror reflected in Naomi Scott's eyes. [Full review in Spanish]",
+        "url": "https://cocalecas.net/2024/10/smile-2-2024-de-parker-finn/"
+    },
+    {
+        "critic": "Alci Rengifo",
+        "is_top_critic": false,
+        "media": "Entertainment Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-21T18:21:33.000Z",
+        "quote": "What will linger is Naomi Scott’s memorable performance where she becomes a genuinely terrified profile of entrapped stardom.",
+        "url": "https://entertainmentvoice.com/2024/10/17/parker-finns-smile-2-screams-bigger-and-louder-with-a-wrenching-naomi-scott/"
+    },
+    {
+        "critic": "Abbie Bernstein",
+        "is_top_critic": false,
+        "media": "Assignment X",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-10-21T18:18:54.000Z",
+        "quote": "Superior to the original.",
+        "url": "https://www.assignmentx.com/2024/movie-review-smile-2/"
+    },
+    {
+        "critic": "Tony Baker",
+        "is_top_critic": false,
+        "media": "Tony Baker Comedy",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-21T18:17:16.000Z",
+        "quote": "I feel like it served its purpose as a horror movie, it was unsettling, it was uneasy, it had crazy images in there.\n",
+        "url": "https://www.youtube.com/watch?v=gYg_Af2BLik"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-21T18:13:48.000Z",
+        "quote": "Surprisingly enjoyable. ",
+        "url": "https://www.youtube.com/watch?v=bP1lu0JYVxM"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-21T09:05:44.000Z",
+        "quote": "…an alarming, distressing but brutally effective horror film. Smile 2 is anchored by a strong central performance from Naomi Scott and a scene-stealing cameo from Ray Nicholson…",
+        "url": "https://film-authority.com/2024/10/21/smile-2/"
+    },
+    {
+        "critic": "Adam Olinger",
+        "is_top_critic": false,
+        "media": "Adam Does Movies (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-20T22:33:18.000Z",
+        "quote": "Smile 2 did what TRAP could not. It made a thrilling storyline around a pop singer, while still managing to weave in some pretty awesome songs.",
+        "url": "https://youtu.be/k03iid_16cs"
+    },
+    {
+        "critic": "Hector A. Gonzalez",
+        "is_top_critic": false,
+        "media": "The Movie Buff",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-10-20T21:53:45.000Z",
+        "quote": "The world of Smile might be stuck in a wheel of its creation. Yet the unwarranted sequel fully embraced the silliness of its concept to bring forth some solid popcorn entertainment, as well as still rocky thematic dissections, for an overall fun time.",
+        "url": "https://www.themoviebuff.net/2024/10/smile-2-film-review/"
+    },
+    {
+        "critic": "Lindsay Traves",
+        "is_top_critic": false,
+        "media": "Pajiba",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-20T01:44:50.000Z",
+        "quote": "It evolves its own premise and tone by adding new subjects and fresh levity, allowing it to stand on its own as a stellar scary movie. Throw in [...] a career defining performance from multi-talented Naomi Scott and Smile 2 is absolutely worthy.",
+        "url": "https://www.pajiba.com/film_reviews/smile-2-is-even-more-terrifying-than-its-predecessor.php"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-19T23:38:31.000Z",
+        "quote": "It’s a worthy sequel that doesn’t reach the heights of its predecessor, but it does rack up tension, produce jump scares, and feature a terrific Naomi Scott.",
+        "url": "https://fortworthreport.org/2024/10/19/smile-2-review-finns-labyrinthine-sequel-features-frights-and-a-first-rate-naomi-scott/"
+    },
+    {
+        "critic": "Kimberley Elizabeth",
+        "is_top_critic": false,
+        "media": "Nightmare on Film Street",
+        "sentiment": "Fresh 🍅",
+        "score": "88/100",
+        "date": "2024-10-19T21:45:15.000Z",
+        "quote": "...a worthy successor to the original, keeping the demonic dread alive—whether it’s hiding in the shadows of an enviable closet or flashing a grin right in your face.",
+        "url": "https://nofspodcast.com/smile-2-review-a-creepy-comeback"
+    },
+    {
+        "critic": "Sean Collier",
+        "is_top_critic": false,
+        "media": "Pittsburgh Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-10-19T19:43:37.000Z",
+        "quote": "If your movie would lose all of its terror by turning the lights on and avoiding staccato bursts of unmotivated sound design, it’s not scary — it’s just irritating.",
+        "url": "https://www.pittsburghmagazine.com/movie-review-smile-2/"
+    },
+    {
+        "critic": "Ezequiel Boetti",
+        "is_top_critic": false,
+        "media": "Otroscines.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-10-19T19:36:57.000Z",
+        "quote": "... Where before there was a suggestion and a kind of “rarefied normality”, here, the path is somewhat more obvious and explicit. [Full review in Spanish]",
+        "url": "https://www.otroscines.com/nota-20824-critica-de-sonrie-2-smile-2-pelicula-de-parker-finn-con"
+    },
+    {
+        "critic": "Maxance Vincent",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-10-19T15:59:20.000Z",
+        "quote": "Parker Finn delivers the best horror movie of the year with Smile 2, reinventing the original for a stylistically thrilling and darkly funny sequel. ",
+        "url": "https://loudandclearreviews.com/smile-2-review-2024-movie/"
+    },
+    {
+        "critic": "Jonathan W. Hickman",
+        "is_top_critic": false,
+        "media": "The Newnan Times-Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-10-19T15:49:05.000Z",
+        "quote": "“Smile 2” is bigger and possibly better than its predecessor, as the sequel expands the universe of the curse in an unnerving and chilling fashion. ",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/smile-2/article_6a63ac30-8e30-11ef-80bd-ff9bbe50cbdb.html"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-19T15:19:13.000Z",
+        "quote": "“Smile 2” seeks to follow the same course with a bigger budget and more ambition. But even as it’s aiming higher and upping the ante, the sequel falls short of its predecessor in a number of hard to ignore ways.",
+        "url": "https://keithandthemovies.com/2024/10/19/review-smile-2-2024/"
+    },
+    {
+        "critic": "Andrew Parker",
+        "is_top_critic": false,
+        "media": "The Gate",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2024-10-19T15:14:02.000Z",
+        "quote": "Admittedly I was part of a minority that didn’t find Finn’s first [outing] all that exciting or entertaining, but Smile 2 is something I won’t forget any time soon. It left me squirming in my seat with an ear-to-ear grin on my face almost the entire time.",
+        "url": "https://www.thegate.ca/film/067723/smile-2-review-put-on-a-happy-face/"
+    },
+    {
+        "critic": "Korey Coleman",
+        "is_top_critic": false,
+        "media": "Double Toasted",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-19T06:36:59.000Z",
+        "quote": "Smile 2 is the perfect sequel. It continues to develop and expand the first film's story while becoming its own thing.",
+        "url": "https://www.youtube.com/watch?v=fCYpNw3267A"
+    },
+    {
+        "critic": "Jeffrey Harris",
+        "is_top_critic": false,
+        "media": "411mania",
+        "sentiment": "Fresh 🍅",
+        "score": "6.5/10",
+        "date": "2024-10-19T03:41:34.000Z",
+        "quote": "While Parker Finn presents a fascinating, nuanced protagonist and victim for the Smile Demon, the film begins to overstay its welcome in the second half, recycling many of the same tricks of the first film.",
+        "url": "https://411mania.com/movies/smile-2-review/"
+    },
+    {
+        "critic": "Bill Goodykoontz",
+        "is_top_critic": false,
+        "media": "Arizona Republic",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-19T02:06:55.000Z",
+        "quote": "“Smile 2” is a bigger movie in every way. Bigger isn’t necessarily better, but in this case, it’s not bad.",
+        "url": "https://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2024/10/16/smile-2-review/75598974007/"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-10-19T01:59:46.000Z",
+        "quote": "It's more interesting when it's inside Skye's head, and Finn creates an elaborate house of cards that he's not afraid to blow down at any moment. ",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2024/10/16/smile-2-review-sympathy-is-a-knife-in-grinning-pop-star-horror-tale/75702984007/"
+    },
+    {
+        "critic": "Erick Estrada",
+        "is_top_critic": false,
+        "media": "Cinegarage",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-19T01:56:08.000Z",
+        "quote": "It's structured like eye candy, which it's easy on the eyes, but it narratively loses power. [Full review in Spanish]",
+        "url": "https://www.patreon.com/posts/sonrie-2-critica-114125333"
+    },
+    {
+        "critic": "Tomás Andrés Guerrero",
+        "is_top_critic": false,
+        "media": "Sensacine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-19T01:38:17.000Z",
+        "quote": "This second part is gorier, crazier, and bigger in every way, surpassing the original. [Full review in Spanish]",
+        "url": "https://www.sensacine.com/peliculas/pelicula-310600/sensacine/"
+    },
+    {
+        "critic": "Dann Gire",
+        "is_top_critic": false,
+        "media": "Chicago Daily Herald",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-19T00:50:57.000Z",
+        "quote": "Smile 2 messes massively with our perceptions of reality. It constantly keeps us off-kilter, employing sneaky twists and a brutal barrage of mind-bending point-of-view perspectives...",
+        "url": "https://www.dailyherald.com/20241017/movies/grin-reaper-visceral-visuals-sly-humor-prevent-overstuffed-smile-2-from-being-frowned-upon/"
+    },
+    {
+        "critic": "Jeff Mitchell",
+        "is_top_critic": false,
+        "media": "Phoenix Film Festival",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-18T23:41:01.000Z",
+        "quote": "This sequel sparks winces, flinches, and gasps.  Oh my!",
+        "url": "https://www.phoenixfilmfestival.com/blog/2024/10/smile-2-movie-review"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-10-18T23:35:26.000Z",
+        "quote": "Smile 2 did not make me smile, nor did it make me scream. It did, however, make me roll my eyes, laugh when I wasn’t supposed to, and have me looking at my watch a lot.",
+        "url": "https://aisleseat.com/smile-2.html"
+    },
+    {
+        "critic": "Ryan Syrek",
+        "is_top_critic": false,
+        "media": "The Reader (Omaha, NE)",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-10-18T21:40:13.000Z",
+        "quote": "At the very least, it gets points for being the first film to understand the abject terror of a dance mob doing Bob Fosse moves in your general direction.    ",
+        "url": "https://thereader.com/2024/10/18/smile-2-review/"
+    },
+    {
+        "critic": "Fico Cangiano",
+        "is_top_critic": false,
+        "media": "CineXpress",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-18T21:11:12.000Z",
+        "quote": "Naomi Scott's performance is outstanding - one of the best of the year. Bigger, badder & more stylish, this sequel is superior to the original. Skye Riley's descent into madness resultas in one of the best horror films of 2024. [Full review in Spanish]",
+        "url": "https://cinexpresspr.com/site/2024/10/18/resena-smile-2/"
+    },
+    {
+        "critic": "Bilge Ebiri",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-18T18:45:56.000Z",
+        "quote": "The movie ultimately scuttles its own ambitions.",
+        "url": "https://www.vulture.com/article/review-smile-2s-ideas-are-scarier-than-the-movie-itself.html"
+    },
+    {
+        "critic": "Paula Vázquez Prieto",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-18T18:26:30.000Z",
+        "quote": "This sequel offers nothing more than the repetition of the same thing with more effects, blood, pop music, and fame as the most predictable hell. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/sonrie-2-el-horror-siempre-proviene-de-adentro-nid17102024/"
+    },
+    {
+        "critic": "Mark Meszoros",
+        "is_top_critic": false,
+        "media": "The News-Herald (Willoughby, OH)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-18T18:11:58.000Z",
+        "quote": "Finn has delivered again with a film that is both highly entertaining and consistently disturbing — and a step up from Smile. Smile 2 is, at various points, funny and absurd and, at others, unsetting and heartbreaking.",
+        "url": "https://www.news-herald.com/2024/10/16/smile-2-review-sequel-builds-on-what-worked-in-hit-predecessor/"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-10-18T18:06:55.000Z",
+        "quote": "Resoundingly committed, Scott expressively fluctuates, embracing emotional, physical, and musical facets.",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=af659ddc-b79c-4e92-98a1-0d7d103f15ad"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-18T17:36:47.000Z",
+        "quote": "Your eyes are magnetically drawn to Naomi Scott, who just dominates the screen in Smile 2.",
+        "url": "https://www.thebulwark.com/p/theres-always-money-in-the-horror"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-10-18T17:36:38.000Z",
+        "quote": "“Smile 2” is bigger, bolder, and more terrifying than its predecessor.",
+        "url": "https://www.theonlycritic.com/post/smile-2-review-confident-and-scarier-sequel-will-leave-you-wincing"
+    },
+    {
+        "critic": "Joel Harley",
+        "is_top_critic": false,
+        "media": "Starburst",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-18T16:49:58.000Z",
+        "quote": "It’s a marked improvement over what came before, upping the ante on what was already a perfectly respectable supernatural thriller. ",
+        "url": "https://www.starburstmagazine.com/reviews/smile-2/"
+    },
+    {
+        "critic": "Rick Romancito",
+        "is_top_critic": false,
+        "media": "The Taos News",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-10-18T16:31:49.000Z",
+        "quote": "It’s like “The Ring” without a VHS tape.",
+        "url": "https://www.taosnews.com/tempo/reviews/grin-and-tear-it/article_c625734c-8d67-11ef-ade9-13aa46bc5a29.html"
+    },
+    {
+        "critic": "Brian Tallerico",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-18T16:12:12.000Z",
+        "quote": "Yes, there are a few too many jump scares and at least one too many twists, but it’s all forgivable when you think of the true terror in Naomi Scott’s eyes. ",
+        "url": "https://www.rogerebert.com/reviews/smile-2-film-review"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-18T14:03:47.000Z",
+        "quote": "With his follow-up, Finn is clearly having more fun...",
+        "url": "http://www.markreviewsmovies.com/reviews/S/smile2.htm"
+    },
+    {
+        "critic": "Marco Vito Oddo",
+        "is_top_critic": false,
+        "media": "We Got This Covered",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-18T13:10:38.000Z",
+        "quote": "While it might not break new ground, 'Smile 2' delivers a thrilling sequel that surpasses its predecessor thanks to Naomi Scott's tour de force performance and Parker Finn's improved direction.",
+        "url": "https://wegotthiscovered.com/movies/review-smile-2-is-classic-popcorn-horror-but-it-manages-to-do-something-that-will-surprise-you/"
+    },
+    {
+        "critic": "Lee McCoy",
+        "is_top_critic": false,
+        "media": "DrumDums",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-10-18T13:03:49.000Z",
+        "quote": "The true strength of Smile 2 is Naomi Scott, who gives an extremely well rounded performance perfect for this type of horror, leading the audience through a variety of terrifying emotions. \n",
+        "url": "https://youtu.be/XCBOlsR3cxE"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-18T11:08:31.000Z",
+        "quote": "A sequel that doesn’t suck? Get happy!",
+        "url": "https://www.theaureview.com/watch/film-review-smile-2/"
+    },
+    {
+        "critic": "Linda Marric",
+        "is_top_critic": true,
+        "media": "The Sun (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-18T09:07:20.000Z",
+        "quote": "Director Parker Finn pulls no punches in this nightmare-fuelled sequel, taking us on a ride that’s even more intense and disturbing.",
+        "url": "https://www.thesun.co.uk/tv/31152986/the-apprentice-film-review/"
+    },
+    {
+        "critic": "Kat Hughes",
+        "is_top_critic": false,
+        "media": "THN",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-18T08:39:11.000Z",
+        "quote": "Naomi Scott has never been better in Parker Finn’s Smile 2, a layered and complex horror that betters its already strong predecessor on every level. \n\n",
+        "url": "https://www.thehollywoodnews.com/2024/10/18/smile-2-review-dir-parker-finn-2024/"
+    },
+    {
+        "critic": "Josh Bell",
+        "is_top_critic": false,
+        "media": "Tom's Guide",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-18T08:07:47.000Z",
+        "quote": "There are plenty of jump scares, but they rarely feel cheap, instead creating a sense of raw anxiety in the audience that matches Skye's mental state.",
+        "url": "https://www.tomsguide.com/entertainment/streaming/smile-2-builds-on-the-original-movie-with-mostly-strong-results"
+    },
+    {
+        "critic": "Linda Cook",
+        "is_top_critic": false,
+        "media": "OurQuadCities / WHBF-TV (Illinois)",
+        "sentiment": "Fresh 🍅",
+        "score": "3 1/2 stars",
+        "date": "2024-10-18T07:15:27.000Z",
+        "quote": "This sequel gives horror fans something to \"Smile\" about.",
+        "url": "https://www.ourquadcities.com/movies-2/cook-review-sequel-gives-horror-fans-something-to-smile-about/"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-10-18T06:19:10.000Z",
+        "quote": "Between the two of these films, it’s evident that Parker Finn can direct horror (even some of the jump scares are cleverly timed and implemented) but desperately needs a co-writer to work out shoddy messaging\n",
+        "url": "https://www.flickeringmyth.com/movie-review-smile-2-2024/"
+    },
+    {
+        "critic": "Jorge Loser",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-18T03:20:44.000Z",
+        "quote": "If 'Smile 2' works, it is because it takes its perverse concept of macabre comedy to hilarious extremes... [Full review in Spanish]",
+        "url": "https://www.espinof.com/criticas/smile-2-secuela-impecable-se-conforma-repetir-greatest-hits-primera-sangre-presupuesto"
+    },
+    {
+        "critic": "Russ Simmons",
+        "is_top_critic": false,
+        "media": "KKFI-FM (Kansas City)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-18T03:17:15.000Z",
+        "quote": "While it’s overlong and gets way too literal at the finale, “Smile 2” provides plenty of gory chills for horror fans.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-smile-2-r-exhibiting-forgiveness-r-woman-of-the-hour-r/"
+    },
+    {
+        "critic": "Nadine Whitney",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-10-18T01:01:51.000Z",
+        "quote": "Smile 2 easily outpaces its predecessor. It isn’t only the increased budget and scope that makes the film more enthralling, it’s the idea that ‘Skye Riley’ is already a skin Skye is wearing and she’s hemmed in by parasitic attention.",
+        "url": "https://insessionfilm.com/movie-review-smile-2/"
+    },
+    {
+        "critic": "Pablo De Vita",
+        "is_top_critic": false,
+        "media": "Clarín",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-18T00:40:44.000Z",
+        "quote": "In short, it lasts just over two hours and doesn't hold back. [Full review in Spanish]",
+        "url": "https://www.clarin.com/espectaculos/sonrie-2-truculenta-hijo-jack-nicholson-papelito_0_2Hg4Vq2MAO.html"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-18T00:17:00.000Z",
+        "quote": "Smile 2 starts off with a bang and keeps its foot on our necks for the entire running time.",
+        "url": "https://youtu.be/uAio4IMdAc0?si=EPCmGYa7Od6AbS7g"
+    },
+    {
+        "critic": "James Dyer",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-18T00:11:16.000Z",
+        "quote": "Creepy and clever but rarely surprising... ",
+        "url": "https://www.empireonline.com/movies/reviews/smile-2/"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "rachelsreviews.net",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-17T22:21:10.000Z",
+        "quote": "They go for bonkers crazy in this horror film and I was mostly here for it, even if I was squirming in my seat through much of it",
+        "url": "https://wp.me/p4VRGy-6LN"
+    },
+    {
+        "critic": "Luke Goodsell",
+        "is_top_critic": false,
+        "media": "ABC News (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-17T21:27:41.000Z",
+        "quote": "A striking 21st century pop fable, connecting its grinning curse to the malevolent effects of superstardom.",
+        "url": "https://www.abc.net.au/news/2024-10-18/review-smile-2/104483088"
+    },
+    {
+        "critic": "Lisa Laman",
+        "is_top_critic": false,
+        "media": "Culturess",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-17T21:16:46.000Z",
+        "quote": " Unfortunately, this dreadfully overlong sequel is populated with half-hearted scares executed with little panache. ",
+        "url": "https://culturess.com/smile-2-is-no-trap-or-longlegs-in-its-tepid-vision-of-pop-star-scares-and-unhinged-horror-01jaawy3mmgy"
+    },
+    {
+        "critic": "Miguel Ángel Romero",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-17T20:57:54.000Z",
+        "quote": "Scott masterfully picks up the baton from Sosie Bacon... in a film that also includes a new layer by addressing the dangers behind the music industry. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-smile-2-los-excesos-los-cantantes-sonrisa-mas-demoniaca-cine-terror-se-dan-mano-5644887/"
+    },
+    {
+        "critic": "Kristian M. Lin",
+        "is_top_critic": false,
+        "media": "Fort Worth Weekly",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-17T20:55:32.000Z",
+        "quote": "Setting the movie in the world of pop music does all sorts of good things for the sequel.",
+        "url": "https://www.fwweekly.com/2024/10/16/die-with-a-smile/"
+    },
+    {
+        "critic": "Benjamin Lee",
+        "is_top_critic": false,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-17T20:49:44.000Z",
+        "quote": "I’m not sure if Smile 2 really adds much to an experience that we don’t already know but it does make for a neat, well-utilised setting for a horror film about losing one’s mind. ",
+        "url": "https://www.theguardian.com/film/2024/oct/17/smile-2-review"
+    },
+    {
+        "critic": "Elliott Collins",
+        "is_top_critic": false,
+        "media": "Movie Files",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-17T20:48:20.000Z",
+        "quote": "There’s some thrills and creepy moments and a very intriguing and intense ending and some very disturbing moments and unique filmmaking techniques but unfortunately most of the the film is a complete rehash of the original film.\n\n",
+        "url": "https://youtu.be/3r4bAuyojWY?si=yi5WfMGHpl95saBL"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-17T20:48:14.000Z",
+        "quote": "There are long stretches where you actually forget you’re watching a Smile movie and couldn’t be blamed for thinking you’ve stumbled into a slightly more nightmarish version of Beyond the Lights.",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/smile-2-review-1235134023/"
+    },
+    {
+        "critic": "Michael Phillips",
+        "is_top_critic": true,
+        "media": "Chicago Tribune",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-10-17T20:46:51.000Z",
+        "quote": "“Smile 2” goes in a newish direction, to frustrating mixed results — but it’s a mixed bag you can respect because it’s not hackwork and it’s trying new things. ",
+        "url": "https://chicagotribune.com/2024/10/16/smile-2-review-a-pop-stars-lot-is-not-a-happy-one/"
+    },
+    {
+        "critic": "Kyle Logan",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-17T20:46:35.000Z",
+        "quote": "[Smile 2] pulls from a variety of sources...to deliver an often effective horror film that bites off more than it can chew. Or perhaps it just chews too long?",
+        "url": "https://screenanarchy.com/2024/10/smile-2-review-effective-but-overlong-and-obvious-horror-spectacle.html"
+    },
+    {
+        "critic": "Matt Schimkowitz",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-10-17T20:38:48.000Z",
+        "quote": "The film finds dark humor in taking these desperate feelings of unease and feeding them to a kaleidoscopic creature of pain and viscera.",
+        "url": "https://www.avclub.com/smile-2-review"
+    },
+    {
+        "critic": "Richard Whittaker",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-17T20:35:44.000Z",
+        "quote": "Parker Finn takes the intriguing but somewhat prosaically expressed conceit of his 2022 surprise smash and makes Smile 2 bigger and scarier in all the right ways.",
+        "url": "https://www.austinchronicle.com/events/film/2024-10-18/smile-2/"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-17T20:05:15.000Z",
+        "quote": "Even if you’re not a fan of sequels, Smile 2, the follow up to 2022’s Smile, should turn your frown upside down.",
+        "url": "https://richardcrouse.ca/smile-2-4-stars-this-sequel-should-should-turn-your-frown-upside-down/"
+    },
+    {
+        "critic": "Dan Tabor",
+        "is_top_critic": false,
+        "media": "Cinapse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-17T19:23:48.000Z",
+        "quote": "Smile 2 was an unexpected surprise. Director Parker Finn really tried to do something unique with the material and it paid off. Not all protagonists have to be sympathetic and sometimes it’s really fun to watch terrible things happen to horrible people",
+        "url": "https://cinapse.net/2024/10/smile-2-when-you-brat-so-hard-your-mind-is-literally-possessed-by-a-demon/"
+    },
+    {
+        "critic": "Courtney Small",
+        "is_top_critic": false,
+        "media": "Cinema Axis",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-17T18:45:41.000Z",
+        "quote": "Setting its horror within the manufactured world of celebrity, where prying eyes of fans and media expectations are its own form of terror, Smile 2 constructs a haunting and claustrophobic atmosphere.",
+        "url": "https://cinemaaxis.com/2024/10/17/smile-2/"
+    },
+    {
+        "critic": "Nick Johnston",
+        "is_top_critic": false,
+        "media": "Vanyaland",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-17T18:29:44.000Z",
+        "quote": "Smile 2 is the best-case scenario for a horror sequel.",
+        "url": "https://vanyaland.com/2024/10/17/smile-2-review-whoa-a-great-horror-sequel/"
+    },
+    {
+        "critic": "MontiLee Stormer",
+        "is_top_critic": false,
+        "media": "MovieReelist.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-17T18:28:25.000Z",
+        "quote": "Parker Finn, who also wrote and directed Smile, is clearly working through some serious, deep-seated psychological issues, and transferring them to the screen appears to be deliberate immersive therapy. ",
+        "url": "https://moviereelist.com/review/smile-2/"
+    },
+    {
+        "critic": "Whelan Barzey",
+        "is_top_critic": false,
+        "media": "Time Out",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-17T18:25:36.000Z",
+        "quote": "It’s tamer than its deeply unsettling predecessor, but still unhinged enough to keep you nicely on edge.",
+        "url": "https://www.timeout.com/movies/smile-2-review-20"
+    },
+    {
+        "critic": "Beatrice Loayza",
+        "is_top_critic": false,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-17T18:21:50.000Z",
+        "quote": "[Smile 2] is more thematically ambitious than the original, which also allows Finn to stage more satisfyingly ridiculous kills and ramp up its air of delirium. ",
+        "url": "https://www.nytimes.com/2024/10/17/movies/smile-2-review.html"
+    },
+    {
+        "critic": "Mark Kennedy",
+        "is_top_critic": false,
+        "media": "Associated Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-17T18:17:49.000Z",
+        "quote": "Over two hours ends up being too long. But [writer-director Parker Finn] has found a great satirical target, given life to a third film easily and showcased another rising star to watch. That’s a reason to, well, smile about.",
+        "url": "https://apnews.com/article/smile-2-movie-review-f9a4a6bac6de9450819b78eca31dd851"
+    },
+    {
+        "critic": "Alexander Mooney",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-17T17:12:50.000Z",
+        "quote": "As morbidly watchable as it is totally interminable, self-defeating and self-congratulating in equal measure.",
+        "url": "https://inreviewonline.com/2024/10/17/smile-2/"
+    },
+    {
+        "critic": "Carla Meyer",
+        "is_top_critic": false,
+        "media": "San Francisco Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-17T16:51:39.000Z",
+        "quote": "“Smile 3” is probably already in the works, but Finn’s demented artistry has me looking further ahead, to his own “Megalopolis” 50 years from now.",
+        "url": "https://datebook.sfchronicle.com/movies-tv/smile-2-naomi-scott-horror-19839512"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Daily Dead",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-17T15:51:59.000Z",
+        "quote": "Parker Finn's Smile 2 is a sharper, meaner, and despicably addictive amplification of Smile that doesn’t tamper with what works.",
+        "url": "https://dailydead.com/review-smile-2-is-a-grander-scarier-powerhouse-sequel/"
+    },
+    {
+        "critic": "Kate Sánchez",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-10-17T14:20:13.000Z",
+        "quote": "Smile 2 is one of the best theater horror experiences of the year. From sound and costumes to jump scares and violence, Smile 2 is just damn good.",
+        "url": "https://butwhytho.net/2024/10/smile-2-review-naomi-scott/"
+    },
+    {
+        "critic": "Andrew Wyatt",
+        "is_top_critic": false,
+        "media": "The Take-Up",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-17T13:25:47.000Z",
+        "quote": "Finn and his collaborators to achieve the best possible outcome for a second Smile. Namely, the opportunity to run a similar scenario with a fresh cast, bigger budget, and a more focused and coherent handling of its grim themes.",
+        "url": "https://thetake-up.com/smile-2/"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-17T13:12:36.000Z",
+        "quote": "Smile 2 has a few less-than-stellar moments but continues the tradition set in the first film and based on the ending, a third film is most probably going to happen.",
+        "url": "https://flickdirect.com/movie-review/3127/smile-2/movie.ashx"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-10-17T13:05:37.000Z",
+        "quote": "Smile 2 channels Britney Spears with a pop diva's supernatural psychosis in a gruesome sequel with predictable narrative beats. Star Naomi Scott elevates the middling script in a gripping performance that showcases her remarkable range.",
+        "url": "https://movieweb.com/smile-2-review/"
+    },
+    {
+        "critic": "Neil Pond",
+        "is_top_critic": false,
+        "media": "Neil's Entertainment Picks",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-17T12:54:03.000Z",
+        "quote": "This masterfully nasty little house of horrors takes the premise of the first flick and lets it play out through a nightmarish new scenario with a troubling subtext about the high pressures—and high personal price—of fame.",
+        "url": "http://neilsentertainmentpicks.com/2024/10/17/movie-review-smile-2/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-17T05:51:09.000Z",
+        "quote": "Just watch The Substance instead.",
+        "url": "http://nycmovieguru.com/oct18th24.html#smile2"
+    },
+    {
+        "critic": "Lupe Rodriguez Haas",
+        "is_top_critic": false,
+        "media": "CineMovie.tv",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-10-17T05:21:11.000Z",
+        "quote": "Writer/director Parker Finn delivers a scarier and gorier SMILE sequel. The intensity doesn’t let up the entire run time, leaving you exhausted (in a good way) by the end.",
+        "url": "https://cinemovie.tv/New-Series-and-Movie-Reviews/Smile-2-Movie-Review-A-Relentlessly-Thrilling-Horror-Sequel"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-10-17T03:59:45.000Z",
+        "quote": "Ups the ante in terms of size and scares with diminishing returns, especially since it’s telling essentially the same story as the original.  “Smile” was compact, tidy and chilling; “Smile 2” is overstuffed, garish and in the end rather silly.",
+        "url": "https://www.oneguysopinion.com/smile-2/"
+    },
+    {
+        "critic": "Nagier Chambers",
+        "is_top_critic": false,
+        "media": "Big Gold Belt Media",
+        "sentiment": "Fresh 🍅",
+        "score": "A ",
+        "date": "2024-10-17T00:44:24.000Z",
+        "quote": "Without a doubt is a must see! Endless brutality and jaw dropping moments that never ever let up!\n\nNaomi Scott performance is spectacular.\n\nGive me Smile 3 NOW!!",
+        "url": "https://biggoldbelt.com/reviews/smile-2-review-2024-a-must-see-naomi-scott-is-spectacular/"
+    },
+    {
+        "critic": "Anthony O'Connor",
+        "is_top_critic": false,
+        "media": "FILMINK (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "15.5/20",
+        "date": "2024-10-17T00:34:20.000Z",
+        "quote": "Disorienting, compelling and often mean-spirited, Smile 2 is the kind of flick that will have genre aficionados grinning from ear to ear and everyone else trying to hide behind their popcorn.",
+        "url": "https://www.filmink.com.au/reviews/smile-2/"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-17T00:32:16.000Z",
+        "quote": "No matter how repetitive and familiar the sequel is when placed next to the first entry, it’s consistently scary and frequently disturbing. If nothing else, it proves that, sometimes, being a good copy can have the same result as the original.",
+        "url": "https://www.deepfocusreview.com/reviews/smile-2/"
+    },
+    {
+        "critic": "Thom Ernst",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-10-17T00:30:40.000Z",
+        "quote": "It may have the makings of a cult film, but Smile 2 leaves one with the nagging sense that you need to rewatch the original just to confirm this is a sequel. ",
+        "url": "https://www.original-cin.ca/posts/2024/10/16/smile-2-iffy-sequel-turns-those-freaky-smiles-into-frowns"
+    },
+    {
+        "critic": "Matt Oakes",
+        "is_top_critic": false,
+        "media": "Silver Screen Riot",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-10-17T00:00:02.000Z",
+        "quote": "Glaring shortcomings frustratingly spoil what could have been a total knockout. Thankfully, there’s enough well-executed horror elements - The gore! The performances! The scares! - to make you grin and bear it.",
+        "url": "https://silverscreenriot.com/brutal-sequel-smile-2-hosts-the-curse-of-celebrity/"
+    },
+    {
+        "critic": "Michael Gingold",
+        "is_top_critic": false,
+        "media": "Rue Morgue Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T21:44:05.000Z",
+        "quote": "Writer/director Parker Finn ably overcomes the sophomore jinx and delivers a sequel that stays true to the initial inspiration while finding a new, and significantly bigger, story to tell.",
+        "url": "https://rue-morgue.com/movie-review-grin-and-scare-it-with-smile-2/"
+    },
+    {
+        "critic": "Grace Randolph",
+        "is_top_critic": false,
+        "media": "Beyond the Trailer",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T20:31:19.000Z",
+        "quote": "A tour de force for Naomi Scott who gives a compelling and modern version of a Hitchcock Blonde. Writer/Director Parker Finn is equally impressive with his work behind the camera. Also the use of \"celebrity\" really elevates the film & makes it feel fresh.",
+        "url": "https://www.youtube.com/watch?v=XMqWGsRGKMs"
+    },
+    {
+        "critic": "Jason Escamilla",
+        "is_top_critic": false,
+        "media": "EskimoTV",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-10-16T17:59:25.000Z",
+        "quote": "Naomi Scott's outstanding performance drives Smile 2, a well-executed horror sequel that delivers thrilling jump scares, artistic camera work, and plenty of moments to dissect after the credit roll!",
+        "url": "https://youtu.be/W_RUBRl9fLE"
+    },
+    {
+        "critic": "Emma Wolfe",
+        "is_top_critic": false,
+        "media": "SpookyAstronauts",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-10-16T17:39:26.000Z",
+        "quote": "It is a[n] interesting journey with a lot of stylization. ",
+        "url": "https://www.youtube.com/watch?v=ls-B3-pPkpQ"
+    },
+    {
+        "critic": "Dylan Roth",
+        "is_top_critic": false,
+        "media": "Observer",
+        "sentiment": "Fresh 🍅",
+        "score": "2/4",
+        "date": "2024-10-16T17:38:19.000Z",
+        "quote": "For fans of the first film, it’s more of the same, and for any casual horror viewers who are up for a funhouse thrill this October, it’ll do the trick. ",
+        "url": "https://observer.com/2024/10/smile-2-review-funhouse-horror-that-does-the-trick/"
+    },
+    {
+        "critic": "Jesse Hassenger",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "6.3/10",
+        "date": "2024-10-16T17:07:17.000Z",
+        "quote": "Whenever Scott threatens to work the movie up into a proper frenzy, Finn stops her dead in her tracks, convinced that by dwelling on the vague idea of trauma, he’ll find something more to say about it. ",
+        "url": "https://www.pastemagazine.com/movies/smile/smile-2-review-horror-sequel-naomi-scott-pop-music-parker-finn"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T17:04:07.000Z",
+        "quote": "As flashy as it is gory, Smile 2 is a rare sequel that's better than the original movie. Naomi Scott gives an impressive performance as a pop diva haunted by a sinister demon spirit. This movie improves from 2022's Smile in almost every way.",
+        "url": "https://culturemixonline.com/review-smile-2-starring-naomi-scott-rosemarie-dewitt-kyle-gallner-lukas-gage-miles-gutierrez-riley-dylan-gelula-and-ray-nicholson/"
+    },
+    {
+        "critic": "Christian Toto",
+        "is_top_critic": false,
+        "media": "HollywoodInToto.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-10-16T16:37:20.000Z",
+        "quote": "Bloated sequel delivers first-rate performance but ends with a sizable shrug.",
+        "url": "https://www.hollywoodintoto.com/smile-2-review/"
+    },
+    {
+        "critic": "Louisa Moore",
+        "is_top_critic": false,
+        "media": "Screen Zealots",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T16:28:55.000Z",
+        "quote": "Providing a fresh, satisfying, and exciting continuation of the first installment's premise, this is a film for sophisticated genre fans that demand substance rather than casual viewers who are looking for a dumbed-down scarefest.",
+        "url": "https://screenzealots.com/2024/10/16/smile-2/"
+    },
+    {
+        "critic": "Rocco T. Thompson",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-16T16:17:35.000Z",
+        "quote": "Parker Finn, like his entity, is interested in getting his bony fingers into those sticky tender parts we’d rather hide away, slurping our pain like ambrosia and confronting us with the fact that more often than not, the enemy staring back is you.",
+        "url": "https://www.slantmagazine.com/film/smile-2-review-naomi-scott-parker-finn/"
+    },
+    {
+        "critic": "Joe George",
+        "is_top_critic": false,
+        "media": "Den of Geek",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-10-16T16:13:53.000Z",
+        "quote": "It wants to explore the ethical problems of fandom and the pressure on regular people to be larger than life... but Smile 2 has the exact opposite effect, leaving the viewer with no choice but to take pleasure in seeing bad things happen.",
+        "url": "https://www.denofgeek.com/movies/smile-2-review-it-leaves-you-frowning/"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "Eric Goldman (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-10-16T16:05:26.000Z",
+        "quote": "It's better than the first one, doing what you want a sequel to do by taking the things about the first movie that worked and expanding upon them. It's more dreamlike and trippy and Naomi Scott gives a really impressive performance. ",
+        "url": "https://www.youtube.com/watch?v=Dxyb_rplHAs"
+    },
+    {
+        "critic": "Hannah Strong",
+        "is_top_critic": true,
+        "media": "Little White Lies",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T15:50:35.000Z",
+        "quote": "It’s all exceptionally silly, and fans of the first film might find the first hour little more than a rehash of Smile, but there’s still something admirable about Parker Finn’s gusto. ",
+        "url": "https://lwlies.com/reviews/smile-2/"
+    },
+    {
+        "critic": "Kristen Lopez",
+        "is_top_critic": true,
+        "media": "The Film Maven",
+        "sentiment": "Rotten 🤢",
+        "score": "D",
+        "date": "2024-10-16T15:42:08.000Z",
+        "quote": "What started out as an inventive little horror feature transforms into a boring, generic drama with a runtime so bloated you’ll start to wonder if everyone just forgot what kind of film they were making.",
+        "url": "https://kristenlopez.substack.com/p/smile-2-review-naomi-scott"
+    },
+    {
+        "critic": "Evan Valentine",
+        "is_top_critic": false,
+        "media": "ComicBook.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-16T15:06:56.000Z",
+        "quote": "Smile 2 brings the spooky goods in a sequel that outdoes the original.",
+        "url": "https://comicbook.com/horror/news/smile-2-horror-movie-review-paramount/"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-10-16T15:06:22.000Z",
+        "quote": "With less focus on pushing obvious thematic buttons, Smile 2 frequently delivers the goods and is held together by confident filmmaking and a demanding yet effective lead performance from Naomi Scott, resulting in one of the best horror films of the year.",
+        "url": "https://weliveentertainment.com/welivefilm/smile-2-review-killer-sequel-lot-pop/"
+    },
+    {
+        "critic": "Trace Sauveur",
+        "is_top_critic": false,
+        "media": "AwardsWatch",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-10-16T14:57:36.000Z",
+        "quote": "The general narrative makeup of Smile 2 is excessively familiar to the beats found in the first film, right down to the sudden shift to phantasmagoric creature imagery in the eleventh hour which, don’t worry, Finn follows through on with aplomb.",
+        "url": "https://awardswatch.com/smile-2-review-light-up-your-face-with-gladness-parker-finns-horror-franchise-sequel-is-overly-familiar-but-boasts-an-impressive-sense-of-style/"
+    },
+    {
+        "critic": "Murjani Rawls",
+        "is_top_critic": false,
+        "media": "Substream Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T14:55:08.000Z",
+        "quote": "Horror is very much in the trauma business, and \"Smile 2\" shows there isn’t a worldwide shortage of those who feel it. ",
+        "url": "https://substreammagazine.com/2024/10/smile-2-review-this-is-going-to-ruin-the-tour/"
+    },
+    {
+        "critic": "Aglaia Berlutti",
+        "is_top_critic": false,
+        "media": "Hipertextual",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-10-16T14:17:13.000Z",
+        "quote": "The sequel to the success of 2022, repeats the formula of a parasitic entity on the prowl, on a larger scale. The result is a more ambitious but superficial story. \n[Full Review in Spanish]\n",
+        "url": "https://hipertextual.com/2024/10/smile-2-critica-un-festival-sangriento-que-se-queda-a-medias"
+    },
+    {
+        "critic": "Meagan Navarro",
+        "is_top_critic": true,
+        "media": "Bloody Disgusting",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-16T14:13:45.000Z",
+        "quote": "It’s not just the sequel’s razor-sharp and inventive, gory scares that surpass its predecessor, but a profoundly complicated heroine shaping the edgier style of horror.",
+        "url": "https://bloody-disgusting.com/reviews/3835676/smile-2-review-parker-finns-confident-sequel-goes-bigger-and-scarier/"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-16T14:08:02.000Z",
+        "quote": "Smile 2 is a complete movie; a full-meal horror with bigger stakes, much better scares, and an epic turn by Scott that should have us reexamining why horror actresses don’t get any love during awards season.",
+        "url": "https://punchdrunkcritics.com/2024/10/review-smile-2/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "D+",
+        "date": "2024-10-16T14:02:14.000Z",
+        "quote": "“Smile 2” is much too long and repetitive, quickly becoming a series of jump scares in need of a better script.",
+        "url": "https://www.blu-ray.com/Smile-2/1735290/#Review"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "C+",
+        "date": "2024-10-16T14:00:40.000Z",
+        "quote": "Smile 2 might be bigger but it’s not better… a solid follow up that dives more into the psychological but loses itself in some of the pacing… there are some really cool sequence & Scott is SO GOOD… but I found it predictable & honestly expected more\n",
+        "url": "https://youtu.be/VRTyXKsVy3c"
+    },
+    {
+        "critic": "Jeff Ewing",
+        "is_top_critic": false,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-10-16T14:00:09.000Z",
+        "quote": "It's a stellar horror entry and, slight faults aside, it's an exemplary horror sequel that hits home runs where the original landed base runs.",
+        "url": "https://collider.com/smile-2-review/"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-10-16T13:45:05.000Z",
+        "quote": "Excellent psychological horror frightfest…crammed with A-grade stylistic flourishes…Naomi Scott is outstanding in a demanding lead role; convincing and increasingly frantic, she pushes matters far beyond the limits of the standard scream queen.",
+        "url": "https://tinyurl.com/mr3s3j9w"
+    },
+    {
+        "critic": "Tim Grierson",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-16T13:36:44.000Z",
+        "quote": "Smile 2 has its audacious moments but, as Finn’s script unveils implausible plot twists, this sequel elicits neither terror nor smiles but, rather, shrugs. ",
+        "url": "https://www.screendaily.com/reviews/smile-2-review/5198202.article"
+    },
+    {
+        "critic": "Sean McGeady",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-16T13:36:41.000Z",
+        "quote": "[Scott] delivers a powerhouse performance, by turns confounded, crazed, wide-eyed and snotty, as Skye battles demons inside and out.",
+        "url": "https://www.radiotimes.com/movies/smile-2-review-naomi-scott/"
+    },
+    {
+        "critic": "Pete Hammond",
+        "is_top_critic": false,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-10-16T13:35:54.000Z",
+        "quote": "Smile 2 gets too bogged down with the travails of its lead woman under the influence. By the end we really are ready to get off this ride. ",
+        "url": "https://deadline.com/2024/10/smile-2-review-intense-naomi-scott-sequel-2022-horror-hit-1236117263/"
+    },
+    {
+        "critic": "Manuel São Bento",
+        "is_top_critic": false,
+        "media": "FandomWire",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-10-16T13:35:19.000Z",
+        "quote": "Smile 2 not only proves to be the best horror movie of 2024, but it also stands out as one of the best horror sequels in recent years, improving upon all aspects that made the original a gigantic success.",
+        "url": "https://fandomwire.com/smile-2-review/"
+    },
+    {
+        "critic": "Chris Bumbray",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T13:34:02.000Z",
+        "quote": "A shockingly great sequel!",
+        "url": "https://www.joblo.com/smile-2-review-one-of-the-years-best-horror-movies/"
+    },
+    {
+        "critic": "A.A. Dowd",
+        "is_top_critic": true,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-10-16T13:33:08.000Z",
+        "quote": "From the writer-director of the 2022 horror sleeper Smile comes a solid sequel that sicks the suicide-hex phantom on a pop star played -- in a highly volatile, committed performance -- by Aladdin’s Naomi Scott.",
+        "url": "https://www.ign.com/articles/smile-2-review-naomi-scott-parker-finn"
+    },
+    {
+        "critic": "Owen Gleiberman",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T13:31:37.000Z",
+        "quote": "The movie is hardly subtle, yet Parker Finn has become a clever enough filmmaker to make reality feel like a hallucination and hallucinations feel like reality.  ",
+        "url": "https://variety.com/2024/film/reviews/smile-2-review-naomi-scott-1236178126/"
+    },
+    {
+        "critic": "Chris Evangelista",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-10-16T13:31:25.000Z",
+        "quote": "It's a non-stop spookshow that just keeps increasing in madness, building towards a grand finale that pretty much absolves the film of any negative issues you might have.",
+        "url": "https://www.slashfilm.com/1689564/smile-2-horror-movie-sequel-review/"
+    },
+    {
+        "critic": " Becky Darke",
+        "is_top_critic": false,
+        "media": "Total Film",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-10-16T13:30:47.000Z",
+        "quote": "Smile 2 is very much Naomi Scott’s movie. ",
+        "url": "https://www.gamesradar.com/entertainment/horror-movies/smile-2-review/"
+    },
+    {
+        "critic": "William Bibbiani",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T13:26:50.000Z",
+        "quote": "Smile 2 is more of the same. A lot more. But it’s just as scary, and this time it’s feistier and funnier, proving that the premise has legs and also some malleability.",
+        "url": "https://www.thewrap.com/smile-2-review/"
+    },
+    {
+        "critic": "Christian Zilko",
+        "is_top_critic": false,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-10-16T13:19:14.000Z",
+        "quote": "More than anything, this sequel is proof of the endless versatility that could turn “Smile” movies into an October box office fixture for decades to come.",
+        "url": "https://www.indiewire.com/criticism/movies/smile-2-review-1235057195/"
+    },
+    {
+        "critic": "Daniel Kurland",
+        "is_top_critic": false,
+        "media": "CBR",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-10-16T13:15:02.000Z",
+        "quote": "Smile 2 triumphs with its stunning setpieces, grandiose gore & impressive practical effects.",
+        "url": "https://www.cbr.com/smile-2-review/"
+    },
+    {
+        "critic": "David Rooney",
+        "is_top_critic": true,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T13:13:24.000Z",
+        "quote": "Still, there’s much to be said for a director so unencumbered by timidity, and the sequel will leave plenty of horror fans grinning from ear to ear.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/smile-2-review-naomi-scott-parker-finn-1236033017/"
+    },
+    {
+        "critic": "Alistair Ryder",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-10-16T13:13:22.000Z",
+        "quote": "If \"Smile 2\" feels just as good as the first in the moment, then it's entirely thanks to Scott, who helps anchor a story that could crack under the weight of its endless twist reveals.",
+        "url": "https://www.looper.com/1686702/smile-2-movie-review/"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-10-16T13:12:48.000Z",
+        "quote": "This film will leave you gagged and gasping for air, and it’s one of the finest horror movies of 2024.",
+        "url": "https://www.comingsoon.net/movies/reviews/1864342-smile-2-review-an-intense-masterfully-crafted-sequel"
+    },
+    {
+        "critic": "James Mottram",
+        "is_top_critic": false,
+        "media": "NME (New Musical Express)",
+        "sentiment": "Rotten 🤢",
+        "score": "3/5",
+        "date": "2024-10-16T13:09:02.000Z",
+        "quote": "In essence this is just a re-run of the first movie, just in a slightly glitzier environment. Is it scary? Rarely, to be honest. But it knows how to twist the knife, at least",
+        "url": "https://www.nme.com/reviews/film-reviews/smile-2-review-horror-naomi-scott-3803332"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Casey's Movie Mania",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-10-16T13:07:31.000Z",
+        "quote": "This otherwise overstretched, more-of-the-same sequel gets a gorier screen treatment.",
+        "url": "https://www.caseymoviemania.com/smile-2-2024-review/"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T13:05:56.000Z",
+        "quote": "Smile 2 exceeds all expectations as it ups the ante in terms of gore, lore, and scares. If you thought the first film was terrifying, just wait.",
+        "url": "https://mamasgeeky.com/2024/10/smile-2-movie-review.html"
+    },
+    {
+        "critic": "Brittany Patrice Witherspoon",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-10-16T13:05:51.000Z",
+        "quote": "Smile 2 is entertaining. Certainly, don’t expect the best commentary on mental health issues, but be ready for some jump-scare fun.\n",
+        "url": "https://screenrant.com/smile-2-movie-review/"
+    },
+    {
+        "critic": "James Preston Poole",
+        "is_top_critic": false,
+        "media": "Discussing Film",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-10-16T13:03:00.000Z",
+        "quote": "Not just a good horror sequel, but a superior one. Smile 2 is a dual showcase for Parker Finn’s writer-directorial talents and Naomi Scott’s acting abilities that tops the original film and keeps the commentary strong.",
+        "url": "https://discussingfilm.net/2024/10/16/smile-2-review-perfect-horror-sequel/"
+    },
+    {
+        "critic": "Nick Schager",
+        "is_top_critic": true,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T13:02:08.000Z",
+        "quote": "[Finn's] second feature may not be as consistent a rollercoaster ride as his maiden effort, but it gets the job done frequently enough to be a chart-topper.",
+        "url": "https://www.thedailybeast.com/obsessed/smile-2-review-horror-sequel-puts-joker-and-terrifier-to-shame?ref=author"
+    },
+    {
+        "critic": "Joey Magidson",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-10-16T13:01:53.000Z",
+        "quote": "Smile 2 is a larger scale sequel with a now firmly established horror template.",
+        "url": "https://awardsradar.com/2024/10/16/film-review-smile-2/"
+    },
+    {
+        "critic": "Will Mavity",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-10-16T13:00:55.000Z",
+        "quote": "Overall, “Smile 2” is a fun enough time at the theater this spooky season. If you’re looking for jump scares and lots of gore, you will find them aplenty. It’s just a shame the delivery mechanism all feels so familiar.",
+        "url": "https://nextbestpicture.com/smile-2/"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-10-16T13:00:52.000Z",
+        "quote": "Three quarters of it are genuinely strong, but that remaining quarter does reduce that smile quite significantly.",
+        "url": "https://filmfeeder.co.uk/smile-2-2024-dir-parker-finn"
+    },
+    {
+        "critic": "Shahbaz Siddiqui",
+        "is_top_critic": false,
+        "media": "The Movie Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-10-16T13:00:03.000Z",
+        "quote": "Smile 2 is a TERRIFYING MASTERPIECE! Naomi Scott delivers a blood-chilling performance that will linger in your mind for days. Parker Finn’s direction drips with dread at every turn. My heart hasn’t raced this much in years! A MUST-WATCH this Halloween!",
+        "url": "https://x.com/shayhbaz/status/1844757688145809578"
+    }
+]

@@ -1,0 +1,3772 @@
+[
+    {
+        "critic": "Don Kaye",
+        "is_top_critic": false,
+        "media": "Moviefone",
+        "sentiment": "Rotten 🤢",
+        "score": "6/10",
+        "date": "2026-07-04T10:31:29.000Z",
+        "quote": "It’s all in the execution, and ‘The Fall Guy’ never commits to what kind of film it wants to be.",
+        "url": "https://www.moviefone.com/news/movie-review-the-fall-guy/"
+    },
+    {
+        "critic": "Jon Winkler",
+        "is_top_critic": false,
+        "media": "InBetweenDrafts",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2026-04-14T15:25:42.000Z",
+        "quote": "The Fall Guy is a limp-noodle comedy barely holding itself together by its amusing chases and fights.",
+        "url": "https://inbetweendrafts.com/the-fall-guy-review-stunts-cant-save-comedy-that-falls-flat/"
+    },
+    {
+        "critic": "Jonathan Romney",
+        "is_top_critic": true,
+        "media": "Sight & Sound",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-12-31T20:35:41.000Z",
+        "quote": "They all bring characterful flesh-and- blood mischief to what could otherwise have been a calculated mirror game of reality and illusion.",
+        "url": "https://www.bfi.org.uk/sight-and-sound/reviews/fall-guy-witty-action-packed-tribute-stunt-performers"
+    },
+    {
+        "critic": "Patrick Beatty",
+        "is_top_critic": false,
+        "media": "ABC4 Utah",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-08-12T21:46:34.000Z",
+        "quote": "On the surface, it’s a very sweet love story with Gosling and Blunt, but it is crammed with real-life stunts that in some cases even broke world records right before our eyes.",
+        "url": "https://www.abc4.com/dailydish/see-it-or-skip-it/fall-guy-action-blockbuster-see-it-or-skip-it-reviews/"
+    },
+    {
+        "critic": "Guillermo Troncoso",
+        "is_top_critic": false,
+        "media": "Screen Realm",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2025-07-29T14:51:03.000Z",
+        "quote": "Laughs, romance, stunts. The Fall Guy sticks the landing.",
+        "url": "https://screenrealm.com/the-fall-guy-movie-review-ryan-gosling-emily-blunt/"
+    },
+    {
+        "critic": "Sammie Purcell",
+        "is_top_critic": false,
+        "media": "Rough Draft Atlanta",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-07-22T20:22:51.000Z",
+        "quote": "At its core, “The Fall Guy” is not just a movie about stuntmen, but rather a movie about movies and the people who love and make them. ",
+        "url": "https://roughdraftatlanta.com/2024/05/10/the-fall-guy-film-review/"
+    },
+    {
+        "critic": "Julian Singleton",
+        "is_top_critic": false,
+        "media": "Cinapse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2025-07-11T21:26:48.000Z",
+        "quote": "While The Fall Guy is open about its origins as a reverse-engineered...theater packer, its bold willingness to take one on the chin as far as its laughs and dazzling stuntwork earnestly makes it the stuff the best Summer blockbusters are made of. ",
+        "url": "https://cinapse.net/2024/05/the-fall-guy-takes-its-punches-and-earns-its-laughs/"
+    },
+    {
+        "critic": "Francesca Steele",
+        "is_top_critic": false,
+        "media": "iNews.co.uk",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-12-10T22:47:11.000Z",
+        "quote": "It’s Gosling and Blunt who always keep it light on its feet. It’s flippant but absorbing too.",
+        "url": "https://inews.co.uk/culture/film/the-fall-guy-review-3032456"
+    },
+    {
+        "critic": "Margaret Darby",
+        "is_top_critic": false,
+        "media": "Deseret News (Salt Lake City)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-11-06T01:10:14.000Z",
+        "quote": "“The Fall Guy” is everything we needed it to be and nothing more. And that is what makes it the perfect summer blockbuster.",
+        "url": "https://www.deseret.com/entertainment/2024/05/02/the-fall-guy-review/"
+    },
+    {
+        "critic": "Rubén Rosario",
+        "is_top_critic": false,
+        "media": "MiamiArtZine",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-09-16T22:27:32.000Z",
+        "quote": "Now comes this latest underwhelming star vehicle, a missed opportunity that squanders a committed cast, inserts ludicrous product placement at just about every turn...",
+        "url": "https://www.miamiartzine.com/Features.php?op=Article_Summer+Movies+Are+Here+And+They+Could+Be+Better"
+    },
+    {
+        "critic": "Matt Pais",
+        "is_top_critic": false,
+        "media": "MattPais.com",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-09-16T00:53:57.000Z",
+        "quote": "A quintessential example of too much and not enough, where all the lovelorn regret and expertly timed explosions can’t compensate for a thinness in the story and characters.",
+        "url": "https://www.mattpais.com/movie-reviews/2024/9/1/the-fall-guy-review"
+    },
+    {
+        "critic": "Cole Smithey",
+        "is_top_critic": false,
+        "media": "ColeSmithey.com",
+        "sentiment": "Fresh 🍅",
+        "score": "FIVE STARS",
+        "date": "2024-09-09T17:07:09.000Z",
+        "quote": "Fast, sexy, hilarious, and endlessly entertaining, \"The Fall Guy\" is a true masterpiece regardless of whether its the short or long version that you see.",
+        "url": "https://www.colesmithey.com/capsules/2024/09/the-fall-guy-.html"
+    },
+    {
+        "critic": "Nadya Martinez",
+        "is_top_critic": false,
+        "media": "Big Gold Belt Media",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-09-05T20:44:48.000Z",
+        "quote": "Most fun movie of the summer. Action packed thrill-ride full of hilarious movie references and insane action sequences while paying homage to the brave stunt performers. Emily Blunt and Ryan Gosling have great chemistry that never feels forced. ",
+        "url": "https://youtu.be/6_crSw0T5DU?si=8yY-XnHLUKIdFQUO"
+    },
+    {
+        "critic": "Robert W. Butler",
+        "is_top_critic": false,
+        "media": "Butler's Cinema Scene",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-08-23T20:53:31.000Z",
+        "quote": "It should work.  Two great stars, lots of insider jokes about the movie biz, some behind-the-scenes Hollywood insights... But no, sorry. Not this time.",
+        "url": "https://butlerscinemascene.com/2024/08/14/short-takes-the-bikeriders-the-instigators-the-fall-guy/"
+    },
+    {
+        "critic": "Matthew Huff",
+        "is_top_critic": false,
+        "media": "Parade Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-08-15T21:43:44.000Z",
+        "quote": "'The Fall Guy' Is a Cute Rom-Com Buried in a Convoluted Action Movie.",
+        "url": "https://parade.com/movies/the-fall-guy-review"
+    },
+    {
+        "critic": "Tim Miller",
+        "is_top_critic": false,
+        "media": "Cape Cod Wave Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-08-10T21:20:02.000Z",
+        "quote": "It starts out great, thanks to its charming stars ... and lots of funny bits. But, this is about a stuntman, and at a certain point the action sequences take over and don’t let up. By the end, I was tired – and not in a good way.\n",
+        "url": "https://capecodwave.com/despite-star-power-fall-guy-idea-of-you-stumble-play-it-again-tim/"
+    },
+    {
+        "critic": "Sameen Amer",
+        "is_top_critic": false,
+        "media": "The News International (Pakistan)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-08-07T16:09:30.000Z",
+        "quote": "A celebration of stunt work and those who perform it, The Fall Guy thoroughly entertains with its action and wit.",
+        "url": "https://www.thenews.com.pk/magazine/us/1199682-lights-camera-action"
+    },
+    {
+        "critic": "Rick Bentley",
+        "is_top_critic": false,
+        "media": "KGET-TV (Bakersfield, CA)",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-08-06T20:57:14.000Z",
+        "quote": "If you can survive the childish romantic banter, The Fall Guy is a fun thrill ride when it comes to all the stunts. There is also great chemistry between Gosling and Blunt even with them having to spout their inane lines.",
+        "url": "https://www.kget.com/community/ricks-reviews/fall-guy-gets-sparks-from-emily-blunt-ryan-gosling/"
+    },
+    {
+        "critic": "Jack Martin",
+        "is_top_critic": false,
+        "media": "Film Feeder",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-08-05T15:21:22.000Z",
+        "quote": "It’s a testament to Leitch’s energy as a director that the consistent action doesn’t become tiresome because there’s always something to enjoy and appreciate on the screen, whether it’s a choreographed brawl or someone being set on fire multiple times.",
+        "url": "https://filmfeeder.co.uk/film-reviews/the-fall-guy-2024-dir-david-leitch"
+    },
+    {
+        "critic": "Pete Vonder Haar",
+        "is_top_critic": false,
+        "media": "Houston Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-27T02:57:17.000Z",
+        "quote": "With some brains, a lot of heart, old school stunt work, and an authentic romance, it's some real old-fashioned moviemaking, and a less maudlin look at the industry than Hal Needham's Hooper.\n\nCould've used more bar brawls, though.",
+        "url": "https://www.houstonpress.com/arts/things-to-watch-the-fall-guy-18014946"
+    },
+    {
+        "critic": "Matt Brunson",
+        "is_top_critic": false,
+        "media": "Film Frenzy",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-07-27T02:22:03.000Z",
+        "quote": "The nifty action sequences never overpower the amusing interludes (love the aural nod to Lee Majors’ The Six Million Dollar Man) or the disarming performances by Gosling and Blunt.",
+        "url": "https://thefilmfrenzy.com/2024/07/26/view-from-the-couch-the-fall-guy-phantoms-risky-business-etc/"
+    },
+    {
+        "critic": "Abe Friedtanzer",
+        "is_top_critic": false,
+        "media": "Movies We Texted About",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-07-27T01:03:04.000Z",
+        "quote": "This package is absolutely and undeniably entertaining, offering up action, romance, and a mostly coherent storyline sure to deliver a good time.",
+        "url": "https://movieswetextedabout.com/sxsw-the-fall-guy-review-ryan-gosling-and-emily-blunt-anchor-a-fantastic-action-film/"
+    },
+    {
+        "critic": "Jared Mobarak",
+        "is_top_critic": false,
+        "media": "Hey, Have You Seen ...?",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-07-26T14:11:02.000Z",
+        "quote": "So, if you enjoy Leitch's work (namely BULLET TRAIN and the quippy HOBBS AND SHAW), you should have a good time here. I probably enjoyed the former more, but THE FALL GUY is probably the most accomplished of the trio.",
+        "url": "https://jaredmobarak.substack.com/i/146795579/the-fall-guy"
+    },
+    {
+        "critic": "Douglas Davidson",
+        "is_top_critic": false,
+        "media": "Elements of Madness",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-07-23T18:43:48.000Z",
+        "quote": "... it’s fantastic that the film not only lives up to the hype, it exceeds it. With luck, this prequel-like tale is only the first of a few cinematic iterations, because this cast rules and the possibilities of where they can go with this are endless.",
+        "url": "https://elementsofmadness.com/2024/07/23/tfg-4k/"
+    },
+    {
+        "critic": "Jeff Beck",
+        "is_top_critic": false,
+        "media": "The Blu Spot",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-23T16:03:53.000Z",
+        "quote": "Utilizing the standard action cliches to great effect, The Fall Guy uses its wonderful cast and extremely silly, over-the-top plot to deliver a highly-entertaining, action-packed love letter to the stunt community.",
+        "url": "https://www.thebluspot.com/single-post/the-fall-guy-an-action-packed-love-letter-to-the-stunt-community-blu-ray"
+    },
+    {
+        "critic": "Kevin A. Ranson",
+        "is_top_critic": false,
+        "media": "MovieCrypt.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-07-21T21:36:10.000Z",
+        "quote": "The best parts are where the film borrows from the original series... squarely aimed at Gosling's fanbase... forgiving the constant self-awareness will carry viewers through to the credits on charm alone.",
+        "url": "https://moviecrypt.com/2024/07/21/review-the-fall-guy-see-you-space-cowboy/"
+    },
+    {
+        "critic": "Andrew F. Peirce",
+        "is_top_critic": false,
+        "media": "The Curb",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-17T04:50:12.000Z",
+        "quote": "With decades of stunt-work to his name, Leitch is in the unique position to present his thoroughly entertaining, albeit a little bit mindless, thesis as to why there desperately needs to be an Oscar category for stunts.",
+        "url": "https://www.thecurb.com.au/the-fall-guy-review-david-leitch/"
+    },
+    {
+        "critic": "James Preston Poole",
+        "is_top_critic": false,
+        "media": "The Cosmic Circus",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-09T23:05:41.000Z",
+        "quote": "It took him a while, but David Leitch finally found the perfect movie for his sensibilities. I doubt it will be his last great crowd-pleaser, as The Fall Guy is a harbinger for things to come.",
+        "url": "https://thecosmiccircus.com/the-fall-guy-review/"
+    },
+    {
+        "critic": "Jason Fraley",
+        "is_top_critic": false,
+        "media": "WTOP (Washington, D.C.)",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-07-06T17:10:28.000Z",
+        "quote": "Blunt & Gosling are magnetic with little moments like him tightening her hat's drawstring under her chin, or her asking him to roll down his truck window as he blares Taylor Swift. This is the stuff that lasts long after our popcorn is blown to bits.",
+        "url": "https://wtop.com/entertainment/2024/05/review-ryan-gosling-emily-blunt-are-explosively-entertaining-in-stuntman-action-comedy-the-fall-guy/"
+    },
+    {
+        "critic": "Jason Tabrys",
+        "is_top_critic": false,
+        "media": "Uproxx",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-05T20:16:36.000Z",
+        "quote": "Blunt imbues the whole thing with enough soul to make Gosling’s willingness to risk life and limb feel like a fair tradeoff.",
+        "url": "https://uproxx.com/movies/the-best-movies-of-2024-so-far/"
+    },
+    {
+        "critic": "Dana Barbuto",
+        "is_top_critic": false,
+        "media": "Boston Movie News",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-07-03T23:18:55.000Z",
+        "quote": "Smartly, Leitch knows what he’s got in Gosling, and the director leans heavily on the Oscar-nominee’s charisma and the chemistry he shares with Blunt, a pure delight with underrated comic chops. ",
+        "url": "https://bostonmovienews.com/2024/05/02/ryan-gosling-and-emily-blunt-rev-up-summer-with-the-fall-guy/"
+    },
+    {
+        "critic": "Ben Wasserman",
+        "is_top_critic": false,
+        "media": "Film-Forward.com",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-07-03T22:52:57.000Z",
+        "quote": "It’s about the unsung heroes of Hollywood and all the work they do to make people want to go to the movies. That alone should give audiences a reason to check this one out, and maybe petition for a Best Stunt Oscar category while they’re at it.\n\n\n",
+        "url": "https://film-forward.com/action/the-fall-guy"
+    },
+    {
+        "critic": "Nelson Acosta",
+        "is_top_critic": false,
+        "media": "Koimoi",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-07-03T21:31:31.000Z",
+        "quote": "The action comedy celebrates the skilled men and women behind action movies, who transform actors into cinematic superheroes. Despite occasional pacing issues.",
+        "url": "https://www.koimoi.com/reviews/hollywood-movie-reviews/the-fall-guy-review-ryan-gosling-emily-blunt-starrer-is-a-wild-entertaining-ride-of-celebrating-the-unsung-heroes-of-hollywoods-action-films-with-some-sweet-romance/"
+    },
+    {
+        "critic": "Joonatan Itkonen",
+        "is_top_critic": false,
+        "media": "Region Free",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-07-02T23:33:39.000Z",
+        "quote": "It drags itself to the finish line simply on the charisma of its leading couple, who do their level best at making even the cringiest material work. And yet, I still found the bromance in The Nice Guys more affecting.",
+        "url": "https://toisto.net/the-fall-guy-is-a-well-intentioned-bore/"
+    },
+    {
+        "critic": "Shakyl Lambert",
+        "is_top_critic": false,
+        "media": "CGMagazine",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-07-02T22:57:08.000Z",
+        "quote": "Despite a bloated runtime, The Fall Guy succeeds off the immeasurable charm of the movie’s leads and a loving tribute to stunt crews.",
+        "url": "https://www.cgmagonline.com/review/movie/the-fall-guy/"
+    },
+    {
+        "critic": "Andrew Kendall",
+        "is_top_critic": false,
+        "media": "Stabroek News",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-07-01T22:19:47.000Z",
+        "quote": "Even as we root for the stakes of justice and romance, The Fall Guy insists on relentless humour all the way to end feeling like a balm of genuine good-natured comedy amidst a more serious landscape of 2024 film so far. ",
+        "url": "https://www.stabroeknews.com/2024/05/05/sunday/reel-encounters/ryan-gosling-scales-comedic-heights-in-the-fall-guy/"
+    },
+    {
+        "critic": "Marie Asner",
+        "is_top_critic": false,
+        "media": "Phantom Tollbooth",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-26T18:22:01.000Z",
+        "quote": "Yes, the life of a stunt double may look interesting on screen, but what goes on behind the scenes is like the Keystone Kops.",
+        "url": "https://tollbooth.org/movie-reviews/fall-guy-0"
+    },
+    {
+        "critic": "Nestor Bentancor",
+        "is_top_critic": false,
+        "media": "Nestor Cine Desde Hollywood",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-15T23:50:07.000Z",
+        "quote": "Ryan Gosling and Emily Blunt -a match made in popcorn heaven- keep this sleek action-comedy charged, until the script runs out of narrative gasoline. [Full Review in Spanish]",
+        "url": "https://www.youtube.com/watch?v=ZVwTqAXkiCI"
+    },
+    {
+        "critic": "Emily Wheeler",
+        "is_top_critic": false,
+        "media": "Emily Wheeler Movie Ops",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-15T12:22:22.000Z",
+        "quote": "The Fall Guy won’t be changing the industry, but it does make for a very good time at the movies.",
+        "url": "https://emilywheelerfilm.com/2024/06/15/the-fall-guy/"
+    },
+    {
+        "critic": "Tony Baker",
+        "is_top_critic": false,
+        "media": "Tony Baker Comedy",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-11T19:46:45.000Z",
+        "quote": "It just delivered what it set out to do. It was funny, it was entertaining, it was romantic, and the stunts was cool. ",
+        "url": "https://www.youtube.com/watch?v=lOqZVkg50gU"
+    },
+    {
+        "critic": "Farah Daley",
+        "is_top_critic": false,
+        "media": "The New Paper (Singapore)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-06-10T15:45:49.000Z",
+        "quote": "Whether you're a fan of Gosling's comedic talents, an admirer of practical stunt work, or simply seeking a fun and action-packed escape, this film delivers a thoroughly entertaining experience.",
+        "url": "https://tnp.straitstimes.com/entertainment/movies/fall-guy-thrill-ride-fuelled-comedy-and-chemistry"
+    },
+    {
+        "critic": "David Nusair",
+        "is_top_critic": false,
+        "media": "Reel Film Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-06-05T20:24:19.000Z",
+        "quote": "...an appealing premise that’s employed to watchable yet thoroughly hit-and-miss effect by Leitch...",
+        "url": "https://reelfilm.com/the-fall-guy/"
+    },
+    {
+        "critic": "Stephanie Zacharek",
+        "is_top_critic": true,
+        "media": "TIME Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-04T21:31:16.000Z",
+        "quote": "Charm is in short supply at the movies these days, but Gosling and Blunt give us every reason to believe in it.",
+        "url": "https://time.com/6984159/best-movies-2024-so-far/"
+    },
+    {
+        "critic": "Sean Burns",
+        "is_top_critic": false,
+        "media": "North Shore Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-06-03T16:57:26.000Z",
+        "quote": "Sometimes we just want to watch movie stars being charming. ",
+        "url": "https://northshoremovies.wpcomstaging.com/2024/05/02/review-the-fall-guy/"
+    },
+    {
+        "critic": "Jeffrey Lyles",
+        "is_top_critic": false,
+        "media": "Lyles' Movie Files",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-06-01T05:29:02.000Z",
+        "quote": "The Fall Guy’s star power and well staged action scenes make it a solid recommendation. Ironically, a greater emphasis on a tighter script instead of bigger and badder stunts would have made for one of 2024’s top films.",
+        "url": "https://lylesmoviefiles.com/2024/06/01/the-fall-guy-review/"
+    },
+    {
+        "critic": "Mark Johnson",
+        "is_top_critic": false,
+        "media": "Awards Daily",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-31T17:57:45.000Z",
+        "quote": "A film as silly as this MUST be consistently funny for the premise to work. At the very least, the chemistry between the two leads is non-negotiable. And on both ends, The Fall Guy crashes to the floor with no safety net.",
+        "url": "https://www.awardsdaily.com/2024/05/31/good-as-gold-may-recap-the-fall-guy-kingdom-of-the-planet-of-the-apes-if-and-furiosa-a-mad-max-saga/"
+    },
+    {
+        "critic": "Brett McCracken",
+        "is_top_critic": false,
+        "media": "The Gospel Coalition",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-30T15:40:56.000Z",
+        "quote": "It’s hyperaware of its artifice. And yet the film’s central romance is sweet and sincere and appeals to the audience’s nostalgic hunger for earnest, straightforward love stories in movies.",
+        "url": "https://www.thegospelcoalition.org/article/understanding-metamodern-mood/"
+    },
+    {
+        "critic": "Sarah Marrs",
+        "is_top_critic": false,
+        "media": "Lainey Gossip",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-29T01:22:26.000Z",
+        "quote": "The Fall Guy is an action comedy that feels like a throwback to when movies could be smart about their execution and dumb about their plot, and still be considered “good”. ",
+        "url": "https://www.laineygossip.com/review-the-fall-guy-starring-ryan-gosling-emily-blunt-feels-like-throwback-to-films-that-live-or-die-on-quality-of-stunts/78141"
+    },
+    {
+        "critic": "Taylor Baker",
+        "is_top_critic": false,
+        "media": "Drink in the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "48/100",
+        "date": "2024-05-27T18:01:09.000Z",
+        "quote": "The Fall Guy has a few stunt sequences that are fun and a wonderful stunt dog performance in the character of Jean Claude, but it fails to capitalize on any of its parts. The stunt bloopers at the end...are more charming than the previous two hours.",
+        "url": "https://drinkinthemovies.com/2024/05/21/the-fall-guy/"
+    },
+    {
+        "critic": "Filipe Freitas",
+        "is_top_critic": false,
+        "media": "Always Good Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-27T17:07:57.000Z",
+        "quote": "This self-indulgent action-packed rom-com works on steroids, overloaded by a variety of impossible acrobatics, falls, and explosions to the point of exhaustion.",
+        "url": "https://alwaysgoodmovies.com/reviews/the-fall-guy-2024"
+    },
+    {
+        "critic": "Felix Vasquez Jr.",
+        "is_top_critic": false,
+        "media": "Cinema Crazed",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-26T23:56:47.000Z",
+        "quote": "A great example of how to adapt classic TV shows, using the idea as a means of conveying some interesting, clever ideas and great entertainment all around...",
+        "url": "https://www.cinema-crazed.com/blog/2024/05/24/the-fall-guy-2024-the-extended-cut-digital/"
+    },
+    {
+        "critic": "Vincent Mancini",
+        "is_top_critic": false,
+        "media": "FilmDrunk",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-05-26T16:39:42.000Z",
+        "quote": "Emily Blunt and Ryan Gosling's chemistry is more exciting than any of the stunts.",
+        "url": "https://vincemancini.substack.com/p/fall-guy-review-streaming-mancini?r=2cg5qw&utm_campaign=post&utm_medium=web&triedRedirect=true"
+    },
+    {
+        "critic": "Jordan Ruimy",
+        "is_top_critic": false,
+        "media": "World of Reel",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-05-25T21:51:17.000Z",
+        "quote": "A highly stylized, dumb and empty exercise in meta action.",
+        "url": "https://www.worldofreel.com/blog/2024/4/30/the-fall-guy-is-a-dumb-and-empty-exercise-in-action-hysterics-review"
+    },
+    {
+        "critic": "Nicola Austin",
+        "is_top_critic": false,
+        "media": "Movie Marker",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-25T14:49:54.000Z",
+        "quote": "Strap in for an explosively entertaining blockbuster ride with both Ryan Gosling and Emily Blunt on brilliant form – just make sure you stick around for the wonderful end-credits making-of sequence. Roll on the spicy margaritas!",
+        "url": "https://moviemarker.co.uk/the-fall-guy-%e2%98%85%e2%98%85%e2%98%85%e2%98%85/"
+    },
+    {
+        "critic": "Steven Prokopy",
+        "is_top_critic": false,
+        "media": "Third Coast Review",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-05-24T19:08:42.000Z",
+        "quote": "There’s absolutely nothing wrong with the stunt work in The Fall Guy; it’s everything around it that lets the movie (and the audience) down.",
+        "url": "https://thirdcoastreview.com/2024/05/03/film-review-the-fall-guy"
+    },
+    {
+        "critic": "Derek Sante",
+        "is_top_critic": false,
+        "media": "KSNV (Las Vegas)",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-05-23T06:44:47.000Z",
+        "quote": " For those looking for a theatrical escape this weekend, I recommend this film.",
+        "url": "https://news3lv.com/news/videos/entertainment-critic-derek-sante-checks-out-dark-matter-the-fall-guy#"
+    },
+    {
+        "critic": "Tina Kakadelis",
+        "is_top_critic": false,
+        "media": "Beyond the Cinerama Dome",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-23T01:04:44.000Z",
+        "quote": "The Fall Guy is not the answer to summer blockbusters that we’ve all been waiting for, but it could have been...At the end of the day, though, it’s hard to complain about watching Ryan Gosling wear a cool jacket, kick some ass, and save the day.",
+        "url": "https://www.beyondthecineramadome.com/movie-reviews/2024/5/6/rb0havrt4cis3ekac7vrot2kvo6nqx-eagkc"
+    },
+    {
+        "critic": "Morgan Shaunette",
+        "is_top_critic": false,
+        "media": "Willamette Week",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-22T18:19:01.000Z",
+        "quote": "The story charts a familiar path—no points for guessing the movie’s title has multiple meanings—but it’s in the details that The Fall Guy truly soars. ",
+        "url": "https://www.wweek.com/arts/2024/05/21/your-weekly-roundup-of-new-movies-new-life-is-a-slim-and-grim-debut-from-former-oregon-journalist-john-rosman/"
+    },
+    {
+        "critic": "Yasser Medina",
+        "is_top_critic": false,
+        "media": "Cinefilia",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-05-22T04:46:52.000Z",
+        "quote": "A boring, lethargic, predictable action comedy, packed with empty characters who lose all their fuel amid boisterous pyrotechnics and routine sequences that uselessly repeat their commentary on the limits of stunt work. [Full review in Spanish]",
+        "url": "https://www.cinefilia.blog/2024/05/profesion-peligro-2024.html"
+    },
+    {
+        "critic": "Paul Salfen",
+        "is_top_critic": false,
+        "media": "AMFM Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2024-05-22T02:22:10.000Z",
+        "quote": "Cleverly written, wickedly funny, wildly entertaining - and gives us a glaring reason why there should be an Oscar category for stunts. ",
+        "url": "https://www.amfm-magazine.tv/the-fall-guy/"
+    },
+    {
+        "critic": "Chris McCoy",
+        "is_top_critic": false,
+        "media": "Memphis Flyer",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-21T21:49:09.000Z",
+        "quote": "Gosling and Blunt are breezy and charming, and the supporting cast all understand the assignment.",
+        "url": "https://www.memphisflyer.com/the-fall-guy"
+    },
+    {
+        "critic": "John Serba",
+        "is_top_critic": false,
+        "media": "Decider",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-21T20:28:47.000Z",
+        "quote": "The Fall Guy is a riot. You should’ve seen it in the theater, where it’s more bigger and better and more fun...",
+        "url": "https://decider.com/2024/05/21/the-fall-guy-digital-release-streaming-movie-review/"
+    },
+    {
+        "critic": "Erik Childress",
+        "is_top_critic": false,
+        "media": "Movie Madness Podcast",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-05-21T14:58:11.000Z",
+        "quote": "Gosling and Blunt have chemistry to spare and when they are kept apart our focus instead is drawn to a pitiful screenplay, forgettable action and a film that lessens the efforts of the very profession it purports to champion.",
+        "url": "https://erikthemovieman.substack.com/p/episode-470-the-guys-fall-for-the-542"
+    },
+    {
+        "critic": "Linda Cook",
+        "is_top_critic": false,
+        "media": "OurQuadCities / WHBF-TV (Illinois)",
+        "sentiment": "Fresh 🍅",
+        "score": "3 1/2 stars",
+        "date": "2024-05-20T16:18:46.000Z",
+        "quote": "\"The Fall Guy\" is an uplifting romp. ",
+        "url": "https://www.ourquadcities.com/news/local-news/cook-review-fall-guy-is-uplifting-romp/"
+    },
+    {
+        "critic": "Edwin Arnaudin",
+        "is_top_critic": false,
+        "media": "Asheville Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-05-20T02:17:28.000Z",
+        "quote": "Overstuffed entertainment.",
+        "url": "https://www.ashevillemovies.com/new/the-fall-guy"
+    },
+    {
+        "critic": "Sean P. Means",
+        "is_top_critic": false,
+        "media": "The Movie Cricket",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-05-20T02:16:57.000Z",
+        "quote": "“The Fall Guy” works because the stars, like the action pieces, are giving their all without looking like they’re trying too hard. It’s as much a balancing act as any stunt in the movie, and the results are breathtaking.",
+        "url": "https://moviecricket.net/blog/2024/5/2/review-the-fall-guy-is-a-fun-meta-homage-to-stunt-performers-and-a-showcase-for-the-onscreen-chemistry-between-ryan-gosling-and-emily-blunt"
+    },
+    {
+        "critic": "Sarah Knight Adamson",
+        "is_top_critic": false,
+        "media": "Sarah's Backstage Pass",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-19T23:47:51.000Z",
+        "quote": "I enjoyed the banter between the leads although the repetitive hand-to-hand combat scenes with the same villains stuffs the script and takes away for the central theme of the film.",
+        "url": "https://sarahsbackstagepass.com/the-fall-guy-pg-13-%e2%98%85%e2%98%85%e2%98%85/"
+    },
+    {
+        "critic": "Justin Brown",
+        "is_top_critic": false,
+        "media": "Medium Popcorn",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-19T16:17:35.000Z",
+        "quote": "This exceeded my expectations. Ryan Gosling's chemistry with Emily Blunt was off the charts. It was all around a really fun movie. ",
+        "url": "https://www.mediumpopcorn.com/episodes/the-fall-guy"
+    },
+    {
+        "critic": "Brandon Collins",
+        "is_top_critic": false,
+        "media": "Medium Popcorn",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-19T16:16:04.000Z",
+        "quote": "I found this to be incredibly entertaining with a banging soundtrack. I do think they could've cut a good 10-15 minutes from the third act.",
+        "url": "https://www.mediumpopcorn.com/episodes/the-fall-guy"
+    },
+    {
+        "critic": "Bruce R. Miller",
+        "is_top_critic": false,
+        "media": "Sioux City Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-05-18T04:01:57.000Z",
+        "quote": "Blunt and Gosling are a good team; Waddingham deserves more film roles, and “The Fall Guy’s” script could have been pruned. That’s the takeaway but it’s still a fun watch that doesn’t require more than passing knowledge of the movie business.",
+        "url": "https://siouxcityjournal.com/life-entertainment/local/movies-tv/the-fall-guy-ryan-gosling-emily-blunt-review-stunts-hannah-waddingham/article_bdbeb474-0c85-11ef-9331-83dc87689d9a.html"
+    },
+    {
+        "critic": "Ruben Peralta Rigaud",
+        "is_top_critic": false,
+        "media": "Cocalecas",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-14T17:49:53.000Z",
+        "quote": "A mix of action, comedy and romance. The mix basically works well, which is also thanks to the ensemble. [Full review in Spanish]",
+        "url": "https://cocalecas.net/2024/05/critica-a-the-fall-guy-2024-david-leitch/"
+    },
+    {
+        "critic": "Candice McMillan",
+        "is_top_critic": false,
+        "media": "Seattle Refined",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-14T05:02:31.000Z",
+        "quote": "As The Fall Guy tumbles, rolls, blasts, bursts and fights towards its grand finale, the momentum never lets up. Gosling and Blunt never lift their feet from the pedal. The ... runaway blockbuster never feels out of control or, worse, out of steam.",
+        "url": "https://seattlerefined.com/lifestyle/review-the-fall-guy-ryan-gosling-emily-blunt-action-stunt-man-movie-cinema-david-leitch-thriller-flick-movies"
+    },
+    {
+        "critic": "Ruth Maramis",
+        "is_top_critic": false,
+        "media": "FlixChatter Film Blog",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-14T03:22:08.000Z",
+        "quote": "It's heavy on action and light on story, but it’s got enough oomph to spotlight the unsung heroes of action cinema and benefited from the perfect pairing of Blunt and Gosling.",
+        "url": "https://flixchatter.net/2024/05/13/flixchatter-review-the-fall-guy-2024-a-fun-albeit-predictable-ode-to-the-unsung-heroes-of-action-cinema/"
+    },
+    {
+        "critic": "Chris Sawin",
+        "is_top_critic": false,
+        "media": "Bounding Into Comics",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-13T23:07:33.000Z",
+        "quote": "Stunts have gone underappreciated for a long time, and The Fall Guy gives stuntmen a monster-truck-sized tribute that crashes and smashes its way into our hearts before lighting it on fire and doing it all over again.",
+        "url": "https://boundingintocomics.com/2024/05/06/the-fall-guy-review-action-heavy-stunt-loving-absurdity/"
+    },
+    {
+        "critic": "Peter Rainer",
+        "is_top_critic": true,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-13T22:02:51.000Z",
+        "quote": "I found the film to be exhaustingly loud and not terribly inspired.",
+        "url": "https://laist.com/shows/filmweek/filmweek-i-saw-the-tv-glow-the-idea-of-you-evil-does-not-exist-and-more"
+    },
+    {
+        "critic": "Lael Loewenstein",
+        "is_top_critic": false,
+        "media": "FilmWeek (LAist)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-13T22:00:14.000Z",
+        "quote": "It proves that Ryan Gosling is still on a roll, that the action-comedy hybrid is still alive, and that movies are very much a thing that people need to get out an see.",
+        "url": "https://laist.com/shows/filmweek/filmweek-i-saw-the-tv-glow-the-idea-of-you-evil-does-not-exist-and-more"
+    },
+    {
+        "critic": "Sharanya Kumar",
+        "is_top_critic": false,
+        "media": "Film Companion",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-13T17:28:30.000Z",
+        "quote": "What sizzles in this film is the action rather than the romance, and that's not a bad thing...",
+        "url": "https://www.filmcompanion.in/reviews/hollywood-review/the-fall-guy-review-ryan-gosling-brings-kenergy-to-this-action-comedy"
+    },
+    {
+        "critic": "CJ Sheu",
+        "is_top_critic": false,
+        "media": "Review Film Review",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-13T11:36:08.000Z",
+        "quote": "We *notice* the action artifice, and it draws our attention to the unseen real-life stunt doubles performing the action we’re seeing—this, of course, being a key theme of the film, a love letter to stuntpeople. Our reality makes the artifice authentic.",
+        "url": "https://reviewfilmreview.wordpress.com/2024/05/13/the-fall-guy-2024/"
+    },
+    {
+        "critic": "Jenn Adams",
+        "is_top_critic": false,
+        "media": "Strong Female Antagonist",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-05-13T00:00:45.000Z",
+        "quote": "The Fall Guy is an excellent example of flawless execution allowing us to let go of small inconsistencies. ",
+        "url": "https://femaleantagonist.com/the-fall-guy-is-a-love-letter-to-action-movies/"
+    },
+    {
+        "critic": "Michael Ward",
+        "is_top_critic": false,
+        "media": "Should I See It",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-12T21:00:26.000Z",
+        "quote": "The Fall Guy does tend to feel like one of those popcorn flicks we don’t really get anymore.",
+        "url": "https://www.shouldiseeit.net/reviews/2024/the-fall-guy-2024"
+    },
+    {
+        "critic": "Andrea Thompson",
+        "is_top_critic": false,
+        "media": "A Reel of One's Own",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-05-12T12:55:31.000Z",
+        "quote": "This is Gosling’s funniest role since “The Nice Guys,” with cameos, mid-credit scenes to make the most of, and credentials that industry insiders and newcomers alike will appreciate.",
+        "url": "https://www.areelofonesown.com/home/2024/5/11/ryan-goslings-stuntman-goes-off-script-in-the-very-meta-the-fall-guy"
+    },
+    {
+        "critic": "Mark Hughes",
+        "is_top_critic": false,
+        "media": "Forbes",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-11T17:38:11.000Z",
+        "quote": "[W]ildly fun and hilariously charming... a fantastic summer popcorn movie of exactly the sort audiences usually love and reward handsomely.",
+        "url": "https://www.forbes.com/sites/markhughes/2024/05/10/kingdom-of-the-planet-of-the-apes-targets-140-million-box-office/?sh=2e8b07dc61f3"
+    },
+    {
+        "critic": "Sarah Vincent",
+        "is_top_critic": false,
+        "media": "Sarah G Vincent Views",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-11T10:31:50.000Z",
+        "quote": "I would have preferred a two-hour six-minute loop of Gosling performing “I’m Just Ken” at the Oscars, or Gosling and Blunt just riffing in real life. ",
+        "url": "https://sarahgvincentviews.com/movies/the-fall-guy/"
+    },
+    {
+        "critic": "Walter Chaw",
+        "is_top_critic": false,
+        "media": "Film Freak Central",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-05-11T00:13:39.000Z",
+        "quote": "Honestly, for all its poking around, The Fall Guy is probably just a stick.",
+        "url": "https://filmfreakcentral.net/2024/05/the-fall-guy-2024/"
+    },
+    {
+        "critic": "Alison Gillmor",
+        "is_top_critic": false,
+        "media": "Winnipeg Free Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-10T23:23:35.000Z",
+        "quote": "Watching superstar Ryan Gosling getting beat up, set on fire or pushed out of a helicopter is a good way of drawing attention to stunt performers’ hidden labour.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/2024/05/02/stunted-story-hobbles-rom-com"
+    },
+    {
+        "critic": "Devansh Sharma",
+        "is_top_critic": false,
+        "media": "Hindustan Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-10T20:54:08.000Z",
+        "quote": "Ryan Gosling brings his signature Kenergy, and Emily Blunt is back with impeccable comic timing in David Leitch's love letter to action films.",
+        "url": "https://www.hindustantimes.com/entertainment/hollywood/the-fall-guy-movie-review-ryan-reynolds-emily-blunt-rise-to-the-occasion-breezy-bumpy-adventure-101714712511392.html"
+    },
+    {
+        "critic": "Dwight Brown",
+        "is_top_critic": true,
+        "media": "DwightBrownInk.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-05-10T20:33:11.000Z",
+        "quote": "Someone needed to supply a heftier story. A script that fleshed out the time in between all the mayhem.",
+        "url": "https://dwightbrownink.com/the-fall-guy/"
+    },
+    {
+        "critic": "Josh Larsen",
+        "is_top_critic": false,
+        "media": "LarsenOnFilm",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-10T19:19:22.000Z",
+        "quote": "As a crowd-pleasing, romantic action comedy, driven by the magnetism of its stars, it feels like an increasingly rare treat.",
+        "url": "https://larsenonfilm.com/the-fall-guy"
+    },
+    {
+        "critic": "Tom Beasley",
+        "is_top_critic": false,
+        "media": "The Popcorn Muncher (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-10T13:32:25.000Z",
+        "quote": "The stunt work is excellent, the action thrills, and the chemistry between the two leads absolutely sparkles. Unfortunately, there’s way too much movie before we get to that point.",
+        "url": "https://thepopcornmuncher.substack.com/p/anything-but-ape-s"
+    },
+    {
+        "critic": "Andrea Chase",
+        "is_top_critic": false,
+        "media": "Killer Movie Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-05-09T20:40:42.000Z",
+        "quote": "One of the best car-chases through a city even seen, adrenalin-inducing as well as funny and, in an oddball way, kinda sweet. This is a film that can be all three at once without breaking a sweat. ",
+        "url": "https://www.killermoviereviews.com/movie/the-fall-guy/"
+    },
+    {
+        "critic": "Nicholas Bell",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-09T18:45:05.000Z",
+        "quote": "Ryan Gosling is certainly charming, but careless plotting, a contrived romance, and wearisome comedic writing makes this all fall to pieces. ",
+        "url": "https://www.youtube.com/watch?v=KavvVbS9RZg"
+    },
+    {
+        "critic": "Danielle Solzman",
+        "is_top_critic": false,
+        "media": "Solzy at the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-05-09T15:25:49.000Z",
+        "quote": "The Fall Guy has the right mix of romance, comedy, and action while beautifully highlighting the stunt work that go into the filmmaking process.",
+        "url": "https://www.solzyatthemovies.com/2024/05/09/the-fall-guy-makes-case-for-stunt-ensemble-oscar-category/"
+    },
+    {
+        "critic": "Rachel Ho",
+        "is_top_critic": false,
+        "media": "Exclaim!",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-05-09T15:23:40.000Z",
+        "quote": "Minimum effort, maximum payoff.",
+        "url": "https://exclaim.ca/film/article/the-fall-guy-ryan-gosling-film-review"
+    },
+    {
+        "critic": "JD Duran",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-05-09T14:51:26.000Z",
+        "quote": "The action itself may not be inventive or Tom Cruise level of crazy, and I empathize with why that could be disappointing since this is a love letter to the stunt community, but the film finds a middle ground between its stunt work and comedic ethos.",
+        "url": "https://insessionfilm.com/movie-podcast-review-the-fall-guy/"
+    },
+    {
+        "critic": "Graeme Tuckett",
+        "is_top_critic": false,
+        "media": "The Post NZ",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-09T09:11:30.000Z",
+        "quote": "This is a film that knows how to put on a show. If it had a story that made just a tiny bit more sense, and was smart enough to generate any tension or intrigue at all, I might even have liked the damn thing a bit more myself.",
+        "url": "https://www.stuff.co.nz/culture/350254440/fall-guy-wildly-entertaining-nonsensical-love-letter-film-industry"
+    },
+    {
+        "critic": "Kristian M. Lin",
+        "is_top_critic": false,
+        "media": "Fort Worth Weekly",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-08T23:13:50.000Z",
+        "quote": "[It's all] about the stunts, and it’s well that Leitch and his stunt team (for the record, Gosling’s stunts are done by Logan Holladay, Ben Jenkin, Justin Eaton, and Troy Lindsay Brown, and the fights are choreographed by Jonathan Eusebio) deliver.",
+        "url": "https://www.fwweekly.com/2024/05/08/take-the-plunge/"
+    },
+    {
+        "critic": "Chris Wasser",
+        "is_top_critic": false,
+        "media": "Sunday Independent (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-08T23:11:07.000Z",
+        "quote": "David Leitch’s film is far too pleased with itself, but our handsome leads make it work.",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/the-fall-guy-review-the-ryanaissance-continues-while-emily-blunt-shines-in-this-screwball-comedy/a1537406846.html"
+    },
+    {
+        "critic": "Eileen Jones",
+        "is_top_critic": false,
+        "media": "The Jacobin",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-08T20:16:50.000Z",
+        "quote": "Ryan Gosling is all charm in the new action-comedy The Fall Guy. It's overstuffed and uneven, but it's so upbeat that you won't even mind.",
+        "url": "https://jacobin.com/2024/05/fall-guy-stuntpeople-film-review"
+    },
+    {
+        "critic": "Neal Pollack",
+        "is_top_critic": false,
+        "media": "Book & Film Globe",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-08T19:08:26.000Z",
+        "quote": "The Fall Guy never ceases to announce its self-admiration to us. ",
+        "url": "https://bookandfilmglobe.com/film/movie-review-the-fall-guy/"
+    },
+    {
+        "critic": "Diego Peralta",
+        "is_top_critic": false,
+        "media": "Geeks of Color",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2024-05-08T16:53:58.000Z",
+        "quote": "With incredible action sequences, an engaging mystery and a charismatic lead, The Fall Guy claims its place as the movie to kickoff the summer season with pride. ",
+        "url": "https://geeksofcolor.co/2024/05/07/the-fall-guy-review/"
+    },
+    {
+        "critic": "Kaitlyn Booth",
+        "is_top_critic": false,
+        "media": "Bleeding Cool",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-05-08T15:05:08.000Z",
+        "quote": "The Fall Guy is a pretty good time even if it fails to be as spectacular as the stunts tease it could have been with some script rewrites.\n",
+        "url": "https://bleedingcool.com/movies/the-fall-guy-review-a-pretty-decent-way-to-start-the-summer/"
+    },
+    {
+        "critic": "Dan Buffa",
+        "is_top_critic": false,
+        "media": "Ramble On With Buffa (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-05-07T23:20:51.000Z",
+        "quote": "While the Gosling/Blunt chemistry is legit and the stunt performer tribute is strong in parts, the entire third act is an overextended bore. David Leitch's is too long, too bloated, and doesn't have enough Duke or Hsu!",
+        "url": "https://dailydoseofbuffa.substack.com/p/the-film-buffa-reviews-5-things-to"
+    },
+    {
+        "critic": "Saibal Chatterjee",
+        "is_top_critic": false,
+        "media": "NDTV",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-07T21:19:35.000Z",
+        "quote": "An unabashedly gleeful blend of action, thrills, comedy, romance and a robust sound design.",
+        "url": "https://www.ndtv.com/entertainment/the-fall-guy-review-ryan-gosling-emily-blunt-turn-film-into-delightfully-goofy-onscreen-duet-3-stars-5569643"
+    },
+    {
+        "critic": "Michele Schultz ",
+        "is_top_critic": false,
+        "media": "Culturess",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-07T20:27:47.000Z",
+        "quote": "The most entertaining thing about The Fall Guy is Gosling's electric and humorous energy he brings in his performance audiences of all genders love his film.",
+        "url": "https://culturess.com/posts/the-fall-guy-is-another-action-movie-coming-to-us-this-may-01hwwwmze5qz"
+    },
+    {
+        "critic": "Mark Kermode",
+        "is_top_critic": true,
+        "media": "Kermode and Mayo's Take (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-07T19:58:19.000Z",
+        "quote": "It's absolutely popcorn fun. ",
+        "url": "https://www.youtube.com/watch?v=H2dRj-_lxHY"
+    },
+    {
+        "critic": "tt stern-enzi",
+        "is_top_critic": false,
+        "media": "Fox19 (Cincinnati, OH)",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-05-07T19:46:15.000Z",
+        "quote": "When you really sit and think about the story, there's not much there. ",
+        "url": "https://terrencetodd.com/2024/05/03/fox19-tts-not-falling-for-the-fall-guy/"
+    },
+    {
+        "critic": "Sergio Burstein ",
+        "is_top_critic": false,
+        "media": "Los Angeles Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-07T18:24:26.000Z",
+        "quote": "“The Fall Guy” is a large-scale entertainment that can be enjoyed with a bag of popcorn at your side and your mind in a relaxed state. [Full review in Spanish]",
+        "url": "https://www.latimes.com/espanol/entretenimiento/articulo/2024-05-02/criticas-ryan-gosling-desafia-a-la-muerte-a24-retoma-la-ruta-del-miedo-y-otros-estrenos-en-los-cines"
+    },
+    {
+        "critic": "Rob Gonsalves",
+        "is_top_critic": false,
+        "media": "Rob's Movie Vault",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-05-07T18:10:08.000Z",
+        "quote": "If the people onscreen don’t take their situations or love lives or anything else very seriously, why should we? \"The Fall Guy\" was never going to be high drama, nor should it be, but even a fizzy action-comedy should have some stakes.",
+        "url": "https://robsmovievault.wordpress.com/2024/05/05/the-fall-guy/"
+    },
+    {
+        "critic": "Paul Mount",
+        "is_top_critic": false,
+        "media": "Starburst",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-07T16:56:27.000Z",
+        "quote": "... A film that’s powered by the irresistible on-screen chemistry between Gosling and Blunt and let down only slightly by a script that’s weaker than it ought to be thanks to glib dialogue that tries to be funny but ends up slightly tiresome. ",
+        "url": "https://www.starburstmagazine.com/reviews/the-fall-guy/"
+    },
+    {
+        "critic": "Rich Cline",
+        "is_top_critic": false,
+        "media": "Shadows on the Wall",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-07T15:22:39.000Z",
+        "quote": "Director David Leitch piles on meta gags about moviemaking, which makes it very entertaining. But the plot is badly overworked to connect the jokey set-pieces. Thankfully, the gifted cast members fully dive in to the mayhem.",
+        "url": "http://www.shadowsonthewall.co.uk/24/fallguy.htm"
+    },
+    {
+        "critic": "Sara Michelle Fetters",
+        "is_top_critic": true,
+        "media": "MovieFreak.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-05-07T04:21:55.000Z",
+        "quote": "The thing that drove me craziest was how Leitch refused to let the story breathe. It is as if he can’t help but call attention to every beat, every gag, and every emotional button that’s being pushed.",
+        "url": "http://moviefreak.com/fall-guy-2024-movie-review/"
+    },
+    {
+        "critic": "M.V. Moorhead",
+        "is_top_critic": false,
+        "media": "Less Hat, Moorhead",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-07T01:01:38.000Z",
+        "quote": "The movie goes down easy; it's not bad. It's a lot of movie to just be not bad, I suppose, but I certainly found it preferable to the modern iteration of the stunt movie, the humorless and possibly pernicious Fast and the Furious flicks.",
+        "url": "https://mvmoorhead.blogspot.com/2024/05/stunted-developement.html"
+    },
+    {
+        "critic": "Tom Shone",
+        "is_top_critic": false,
+        "media": "Sunday Times (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-06T22:51:26.000Z",
+        "quote": "It’s been a long time, too, since I saw a film that switches back and forth between action and romance so deftly. ",
+        "url": "https://www.thetimes.co.uk/article/best-films-reviewed-this-week-the-fall-guy-the-idea-of-you-love-lies-bleeding-6g7dxt2zm"
+    },
+    {
+        "critic": "Luis Bond",
+        "is_top_critic": false,
+        "media": "Diario las Américas",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-05-06T20:50:04.000Z",
+        "quote": "The Fall Guy is the kind of feel-good movie we need in theaters. His script, halfway between naïve romance and action film, uses self-awareness to show us the skeleton of a movie set and put the focus on a high-risk profession  [Full Review in Spanish]",
+        "url": "https://www.diariolasamericas.com/cultura/the-fall-guy-los-verdaderos-heroes-del-cine-son-invisibles-n5356173"
+    },
+    {
+        "critic": "Li Lai",
+        "is_top_critic": false,
+        "media": "Mediaversity Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-05-06T20:44:05.000Z",
+        "quote": "The Fall Guy easily avoids toxic tropes or obvious stereotypes.",
+        "url": "https://www.mediaversityreviews.com/film-reviews/2024/5/6/the-fall-guy"
+    },
+    {
+        "critic": "Tim Brennan",
+        "is_top_critic": false,
+        "media": "About Boulder",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-06T18:44:52.000Z",
+        "quote": "There’s something to be said for a professionally made movie that exists primarily to be fun. The only thing you need to understand about The Fall Guy ahead of time is that it’s unapologetically and joyously fun.",
+        "url": "https://aboutboulder.com/blog/this-movie-cannon-rolled-into-my-heart/?fbclid=IwZXh0bgNhZW0CMTAAAR0LvbYCY1Rgqhe7S5TMEXRHdF2eWo3RWAsZFW2Gz7mP5Csz9s20JLpfdYU_aem_AYFDceT81srBIfWD9lc7Vp1MZThFQjVJh504E1L6yy-h8qd7QTaKz1Bxmg-MIiI0hZaSvWr0wd2rdIYoMy7usmOV"
+    },
+    {
+        "critic": "Paul McGuire Grimes",
+        "is_top_critic": false,
+        "media": "Paul's Trip to the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-06T18:39:06.000Z",
+        "quote": "The Fall Guy has a little something for anyone. Gosling and Blunt are not only fantastic actors but are also incredible movie stars that can sell this type of old fashioned night at the movies ",
+        "url": "https://paulstriptothemovies.com/movie-review-the-fall-guy/"
+    },
+    {
+        "critic": "Susan Granger",
+        "is_top_critic": false,
+        "media": "SSG Syndicate",
+        "sentiment": "Rotten 🤢",
+        "score": "6/10",
+        "date": "2024-05-06T18:36:46.000Z",
+        "quote": "Ryan Gosling & Emily Blunt are playful co-stars and obviously had great fun filming this action comedy - so it's too bad that the slick, superficial, nonsensical film kind of fizzles - despite its over-the-top action sequences.",
+        "url": "https://www.susangranger.com/?p=15089"
+    },
+    {
+        "critic": "MaryAnn Johanson",
+        "is_top_critic": false,
+        "media": "Flick Filosopher",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-05-06T18:29:26.000Z",
+        "quote": "This mess isn’t as clever as it thinks it is, and wastes the small charms of the delicious chemistry between Ryan Gosling and Emily Blunt. Feels like they shot a dashed-off first draft of the script.",
+        "url": "https://www.flickfilosopher.com/2024/05/the-fall-guy-movie-review-stunt-dribble.html"
+    },
+    {
+        "critic": "Asher Luberto",
+        "is_top_critic": false,
+        "media": "LA Weekly/Village Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-06T17:51:43.000Z",
+        "quote": "There’s no real substance but Leitch sure knows how to conduct spectacle. ",
+        "url": "https://www.laweekly.com/review-the-fall-guy-is-short-on-brains-but-brings-the-violence-viscera-and-veins/"
+    },
+    {
+        "critic": "Nick Johnston",
+        "is_top_critic": false,
+        "media": "Vanyaland",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-06T17:47:22.000Z",
+        "quote": "Aside from capturing stunt work with geographical clarity and entertaining precision, this is Leitch’s trademark.",
+        "url": "https://vanyaland.com/2024/05/03/the-fall-guy-review-ryan-gosling-stunting-on-em/"
+    },
+    {
+        "critic": "Alci Rengifo",
+        "is_top_critic": false,
+        "media": "Entertainment Voice",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-06T17:38:38.000Z",
+        "quote": "“The Fall Guy” delivers by making fun of its peers and celebrating an essential job in filmmaking. ",
+        "url": "https://entertainmentvoice.com/2024/05/02/the-fall-guy-ryan-gosling-and-emily-blunt-give-this-pyrotechnic-comedy-its-chemistry/"
+    },
+    {
+        "critic": "Abbie Bernstein",
+        "is_top_critic": false,
+        "media": "Assignment X",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-05-06T17:25:48.000Z",
+        "quote": "Fun, funny, full of stunts.",
+        "url": "https://www.assignmentx.com/2024/movie-review-the-fall-guy/"
+    },
+    {
+        "critic": "Lauren Veneziani",
+        "is_top_critic": false,
+        "media": "DC Film Girl",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-05-06T15:43:37.000Z",
+        "quote": "Ryan Gosling and Emily Blunt have incredible chemistry in this film that is the perfect blend of romance, action, thrills and laughs, while also highlighting the importance of stuntmen in the film industry. ",
+        "url": "https://www.wbaltv.com/article/dc-film-girl-interview-anne-hathaway-nicholas-galitzine-new-movie-lauren/60691392"
+    },
+    {
+        "critic": "Wendy Ide",
+        "is_top_critic": true,
+        "media": "Observer (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-06T11:19:54.000Z",
+        "quote": "It all turns into empty noise; spectacles strung together by a dizzy, slapdash screenplay that feels as though it has sustained a few too many bumps to the head.",
+        "url": "https://www.theguardian.com/film/article/2024/may/04/the-fall-guy-review-david-leitch-ryan-gosling-emily-blunt-aaron-taylor-johnson-stuntman-action-comedy"
+    },
+    {
+        "critic": "Joshua Starnes",
+        "is_top_critic": false,
+        "media": "Firing the Canon",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-05-06T06:21:39.000Z",
+        "quote": "An easy, breezy romantic adventure that makes some passing gestures at the language of film and how it works, and some pointed ones at the role (and appreciation) of stunts within the larger production world, but not much else. ",
+        "url": "https://www.firingthecanon.net/blog/the-fall-guy"
+    },
+    {
+        "critic": "Mark Jackson",
+        "is_top_critic": false,
+        "media": "Epoch Times",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-05T22:57:13.000Z",
+        "quote": "Ryan Gosling and Emily Blunt provide tremendous romcom chemistry and hilarious comedic timing in \"The Fall Guy,\" 2024's first genuine summer blockbuster.",
+        "url": "https://www.theepochtimes.com/bright/the-fall-guy-2024s-very-fun-first-summer-blockbuster-5642523"
+    },
+    {
+        "critic": "Nathalia Aryani",
+        "is_top_critic": false,
+        "media": "The MovieMaven",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-05T21:28:38.000Z",
+        "quote": "“The Fall Guy” is an action adventure, mystery thriller and romantic comedy, a crowd-pleaser that has something for everyone.  A joyride on full throttle for movie lovers and thrilling tribute to stunt performers.  ",
+        "url": "https://sdmoviemaven.blogspot.com/2024/05/movie-review-fall-guy.html"
+    },
+    {
+        "critic": "Christopher James",
+        "is_top_critic": false,
+        "media": "The Film Experience",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-05-05T19:35:25.000Z",
+        "quote": "Ryan Gosling and Emily Blunt are a delight to watch in the otherwise sweet, but standard, action-romance-comedy The Fall Guy.",
+        "url": "http://thefilmexperience.net/blog/2024/5/2/review-the-fall-guy-starts-summer-off-right.html"
+    },
+    {
+        "critic": "Korey Coleman",
+        "is_top_critic": false,
+        "media": "Double Toasted",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-05T07:02:22.000Z",
+        "quote": "The romantic comedy in The Fall Guy works so well because Ryan Gosling and Emily Blunt have such great chemistry. ",
+        "url": "https://www.youtube.com/watch?v=sjJXR24xcQQ"
+    },
+    {
+        "critic": "Dana Han-Klein",
+        "is_top_critic": false,
+        "media": "We're Watching What?!",
+        "sentiment": "Fresh 🍅",
+        "score": "4.3/5",
+        "date": "2024-05-05T02:49:02.000Z",
+        "quote": "A love letter to the stunt community and the blockbuster in general, and Gosling and Blunt are charming as always. While sometimes the action goes on a bit long, the film is funny and irresistible fun.",
+        "url": "https://podcasts.apple.com/us/podcast/review-the-fall-guy-the-idea-of-you-the-contestant/id1530270128?i=1000654460624"
+    },
+    {
+        "critic": "Lisa Johnson Mandell",
+        "is_top_critic": false,
+        "media": "AtHomeInHollywood.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-04T21:52:19.000Z",
+        "quote": "Viewers may be disappointed by the lack of suspense—outcomes are obvious before the credits roll. But in the end, it's saved by the charisma of its stars, whose talents could have been put to better use.",
+        "url": "https://athomeinhollywood.com/2024/05/03/the-fall-guy-review-much-hype/"
+    },
+    {
+        "critic": "Jeffrey M. Anderson",
+        "is_top_critic": false,
+        "media": "Combustible Celluloid",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-04T21:37:35.000Z",
+        "quote": "The real secret to the movie's success is the remarkable chemistry between Gosling and Blunt... I can't even remember the last time I so full-heartedly rooted for an onscreen couple to find their romantic spark.",
+        "url": "https://www.combustiblecelluloid.com/2024/fall_guy.shtml"
+    },
+    {
+        "critic": "Mathew DeKinder",
+        "is_top_critic": false,
+        "media": "Mat's Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-04T20:01:01.000Z",
+        "quote": "“The Fall Guy” is a silly movie that exists solely to entertain the audience and call attention to the eye-popping stunts that happen throughout the film. ",
+        "url": "https://matsentertainment.com/the-fall-guy-a-love-letter-to-the-lonely-stuntman/"
+    },
+    {
+        "critic": "Eric Marchen",
+        "is_top_critic": false,
+        "media": "Rogers TV",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-05-04T18:43:50.000Z",
+        "quote": "Every single time stuntman-turned-director David Leitch confidently crafts a slogging sequence made to enthrall; it eventually exhausts engagement. ",
+        "url": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=615448ac-fc92-4cfb-9f59-882923018812"
+    },
+    {
+        "critic": "Rob Dean",
+        "is_top_critic": false,
+        "media": "Bullz-Eye.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-04T17:34:17.000Z",
+        "quote": "Director David Leitch’s “The Fall Guy” is, put simply, utterly delightful. It’s hilarious and heartfelt in all the right ways.",
+        "url": "http://www.bullz-eye.com/2024/05/03/movie-review-the-fall-guy/"
+    },
+    {
+        "critic": "John Urbancich",
+        "is_top_critic": false,
+        "media": "JMuvies",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-04T15:11:29.000Z",
+        "quote": "Welcome to Summer Movies 2024! May all of them become as successfully sassy as this salute from director David Leitch, a former stunt guy himself. Natch.",
+        "url": "https://jmuvies.blogspot.com/2024/05/the-fall-guy-drops-in-with-gosling.html"
+    },
+    {
+        "critic": "Julian Lytle",
+        "is_top_critic": false,
+        "media": "RIOTUS",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-05-04T14:34:26.000Z",
+        "quote": "he Fall Guy is a great way to start the summer in the movie theaters with a fun and fantastic funny action romp with some of the best actions scenes of the year. Go get wowed by The Fall Guy.",
+        "url": "https://riot-us.com/2024/05/03/the-fall-guy/"
+    },
+    {
+        "critic": "Joe Lipsett",
+        "is_top_critic": false,
+        "media": "Queer.Horror.Movies.",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-05-04T12:22:38.000Z",
+        "quote": "The Fall Guy is less about...criminal hijinks than using them as an excuse to highlight action movie stunts and watch the electric chemistry between Gosling and Blunt. And, in that capacity, the film is a stunning success.",
+        "url": "https://www.queerhorrormovies.com/the-fall-guy-is-a-delightful-ode-to-stuntmen-review/"
+    },
+    {
+        "critic": "Sarah Manvel",
+        "is_top_critic": false,
+        "media": "Movies We Texted About",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-04T10:17:20.000Z",
+        "quote": "This movie will make you laugh or die trying, and between the falls, canyon jumps, romantic arguments happening over bullhorn, and mouthguard jokes, it really nearly does.",
+        "url": "https://movieswetextedabout.com/the-fall-guy-movie-review-a-gleeful-action-spectacular/#more-1532"
+    },
+    {
+        "critic": "Armond White",
+        "is_top_critic": false,
+        "media": "National Review",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-04T08:16:19.000Z",
+        "quote": "All of the film’s fatuousness substitutes for the lack of relatable substance in contemporary Hollywood product. The Fall Guy blazons the insipid content that the movie industry never tires of selling us.",
+        "url": "https://www.nationalreview.com/2024/05/in-the-fall-guy-ryan-gosling-fakes-heroism-again/"
+    },
+    {
+        "critic": "Abby Olcese",
+        "is_top_critic": false,
+        "media": "The Pitch",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-04T08:15:12.000Z",
+        "quote": "It’s a great introduction to the summer movie season, a proper fun blockbuster that’s here to put a smile on your face and help you forget your troubles. ",
+        "url": "https://www.thepitchkc.com/the-fall-guy-proselytizes-for-the-unsung-heroes-of-cinema-stuntpeople/"
+    },
+    {
+        "critic": "Fico Cangiano",
+        "is_top_critic": false,
+        "media": "CineXpress",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-04T03:48:38.000Z",
+        "quote": "Such a great time at the movies! A delightful love letter to stunts and the professionals behind them. Includes fun action sequences, funny gags/references and some incredible chemistry between leads Ryan Gosling and Emily Blunt. [Full review in Spanish]",
+        "url": "https://cinexpresspr.com/site/2024/05/03/resena-the-fall-guy/"
+    },
+    {
+        "critic": "Jeff Mitchell",
+        "is_top_critic": false,
+        "media": "Art House Film Wire",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-05-04T02:01:27.000Z",
+        "quote": "'The Fall Guy' floats.  It's an easy, breezy ride.",
+        "url": "https://www.arthousefilmwire.com/2024/05/03/the-fall-guy-floats-its-an-easy-breezy-ride/"
+    },
+    {
+        "critic": "Brandon Avery",
+        "is_top_critic": false,
+        "media": "Just My Opinion Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "8.5/10",
+        "date": "2024-05-04T00:36:11.000Z",
+        "quote": "The chemistry between Ryan Gosling and Emily Blunt is adorable. So much respect is given to stuntmen and women, and I couldn't be happier. It would be a hard task to not enjoy this fun filled, action, adventure, romantic comedy.",
+        "url": "https://www.justmyopinion.net/the-fall-guy-review/"
+    },
+    {
+        "critic": "Alan Zilberman",
+        "is_top_critic": false,
+        "media": "Washington City Paper",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T23:37:53.000Z",
+        "quote": "Director David Leitch, a former stuntperson, enthusiastically captures death-defying acts, but it’s the love story between the two likable leads that drives the plot.",
+        "url": "https://washingtoncitypaper.com/article/693506/action-and-romance-make-a-winning-combination-in-the-fall-guy/"
+    },
+    {
+        "critic": "Josh Flanders",
+        "is_top_critic": false,
+        "media": "Chicago Reader",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T23:30:25.000Z",
+        "quote": "Screenwriter Drew Pearce has penned a hilarious and smart script that is self-aware and referential of the films and TV shows it parodies and celebrates.",
+        "url": "https://chicagoreader.com/film/review-the-fall-guy/"
+    },
+    {
+        "critic": "Richard Roeper",
+        "is_top_critic": true,
+        "media": "Chicago Sun-Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-03T23:24:36.000Z",
+        "quote": "When you’ve got jaw-dropping stunts and the playful chemistry of Ryan Gosling and Emily Blunt, who cares whether the plot holds up?",
+        "url": "https://chicago.suntimes.com/movies-and-tv/2024/05/01/fall-guy-review-ryan-gosling-movie-emily-blunt"
+    },
+    {
+        "critic": "Robert Denerstein",
+        "is_top_critic": false,
+        "media": "Denerstein Unleashed",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-03T23:20:25.000Z",
+        "quote": "For all its stunts, flash, and glamor, The Fall Guy feels undernourished, a blaring helping of commotion sans much of anything resembling sustenance.",
+        "url": "https://denersteinunleashed.blogspot.com/2024/05/fall-guy-doubles-down-on-action.html"
+    },
+    {
+        "critic": "Joe Friar",
+        "is_top_critic": false,
+        "media": "Fort Worth Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-05-03T22:51:26.000Z",
+        "quote": "It’s hard to upstage the film’s A-list leads, but Gosling and Blunt are no match for the incredible death-defying stunts featured in the film directed by David Leitch, a former stuntman who pays tribute to the men and women who make movie magic happen. ",
+        "url": "https://fortworthreport.org/2024/05/03/the-fall-guy-review-ryan-gosling-and-emily-blunt-are-fun-to-watch-while-paying-tribute-to-all-the-hardworking-stunt-performers-that-make-movies-magical/"
+    },
+    {
+        "critic": "Jeremy Jahns",
+        "is_top_critic": false,
+        "media": "JeremyJahns.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T22:27:25.000Z",
+        "quote": "The Fall Guy truly is a film that if it came out somewhere between Lethal Weapon and Rush Hour, it'd be right at home.",
+        "url": "https://www.youtube.com/watch?v=LWY6_AV6wF0"
+    },
+    {
+        "critic": "Jeff York",
+        "is_top_critic": false,
+        "media": "The Establishing Shot",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-05-03T22:13:07.000Z",
+        "quote": "What ends up on the screen is a shocking failure. This should have been great. Instead, it falls into the category of wholly blown opportunities. ",
+        "url": "https://theestablishingshot.org/2024/05/five-big-ways-the-fall-guy-fails/"
+    },
+    {
+        "critic": "Mike McGranaghan",
+        "is_top_critic": false,
+        "media": "Aisle Seat",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-03T22:09:14.000Z",
+        "quote": "The Fall Guy is made with palpable cheer and enthusiasm. It goes for broke in entertaining the audience with a mixture of comedy, romance, and outrageous action.",
+        "url": "https://aisleseat.com/fall-guy.html"
+    },
+    {
+        "critic": "Don Shanahan",
+        "is_top_critic": false,
+        "media": "Every Movie Has a Lesson",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-03T21:48:47.000Z",
+        "quote": "The TV show’s awareness and appreciation for these behind-the-scenes champions has now become Leitch’s own. ",
+        "url": "https://everymoviehasalesson.com/blog/2024/5/movie-review-the-fall-guy"
+    },
+    {
+        "critic": "Paul Whitington",
+        "is_top_critic": false,
+        "media": "Irish Independent",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-03T21:23:08.000Z",
+        "quote": "Overall, The Fall Guy feels smug and self-satisfied.",
+        "url": "https://www.independent.ie/entertainment/movies/movie-reviews/the-fall-guy-review-despite-ryan-gosling-and-emily-blunts-comic-interplay-this-jokey-reboot-falls-short/a779860939.html"
+    },
+    {
+        "critic": "Kevin Carr",
+        "is_top_critic": false,
+        "media": "Fat Guys at the Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-05-03T20:51:05.000Z",
+        "quote": "It feels like one of those stunt show spectaculars performed at theme parks, with a story as an afterthought and ends up being simultaneously convoluted yet clichéd, and predictable yet baffling.",
+        "url": "https://www.fatguysatthemovies.com/the-fall-guy-review/"
+    },
+    {
+        "critic": "Thelma Adams",
+        "is_top_critic": true,
+        "media": "AARP Movies for Grownups",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-03T20:39:57.000Z",
+        "quote": "The movie is made to entertain: It’s got karaoke, charismatic stars, cars rolling in the air and a winky, devil-may-care attitude. It’s mainstream action-comedy-romance mayhem with extra sizzle.",
+        "url": "https://www.aarp.org/entertainment/television/info-2024/what-to-watch-best-new-movies-shows-streaming.html"
+    },
+    {
+        "critic": "Tom Gliatto",
+        "is_top_critic": false,
+        "media": "People Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T20:34:36.000Z",
+        "quote": "What matters is Gosling... He could have whole-heartedly embraced the role's vacuousness, as he did with his glorious turn as Ken in Barbie. But he goes a little deeper without ever sacrificing the film's humor.",
+        "url": "https://people.com/the-fall-guy-review-8642303"
+    },
+    {
+        "critic": "Murjani Rawls",
+        "is_top_critic": false,
+        "media": "Substream Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T20:22:46.000Z",
+        "quote": "The fun factor never wanes, and 'The Fall Guy' will make you remember why we love these summer films so much.",
+        "url": "https://substreammagazine.com/2024/05/the-fall-guy-review-ryan-gosling-emily-blunt/"
+    },
+    {
+        "critic": "Matt Lynch",
+        "is_top_critic": false,
+        "media": "In Review Online",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-03T20:05:00.000Z",
+        "quote": "It’s wonderful to see this essential and dangerous art form celebrated so warmly, but it’s just too bad that the movie’s not better at providing a true exhibition of all that hard work.",
+        "url": "https://inreviewonline.com/2024/04/28/the-fall-guy/"
+    },
+    {
+        "critic": "Frank Wilkins",
+        "is_top_critic": false,
+        "media": "Reel Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-03T19:41:54.000Z",
+        "quote": "A thrilling nod to the daredevils and nameless faces behind the scenes of moviemaking",
+        "url": "https://www.reelreviews.com/intheaters/fall-guy-movie-review"
+    },
+    {
+        "critic": "Alex Billington",
+        "is_top_critic": false,
+        "media": "FirstShowing.net",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2024-05-03T19:37:42.000Z",
+        "quote": "This is David Leitch's best movie so far. He balances all the heart and humor and romance and cheesiness and laughs and action and stunts and movie-making pizzazz JUST right this time.",
+        "url": "https://www.firstshowing.net/2024/review-david-leitchs-the-fall-guy-is-a-stunt-filled-blast-and-a-half/"
+    },
+    {
+        "critic": "Damond Fudge",
+        "is_top_critic": false,
+        "media": "KCCI (Des Moines, IA)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T19:05:36.000Z",
+        "quote": "The Fall Guy is a pure adrenaline love letter to big summer blockbusters and the stunt crews who make them possible.",
+        "url": "https://bit.ly/4a1ZrN7"
+    },
+    {
+        "critic": "Ryan Syrek",
+        "is_top_critic": false,
+        "media": "The Reader (Omaha, NE)",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2024-05-03T18:32:41.000Z",
+        "quote": "The fact that The Fall Guy is a sloppy, fire-covered kiss to stuntpeople is totally understandable and well-deserved. Sadly, this is one of those kisses that goes on for an uncomfortably long period of time. ",
+        "url": "https://thereader.com/2024/05/03/stunt-double-half-effective/"
+    },
+    {
+        "critic": "Charlotte Simmons",
+        "is_top_critic": false,
+        "media": "We Got This Covered",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-03T18:18:21.000Z",
+        "quote": "As a blockbuster, 'The Fall Guy' flies. As an ode to stuntmen, it soars. But as a movie that simply loves being a movie, it towers quite magnificently above most.",
+        "url": "https://wegotthiscovered.com/reviews/review-the-fall-guy-could-have-been-called-movie-the-movie-and-its-truly-glorious/"
+    },
+    {
+        "critic": "Brian Viner",
+        "is_top_critic": false,
+        "media": "Daily Mail (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-03T17:55:55.000Z",
+        "quote": "... Its big achievement is in putting Gosling and Blunt together for the first time. They have proper screen chemistry.",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-13377101/URL-Fall-Guy-review-Ryan-Gosling-Emily-Blunt-Brian-Viner.html"
+    },
+    {
+        "critic": "Patrick McDonald",
+        "is_top_critic": false,
+        "media": "WBGR-FM (93.7 FM - Monroe, WI)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-05-03T17:28:45.000Z",
+        "quote": "Typical TV-to-movie adaptation problems, is it a comedy, action movie or wink at the camera satire? The film couldn't figure it out. Ryan, Emily & Hannah are charming, even as they sweat bullets to make the story work, and the stunts work (they'd better).",
+        "url": "https://youtu.be/WXW4OY3v6RE?si=lwe_5hSjLKy4i4Dt"
+    },
+    {
+        "critic": "Susan Kamyab",
+        "is_top_critic": false,
+        "media": "This Chix Flix",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-05-03T17:28:06.000Z",
+        "quote": "“The Fall Guy” is an exciting moviegoing experience, providing jaw-dropping action, loveable leads, killer soundtrack, and ridiculous chaotic fun. Making it the perfect popcorn flick.",
+        "url": "http://thischixflix.com/2024/05/03/movie-review-the-fall-guy/"
+    },
+    {
+        "critic": "Jacob Oller",
+        "is_top_critic": false,
+        "media": "Paste Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "7.4/10",
+        "date": "2024-05-03T17:15:03.000Z",
+        "quote": "The film breezily flits between a savvy behind-the-scenes pastiche and a committed action rom-com.",
+        "url": "https://www.pastemagazine.com/movies/ryan-gosling/the-fall-guy-review"
+    },
+    {
+        "critic": "Jillian Chilingerian",
+        "is_top_critic": false,
+        "media": "Offscreen Central",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T17:07:52.000Z",
+        "quote": "Love, fire, and spicy margaritas, The Fall Guy is a full-blown blockbuster encasing a romantic comedy led by the delectable Ryan Gosling that is devoted to the heroes of film: stunt teams.",
+        "url": "https://offscreencentral.com/2024/05/03/the-fall-guy-review/"
+    },
+    {
+        "critic": "Jonathan W. Hickman",
+        "is_top_critic": false,
+        "media": "The Newnan Times-Herald",
+        "sentiment": "Rotten 🤢",
+        "score": "5/10",
+        "date": "2024-05-03T16:00:51.000Z",
+        "quote": "The natural charm of Ryan Gosling combined with the skilled stunt work by the team behind the “John Wick” franchise can’t lift this lackluster action/comedy.",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/the-fall-guy/article_8a7ae5b2-0963-11ef-b876-5f6696563455.html"
+    },
+    {
+        "critic": "Christopher Lloyd",
+        "is_top_critic": false,
+        "media": "The Film Yap",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-05-03T15:48:53.000Z",
+        "quote": "Some great stunts and colorful action, but totally discombobulated narrative and tonally strange addition of weepy/serious moments. Just be the big, dumb, fun stunts movie everyone wanted.",
+        "url": "https://filmyap.substack.com/p/the-av-room-indy-now-may-3"
+    },
+    {
+        "critic": "Stephen Silver",
+        "is_top_critic": false,
+        "media": "Splice Today",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-03T15:43:32.000Z",
+        "quote": "Finds a creative way to satirize showbiz while combining action and comedy in natural and complementary ways",
+        "url": "https://www.splicetoday.com/moving-pictures/shot-through-the-heart"
+    },
+    {
+        "critic": "Justin Harrison",
+        "is_top_critic": false,
+        "media": "The Spool",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T15:25:16.000Z",
+        "quote": "\"Delightful.\" That's the best word for The Fall Guy. It's a movie about moviemaking that loves moviemaking.",
+        "url": "https://thespool.net/reviews/the-fall-guy-2024-review/"
+    },
+    {
+        "critic": "Rick Romancito",
+        "is_top_critic": false,
+        "media": "The Taos News",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-05-03T15:22:52.000Z",
+        "quote": "The movie, like the TV show, is designed as an homage to the stunt profession, which every super-hero, action star, and fast and furious racer would be nothing without. It’s about time, too.",
+        "url": "https://www.taosnews.com/tempo/fall-guy-is-wild-reckless-and-loads-of-fun/article_0b78757a-095b-11ef-80e5-533a9cb7bba3.html"
+    },
+    {
+        "critic": "Collin Garbarino",
+        "is_top_critic": false,
+        "media": "WORLD",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-03T15:00:13.000Z",
+        "quote": "The best thing about this movie isn’t the incredible stunt work or the glimpse behind the curtain to see how they pull it off. Despite all the gunfire and explosions, The Fall Guy is an old-fashioned romantic comedy.",
+        "url": "https://wng.org/podcasts/for-the-love-of-stunt-work-1714676921"
+    },
+    {
+        "critic": "Keith Garlington",
+        "is_top_critic": false,
+        "media": "Keith & the Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-03T14:49:25.000Z",
+        "quote": "It’s not bad but not all that memorable either. Kinda like most of the summer popcorn movies that we still enjoy.",
+        "url": "https://keithandthemovies.com/2024/05/03/review-the-fall-guy-2024/"
+    },
+    {
+        "critic": "Todd Jorgenson",
+        "is_top_critic": false,
+        "media": "Cinemalogue",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T14:35:04.000Z",
+        "quote": "Keenly self-aware and refusing to take itself too seriously, the film is best when it just lets loose and maximizes the mayhem.",
+        "url": "https://cinemalogue.com/2024/05/03/the-fall-guy/"
+    },
+    {
+        "critic": "Peter Travers",
+        "is_top_critic": true,
+        "media": "ABC News",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T14:30:58.000Z",
+        "quote": "Ryan Gosling—he and Emily Blunt are romcom hotties to die for— knocks it out of the park in this insanely entertaining love letter to Hollywood’s unsung action heroes—stunt performers. Listen up, academy: an Oscar category for stunts is way overdue. ",
+        "url": "https://abcnews.go.com/GMA/Culture/review-fall-guy-love-letter-makes-movies-magic/story?id=109867571"
+    },
+    {
+        "critic": "Matt Rodriguez",
+        "is_top_critic": false,
+        "media": "Shakefire",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-03T14:02:21.000Z",
+        "quote": "The entire film is a celebration of the stunt work that goes into making our favorite action films. Aside from plenty of well choreographed fight scenes, there's plenty of humor and most of all heart to the film.",
+        "url": "https://shakefire.net/5780/the-fall-guy-review/"
+    },
+    {
+        "critic": "Oliver Jones",
+        "is_top_critic": false,
+        "media": "Observer",
+        "sentiment": "Rotten 🤢",
+        "score": "1/4",
+        "date": "2024-05-03T14:01:14.000Z",
+        "quote": "Its premise invites a bold send-up of Hollywood excess and self-seriousness. But 'The Fall Guy' has neither the wit nor the gumption to follow through.\n",
+        "url": "https://observer.com/2024/05/the-fall-guy-isnt-a-satire-of-hollywoods-worst-instincts-its-a-product-of-them/"
+    },
+    {
+        "critic": "Lynn Venhaus",
+        "is_top_critic": false,
+        "media": "PopLifeSTL",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-05-03T13:58:11.000Z",
+        "quote": "With their effortless charm and palpable chemistry, recent Oscar nominees Gosling and Blunt drive this across the finish line as one of the most enjoyable big-screen experiences of the year.",
+        "url": "https://poplifestl.com/clever-snappy-the-fall-guy-celebrates-unsung-stunt-workers/"
+    },
+    {
+        "critic": "Sonny Bunch",
+        "is_top_critic": false,
+        "media": "The Bulwark",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-03T13:19:42.000Z",
+        "quote": "Pure, unadulterated fun.",
+        "url": "https://www.thebulwark.com/p/the-fall-guy-review"
+    },
+    {
+        "critic": "Johnny Oleksinski",
+        "is_top_critic": false,
+        "media": "New York Post",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-05-03T11:34:47.000Z",
+        "quote": "Your cat could write this movie.",
+        "url": "https://nypost.com/2024/05/02/entertainment/the-fall-guy-review-ryan-gosling-goes-overboard-in-mediocre-comedy/"
+    },
+    {
+        "critic": "James Berardinelli",
+        "is_top_critic": false,
+        "media": "ReelViews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-03T11:29:57.000Z",
+        "quote": "The Fall Guy delivers where it matters – it’s a fun, uplifting excursion into big-screen escapism.",
+        "url": "https://www.reelviews.net/reelviews/fall-guy-the"
+    },
+    {
+        "critic": "Bob Mondello",
+        "is_top_critic": false,
+        "media": "NPR",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T11:29:12.000Z",
+        "quote": "Director Leitch is like a really confident magician saying, you want to see that up close? Want to see it again? How about from this angle? - knowing that you'll always fall for the trick, always fall for the fall guys.",
+        "url": "https://www.npr.org/2024/05/02/1248778677/the-fall-guy-entertains-as-an-action-adventure-romcom-while-revealing-movie-magi"
+    },
+    {
+        "critic": "Richard Crouse",
+        "is_top_critic": false,
+        "media": "Richard Crouse",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-03T11:28:37.000Z",
+        "quote": "The Fall Guy delivers a crowd-pleasing mix of whiz bang action, humor, romance and high wattage performances from Ryan Gosling and Emily Blunt. ",
+        "url": "https://richardcrouse.ca/the-fall-guy-3-%c2%bd-stars-a-crowd-pleasing-mix-of-action-romance-and-high-wattage-performances/"
+    },
+    {
+        "critic": "Holly Hazelwood",
+        "is_top_critic": false,
+        "media": "Spectrum Culture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T05:26:00.000Z",
+        "quote": "The Fall Guy is a rock-solid film, but even though it isn’t exactly revelatory, it feels like it’ll be remembered not just for how well it captures the physicality of stunt work but for how much fun it makes it all look.\n",
+        "url": "https://spectrumculture.com/2024/05/02/the-fall-guy-review/"
+    },
+    {
+        "critic": "Allen Almachar",
+        "is_top_critic": false,
+        "media": "The MacGuffin",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-05-03T05:04:51.000Z",
+        "quote": "It pays tribute to a profession that deserves more recognition, has a screwball plot that allows for hilarity, and is headlined by actors all locked in to provide as much entertainment as possible.",
+        "url": "https://macguff.in/film-reviews/the-fall-guy/"
+    },
+    {
+        "critic": "Jeffrey Harris",
+        "is_top_critic": false,
+        "media": "411mania",
+        "sentiment": "Fresh 🍅",
+        "score": "8.5/10",
+        "date": "2024-05-03T04:56:56.000Z",
+        "quote": "The Fall Guy delivers great action-comedy fun. Ryan Gosling and Emily Blunt provide excellent chemistry as romantic leads, and Gosling nails the role, bringing his unique, understated charm to the unwitting stuntman-turned-action hero, Colt Seavers.",
+        "url": "https://411mania.com/movies/the-fall-guy-review/"
+    },
+    {
+        "critic": "Kurt Loder",
+        "is_top_critic": false,
+        "media": "Creators Syndicate",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T04:56:49.000Z",
+        "quote": "Blunt and Gosling are a classic screwball couple, and it's puzzling that some of their zingiest interactions were left in the trailer and never made it into the picture itself.",
+        "url": "https://www.creators.com/read/screener/05/24/the-fall-guy-ryan-gosling-and-emily-blunt-in-a-fast-talking-action-com"
+    },
+    {
+        "critic": "Jeanne Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T03:54:31.000Z",
+        "quote": "THE FALL GUY is highly entertaining --- an homage to the dedicated stunt people who bring action pictures to life.",
+        "url": "https://www.kaplanvskaplan.com/new-releases/fall-guy-the/"
+    },
+    {
+        "critic": "David Kaplan",
+        "is_top_critic": false,
+        "media": "Kaplan vs. Kaplan",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-03T03:51:21.000Z",
+        "quote": "As fascinating as the stunt sequences are to witness in THE FALL GUY, it is the on-again, off-again, on-again flirtations between Colt and Jody that are the most intriguing element. ",
+        "url": "https://www.kaplanvskaplan.com/new-releases/fall-guy-the/"
+    },
+    {
+        "critic": "Lauren Bradshaw",
+        "is_top_critic": false,
+        "media": "Fangirl Freakout",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-05-03T01:13:41.000Z",
+        "quote": "From its death-defying stunts to the red-hot chemistry between Ryan Gosling and Emily Blunt, I know All Too Well that \"The Fall Guy\" is the most fun you'll have at the movies this year.",
+        "url": "https://fangirlfreakout.com/2024/05/02/movie-review-the-fall-guy/"
+    },
+    {
+        "critic": "Amelia Harvey",
+        "is_top_critic": false,
+        "media": "Nerdspin",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-05-03T01:00:51.000Z",
+        "quote": "The Fall Guy is a love letter to the craft and moviemaking in general. \n",
+        "url": "https://nerdspin.com/the-fall-guy-review-is-a-love-letter-to-stuntmen/"
+    },
+    {
+        "critic": "Katie Walsh",
+        "is_top_critic": true,
+        "media": "Tribune News Service",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-05-02T23:55:51.000Z",
+        "quote": "Though stunts may make the movies exciting, it’s the stars who get you in your gut.",
+        "url": "https://www.trentonian.com/2024/05/01/movie-review-the-fall-guy-a-testament-to-star-power-not-stunts/"
+    },
+    {
+        "critic": "Diego Batlle",
+        "is_top_critic": false,
+        "media": "Otroscines.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-02T23:50:27.000Z",
+        "quote": "The Fall Guy imposes itself as an affable, noble, and entertaining movie... [Full review in Spanish]",
+        "url": "https://www.otroscines.com/nota-20268-critica-de-profesion-peligro-the-fall-guy-pelicula-de-d"
+    },
+    {
+        "critic": "Russ Simmons",
+        "is_top_critic": false,
+        "media": "KKFI-FM (Kansas City)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-02T23:16:39.000Z",
+        "quote": "“The Fall Guy” is overlong and goofy but is filled with great stunts and good vibes.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-the-fall-guy-pg-13-jeanne-du-barry-not-rated-unfrosted-pg-13-the-idea-of-you-r/"
+    },
+    {
+        "critic": "Grant Rollings",
+        "is_top_critic": false,
+        "media": "The Sun (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-02T22:41:45.000Z",
+        "quote": "The only place where it falls down is the romance, whose obstacles feel false. But lovey-dovey stuff was never going to be the reason why you fell for The Fall Guy.",
+        "url": "https://www.thesun.co.uk/tv/27671892/the-fall-guy-film-review-ryan-gosling/"
+    },
+    {
+        "critic": "Prabhjot Bains",
+        "is_top_critic": false,
+        "media": "RANGE Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T22:24:02.000Z",
+        "quote": "David Leitch’s bonkers, self-referential actioner is a fun, albeit flawed, celebration of cinema.",
+        "url": "https://readrange.com/the-fall-guy-review/"
+    },
+    {
+        "critic": "Alex Bentley",
+        "is_top_critic": false,
+        "media": "CultureMap",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T21:58:47.000Z",
+        "quote": "The Fall Guy is a fun if imperfect film that does exactly what it was intended to do: Showcase the stunt community in all its glory.",
+        "url": "https://dallas.culturemap.com/news/entertainment/the-fall-guy-movie-review/"
+    },
+    {
+        "critic": "Kyle Logan",
+        "is_top_critic": false,
+        "media": "ScreenAnarchy",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T21:54:23.000Z",
+        "quote": "The perfect balance of humor, hits, and heart. ... A love letter to stunts and all the people who make them happen ... a romantic comedy with two movie stars ... at their most charming, and an action movie explicitly dedicated to wowing its audience.",
+        "url": "https://screenanarchy.com/2024/05/the-fall-guy-review-a-rousing-crowd-pleaser.html"
+    },
+    {
+        "critic": "Harry Guerin",
+        "is_top_critic": false,
+        "media": "RTÉ (Ireland)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-02T21:52:30.000Z",
+        "quote": "Former stuntman-turned-director David Leitch has described his film as \"an underdog love story action comedy thriller\". With Gosling and Blunt front and centre, The Fall Guy hits those marks.",
+        "url": "https://www.rte.ie/entertainment/movie-reviews/2024/0501/1446827-summer-movie-season-starts-with-the-fall-guy/"
+    },
+    {
+        "critic": "Kyle Smith",
+        "is_top_critic": false,
+        "media": "Wall Street Journal",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-02T21:51:09.000Z",
+        "quote": "The Fall Guy may be the bargain of the season at the multiplex; for the price of one ticket, you get many bad movies.",
+        "url": "https://www.wsj.com/arts-culture/film/the-fall-guy-review-ryan-gosling-emily-blunt-aaron-taylor-johnson-4e02a48c"
+    },
+    {
+        "critic": "Terry Staunton",
+        "is_top_critic": false,
+        "media": "Radio Times",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-02T21:50:25.000Z",
+        "quote": "Laughs are in plenty supply, the script dripping with savvy dialogue, and the crime strand of the narrative is packed with complicated twists.",
+        "url": "https://www.radiotimes.com/movie-guide/b-3o4ytq/the-fall-guy/"
+    },
+    {
+        "critic": "Brian Lowry",
+        "is_top_critic": false,
+        "media": "CNN.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T21:44:10.000Z",
+        "quote": "Buoyed by the lure of what Ryan Gosling can do for a post-Barbie encore (or Ken-core), The Fall Guy is too flat in the early going to fully meet that challenge, rallying toward the end without reaching the heights required to make a really big splash.",
+        "url": "https://www.cnn.com/2024/05/02/entertainment/the-fall-guy-review-ryan-gosling/index.html"
+    },
+    {
+        "critic": "Kimberley Jones",
+        "is_top_critic": false,
+        "media": "Austin Chronicle",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-02T21:27:02.000Z",
+        "quote": "Leitch’s latest, The Fall Guy – a joyful gong announcing the summer movie season’s arrival – still delivers jokes, but this one’s all heart.",
+        "url": "https://www.austinchronicle.com/events/film/2024-05-03/the-fall-guy/"
+    },
+    {
+        "critic": "Michael Phillips",
+        "is_top_critic": true,
+        "media": "Chicago Tribune",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-02T21:22:42.000Z",
+        "quote": "It’s wonderful to watch Gosling mine the non-verbal comedy in his character’s 50/50 swagger and insecurity. ",
+        "url": "https://www.chicagotribune.com/2024/05/02/the-fall-guy-review-it-has-stunts-ryan-gosling-and-emily-blunt-and-almost-a-story/"
+    },
+    {
+        "critic": "Robert Kojder",
+        "is_top_critic": false,
+        "media": "Flickering Myth",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-02T21:15:00.000Z",
+        "quote": "Ostensibly a love letter to stunt doubles, director David Leitch’s The Fall Guy oftentimes gets lost on that path to function as a vehicle to appreciate Ryan Gosling’s acting range and charm\n",
+        "url": "https://www.flickeringmyth.com/2024/05/movie-review-the-fall-guy-2024-2/"
+    },
+    {
+        "critic": "Dan Scully",
+        "is_top_critic": false,
+        "media": "ScullyVision",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T21:11:51.000Z",
+        "quote": "The film is blessed to have such a killer cast and clever script, because for all its intentions to showcase great stunt work, the action beats are pretty standard. ",
+        "url": "https://scullyvision.com/2024/05/02/the-fall-guy-is-a-great-comedy-but-a-middling-action-movie/"
+    },
+    {
+        "critic": "Marcelo Stiletano",
+        "is_top_critic": false,
+        "media": "La Nación (Argentina)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-02T21:11:41.000Z",
+        "quote": "The Fall Guy is an irresistible move. [Full review in Spanish]",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/profesion-peligro-es-una-irresistible-mezcla-de-accion-comedia-y-romance-como-un-gran-tributo-a-los-nid02052024/"
+    },
+    {
+        "critic": "Maureen Lee Lenker",
+        "is_top_critic": false,
+        "media": "Entertainment Weekly",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-05-02T21:09:29.000Z",
+        "quote": "This meta ouroboros, movie-within-a-movie structure only works because The Fall Guy is such unabashed fun packaged in solid, old-fashioned filmmaking. ",
+        "url": "https://ew.com/the-fall-guy-review-ryan-gosling-charms-earnest-love-letter-movies-8642227"
+    },
+    {
+        "critic": "Ty Burr",
+        "is_top_critic": true,
+        "media": "Washington Post",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-02T21:06:48.000Z",
+        "quote": "Not surprisingly, plot is the least important thing here. Surprisingly, the quieter romantic comedy scenes are the best.",
+        "url": "https://www.washingtonpost.com/entertainment/movies/2024/05/02/fall-guy-movie-gosling-blunt/"
+    },
+    {
+        "critic": "Glenn Whipp",
+        "is_top_critic": false,
+        "media": "Los Angeles Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T21:01:29.000Z",
+        "quote": "At its best, though, it’s a romantic comedy that coasts on the charisma of its two appealing leads, Ryan Gosling and Emily Blunt.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2024-05-02/the-fall-guy-review-ryan-gosling-emily-blunt-david-leitch-stunts"
+    },
+    {
+        "critic": "Tony Medley",
+        "is_top_critic": false,
+        "media": "tonymedley.com",
+        "sentiment": "Rotten 🤢",
+        "score": "3/10",
+        "date": "2024-05-02T20:51:20.000Z",
+        "quote": "Relying on megastars Gosling and Blunt (who display little or no chemistry) and filling the film with graphic car crashes, mayhem, and silly stunts aren't enough to lift this too-long hackneyed snorer out of the doldrums. ",
+        "url": "http://www.tonymedley.com/2024/The_Fall_Guy.htm"
+    },
+    {
+        "critic": "Grace Randolph",
+        "is_top_critic": false,
+        "media": "Beyond the Trailer",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-02T20:24:17.000Z",
+        "quote": "Surprisingly weak, with the best parts in the MANY trailers for the film. Gosling shines but it's a kitchen sink movie. Also, this ode to stuntmen doesn't feature any real stuntmen nor explain why they take on the danger and the pain. Missed opportunity.",
+        "url": "https://www.youtube.com/watch?v=gfcDX_44TQ0"
+    },
+    {
+        "critic": "Mark Meszoros",
+        "is_top_critic": false,
+        "media": "The News-Herald (Willoughby, OH)",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-05-02T20:11:15.000Z",
+        "quote": "The Fall Guy makes a bit of a mess of things, but it sure has fun doing it. ",
+        "url": "https://www.news-herald.com/2024/05/01/the-fall-guy-review-ryan-gosling-shines-in-sloppy-slice-of-summer-fun/"
+    },
+    {
+        "critic": "David Gonzalez",
+        "is_top_critic": false,
+        "media": "The Cinematic Reel",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-05-02T20:07:15.000Z",
+        "quote": "David Leitch’s The Fall Guy kicks off the Summer Blockbuster season with an adrenaline rush of action, comedy, and romance, acting as a love letter not just to stunt teams but to the entire community that creates the magic of film.",
+        "url": "https://thecinematicreel.com/the-fall-guy/"
+    },
+    {
+        "critic": "Moira MacDonald",
+        "is_top_critic": false,
+        "media": "Seattle Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-02T19:45:51.000Z",
+        "quote": "It has that rare quality in a big-studio film: a sense of fun. ",
+        "url": "https://www.seattletimes.com/entertainment/movies/the-fall-guy-review-ryan-gosling-emily-blunt-pull-off-entertaining-stunt/"
+    },
+    {
+        "critic": "Alan Ng",
+        "is_top_critic": false,
+        "media": "Film Threat",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2024-05-02T19:43:22.000Z",
+        "quote": "The Fall Guy is a fun action flick with something for everyone. ",
+        "url": "https://filmthreat.com/reviews/the-fall-guy/"
+    },
+    {
+        "critic": "Nell Minow",
+        "is_top_critic": true,
+        "media": "Movie Mom",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-05-02T19:40:59.000Z",
+        "quote": "It is pure popcorn pleasure and I cannot wait to see it again.",
+        "url": "https://moviemom.com/the-fall-guy/"
+    },
+    {
+        "critic": "Austin Burke",
+        "is_top_critic": false,
+        "media": "Austin Burke/Flick Fan Nation",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-05-02T18:49:28.000Z",
+        "quote": "Gosling and Blunt are having a blast, but the plot itself is a bit of a mess. Colt’s journey never hooked me, and the humor is inconsistent. From an action standpoint, it thrives and provides every ounce of fun expected from David Leitch.",
+        "url": "https://youtu.be/n_DzaDJImB0"
+    },
+    {
+        "critic": "Deborah Ross",
+        "is_top_critic": true,
+        "media": "The Spectator",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T18:19:56.000Z",
+        "quote": "A gloriously fun, screwball action film that pokes fun at action films and this, I now know, is my favourite kind of action film. I would even venture that it’s the sort of film that’s crying out to be enjoyed with a big old bucket of popcorn.",
+        "url": "https://www.spectator.co.uk/article/a-true-popcorn-movie-the-fall-guy-reviewed/"
+    },
+    {
+        "critic": "Pablo O. Scholz",
+        "is_top_critic": false,
+        "media": "Clarín",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2024-05-02T18:08:35.000Z",
+        "quote": "The Fall Guy will likely be a hit and we'll soon have Gosling as an action comedy star. [Full review in Spanish]",
+        "url": "https://www.clarin.com/espectaculos/ryan-gosling-volvio-barbie-profesion-peligro-genial-comedia-accion_0_SYsMJeM4sE.html"
+    },
+    {
+        "critic": "Rebecca Murray",
+        "is_top_critic": false,
+        "media": "Showbiz Junkies",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-05-02T17:39:26.000Z",
+        "quote": "Gosling and Blunt totally get the assignment and let the badass stunt performers shine in this ridiculously fun movie.",
+        "url": "https://www.showbizjunkies.com/movies/the-fall-guy-review/"
+    },
+    {
+        "critic": "David Sexton",
+        "is_top_critic": false,
+        "media": "New Statesman",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T17:38:06.000Z",
+        "quote": "Gosling makes it work, sometimes Drive-tough, sometimes Ken-accommodating, but Blunt’s at a loss. The film’s heart is given over to honouring the stunt community, an esoteric passion.",
+        "url": "https://www.newstatesman.com/culture/film/2024/05/romcoms-fall-guy-ryan-gosling-emily-blunt-idea-of-you-review"
+    },
+    {
+        "critic": "Brian Eggert",
+        "is_top_critic": false,
+        "media": "Deep Focus Review",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/4",
+        "date": "2024-05-02T17:35:00.000Z",
+        "quote": "Armed with an appealingly low-stakes conflict, the movie’s breeziness makes the 125-minute runtime fly by, [but] the lightness of everything onscreen also robs the viewer of much investment, making the experience effortless yet forgettable. ",
+        "url": "https://www.deepfocusreview.com/reviews/the-fall-guy/"
+    },
+    {
+        "critic": "M.N. Miller",
+        "is_top_critic": false,
+        "media": "InSession Film",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-05-02T17:22:47.000Z",
+        "quote": "If you like your films with some thoughtless errors but still some mindless and charming fun, The Fall Guy will most likely scratch that itch. If you need something smarter from Hollywood popcorn films, the film will ultimately disappoint you.",
+        "url": "https://insessionfilm.com/movie-review-the-fall-guy/"
+    },
+    {
+        "critic": "George M. Thomas",
+        "is_top_critic": false,
+        "media": "Akron Beacon Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-05-02T17:08:55.000Z",
+        "quote": "The Fall Guy isn’t the perfect way to begin the summer movie season, but it’s a good start.",
+        "url": "https://www.beaconjournal.com/story/entertainment/movies/2024/05/02/review-the-fall-guy-a-flawed-love-letter-to-hollywood-stuntmen/73529302007/"
+    },
+    {
+        "critic": "Elliott Collins",
+        "is_top_critic": false,
+        "media": "Movie Files",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-02T16:41:03.000Z",
+        "quote": "This is an exciting summer blockbuster that relies on the chemistry of its two leads and the action sequences to carry the story forward. It is a blend of the absurdity of Last Action Hero and the movie-making meta-ness of Tropic Thunder.\n\n",
+        "url": "https://youtu.be/cKrD3YiIY_U?si=YGQ_z6AqUn1gGNmW"
+    },
+    {
+        "critic": "Tara Brady",
+        "is_top_critic": true,
+        "media": "Irish Times",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-02T16:14:53.000Z",
+        "quote": "Romantic scenes between [Gosling] and the miscast Emily Blunt, which the script unwisely insists on prioritising over car chases, leave the viewer to wonder if the actors were filmed in separate locations, possibly on separate planes of existence",
+        "url": "https://www.irishtimes.com/culture/film/review/2024/05/02/the-fall-guy-review-who-ordered-a-half-baked-revival-of-a-lee-majors-tv-show-anyone/"
+    },
+    {
+        "critic": "Richard Brody",
+        "is_top_critic": true,
+        "media": "The New Yorker",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T16:06:42.000Z",
+        "quote": "As a movie that takes place in the world of movies, “The Fall Guy” displays a palpable joy in craft, revelling in the deftness of its comedy, the inventiveness of its stunts, and a generous sprinkling of Easter eggs.",
+        "url": "https://www.newyorker.com/magazine/2024/05/13/the-fall-guy-movie-review"
+    },
+    {
+        "critic": "Nick Rogers",
+        "is_top_critic": false,
+        "media": "Midwest Film Journal",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-05-02T15:58:34.000Z",
+        "quote": "It's essentially \"The Nice Guys\" with studio notes & the first act strands the effortless, eminent chemistry between Ryan Gosling and Emily Blunt in stiff conversations that go on too long. But once it escapes the setup, \"The Fall Guy\" finds its footing.",
+        "url": "https://midwestfilmjournal.com/2024/05/02/the-fall-guy-2024/"
+    },
+    {
+        "critic": "Christian Toto",
+        "is_top_critic": false,
+        "media": "HollywoodInToto.com",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-05-02T15:56:01.000Z",
+        "quote": "Ryan Gosling, Emily Blunt throw off sparks between stupefying set pieces.",
+        "url": "https://www.hollywoodintoto.com/fall-guy-review-gosling-blunt/"
+    },
+    {
+        "critic": "Michael J. Casey",
+        "is_top_critic": false,
+        "media": "Michael J. Cinema",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-02T15:44:58.000Z",
+        "quote": "Charming and clever but wears thin.",
+        "url": "https://michaeljcinema.com/2024/05/02/the-fall-guy/"
+    },
+    {
+        "critic": "Dominic Griffin",
+        "is_top_critic": false,
+        "media": "Looper.com",
+        "sentiment": "Fresh 🍅",
+        "score": "8.5/10",
+        "date": "2024-05-02T15:39:30.000Z",
+        "quote": "David Leitch, a former stuntman himself, couches these serious labor concerns about the lack of recognition for some of Hollywood's hardest-working creatives in one of the most buoyant, crowd-pleasing popcorn flicks in recent memory.",
+        "url": "https://www.looper.com/1574130/the-fall-guy-movie-review/"
+    },
+    {
+        "critic": "Mark Keizer",
+        "is_top_critic": false,
+        "media": "CineGods.com",
+        "sentiment": "Fresh 🍅",
+        "score": "4/4",
+        "date": "2024-05-02T15:39:15.000Z",
+        "quote": "The Fall Guy is loud, fun and state of the art but still manages to feel deeply personal to a stunt performer turned director who clearly loves his former profession and those who continue to risk life and limb for our delectation. ",
+        "url": "https://cinegods.com/film-review-the-fall-guy/"
+    },
+    {
+        "critic": "Tom Santilli",
+        "is_top_critic": false,
+        "media": "Movie Show Plus",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-05-02T15:31:11.000Z",
+        "quote": "...it's a mumble-jumble of genres that never gels into a cohesive film. ",
+        "url": "https://www.movieshowplus.com/reviews/review-the-fall-guy-falls-flat"
+    },
+    {
+        "critic": "Rosa Parra",
+        "is_top_critic": false,
+        "media": "The Latino Slant",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-05-02T14:49:49.000Z",
+        "quote": "“The Fall Guy” is a much needed tribute and spotlight on the massively overlooked, but important part of action films: the stunt community. It’s hilarious, entertaining, action-packed with the perfect dose of romantic moments.",
+        "url": "https://thelatinoslant.com/movie-tv-reviews/spectacular-stunts-spotlighted-in-the-fall-guymovie-review/"
+    },
+    {
+        "critic": "Frank Swietek",
+        "is_top_critic": false,
+        "media": "One Guy's Opinion",
+        "sentiment": "Rotten 🤢",
+        "score": "C-",
+        "date": "2024-05-02T14:44:02.000Z",
+        "quote": "A hectic, exhausting misfire that’s far less clever than it thinks it is....Instead of being exhilarated by “The Fall Guy,” you’re might leave it feeling pulverized.",
+        "url": "https://www.oneguysopinion.com/the-fall-guy/"
+    },
+    {
+        "critic": "Rob Thomas",
+        "is_top_critic": false,
+        "media": "Not That Rob Thomas (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-05-02T14:29:24.000Z",
+        "quote": "The thrill of seeing Ryan Gosling in a fistfight on top of a runaway truck is nothing compared to the thrill of seeing him banter with Emily Blunt about whether “Notting Hill” has a happy ending.",
+        "url": "https://notthatrobthomas.substack.com/p/the-fall-guy-falls-short-as-an-action"
+    },
+    {
+        "critic": "Mark Dujsik",
+        "is_top_critic": false,
+        "media": "Mark Reviews Movies",
+        "sentiment": "Rotten 🤢",
+        "score": "1.5/4",
+        "date": "2024-05-02T14:05:36.000Z",
+        "quote": "The whole project, an adaptation of a 1980s TV series, is a miscalculation.",
+        "url": "https://www.markreviewsmovies.com/reviews/F/fallguy-2024.htm"
+    },
+    {
+        "critic": "Victoria Luxford",
+        "is_top_critic": false,
+        "media": "City AM",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-02T13:50:37.000Z",
+        "quote": " the kind of light-hearted summer fun that brings to mind movies like True Lies or Tropic Thunder.",
+        "url": "https://www.cityam.com/the-fall-guy-film-review-ryan-gosling-hilarious-in-action-comedy/"
+    },
+    {
+        "critic": "Rosalie Kicks",
+        "is_top_critic": false,
+        "media": "MovieJawn",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/4",
+        "date": "2024-05-02T13:18:42.000Z",
+        "quote": "I want to see Gosling and Blunt team again because, even in a lackluster production, these two are a reminder that the idea of a Hollywood star is not dead.",
+        "url": "https://www.moviejawn.com/home/2024/5/2/thefallguy"
+    },
+    {
+        "critic": "Neil Pond",
+        "is_top_critic": false,
+        "media": "Neil's Entertainment Picks",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-02T12:39:41.000Z",
+        "quote": "A lively, wildly entertaining ride into behind-the-scenes Hollywood, full of surprises, twists and turns, super-sized action, wink-wink comedy, hissable villains, standup good guys, and an eye-popping, ever-escalating cascade of cinematic chutzpah. ",
+        "url": "http://neilsentertainmentpicks.com/2024/05/02/movie-review-the-fall-guy/"
+    },
+    {
+        "critic": "Nate Adams",
+        "is_top_critic": false,
+        "media": "The Only Critic",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-05-02T12:38:03.000Z",
+        "quote": "“The Fall Guy” pays homage to the hard work of stuntmen and women as much as it is its own silly and outrageous summer flick. It’s loaded with amazing chemistry, has a kinetic, free-flowing rhythm, and harbors a killer, nostalgic fueled soundtrack.",
+        "url": "https://www.theonlycritic.com/post/the-fall-guy-review-gosling-and-blunt-headline-exhilarating-action-comedy"
+    },
+    {
+        "critic": "Peter Bradshaw",
+        "is_top_critic": true,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-02T12:16:16.000Z",
+        "quote": "A solid serving of popcorn entertainment.",
+        "url": "https://www.theguardian.com/film/2024/may/02/the-fall-guy-review-ryan-gosling-emily-blunt-david-leitch"
+    },
+    {
+        "critic": "Manohla Dargis",
+        "is_top_critic": true,
+        "media": "New York Times",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T11:53:18.000Z",
+        "quote": "“The Fall Guy” is divertingly slick, playful nonsense about a guy who lives to get brutalized again and again... which may be a metaphor for contemporary masculinity and its discontents, though perhaps not.",
+        "url": "https://www.nytimes.com/2024/05/02/movies/fall-guy-ryan-gosling.html"
+    },
+    {
+        "critic": "Brent Hankins",
+        "is_top_critic": false,
+        "media": "The Lamplight Review",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-05-02T11:44:58.000Z",
+        "quote": "A genuine delight, balancing the earnestness of a romantic comedy with major setpieces that action lovers will appreciate, and knowing precisely when to dial up the cheese or give a sly wink to the audience. ",
+        "url": "https://lamplightreview.com/the-fall-guy-movie-review-ryan-gosling/"
+    },
+    {
+        "critic": "Akhil Arora",
+        "is_top_critic": false,
+        "media": "AkhilArora.com",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T11:12:31.000Z",
+        "quote": "Filmmaking can be incredibly complex but sometimes, all you need are two beautiful people who light up the screen together. Ryan Gosling and Emily Blunt are proof.",
+        "url": "https://akhilarora.com/2024/05/the-fall-guy-review-movie-ryan-gosling-emily-blunt/"
+    },
+    {
+        "critic": "Eddie Harrison",
+        "is_top_critic": false,
+        "media": "film-authority.com",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-05-02T08:35:21.000Z",
+        "quote": "…a rare summer blockbuster that makes you feel that everyone involved relished the opportunity to make a huge, crowd-pleasing movie…",
+        "url": "https://film-authority.com/2024/05/02/the-fall-guy/"
+    },
+    {
+        "critic": "Jonathan Sim",
+        "is_top_critic": false,
+        "media": "ComingSoon.net",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-05-02T07:14:28.000Z",
+        "quote": "Have no fear, The Fall Guy is here to give you the excitement, laughs, and all the joy you could ever want from a theatrical experience. This is one hell of a good time, and you can’t miss it.",
+        "url": "https://www.comingsoon.net/movies/reviews/1674515-the-fall-guy-review-a-stunt-filled-spectacular"
+    },
+    {
+        "critic": "Jordy Sirkin",
+        "is_top_critic": false,
+        "media": "Jordy Reviews It",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-02T02:38:02.000Z",
+        "quote": "The ultimate popcorn flick that boasts amazing action-packed scenes, wonderful humor, and a ridiculously charismatic cast.",
+        "url": "https://jordyreviewsit.com/2024/05/01/the-fall-guy-a-joyful-tribute-to-stunt-performers/"
+    },
+    {
+        "critic": "Odie Henderson",
+        "is_top_critic": true,
+        "media": "Boston Globe",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-05-01T23:55:22.000Z",
+        "quote": "This movie is a lot of things — all of them incredibly fun and enjoyable — but at its heart, it’s a joyous return to form for the romantic comedy. Welcome back.",
+        "url": "https://www.bostonglobe.com/2024/05/01/arts/fall-guy-ryan-gosling-emily-blunt/"
+    },
+    {
+        "critic": "Laura Clifford",
+        "is_top_critic": false,
+        "media": "Reeling Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-05-01T22:45:56.000Z",
+        "quote": "a paean to stunt persons plopped on top of a romantic comedy starring two of the most charming actors in the business.  It helps that Waddingham and Taylor-Johnson are also deliciously hissable villains, the stars and stunts getting us over the bumps",
+        "url": "https://www.reelingreviews.com/reviews/the-fall-guy/"
+    },
+    {
+        "critic": "Matt Oakes",
+        "is_top_critic": false,
+        "media": "Silver Screen Riot",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-05-01T22:38:12.000Z",
+        "quote": "Gosling and Blunt's chemistry is undeniable, 'The Fall Guy' soaring when the two superstars’ charisma flares, creating the film’s most surefire pyrotechnics. Nevertheless, Leitch mostly fails to ignite the movie around them. ",
+        "url": "https://silverscreenriot.com/gosling-and-blunt-bring-undeniable-charm-to-middling-bts-action-comedy-the-fall-guy/"
+    },
+    {
+        "critic": "Bill Goodykoontz",
+        "is_top_critic": false,
+        "media": "Arizona Republic",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-01T21:54:32.000Z",
+        "quote": "It’s light, it’s airy, it’s preposterous and it is a lot of fun.",
+        "url": "https://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2024/05/01/the-fall-guy-movie-review/73503709007/"
+    },
+    {
+        "critic": "Adam Graham",
+        "is_top_critic": false,
+        "media": "Detroit News",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-05-01T21:37:07.000Z",
+        "quote": "\"The Fall Guy's\" final act is so convoluted that not even Gosling can keep it on the rails. When \"The Fall Guy\" falls, it falls hard.",
+        "url": "https://www.detroitnews.com/story/entertainment/movies/2024/05/01/the-fall-guy-review-ryan-gosling-shines-movie-around-him-explodes/73525705007/"
+    },
+    {
+        "critic": "Carla Renata",
+        "is_top_critic": false,
+        "media": "The Curvy Film Critic",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-01T21:17:17.000Z",
+        "quote": "All of the stunts will leave audiences breathless while hanging on cheek on the edge of your set.  Gosling is hilarious, charming and thoroughly entertaining, as are his leadlady Emily Blunt and the incomparable Hannah Waddingham",
+        "url": "https://wp.me/p2v8yf-6kh  #podcast"
+    },
+    {
+        "critic": "Richard Lawson",
+        "is_top_critic": true,
+        "media": "Vanity Fair",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-01T20:49:09.000Z",
+        "quote": "Gosling’s performance is a reminder of how many just-okay action movies of yesteryear easily coasted on charisma. The Fall Guy is more than okay, but it would be a lot less without Gosling’s laidback warmth.",
+        "url": "https://www.vanityfair.com/hollywood/story/the-fall-guy-emily-blunt-ryan-gosling-movie-review"
+    },
+    {
+        "critic": "Joanna Langfield",
+        "is_top_critic": false,
+        "media": "The Movie Minute",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-01T19:48:06.000Z",
+        "quote": "This is a movie that loves action. And stunt people. And romantic comedies. This is a movie that just plain loves movies. And resistance, my friends, is futile. \n\n",
+        "url": "https://themovieminute.com/the-fall-guy/"
+    },
+    {
+        "critic": "Chris Joyce",
+        "is_top_critic": false,
+        "media": "Movies and Munchies (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-01T19:42:13.000Z",
+        "quote": "While the mystery isn’t exceedingly complex and there are portions when the storytelling momentum is greatly diminished, the film as a whole delivers thrilling stylish action, charismatic relationships, endearing wit, and an all-around feel-good story.",
+        "url": "https://youtu.be/70npHIlTjGg"
+    },
+    {
+        "critic": "Patrick Cavanaugh",
+        "is_top_critic": false,
+        "media": "ComicBook.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-01T19:33:24.000Z",
+        "quote": "Bonafide movie stars Ryan Gosling and Emily Blunt elevate this adaptation to its full potential but it never becomes more than the sum of its parts.",
+        "url": "https://comicbook.com/movies/news/the-fall-guy-movie-review-ryan-gosling-emily-blunt-explained-david-leitch/"
+    },
+    {
+        "critic": "Tara McNamara",
+        "is_top_critic": false,
+        "media": "Common Sense Media",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-01T19:11:19.000Z",
+        "quote": "Director David Leitch's reimagining of the 1980s TV series starring Lee Majors series is a kick, a happy adrenaline rush that's a fun pick for families with teens to watch together. ",
+        "url": "https://www.commonsensemedia.org/movie-reviews/the-fall-guy"
+    },
+    {
+        "critic": "Chris Hewitt",
+        "is_top_critic": false,
+        "media": "Minneapolis Star Tribune",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-01T18:53:57.000Z",
+        "quote": "Unwieldy, with what seems to be an ending that's followed by 30 more minutes of mayhem, but it also makes it feel like it contains just about everything you'd want in a summer movie.",
+        "url": "https://www.startribune.com/review-the-fall-guy-gets-a-lift-from-the-charisma-and-humor-of-ryan-gosling/600363017/?refresh=true"
+    },
+    {
+        "critic": "Peter Howell",
+        "is_top_critic": false,
+        "media": "Toronto Star",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-01T18:48:28.000Z",
+        "quote": "Fortunately, Leitch knows who he has, which is Gosling and Blunt as his romantic leads.",
+        "url": "https://www.thestar.com/entertainment/movies/come-for-the-stunts-stay-for-the-romance-ryan-gosling-and-emily-blunt-are-the/article_6c977870-07d4-11ef-a370-cf68189a9e12.html"
+    },
+    {
+        "critic": "Alonso Duralde",
+        "is_top_critic": true,
+        "media": "The Film Verdict",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-01T18:45:33.000Z",
+        "quote": "Overstays its welcome for a bit, but the stunts, the comedy, and the spark between the film’s dynamic leads make the movie a delectable kick-off to the popcorn pleasures of the summer-movie season.",
+        "url": "https://thefilmverdict.com/the-fall-guy-film-review-2024/"
+    },
+    {
+        "critic": "Liz Braun",
+        "is_top_critic": false,
+        "media": "Original Cin",
+        "sentiment": "Fresh 🍅",
+        "score": "A-plus",
+        "date": "2024-05-01T18:43:11.000Z",
+        "quote": "A love letter to stunt persons and to filmmaking in general, the film is a romantic comedy for everyone who hates romantic comedies and an action thriller for those less than keen on the genre. \n\n",
+        "url": "https://www.original-cin.ca/posts/2024/5/1/the-fall-guy-hilarious-and-thrilling-double-genre-spoof-just-add-popcorn"
+    },
+    {
+        "critic": "Brian Truitt",
+        "is_top_critic": false,
+        "media": "USA Today",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-05-01T18:40:36.000Z",
+        "quote": "Leitch’s movie pays tribute in multiple ways to the show and its scrappy spirit – but Gosling makes for a fabulous heir apparent. ",
+        "url": "https://www.usatoday.com/story/entertainment/movies/2024/05/01/the-fall-guy-movie-review-2024/73496556007/"
+    },
+    {
+        "critic": "Hannah Strong",
+        "is_top_critic": true,
+        "media": "Little White Lies",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-05-01T18:25:17.000Z",
+        "quote": "A popcorn flick that quickly fades from the memory once the credits roll, sadly lacking the staying power of any of the action greats it references.",
+        "url": "https://lwlies.com/reviews/the-fall-guy/"
+    },
+    {
+        "critic": "Andrew Gaudion",
+        "is_top_critic": false,
+        "media": "THN",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-01T16:52:11.000Z",
+        "quote": "It knows how to put a smile on your face, be it with a silly gag, a thrilling fight scene, a sweet romantic grace note or an infectious love for movie-making that runs through its veins.",
+        "url": "https://www.thehollywoodnews.com/2024/04/30/the-fall-guy-review/"
+    },
+    {
+        "critic": "Kelechi Ehenulo",
+        "is_top_critic": false,
+        "media": "Empire Magazine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-01T16:26:32.000Z",
+        "quote": "With some incredible stunts and Gosling and Blunt on top form, this gloriously entertaining comedy is a love-letter to the unsung heroes of cinema.",
+        "url": "https://www.empireonline.com/movies/reviews/the-fall-guy/"
+    },
+    {
+        "critic": "Danny Leigh",
+        "is_top_critic": false,
+        "media": "Financial Times",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-01T16:26:17.000Z",
+        "quote": "The frictionless charisma of Blunt and Gosling is what makes it tick: two stellar presences nervelessly bouncing and crashing off each other.",
+        "url": "https://www.ft.com/content/b55f7107-e361-4927-a819-c45d43426e95"
+    },
+    {
+        "critic": "Jana Monji",
+        "is_top_critic": false,
+        "media": "Age of the Geek",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-01T16:08:43.000Z",
+        "quote": "Combining a murder mystery with romance and some incredible record-breaking action, this film manages to be an entertaining update and expansion of a TV series hero. ",
+        "url": "https://wp.me/p12r6N-7Ux"
+    },
+    {
+        "critic": "Zach Pope",
+        "is_top_critic": false,
+        "media": "Zach Pope Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-05-01T15:37:15.000Z",
+        "quote": "My new obsession! An incredibly entertaining action Rom Com that rocked my world. I cheered, I laughed, I smiled, & most of all I had a fucking blast. The perfect movie to kick off the summer season. Gosling & Blunt are everything!\n",
+        "url": "https://youtu.be/KUQXTiOLmOw"
+    },
+    {
+        "critic": "Gissane Sophia",
+        "is_top_critic": false,
+        "media": "Lady Geeks Media",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-05-01T15:25:50.000Z",
+        "quote": "David Leitch’s The Fall Guy skillfully marries a love letter to the stunt community and the romance genre with sharp comedic beats and impeccable performances that result in an unforgettable achievement.",
+        "url": "https://marvelousgeeksmedia.com/2024/05/01/the-fall-guy-review-the-rom-com-action-film-of-the-year/"
+    },
+    {
+        "critic": "Michael Balderston",
+        "is_top_critic": false,
+        "media": "What To Watch",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-01T14:52:30.000Z",
+        "quote": "\"[Gosling and Blunt] are a winning combination in this ode to the stunt community, which is able to cover up any of its shortcomings by being hilarious and showcasing grade-A action set pieces.\"",
+        "url": "https://www.whattowatch.com/reviews/the-fall-guy-review-ryan-gosling-emily-blunt-go-all-out-for-our-entertainment"
+    },
+    {
+        "critic": "Noah Berlatsky",
+        "is_top_critic": false,
+        "media": "Everything is Horrible (Substack)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-01T13:28:34.000Z",
+        "quote": "The movie is the very kind of empty star vehicle it’s mocking.",
+        "url": "https://www.everythingishorrible.net/p/the-fall-guy-isnt-about-the-fall"
+    },
+    {
+        "critic": "Allison Rose",
+        "is_top_critic": false,
+        "media": "FlickDirect",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-05-01T13:16:18.000Z",
+        "quote": "From Blunt to Gosling and drama to action and romance, The Fall Guy has it all.",
+        "url": "https://flickdirect.com/movie-review/3047/the-fall-guy/movie.ashx"
+    },
+    {
+        "critic": "Dennis Schwartz",
+        "is_top_critic": false,
+        "media": "Dennis Schwartz Movie Reviews",
+        "sentiment": "Rotten 🤢",
+        "score": "C+",
+        "date": "2024-05-01T12:56:05.000Z",
+        "quote": "The film never clicks despite the stunts being super.https://dennisschwartzreviews.com/fall-guy-the/",
+        "url": "https://dennisschwartzreviews.com/fall-guy-the/"
+    },
+    {
+        "critic": "Barry Hertz",
+        "is_top_critic": false,
+        "media": "Globe and Mail",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-05-01T12:33:04.000Z",
+        "quote": "This is a movie that shoots first and asks questions never, its smarmy script so full of holes and its aesthetic instincts so cocky that you cannot help but feel pummelled instead of charmed.",
+        "url": "https://www.theglobeandmail.com/arts/film/reviews/article-gosling-and-blunt-put-up-a-charming-fight-but-the-fall-guy-pulls-its/"
+    },
+    {
+        "critic": "Lee McCoy",
+        "is_top_critic": false,
+        "media": "DrumDums",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-05-01T12:15:27.000Z",
+        "quote": "The Fall Guy is a bombastic popcorn movie through and through. Gosling and Blunt are as charming and charismatic as always. The run time time could be tightened, but It's a good Saturday afternoon flick with incredible stunt work. ",
+        "url": "https://youtu.be/UpZtKWRgk68?si=xy48O8HFMHSoI5yj"
+    },
+    {
+        "critic": "Travis Hopson",
+        "is_top_critic": false,
+        "media": "Punch Drunk Critics",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-05-01T09:57:16.000Z",
+        "quote": "The Fall Guy is crazy fun and people are going to love it. ",
+        "url": "https://punchdrunkcritics.com/2024/05/review-the-fall-guy/?amp=1"
+    },
+    {
+        "critic": "Joey Magidson",
+        "is_top_critic": false,
+        "media": "Awards Radar",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-05-01T07:46:50.000Z",
+        "quote": "The Fall Guy is a ridiculously good time and exactly why we go to the movies for entertainment.",
+        "url": "https://awardsradar.com/2024/05/01/film-review-the-fall-guy-is-a-ridiculously-good-time-and-exactly-why-we-go-to-the-movies-for-entertainment/"
+    },
+    {
+        "critic": "Mike Massie",
+        "is_top_critic": false,
+        "media": "Gone With The Twins",
+        "sentiment": "Fresh 🍅",
+        "score": "6/10",
+        "date": "2024-05-01T07:00:24.000Z",
+        "quote": "The routine romantic stuff becomes the most undeniably enjoyable aspect, which is strange for a film that is clearly a love letter to the unsung art of movie stunts.",
+        "url": "https://gonewiththetwins.com/fall-guy-2024/"
+    },
+    {
+        "critic": "Christie Cronan",
+        "is_top_critic": false,
+        "media": "Raising Whasians",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-05-01T04:11:58.000Z",
+        "quote": "Well that was explosively fun! There's a fine line between satire and parody - but Ryan Gosling's \"Kenergy\" has The Fall Guy hitting all of the right action sequences.",
+        "url": "https://raisingwhasians.com/the-fall-guy-movie-review-safe-for-kids/"
+    },
+    {
+        "critic": "David Poland",
+        "is_top_critic": false,
+        "media": "Hot Button (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-05-01T00:57:08.000Z",
+        "quote": "This could have been the forever movie that it wants so much to be. And it’s quite likable. It’s just not that movie. And it really could have been. Really.",
+        "url": "https://open.substack.com/pub/davidpoland/p/thb-527-the-fall-guy?r=7wlst&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+    },
+    {
+        "critic": "Joseph Robinson",
+        "is_top_critic": false,
+        "media": "Fish Jelly Films (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "2.5/5",
+        "date": "2024-04-30T23:58:37.000Z",
+        "quote": "A charming lead performance helps this action-packed, tepid, criminally tinged romantic comedy slide across the finish line mostly unscathed.",
+        "url": "https://youtu.be/KavvVbS9RZg?si=sFYS_35Oomos4fmW"
+    },
+    {
+        "critic": "Julian Roman",
+        "is_top_critic": false,
+        "media": "MovieWeb",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-04-30T23:29:35.000Z",
+        "quote": "The Fall Guy revs the summer box office into high gear with a clever action-comedy that's sure to delight audiences. The effortlessly charming Ryan Gosling dons his romantic hero cape to win Emily Blunt's heart in a rugged but aw-shucks sweet fashion.",
+        "url": "https://movieweb.com/the-fall-guy-review/"
+    },
+    {
+        "critic": "Derek Smith",
+        "is_top_critic": false,
+        "media": "Slant Magazine",
+        "sentiment": "Rotten 🤢",
+        "score": "2/4",
+        "date": "2024-04-30T22:14:34.000Z",
+        "quote": "Whenever its main characters are pulled apart, the movie magic, in every sense of the phrase, dissipates, leaving us with a bland, derivative action-comedy that’s never quite as funny or thrilling as it thinks it is.\n",
+        "url": "https://www.slantmagazine.com/film/the-fall-guy-review-ryan-gosling-emily-blunt/"
+    },
+    {
+        "critic": "Juanma Fernández París",
+        "is_top_critic": false,
+        "media": "El Nuevo Día (Puerto Rico)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-30T21:36:27.000Z",
+        "quote": "... First-Rate entertainment and an excellent start to Summer Movie Season. [Full review in Spanish]",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/resena-the-fall-guy-es-una-oda-hedonista-a-la-cultura-popular-de-hollywood/"
+    },
+    {
+        "critic": "Robbie Collin",
+        "is_top_critic": true,
+        "media": "Daily Telegraph (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-30T21:23:43.000Z",
+        "quote": "Individually, these plot strands might have felt spongily lightweight – but writer Drew Pearce braids them together into a bright and nostalgic sugar high, like the marshmallow cords of a flump. ",
+        "url": "https://www.telegraph.co.uk/films/0/the-fall-guy-review-ryan-gosling-emily-blunt/"
+    },
+    {
+        "critic": "Alistair Harkness",
+        "is_top_critic": false,
+        "media": "Scotsman",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-04-30T20:22:40.000Z",
+        "quote": "For all the technical mastery on display in the behind-the-scenes footage that plays over the end credits, nothing is ever at stake in the film itself. The Fall Guy deconstructs movie magic, it doesn’t deliver any.",
+        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/film-reviews-the-fall-guy-love-lies-bleeding-4611492"
+    },
+    {
+        "critic": "Carla Hay",
+        "is_top_critic": false,
+        "media": "Culture Mix",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-30T19:47:13.000Z",
+        "quote": "Ryan Gosling and Emily Blunt are a great comedic duo and should have had more scenes together in The Fall Guy. Their collaborative scenes are the best parts of this uneven action comedy that is over-the-top but doesn’t take itself too seriously. ",
+        "url": "https://culturemixonline.com/review-the-fall-guy-2024-starring-ryan-gosling-and-emily-blunt/"
+    },
+    {
+        "critic": "Sreeparna Sengupta",
+        "is_top_critic": false,
+        "media": "The Times of India",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-30T19:18:37.000Z",
+        "quote": "As the lines begin to blur between Colt's real and reel life, Ryan Gosling transcends into the quintessential blockbuster action hero, also juggling romance and comedy with equal ease",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/the-fall-guy/movie-review/109735093.cms"
+    },
+    {
+        "critic": "Lindsey Bahr",
+        "is_top_critic": true,
+        "media": "Associated Press",
+        "sentiment": "Fresh 🍅",
+        "score": "3/4",
+        "date": "2024-04-30T18:51:17.000Z",
+        "quote": "With the self-referential humor, the industry jokes and the promise of a little romance, it feels like one of those movies we all complain they don’t make anymore.",
+        "url": "https://apnews.com/article/movie-review-fall-guy-0b8af0b864dd5a25bdf83f373bb07816"
+    },
+    {
+        "critic": "Liz Shannon Miller",
+        "is_top_critic": true,
+        "media": "Consequence",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-04-30T18:18:31.000Z",
+        "quote": "A blockbuster-to-be just like the ’90s used to make; a perfect summer movie, and a celebration of the hard work it takes to make a perfect summer movie happen.",
+        "url": "https://consequence.net/2024/04/the-fall-guy-review-ryan-gosling/"
+    },
+    {
+        "critic": "Brian Orndorf",
+        "is_top_critic": false,
+        "media": "Blu-ray.com",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-04-30T18:12:21.000Z",
+        "quote": "“The Fall Guy” doesn’t go hard enough to really feel the impact of the profession, and it’s not nearly funny enough to soar as a comedy.",
+        "url": "https://www.blu-ray.com/The-Fall-Guy/1639746/#Review"
+    },
+    {
+        "critic": "Wendy Lee Szany",
+        "is_top_critic": false,
+        "media": "The Movie Couple",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-30T18:05:57.000Z",
+        "quote": "This is the kind of movie you want for a summer blockbuster. Must be experienced in theaters with an audience. The story is fun, with great comedic moments. The stunt sequences are incredible and non-stop. Gosing and Blunt are fantastic together.",
+        "url": "https://youtu.be/Y8_rgs-GglA?si=1dEOOWb9Zlp5O1wY"
+    },
+    {
+        "critic": "Kevin Maher",
+        "is_top_critic": false,
+        "media": "The Times (UK)",
+        "sentiment": "Rotten 🤢",
+        "score": "2/5",
+        "date": "2024-04-30T18:01:09.000Z",
+        "quote": "Everything is lazy incoherence, cliché or leaden repetition. There’s a joke about a stunt dog that responds to only French commands. It’s funny at first, but then, like every paltry whiff of originality in the movie, it’s beaten to death.",
+        "url": "https://www.thetimes.co.uk/article/the-fall-guy-film-review-ryan-gosling-and-emily-blunt-cant-save-this-h5pn6jhhz"
+    },
+    {
+        "critic": "Matthew Turner",
+        "is_top_critic": false,
+        "media": "NME (New Musical Express)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-30T16:41:02.000Z",
+        "quote": "A delight from start to finish, thanks to the sparkling script, thrilling action sequences and to-die-for comic chemistry between Gosling and Blunt",
+        "url": "https://www.nme.com/reviews/film-reviews/the-fall-guy-review-ryan-gosling-3752182"
+    },
+    {
+        "critic": "Callum Crumlish",
+        "is_top_critic": false,
+        "media": "Daily Express (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-04-30T16:25:46.000Z",
+        "quote": "If The Fall Guy is as powerful as Gosling's charisma, it would've been an all-timer. Instead, it's going to prompt viewers to give a \"Thumbs Up\"... and move on. ",
+        "url": "https://www.express.co.uk/entertainment/films/1894135/the-fall-guy-review-ryan-gosling-emily-blunt"
+    },
+    {
+        "critic": "Eric Goldman",
+        "is_top_critic": false,
+        "media": "Eric Goldman (YouTube)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-04-30T16:06:12.000Z",
+        "quote": "The Fall Guy is silly and fun and benefits from two charming leads with great chemistry, even as it's another movie that goes on longer than it should. ",
+        "url": "https://www.youtube.com/watch?v=TZKbl4Yl73w"
+    },
+    {
+        "critic": "Matt Singer",
+        "is_top_critic": true,
+        "media": "ScreenCrush",
+        "sentiment": "Fresh 🍅",
+        "score": "8/10",
+        "date": "2024-04-30T14:14:07.000Z",
+        "quote": "A romantic comedy with two love stories, one happening onscreen between the characters and one happening off-screen between the director and practical stunt work.",
+        "url": "https://screencrush.com/the-fall-guy-review/"
+    },
+    {
+        "critic": "Katie Smith-Wong",
+        "is_top_critic": false,
+        "media": "Flick Feast",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-30T12:48:30.000Z",
+        "quote": "The Fall Guy is fun personified and reminds audiences why summer is the season of blockbusters. Unapologetically entertaining and filled with amazing action scenes, it's all the more reason why stunt people should be recognised more in the industry.",
+        "url": "https://www.flickfeast.co.uk/reviews/film-reviews/the-fall-guy-2024/"
+    },
+    {
+        "critic": "Fred Topel",
+        "is_top_critic": false,
+        "media": "United Press International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-30T05:10:23.000Z",
+        "quote": "The Fall Guy doesn't take itself as seriously as other movies with even more convoluted plots, so it amounts to more fun than not.",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2024/04/30/Fall-Guy-movie-review/5911714452097/"
+    },
+    {
+        "critic": "Avi Offer",
+        "is_top_critic": false,
+        "media": "NYC Movie Guru",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-04-30T04:53:02.000Z",
+        "quote": "An unfunny, witless, bloated and tonally uneven mess. Ryan Gosling and Emily Blunt's charisma alone can't save the film.",
+        "url": "http://nycmovieguru.com/may3rd24.html#fallguy"
+    },
+    {
+        "critic": "Juan Jose Cruz",
+        "is_top_critic": false,
+        "media": "Cine Premiere",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-29T19:19:51.000Z",
+        "quote": "Large doses of action, romance and comedy make The Fall Guy a more than worthy option in the running-up to a cinematic summer. [Full review in Spanish]",
+        "url": "https://cinepremiere.com.mx/profesion-peligro-pelicula-critica.html"
+    },
+    {
+        "critic": "Mireia Mullor",
+        "is_top_critic": false,
+        "media": "Digital Spy",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-04-29T15:21:31.000Z",
+        "quote": "The Fall Guy is a great old-school Hollywood action comedy — extremely enjoyable, full of star power and sometimes too in-your-face for its own good.",
+        "url": "https://www.digitalspy.com/movies/a60588319/the-fall-guy-review/"
+    },
+    {
+        "critic": "Aaron Neuwirth",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-04-29T15:12:33.000Z",
+        "quote": "There’s no shortage of chemistry between the leads...with the added notion that this movie serves as a tribute to stunt performers, there’s a whole world of fun to be had, in addition to the film’s sly commentary on moviemaking.",
+        "url": "https://weliveentertainment.com/welivefilm/the-fall-guy-review-explosive-stunts-dynamite-chemistry/"
+    },
+    {
+        "critic": "Natasha Alvar",
+        "is_top_critic": false,
+        "media": "Cultured Vultures",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2024-04-29T14:18:06.000Z",
+        "quote": "At this point, Ryan Gosling could be reading the phonebook and we would still be entertained. Gosling and Blunt are electric together, and the love story between their characters is actually more affecting than what we usually get in action movies.",
+        "url": "https://culturedvultures.com/the-fall-guy-2024-review/"
+    },
+    {
+        "critic": "Daniel Baptista",
+        "is_top_critic": false,
+        "media": "The Movie Podcast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-29T14:09:42.000Z",
+        "quote": "The Fall Guy is a love letter to movie making and stunt performers everywhere. Ryan Gosling is a true movie star. This is the culmination of David Leitch’s career and his best film yet. BIG THUMBS UP! 👍",
+        "url": "https://open.spotify.com/episode/2tY5FysNEIS4UqdVMqmhvq?si=HY0ulWuXT16YlnB0rGm__w"
+    },
+    {
+        "critic": "Edward Douglas",
+        "is_top_critic": false,
+        "media": "The Weekend Warrior (Substack)",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-04-29T13:06:47.000Z",
+        "quote": "An entertaining couple hours at the movies, even if much of it works better on paper than in the actual film.",
+        "url": "https://edwarddouglas.substack.com/p/the-fall-guy-review"
+    },
+    {
+        "critic": "Brian Lloyd",
+        "is_top_critic": false,
+        "media": "entertainment.ie",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-29T11:59:54.000Z",
+        "quote": "The end result of a funny, witty script, great practical stunts and choreography, two leads with on-screen presence and chemistry, and a director who knows how to utilise all of the above to make an entertaining spectacle.",
+        "url": "https://entertainment.ie/movies/movie-reviews/the-fall-guy-558477/?=1"
+    },
+    {
+        "critic": "David Griffiths",
+        "is_top_critic": false,
+        "media": "Subculture Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-27T02:58:40.000Z",
+        "quote": "The Fall Guy is one truly amazing film. It just goes to show that a popcorn movie can have a touch of brilliance while still entertaining the audience. The Fall Guy is an unrelenting ride of action, romance and thrills that certainly will not disappoint.",
+        "url": "https://subcultureentertainment.com/2024/04/film-review-the-fall-guy-review-2024/"
+    },
+    {
+        "critic": "Antonio Trashorras",
+        "is_top_critic": false,
+        "media": "Fotogramas",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-27T00:13:42.000Z",
+        "quote": "It seems that this filmmaker has been building his entire filmography as a warm-up to get here and achieve irresistible entertainment for almost any potential audience and sector large enough to detonate a massive impact. [Full review in Spanish]",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a60601656/el-especialista-pelicula-ryan-gosling-critica/"
+    },
+    {
+        "critic": "Carlos Boyero",
+        "is_top_critic": false,
+        "media": "El Pais (Spain)",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-04-26T23:46:59.000Z",
+        "quote": "There is continuous action but I find it tiresome, including the jokes and winks at the audience. [Full review in Spanish]",
+        "url": "https://elpais.com/cultura/2024-04-26/el-especialista-un-producto-previsible-y-prescindible-con-ryan-gosling.html"
+    },
+    {
+        "critic": "Kate Rodger",
+        "is_top_critic": false,
+        "media": "Newshub (NZ)",
+        "sentiment": "Fresh 🍅",
+        "score": "5/5",
+        "date": "2024-04-26T22:25:09.000Z",
+        "quote": "Honestly, I'm as shocked as you are by the fact I loved every single moment of this movie within a movie, action within a romance, comedy within the comedy homage to the magic of making movies and the movie makers who make them.",
+        "url": "https://www.newshub.co.nz/home/entertainment/2024/04/review-the-fall-guy-is-an-unexpectedly-thrilling-watch-for-a-rom-com.html"
+    },
+    {
+        "critic": "John Lui",
+        "is_top_critic": false,
+        "media": "The Straits Times (Singapore)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-26T22:24:27.000Z",
+        "quote": "A high-quality work of breezy action that balances the silly with the serious while serving a crowd-pleasing set of flipped cars, rooftop falls and exploding choppers.",
+        "url": "https://www.straitstimes.com/life/entertainment/at-the-movies-the-fall-guy-is-serious-about-stunts-silly-about-everything-else"
+    },
+    {
+        "critic": "Clarisse Loughrey",
+        "is_top_critic": true,
+        "media": "Independent (UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-26T21:10:49.000Z",
+        "quote": "If the film results in stunt performers gaining a little more respect from the public, that's the ideal. If it merely reminds them how likeable Gosling is, that's good, too.",
+        "url": "https://www.independent.co.uk/arts-entertainment/films/reviews/the-fall-guy-review-release-date-b2533952.html"
+    },
+    {
+        "critic": "Erick Estrada",
+        "is_top_critic": false,
+        "media": "Cinegarage",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-26T18:09:02.000Z",
+        "quote": "Underneath this enormous homage to stunt doubles and the torrential rain action movie references... there's a love story. [Full review in Spanish]",
+        "url": "https://www.patreon.com/posts/profesion-102999166"
+    },
+    {
+        "critic": "Andrea Zamora",
+        "is_top_critic": false,
+        "media": "Sensacine",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-26T17:16:34.000Z",
+        "quote": "The Fall Guy throws out satirical winks and isn't shy with jokes, but its strongest feature is the chemistry between Gosling and Blunt. It's out of this world. [Full review in Spanish]",
+        "url": "https://www.sensacine.com/peliculas/pelicula-199083/sensacine/"
+    },
+    {
+        "critic": "Wenlei Ma",
+        "is_top_critic": true,
+        "media": "The Nightly (AU)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-04-26T05:22:43.000Z",
+        "quote": "There’s a lot going on but it’s always done with a wicked sense of humour and commitment to entertain. It’s not the most cerebral cinema but it doesn’t have to be and The Fall Guy never pretends it’s anything but a cracking fun movie.",
+        "url": "https://thenightly.com.au/culture/film/the-fall-guy-review-ryan-gosling-and-emily-blunts-blazing-chemistry-in-david-leitchs-action-comedy-romance-c-14423106"
+    },
+    {
+        "critic": "Jorge Loser",
+        "is_top_critic": false,
+        "media": "Espinof",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-25T23:32:02.000Z",
+        "quote": "The Fall Guy is Leitch's best film and a great surprise to the beat of Kiss that already tastes like a summer mojito... [Full review in Spanish]",
+        "url": "https://www.espinof.com/criticas/especialista-ryan-gosling-se-consagra-como-estrella-momento-brillante-homenaje-a-dobles-accion-destinado-a-convertirse-comedia-culto"
+    },
+    {
+        "critic": "Luis Martínez ",
+        "is_top_critic": false,
+        "media": "El Mundo (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-25T19:11:36.000Z",
+        "quote": "Ryan Gosling and Emily Blunt seal a strategic alliance at the level (sorry) of Cary Grant and Katharine Hepburn. [Full review in Spanish]",
+        "url": "https://www.elmundo.es/cultura/cine/2024/04/24/66293d83e4d4d8477a8b4582.html"
+    },
+    {
+        "critic": "Santiago Alverú",
+        "is_top_critic": false,
+        "media": "Cinemanía (Spain)",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-04-25T19:03:13.000Z",
+        "quote": "It's the cinematic equivalent of a KISS concert. [Full review in Spanish]",
+        "url": "https://www.20minutos.es/cinemania/criticas/especialista-ryan-gosling-critica-estreno-reparto-5239193/"
+    },
+    {
+        "critic": "Nadine Whitney",
+        "is_top_critic": false,
+        "media": "AWFJ.org",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-25T04:51:09.000Z",
+        "quote": "It isn’t just the action which is the thumbs up for the film. The playful and explosive chemistry between Ryan Gosling and Emily Blunt ensures you’ll fall for The Fall Guy.",
+        "url": "https://awfj.org/blog/2024/04/24/the-fall-guy-review-by-nadine-whitney/"
+    },
+    {
+        "critic": "Aglaia Berlutti",
+        "is_top_critic": false,
+        "media": "El estímulo",
+        "sentiment": "Fresh 🍅",
+        "score": "A+",
+        "date": "2024-04-24T21:25:46.000Z",
+        "quote": "There is plenty of action in this intelligent film, which uses humour as an incentive and reflects on cinema as a sounding board for pop culture. [Full Review in Spanish]\n",
+        "url": "https://elestimulo.com/ub/opinion/2024-04-24/fall-guy-pelicula-profesion-peligro/"
+    },
+    {
+        "critic": "Leigh Paatsch",
+        "is_top_critic": false,
+        "media": "Herald Sun (Australia)",
+        "sentiment": "Rotten 🤢",
+        "score": "2.5/5",
+        "date": "2024-04-24T20:11:49.000Z",
+        "quote": "Come along for the stunts. They are genuinely spectacular. Stick around for the romantic fireworks. Ryan Gosling and Emily Blunt are a movie match made in box-office heaven.",
+        "url": "https://www.heraldsun.com.au/entertainment/movies/leigh-paatsch/irrepressibly-upbeat-goslingblunt-action-romcom-is-depressingly-flawed/news-story/02f264ca28c9ea6885a1977d0b635491"
+    },
+    {
+        "critic": "James Mottram",
+        "is_top_critic": false,
+        "media": "Total Film",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-04-24T12:27:28.000Z",
+        "quote": "A snappy, sharp, sexy screwball romance, with sparking chemistry between Ryan Gosling and Emily Blunt, great support from Hannah Waddingham and ace action.",
+        "url": "https://www.gamesradar.com/the-fall-guy-review/"
+    },
+    {
+        "critic": "Peter Gray",
+        "is_top_critic": false,
+        "media": "The AU Review",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-04-24T08:57:14.000Z",
+        "quote": "However unchallenging it proves for Gosling and Blunt, there’s no denying how much fun there is to be had in watching two absolute masters of charisma and craft bounce about in a serviceably jolly genre piece.",
+        "url": "https://www.theaureview.com/watch/film-review-the-fall-guy/"
+    },
+    {
+        "critic": "Jim Schembri",
+        "is_top_critic": false,
+        "media": "jimschembri.com",
+        "sentiment": "Rotten 🤢",
+        "score": "1/5",
+        "date": "2024-04-24T08:24:57.000Z",
+        "quote": "Garbage...Even loud action fluff needs to have a minimal degree of coherence, yet here we have another $150 million studio film that appears to be based on a story written in crayon...The acting is absolutely terrible.",
+        "url": "https://tinyurl.com/3dfctumu"
+    },
+    {
+        "critic": "Serena Seghedoni",
+        "is_top_critic": false,
+        "media": "Loud and Clear Reviews",
+        "sentiment": "Fresh 🍅",
+        "score": "3/5",
+        "date": "2024-04-24T00:48:14.000Z",
+        "quote": "The Fall Guy is not a bad movie; it's just a little empty, storytelling-wise. If you're looking for a light, entertaining watch, you'll have a lot of fun with it. But it could have been so much better, given its [...] premise and the talent on display. ",
+        "url": "https://loudandclearreviews.com/the-fall-guy-movie-review/"
+    },
+    {
+        "critic": "Rachel Leishman",
+        "is_top_critic": false,
+        "media": "The Mary Sue",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-23T17:28:03.000Z",
+        "quote": "You’ll go for the stunts but stay for Gosling and Blunt falling in love and it is definitely going to be one of the best times you’ll have in the theaters this year. ",
+        "url": "https://www.themarysue.com/the-fall-guy-review-a-hilarious-action-packed-love-story/"
+    },
+    {
+        "critic": "Manuel São Bento",
+        "is_top_critic": false,
+        "media": "Talking Films",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-04-23T11:53:00.000Z",
+        "quote": "The Fall Guy emerges as a passionate ode to the brave, audacious stunt doubles, neglected by the film industry for so many decades (...) It’s a necessary tribute to those who risk their lives daily to elevate the entertainment power of cinema.",
+        "url": "https://talkingfilms.net/the-fall-guy-review-a-thrilling-tribute-to-the-unsung-heroes-of-cinema/"
+    },
+    {
+        "critic": "Katie Parker",
+        "is_top_critic": false,
+        "media": "Flicks (AU, NZ, UK)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-23T02:32:45.000Z",
+        "quote": "Car chases, double-crossing, cute dogs, and crying to Taylor Swift ensue, and Gosling can’t help but hit every note. At over two hours long, though, it’s an awfully long song. ",
+        "url": "https://www.flicks.co.nz/reviews/ryan-gosling-hits-every-action-comedy-and-romantic-note-in-the-fall-guy"
+    },
+    {
+        "critic": "Dave Lee",
+        "is_top_critic": false,
+        "media": "Dave Lee Down Under",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-04-22T13:43:11.000Z",
+        "quote": "Delivers an incredibly well crafted action comedy; with huge thrills; huge laughs; and, naturally, huge stunts... Gosling and Blunt light up the frame with electric chemistry... The kind of movie that audiences are begging for right now.",
+        "url": "https://youtube.com/shorts/7YgrzV65Zx4"
+    },
+    {
+        "critic": "Doug Jamieson",
+        "is_top_critic": false,
+        "media": "The Jam Report",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-04-19T15:42:05.000Z",
+        "quote": "A ridiculously entertaining, genuinely funny, and charmingly romantic crowd-pleaser.",
+        "url": "http://thejamreport.com/2024/04/20/review-the-fall-guy-is-a-wild-spectacle-with-plenty-of-heart-humour-and-how-the-hell-did-they-do-that-stunts/"
+    },
+    {
+        "critic": "Casey Chong",
+        "is_top_critic": false,
+        "media": "Casey's Movie Mania",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/5",
+        "date": "2024-04-18T14:03:47.000Z",
+        "quote": "An entertaining crowd-pleaser and a love letter to Hollywood stunts.",
+        "url": "https://www.caseymoviemania.com/the-fall-guy-2024-review/"
+    },
+    {
+        "critic": "Amanda the Jedi",
+        "is_top_critic": false,
+        "media": "Amanda the Jedi (Youtube)",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-09T22:21:26.000Z",
+        "quote": "Everything about this movie just works. Top notch action, great comedy, incredible chemistry between leads - this is a movie that loves movies and all the pieces that go into making them. Thumbs up, baby!",
+        "url": "https://youtu.be/O8h4mtYouXg"
+    },
+    {
+        "critic": "Chris Bumbray",
+        "is_top_critic": false,
+        "media": "JoBlo's Movie Network",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-04-09T16:17:45.000Z",
+        "quote": "A wildly entertaining love letter to the stunt industry grounded by megawatt chemistry between stars Ryan Gosling and Emily Blunt.",
+        "url": "https://www.rottentomatoes.com/auth/verify?email=chrisbumbray222%40hotmail.com&code=MIZW7IJE&urlToReturnTo=/m/the_fall_guy_2024"
+    },
+    {
+        "critic": "Anthony O'Connor",
+        "is_top_critic": false,
+        "media": "FILMINK (Australia)",
+        "sentiment": "Fresh 🍅",
+        "score": "14.5/20",
+        "date": "2024-04-09T07:24:30.000Z",
+        "quote": "… a fun, frothy and appealing bit of escapist entertainment.",
+        "url": "https://www.filmink.com.au/reviews/the-fall-guy/"
+    },
+    {
+        "critic": "Rafael Motamayor",
+        "is_top_critic": false,
+        "media": "Discussing Film",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-03-26T21:23:13.000Z",
+        "quote": "Part rom-com, part action extravaganza, The Fall Guy is the kind of genuine big-budget crowd-pleaser many people have been longing to see more of.",
+        "url": "https://discussingfilm.net/2024/03/13/the-fall-guy-review-ryan-gosling-and-emily-blunt-shine-in-charming-love-letter-to-the-unsung-stunt-heroes/"
+    },
+    {
+        "critic": "Siddhant Adlakha",
+        "is_top_critic": false,
+        "media": "IGN Movies",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-03-19T17:53:27.000Z",
+        "quote": "It's wanting in some regards, but for an action-comedy that takes a tongue-in-cheek look at the film industry, its charisma and chemistry are just enough. The Fall Guy might be Gosling's most accomplished comedic work yet.",
+        "url": "https://www.ign.com/articles/the-fall-guy-review-ryan-gosling-emily-blunt"
+    },
+    {
+        "critic": "Kevin L. Lee",
+        "is_top_critic": false,
+        "media": "Film Inquiry",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-18T17:14:41.000Z",
+        "quote": "The Fall Guy feels like a nostalgic trip back, a nudge towards how movies used to be and should be more like – sincere and fun and romantic – all while being an unapologetic celebration of crew.",
+        "url": "https://www.filminquiry.com/sxsw-2024-roadhouse-monkey-man/"
+    },
+    {
+        "critic": "Preston Barta",
+        "is_top_critic": false,
+        "media": "Fresh Fiction",
+        "sentiment": "Fresh 🍅",
+        "score": "A",
+        "date": "2024-03-17T00:27:26.000Z",
+        "quote": "'The Fall Guy' is a comedic gem with a rewatchability factor that's through the roof. Who would've guessed that a movie about a fake movie would bring the truest laughs? ",
+        "url": "https://freshfiction.tv/sxsw-review-the-fall-guy-slaps-a-big-goofy-smile-on-your-face/"
+    },
+    {
+        "critic": "John Fink",
+        "is_top_critic": false,
+        "media": "The Film Stage",
+        "sentiment": "Rotten 🤢",
+        "score": "C",
+        "date": "2024-03-15T14:41:41.000Z",
+        "quote": "The Fall Guy is so perceptive about providing an accessible behind-these-scenes look at the dazzling, unseen [stunt] work that it’s a shame the film gets bogged down in a crime caper that underdelivers.",
+        "url": "https://thefilmstage.com/sxsw-review-the-fall-guy-is-a-charming-rom-com-dragged-down-by-an-overstuffed-plot/"
+    },
+    {
+        "critic": "Leo Brady",
+        "is_top_critic": false,
+        "media": "AMovieGuy.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-03-15T07:20:11.000Z",
+        "quote": "Ryan Gosling is the real deal and director David Leitch, along with Emily Blunt, and an entire cast of stars make The Fall Guy the first great blockbuster of the summer.",
+        "url": "https://amovieguy.com/2024/03/the-fall-guy-sxsw-2024/"
+    },
+    {
+        "critic": "Scott Menzel",
+        "is_top_critic": false,
+        "media": "We Live Entertainment",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2024-03-15T05:31:32.000Z",
+        "quote": "The Fall Guy is one of those rare Hollywood blockbusters that has a little something for everyone. There are several epic action set pieces, plenty of laughs, some drama, charming performances, and a multi-layered love story at its core. ",
+        "url": "https://weliveentertainment.com/welivefilm/sxsw-2024-fall-guy-action-packed-rom-com-double-dips-ultimate-love-letter-hollywood-stunt-community/"
+    },
+    {
+        "critic": "Louisa Moore",
+        "is_top_critic": false,
+        "media": "Screen Zealots",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-03-15T02:51:12.000Z",
+        "quote": "This disappointing project can be summed up in just four words: “great stunts, weak script.” Despite a couple of fun moments sprinkled throughout, there isn’t enough here to live up to the film’s full potential.",
+        "url": "https://screenzealots.com/2024/03/13/the-fall-guy/"
+    },
+    {
+        "critic": "Matthew Creith",
+        "is_top_critic": false,
+        "media": "Matinee With Matt",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-14T23:23:20.000Z",
+        "quote": "\"The Fall Guy\" is a romantic comedy wrapped in an action thriller that satisfies a multitude of genres in a genuinely heartfelt way. What Gosling and Blunt do in this movie is nothing short of marvelous.",
+        "url": "https://www.matineewithmatt.com/post/ryan-gosling-and-emily-blunt-redefine-the-romantic-action-comedy-in-an-ode-to-stunt-performers-and"
+    },
+    {
+        "critic": "Mae Abdulbaki",
+        "is_top_critic": false,
+        "media": "Screen Rant",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-03-14T20:46:44.000Z",
+        "quote": "The Fall Guy features great comedic performances, fun action sequences & a nice homage to the stunt community, who keep these kinds of films afloat.\n\n",
+        "url": "https://screenrant.com/the-fall-guy-movie-review/"
+    },
+    {
+        "critic": "Matt Donato",
+        "is_top_critic": false,
+        "media": "Inverse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-14T19:26:07.000Z",
+        "quote": "A fun-filled, fun-loving love letter to the undervalued stunt performance profession. It’s full-gear popcorn entertainment that only someone wholly passionate about stunt work could deliver.",
+        "url": "https://www.inverse.com/entertainment/the-fall-guy-review-sxsw-2024"
+    },
+    {
+        "critic": "David Crow",
+        "is_top_critic": false,
+        "media": "Den of Geek",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-03-14T17:22:09.000Z",
+        "quote": "Despite the title emphasizing action and spectacle, so much of The Fall Guy’s success hinges on the casting of Gosling and Blunt, who are sublime.",
+        "url": "https://www.denofgeek.com/movies/the-fall-guy-review-ryan-gosling-emily-blunt/"
+    },
+    {
+        "critic": "Catalina Combs",
+        "is_top_critic": false,
+        "media": "Black Girl Nerds",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-03-14T16:30:35.000Z",
+        "quote": "'The Fall Guy' is a hilarious, hard-hitting, action film that highlights the underappreciated teams that make them.",
+        "url": "https://blackgirlnerds.com/sxsw-2024-review-the-fall-guy-is-hilarious-hard-hitting-and-full-of-action/"
+    },
+    {
+        "critic": "Valerie Complex",
+        "is_top_critic": true,
+        "media": "Deadline Hollywood Daily",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-14T16:29:20.000Z",
+        "quote": " The Fall Guy stands as a hilarious and thoughtful tribute to the stunt community, blending action with a poignant exploration of the sacrifices made by these unsung heroes. ",
+        "url": "https://deadline.com/2024/03/the-fall-guy-review-a-high-flying-tribute-hollywoods-unsung-stunt-heroes-sxsw-1235857374/"
+    },
+    {
+        "critic": "Brian Tallerico",
+        "is_top_critic": true,
+        "media": "RogerEbert.com",
+        "sentiment": "Fresh 🍅",
+        "score": "3.5/4",
+        "date": "2024-03-14T15:24:53.000Z",
+        "quote": "This is a ridiculously fun movie, anchored by a movie star in a part that fits him perfectly and a director who really has been working toward this film for his entire career.",
+        "url": "https://www.rogerebert.com/reviews/the-fall-guy-movie-review-2024"
+    },
+    {
+        "critic": "Rachel Wagner",
+        "is_top_critic": false,
+        "media": "rachelsreviews.net",
+        "sentiment": "Rotten 🤢",
+        "score": "4/10",
+        "date": "2024-03-14T04:35:52.000Z",
+        "quote": "This makes it feel like we are seeing a stuntman highlight reel rather than an actual movie",
+        "url": "https://wp.me/p4VRGy-6mE"
+    },
+    {
+        "critic": "Ryan McQuade",
+        "is_top_critic": false,
+        "media": "AwardsWatch",
+        "sentiment": "Fresh 🍅",
+        "score": "A-",
+        "date": "2024-03-14T02:00:44.000Z",
+        "quote": "Its playful nature is The Fall Guy’s ultimate strength, as the film never tries to take itself too seriously, easing the audience into every joke, explosion, and romantic moment within its two-hour runtime.",
+        "url": "https://awardswatch.com/the-fall-guy-review-ryan-gosling-and-emily-blunt-are-dynamite-in-this-top-notch-action-romance-popcorn-flick-sxsw-2024/"
+    },
+    {
+        "critic": "Matthew Jackson",
+        "is_top_critic": false,
+        "media": "AV Club",
+        "sentiment": "Fresh 🍅",
+        "score": "B+",
+        "date": "2024-03-13T20:43:08.000Z",
+        "quote": "...a blast of fun at the movies worthy of the biggest tub of popcorn you can find. It’s two hours of movie stars being absolute charm machines, and sometimes that’s all you really need.",
+        "url": "https://www.avclub.com/the-fall-guy-movie-review-ryan-gosling-emily-blunt-1851330852"
+    },
+    {
+        "critic": "David Fear",
+        "is_top_critic": true,
+        "media": "Rolling Stone",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-13T19:46:49.000Z",
+        "quote": "The Fall Guy feels indistinguishable from the dozens of other action films. And then Gosling and Blunt start flirting and fighting and verbally feinting with each other, and you feel like you’re floating an inch above your seat. ",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/the-fall-guy-review-ryan-gosling-emily-blunt-1234980168/"
+    },
+    {
+        "critic": "Lovia Gyarkye",
+        "is_top_critic": false,
+        "media": "The Hollywood Reporter",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-13T19:02:56.000Z",
+        "quote": "The rare big studio film that feels human.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-fall-guy-review-ryan-gosling-emily-blunt-1235850754/"
+    },
+    {
+        "critic": "Katie Rife",
+        "is_top_critic": true,
+        "media": "IndieWire",
+        "sentiment": "Fresh 🍅",
+        "score": "B",
+        "date": "2024-03-13T17:58:11.000Z",
+        "quote": "This is popcorn filmmaking at its most cheerful and enthusiastic, driven by cheeky needle drops, rousing action, and movie stars. ",
+        "url": "https://www.indiewire.com/criticism/movies/the-fall-guy-review-ryan-gosling-1234964295/"
+    },
+    {
+        "critic": "Fletcher Peters",
+        "is_top_critic": false,
+        "media": "The Daily Beast",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-13T17:25:26.000Z",
+        "quote": "Although The Fall Guy... is also a delightful romantic comedy as well as a mystery thriller as exciting as Knives Out, the movie’s dedication to its rip-roaring action sequences are what make it so goddamn entertaining.",
+        "url": "https://www.thedailybeast.com/obsessed/the-fall-guy-review-sxsw-ryan-gosling-and-emily-blunt-revive-the-rom-com"
+    },
+    {
+        "critic": "Dan Bayer",
+        "is_top_critic": false,
+        "media": "Next Best Picture",
+        "sentiment": "Fresh 🍅",
+        "score": "7/10",
+        "date": "2024-03-13T16:39:37.000Z",
+        "quote": "Movies about making movies need to have movie stars to work, and Gosling and Blunt are happy to oblige, making \"The Fall Guy\" a cracking example of what Hollywood does best.",
+        "url": "https://nextbestpicture.com/the-fall-guy/"
+    },
+    {
+        "critic": "Tessa Smith",
+        "is_top_critic": false,
+        "media": "Mama's Geeky",
+        "sentiment": "Fresh 🍅",
+        "score": "4.5/5",
+        "date": "2024-03-13T16:03:13.000Z",
+        "quote": "The perfect blend of romantic comedy, action, and mystery that will have viewers going from laughing until their cheeks hurt to hanging off the edge of their seat. Blunt & Gosling have incredible chemistry.",
+        "url": "https://mamasgeeky.com/2024/03/the-fall-guy-review-2024.html"
+    },
+    {
+        "critic": "Ed Travis",
+        "is_top_critic": false,
+        "media": "Cinapse",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-13T14:43:11.000Z",
+        "quote": "It’s old school, it’s tried and true, and it makes you feel great about going to the cinema again. ",
+        "url": "https://cinapse.net/2024/03/sxsw-2024-ryan-gosling-emily-blunts-chemistry-ignites-the-fall-guy-2024/"
+    },
+    {
+        "critic": "Perri Nemiroff",
+        "is_top_critic": true,
+        "media": "Collider",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2024-03-13T14:40:47.000Z",
+        "quote": "I truly had a massive grin on my face from start to finish watching The Fall Guy. It’s an extremely well-crafted action movie that’s absolutely buzzing with energy and charm for all 125 minutes of its running time. ",
+        "url": "https://collider.com/the-fall-guy-review/"
+    },
+    {
+        "critic": "Robert Daniels",
+        "is_top_critic": true,
+        "media": "Screen International",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-13T14:23:57.000Z",
+        "quote": "A thrilling spectacle of immense proportions, The Fall Guy isn’t Leitch’s best film. That title belongs to Atomic Blonde. But it’s probably his warmest, most earnest and endearing...",
+        "url": "https://www.screendaily.com/reviews/the-fall-guy-sxsw-review/5191524.article"
+    },
+    {
+        "critic": "Adrian Horton",
+        "is_top_critic": false,
+        "media": "Guardian",
+        "sentiment": "Fresh 🍅",
+        "score": "4/5",
+        "date": "2024-03-13T14:19:29.000Z",
+        "quote": "Two hours of zingers with impeccable timing, two bona fide movie stars with palpable chemistry, several enjoyably meta send-ups of the business and, of course, plenty of crazy stunts.",
+        "url": "https://www.theguardian.com/film/2024/mar/13/the-fall-guy-movie-review-ryan-gosling-emily-blunt"
+    },
+    {
+        "critic": "Peter Debruge",
+        "is_top_critic": true,
+        "media": "Variety",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-13T14:17:27.000Z",
+        "quote": "“The Fall Guy” is funny, it’s sexy, and it features the boy-toy version of “Barbie” scene-stealer Ryan Gosling — which is to say, this time around, he embodies the ultimate action figure.",
+        "url": "https://variety.com/2024/film/reviews/the-fall-guy-review-ryan-gosling-emily-blunt-1235939513/"
+    },
+    {
+        "critic": "Bilge Ebiri",
+        "is_top_critic": true,
+        "media": "New York Magazine/Vulture",
+        "sentiment": "Fresh 🍅",
+        "score": "无具体打分",
+        "date": "2024-03-13T14:16:02.000Z",
+        "quote": "Maybe the most surprising thing about The Fall Guy is how genuinely romantic it is.",
+        "url": "https://www.vulture.com/article/ryan-goslings-the-fall-guy-is-a-funny-romantic-delight.html?utm_source=flipboard.com&utm_medium=social_acct&utm_campaign=feed-part"
+    },
+    {
+        "critic": "Aaron Peterson",
+        "is_top_critic": false,
+        "media": "The Hollywood Outsider",
+        "sentiment": "Fresh 🍅",
+        "score": "7.5/10",
+        "date": "2024-03-13T13:06:37.000Z",
+        "quote": "Gosling and Blunt are enchanting together, and David Leitch raises the volume and intensity with every stunt and action set-piece. It’s also exactly the type of bombastic fun that demands to be seen on the biggest screen possible. ",
+        "url": "https://www.thehollywoodoutsider.com/the-fall-guy-sxsw-2024-film-review/"
+    },
+    {
+        "critic": "Jacob Hall",
+        "is_top_critic": false,
+        "media": "Slashfilm",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2024-03-13T13:06:23.000Z",
+        "quote": "This is pure entertainment, expertly crafted and presented by artists who care about their work and want the viewer to be happy.",
+        "url": "https://www.slashfilm.com/1538317/the-fall-guy-review-ryan-gosling-and-stunt-team-lead-spectacular-time-at-the-movies-sxsw-2024/"
+    },
+    {
+        "critic": "Matthew Monagle",
+        "is_top_critic": false,
+        "media": "The Playlist",
+        "sentiment": "Fresh 🍅",
+        "score": "B-",
+        "date": "2024-03-13T12:59:14.000Z",
+        "quote": "As it stands, “The Fall Guy” is a wonderful movie about love and collaboration mashed up with an aggressively fine summer thriller.",
+        "url": "https://theplaylist.net/the-fall-guy-review-an-exuberant-kinetic-but-sometimes-underwritten-love-letter-to-the-stunt-industry-sxsw-20240313/"
+    },
+    {
+        "critic": "Kate Sánchez",
+        "is_top_critic": false,
+        "media": "But Why Tho?",
+        "sentiment": "Fresh 🍅",
+        "score": "9/10",
+        "date": "2024-03-13T03:42:57.000Z",
+        "quote": "The Fall Guy isn’t just a love letter to stunts, it’s a whole damn book.\n\n",
+        "url": "https://butwhytho.net/2024/03/the-fall-guy-review-ryan-gosling/"
+    },
+    {
+        "critic": "Chase Hutchinson",
+        "is_top_critic": false,
+        "media": "TheWrap",
+        "sentiment": "Rotten 🤢",
+        "score": "无具体打分",
+        "date": "2024-03-13T03:04:59.000Z",
+        "quote": "Very loosely based on the 1980s series, the film plays out over the course of nearly two hours without any fun, getting buried under empty gag after empty gag as it feels more like we ourselves are experiencing repeated head trauma.",
+        "url": "https://www.thewrap.com/ryan-gosling-the-fall-guy-review-emily-blunt/"
+    }
+]
