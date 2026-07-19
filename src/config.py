@@ -67,6 +67,7 @@ WATCHLIST = {
     # =================历史电影栏(Kalshi开过盘的)==================
     # ===========================================================
     "young_washington": {
+        "embargo_date": "2026-06-29",
     "title": "Young Washington",
     "base_rate": 60,  # base_rate=60: 无前作；历史传记剧情片类型均分兜底
     "prior_strength": 10,  # TODO 待定
@@ -79,6 +80,7 @@ WATCHLIST = {
     },
 
     "minions_and_monsters": {
+        "embargo_date": "2026-06-22",
     "title": "Minions & Monsters",
     "base_rate": 70,  # base_rate=70: 神偷奶爸/小黄人系列水位（Minions ~54, Rise of Gru ~70），照明娱乐动画品控
     "prior_strength": 10,  # TODO 待定
@@ -115,6 +117,7 @@ WATCHLIST = {
     },
 
     "stop_that_train": {
+        "embargo_date": "2026-06-09",
     "title": "Stop! That! Train!",
     "base_rate": 65,  # base_rate=65: 无前作小片；剧情/惊悚类型历史均分兜底
     "prior_strength": 10,  # TODO 待定
@@ -212,6 +215,7 @@ WATCHLIST = {
     },
 
     "in_the_grey": {
+        "embargo_date": "2026-05-13",
     "title": "In the Grey",
     "base_rate": 60,  # base_rate=60: 无前作；导演 Guy Ritchie 近期作品波动大（Covenant ~83, Wrath of Man ~68, Fortune ~55），动作片取中性
     "prior_strength": 10,  # TODO 待定
@@ -297,6 +301,7 @@ WATCHLIST = {
     },
 
     "avatar_fire_and_ash": {
+        "embargo_date": "2025-12-16",
     "title": "Avatar: Fire And Ash",
     "base_rate": 80,  # base_rate=80: 阿凡达 1-2 均分（~81, ~76 后升），虽然卡梅隆品控强,但比所有前作都高需要理由。建议往前作均分靠,80左右更稳
     "prior_strength": 10,  # TODO 待定
@@ -417,6 +422,7 @@ WATCHLIST = {
     },
 
     "the_monkey": {
+        "embargo_date": "2025-02-21",
     "title": "The Monkey",
     "base_rate": 78,  # base_rate=78: 导演 Osgood Perkins（Longlegs ~86），恐怖类型近作
     "prior_strength": 10,  # TODO 待定
@@ -465,6 +471,7 @@ WATCHLIST = {
     },
 
     "novocaine": {
+        "embargo_date": "2025-03-08",
     "title": "Novocaine",
     "base_rate": 68,  # base_rate=68: 无前作；动作喜剧类型历史均分
     "prior_strength": 10,  # TODO 待定
@@ -573,6 +580,7 @@ WATCHLIST = {
     },
 
     "forbidden_fruits": {
+        "embargo_date": "2026-03-16",
     "title": "Forbidden Fruits",
     "base_rate": 65,  # base_rate=65: 无信息；剧情类型历史均分兜底
     "prior_strength": 10,  # TODO 待定
@@ -851,6 +859,7 @@ WATCHLIST = {
     },
 
     "anniversary": {
+        "embargo_date": "2025-10-28",
     "title": "Anniversary",
     "base_rate": 60,  # base_rate=60: 无信息；剧情/惊悚类型历史均分兜底
     "prior_strength": 10,  # TODO 待定
@@ -923,6 +932,7 @@ WATCHLIST = {
     },
 
     "black_phone_2": {
+        "embargo_date": "2025-10-15",
     "title": "Black Phone 2",
     "base_rate": 82,  # base_rate=82: 前作 The Black Phone (2021) ~83，同 Scott Derrickson 续集
     "prior_strength": 10,  # TODO 待定
@@ -983,6 +993,7 @@ WATCHLIST = {
     },
 
     "caught_stealing": {
+        "embargo_date": "2025-08-24",
     "title": "Caught Stealing",
     "base_rate": 82,  # base_rate=82: 无前作；导演 Darren Aronofsky（Black Swan ~89, The Whale ~64, Requiem ~78），犯罪剧情取中高
     "prior_strength": 10,  # TODO 待定
@@ -1164,6 +1175,7 @@ WATCHLIST = {
     },
 
     "smurfs": {
+        "embargo_date": "2025-07-16",
     "title": "Smurfs",
     "base_rate": 40,  # base_rate=40: 蓝精灵系列历史偏低（前作真人版 ~20-40, 动画版 ~60），家庭动画取中低
     "prior_strength": 10,  # TODO 待定
@@ -1176,6 +1188,7 @@ WATCHLIST = {
     },
 
     "jurassic_world_rebirth": {
+        "embargo_date": "2025-06-30",
     "title": "Jurassic World Rebirth",
     "base_rate": 55,  # base_rate=55: 侏罗纪世界系列均分（近作 ~29-47），大片续集，导演 Gareth Edwards 略调高
     "prior_strength": 10,  # TODO 待定
@@ -1236,6 +1249,7 @@ WATCHLIST = {
     },
 
     "how_to_train_your_dragon": {
+        "embargo_date": "2025-06-11",
     "title": "How to Train Your Dragon",
     "base_rate": 77,  # base_rate=77: 前作动画三部曲极高（~98, ~92, ~90），迪士尼那批真人翻拍(狮子王、小美人鱼)普遍比动画原作降不少
     "prior_strength": 10,  # TODO 待定
@@ -1260,6 +1274,7 @@ WATCHLIST = {
     },
 
     "karate_kid_legends": {
+        "embargo_date": "2025-05-28",
     "title": "Karate Kid: Legends",
     "base_rate": 62,  # base_rate=62: 系列均分（2010 版 ~67, Cobra Kai 剧集高），动作续集
     "prior_strength": 10,  # TODO 待定
@@ -1272,6 +1287,7 @@ WATCHLIST = {
     },
 
     "fight_or_flight": {
+        "embargo_date": "2025-05-09",
     "title": "Fight or Flight",
     "base_rate": 60,  # base_rate=60: 无前作；动作喜剧类型历史均分兜底
     "prior_strength": 10,  # TODO 待定
@@ -1380,6 +1396,7 @@ WATCHLIST = {
     },
 
     "the_amateur": {
+        "embargo_date": "2026-04-08",
     "title": "The Amateur",
     "base_rate": 68,  # base_rate=68: 无直系前作（翻拍 1981）；导演 James Hawes（One Life ~85），惊悚动作取中性
     "prior_strength": 10,  # TODO 待定
@@ -1489,6 +1506,7 @@ WATCHLIST = {
     },
 
     "den_of_thieves_2": {
+        "embargo_date": "2025-01-09",
     "title": "Den of Thieves 2: Pantera",
     "base_rate": 62,  # base_rate=62: 前作 Den of Thieves (2018) ~41，同 Gerard Butler 犯罪续集，略调高
     "prior_strength": 10,  # TODO 待定
@@ -1537,6 +1555,7 @@ WATCHLIST = {
     },
 
     "lord_of_the_rings_war_of_the_rohirrim": {
+        "embargo_date": "2024-12-09",
     "title": "Lord of the Rings: War of the Rohirrim",
     "base_rate": 75,  # base_rate=75: 中土宇宙动画衍生；LOTR 电影历史极高但动画外传取中高保守
     "prior_strength": 10,  # TODO 待定
@@ -1573,6 +1592,7 @@ WATCHLIST = {
     },
 
     "the_best_christmas_pageant_ever": {
+        "embargo_date": "2024-11-06",
     "title": "The Best Christmas Pageant Ever",
     "base_rate": 72,  # base_rate=72: 无前作；家庭/信仰节日剧情类型均分（Kingdom Story 出品，略调高）
     "prior_strength": 10,  # TODO 待定
@@ -1610,6 +1630,7 @@ WATCHLIST = {
     },
 
     "the_wild_robot": {
+        "embargo_date": "2024-09-08",
     "title": "The Wild Robot",
     "base_rate": 92,  # base_rate=92: 无前作；DreamWorks 原创动画（近作 Puss in Boots 2 ~95），高口碑动画带
     "prior_strength": 10,  # TODO 待定
@@ -1634,6 +1655,7 @@ WATCHLIST = {
     },
 
     "terrifier_3": {
+        "embargo_date": "2024-09-19",
     "title": "Terrifier 3",
     "base_rate": 78,  # base_rate=78: 系列均分（Terrifier 2 ~85），Cult 恐怖续集
     "prior_strength": 10,  # TODO 待定
@@ -1670,6 +1692,7 @@ WATCHLIST = {
     },
 
     "reagan": {
+        "embargo_date": "2024-08-30",
     "title": "Reagan",
     "base_rate": 40,  # base_rate=40: 无前作；政治传记片（此类党派题材影评普遍两极偏低）
     "prior_strength": 10,  # TODO 待定
@@ -1718,6 +1741,7 @@ WATCHLIST = {
     },
 
     "fly_me_to_the_moon": {
+        "embargo_date": "2024-07-09",
     "title": "Fly Me to the Moon",
     "base_rate": 70,  # base_rate=70: 无前作；导演 Greg Berlanti（Love, Simon ~92），爱情喜剧剧情取中高
     "prior_strength": 10,  # TODO 待定
@@ -1730,6 +1754,7 @@ WATCHLIST = {
     },
 
     "despicable_me_4": {
+        "embargo_date": "2024-06-19",
     "title": "Despicable Me 4",
     "base_rate": 68,  # base_rate=68: 神偷奶爸系列均分（1 ~81, 2 ~59, 3 ~59），照明动画续集
     "prior_strength": 10,  # TODO 待定
@@ -1887,6 +1912,7 @@ WATCHLIST = {
     },
 
     "godzilla_x_kong_the_new_empire": {
+        "embargo_date": "2024-03-28",
     "title": "Godzilla X Kong: The New Empire",
     "base_rate": 55,  # base_rate=55: 怪兽宇宙均分（GvK ~76, Godzilla 2014 ~76, KotM ~42），大片续集取中性
     "prior_strength": 10,  # TODO 待定

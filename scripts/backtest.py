@@ -174,12 +174,13 @@ def main():
         print(f"  n={name:6}: Brier={bstr}  (样本{lr['n_samples']})")
 
     print("\n" + "=" * 55)
-    print("按决策时点分层")
+    print("按决策时点（解禁后第几天）分层的 Brier")
     print("=" * 55)
-    for day in ["0", "3", "7", "14"]:
-        dr = day_results[day]
-        bstr = f"{dr['brier']:.4f}" if dr['brier'] is not None else "无样本"
-        print(f"  解禁+{day:2}天: Brier={bstr}  (样本{dr['n_samples']})")
+    for day in ["0", "1", "2", "3", "4", "5"]:
+        pairs = day_pairs[day]
+        b = brier(pairs)
+        bstr = f"{b:.4f}" if b is not None else "无样本"
+        print(f"  解禁+{day}天: Brier={bstr}  (样本{len(pairs)})")
 
     # ==== 运行结束 + 耗时 ====
     end_time = datetime.now()

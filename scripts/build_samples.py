@@ -30,7 +30,7 @@ HIST_CANDLES_DIR = os.path.join("data", "historical_candlesticks")
 OUT_DIR = os.path.join("data", "backtest")
 
 # 决策时点：解禁后第几天
-DECISION_DAYS = [0, 3, 7, 14]
+DECISION_DAYS = [0, 1, 2, 3, 4, 5]
 # 取市场价时，决策时刻前最多往回找多少小时（超过说明那时没数据）
 MAX_PRICE_GAP_HOURS = 48
 
@@ -124,11 +124,30 @@ def main():
             stats["no_candles"] += 1
             continue
 
-        # 解禁日 = 最早评论 createDate
-        dates = [parse_dt(r.get("date")) for r in reviews if parse_dt(r.get("date"))]
+        dates = sorted([parse_dt(r.get("date")) for r in reviews if parse_dt(r.get("date"))])
         if not dates:
             continue
-        lift_date = min(dates)
+
+        # 解禁日选择（三级优先）：
+        # 1. config 手填的 embargo_date 最高优先
+        # 2. 若首日只有1条评论（孤儿污染）→ 用次日
+        # 3. 否则用最早评论日
+        embargo_str = m.get("embargo_date")
+        if embargo_str:
+            lift_date = parse_dt(embargo_str + "T00:00:00Z")
+        else:
+            earliest = dates[0]
+            first_day = earliest.date()
+            n_first_day = sum(1 for d in dates if d.date() == first_day)
+            if n_first_day == 1:
+                # 首日孤儿：解禁日 = 次日（第一条评论之后那天）
+                from datetime import timedelta
+                next_day = first_day + timedelta(days=1)
+                lift_date = parse_dt(next_day.isoformat() + "T00:00:00Z")
+            else:
+                lift_date = earliest
+        # 归到当天零点（配合切当天23:59:59）
+        lift_date = lift_date.replace(hour=0, minute=0, second=0, microsecond=0)
 
         markets = candles_data.get("markets", [])
         final_score = candles_data.get("final_score")
@@ -136,7 +155,7 @@ def main():
 
         # 对每个决策时点 × 每个门槛，生成一行
         for d in DECISION_DAYS:
-            cutoff = lift_date + timedelta(days=d)
+            cutoff = lift_date + timedelta(days=d, hours=23, minutes=59, seconds=59)
             score, n = slice_at(reviews, cutoff)
             if score is None or n == 0:
                 continue   # 那时还没评论，跳过
