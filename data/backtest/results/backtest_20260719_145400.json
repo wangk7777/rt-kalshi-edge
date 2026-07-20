@@ -1,0 +1,53 @@
+{
+  "run_time": "2026-07-19T14:54:00.150658",
+  "duration_seconds": 301.076261,
+  "params": {
+    "drift": 4.0,
+    "prior_strength": 15.0,
+    "n_sims": 200000
+  },
+  "scope": "全样本(v1,未分组)",
+  "overall_brier": 0.04440510211095916,
+  "n_samples": 9232,
+  "skipped": 0,
+  "by_n_layer": {
+    "<10": {
+      "brier": 0.0802839397117647,
+      "n_samples": 204
+    },
+    "10-20": {
+      "brier": 0.1002713216707615,
+      "n_samples": 348
+    },
+    "20-40": {
+      "brier": 0.06387157801131342,
+      "n_samples": 1222
+    },
+    "40-80": {
+      "brier": 0.05970814569670835,
+      "n_samples": 2119
+    },
+    "80+": {
+      "brier": 0.028863631763363925,
+      "n_samples": 5339
+    }
+  },
+  "by_decision_day": {
+    "0": {
+      "brier": 0.06741715371077646,
+      "n_samples": 1436
+    },
+    "3": {
+      "brier": 0.034814752721892925,
+      "n_samples": 1569
+    },
+    "7": {
+      "brier": null,
+      "n_samples": 0
+    },
+    "14": {
+      "brier": null,
+      "n_samples": 0
+    }
+  }
+}

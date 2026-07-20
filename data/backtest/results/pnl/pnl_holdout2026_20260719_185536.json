@@ -1,0 +1,458 @@
+{
+  "scope": "2026样本外",
+  "params": {
+    "drift": 4.0,
+    "prior": 15.0,
+    "decision_day": "3",
+    "edge_threshold": 10,
+    "contracts": 100,
+    "initial": 1000.0
+  },
+  "n_trades": 24,
+  "wins": 11,
+  "losses": 13,
+  "final_capital": 1005.0,
+  "total_pnl": 5.0,
+  "return_on_stake": 0.0046,
+  "max_drawdown": 0.154,
+  "equity_curve": [
+    [
+      "start",
+      1000.0
+    ],
+    [
+      "2026-01-26",
+      1074.0
+    ],
+    [
+      "2026-02-02",
+      1025.0
+    ],
+    [
+      "2026-02-16",
+      1054.0
+    ],
+    [
+      "2026-02-16",
+      1130.0
+    ],
+    [
+      "2026-03-09",
+      1117.0
+    ],
+    [
+      "2026-03-23",
+      1081.0
+    ],
+    [
+      "2026-03-23",
+      1035.0
+    ],
+    [
+      "2026-04-06",
+      1108.0
+    ],
+    [
+      "2026-04-06",
+      1036.0
+    ],
+    [
+      "2026-04-20",
+      1072.0
+    ],
+    [
+      "2026-04-27",
+      1041.0
+    ],
+    [
+      "2026-04-27",
+      1066.0
+    ],
+    [
+      "2026-05-04",
+      1024.0
+    ],
+    [
+      "2026-05-11",
+      1036.0
+    ],
+    [
+      "2026-05-11",
+      967.0
+    ],
+    [
+      "2026-05-18",
+      956.0
+    ],
+    [
+      "2026-05-25",
+      1010.0
+    ],
+    [
+      "2026-06-08",
+      986.0
+    ],
+    [
+      "2026-06-15",
+      1021.0
+    ],
+    [
+      "2026-06-15",
+      960.0
+    ],
+    [
+      "2026-06-22",
+      1017.0
+    ],
+    [
+      "2026-06-22",
+      997.0
+    ],
+    [
+      "2026-06-29",
+      983.0
+    ],
+    [
+      "2026-07-06",
+      1005.0
+    ]
+  ],
+  "trades": [
+    {
+      "movie": "mercy",
+      "floor": 20.0,
+      "direction": "YES",
+      "edge": 33.17,
+      "fair": 59.17,
+      "cost_c": 26.0,
+      "win": true,
+      "result": "yes",
+      "n": 121,
+      "settle_date": "2026-01-26",
+      "volume": "202",
+      "pnl": 74.0
+    },
+    {
+      "movie": "send_help",
+      "floor": 90.0,
+      "direction": "NO",
+      "edge": 14.31,
+      "fair": 36.69,
+      "cost_c": 49.0,
+      "win": false,
+      "result": "yes",
+      "n": 118,
+      "settle_date": "2026-02-02",
+      "volume": "376",
+      "pnl": -49.0
+    },
+    {
+      "movie": "crime_101",
+      "floor": 85.0,
+      "direction": "YES",
+      "edge": 23.48,
+      "fair": 94.48,
+      "cost_c": 71.0,
+      "win": true,
+      "result": "yes",
+      "n": 125,
+      "settle_date": "2026-02-16",
+      "volume": "942",
+      "pnl": 29.0
+    },
+    {
+      "movie": "wuthering_heights",
+      "floor": 62.0,
+      "direction": "NO",
+      "edge": 13.23,
+      "fair": 62.77,
+      "cost_c": 24.0,
+      "win": true,
+      "result": "no",
+      "n": 163,
+      "settle_date": "2026-02-16",
+      "volume": "1628",
+      "pnl": 76.0
+    },
+    {
+      "movie": "hoppers",
+      "floor": 95.0,
+      "direction": "YES",
+      "edge": 26.35,
+      "fair": 39.35,
+      "cost_c": 13.0,
+      "win": false,
+      "result": "no",
+      "n": 108,
+      "settle_date": "2026-03-09",
+      "volume": "486",
+      "pnl": -13.0
+    },
+    {
+      "movie": "project_hail_mary",
+      "floor": 92.0,
+      "direction": "NO",
+      "edge": 34.67,
+      "fair": 29.33,
+      "cost_c": 36.0,
+      "win": false,
+      "result": "yes",
+      "n": 133,
+      "settle_date": "2026-03-23",
+      "volume": "270",
+      "pnl": -36.0
+    },
+    {
+      "movie": "ready_or_not_2_here_i_come",
+      "floor": 75.0,
+      "direction": "YES",
+      "edge": 44.51,
+      "fair": 90.51,
+      "cost_c": 46.0,
+      "win": false,
+      "result": "no",
+      "n": 41,
+      "settle_date": "2026-03-23",
+      "volume": "1722",
+      "pnl": -46.0
+    },
+    {
+      "movie": "the_super_mario_galaxy_movie",
+      "floor": 40.0,
+      "direction": "YES",
+      "edge": 17.54,
+      "fair": 44.54,
+      "cost_c": 27.0,
+      "win": true,
+      "result": "yes",
+      "n": 158,
+      "settle_date": "2026-04-06",
+      "volume": "6574",
+      "pnl": 73.0
+    },
+    {
+      "movie": "the_drama",
+      "floor": 77.0,
+      "direction": "YES",
+      "edge": 17.49,
+      "fair": 89.49,
+      "cost_c": 72.0,
+      "win": false,
+      "result": "no",
+      "n": 152,
+      "settle_date": "2026-04-06",
+      "volume": "380",
+      "pnl": -72.0
+    },
+    {
+      "movie": "lee_cronin_the_mummy",
+      "floor": 45.0,
+      "direction": "YES",
+      "edge": 36.0,
+      "fair": 100.0,
+      "cost_c": 64.0,
+      "win": true,
+      "result": "yes",
+      "n": 129,
+      "settle_date": "2026-04-20",
+      "volume": "441",
+      "pnl": 36.0
+    },
+    {
+      "movie": "mother_mary",
+      "floor": 70.0,
+      "direction": "YES",
+      "edge": 11.18,
+      "fair": 42.18,
+      "cost_c": 31.0,
+      "win": false,
+      "result": "no",
+      "n": 49,
+      "settle_date": "2026-04-27",
+      "volume": "3646",
+      "pnl": -31.0
+    },
+    {
+      "movie": "michael",
+      "floor": 37.0,
+      "direction": "YES",
+      "edge": 12.45,
+      "fair": 87.45,
+      "cost_c": 75.0,
+      "win": true,
+      "result": "yes",
+      "n": 197,
+      "settle_date": "2026-04-27",
+      "volume": "2558",
+      "pnl": 25.0
+    },
+    {
+      "movie": "the_devil_wears_prada_2",
+      "floor": 77.0,
+      "direction": "YES",
+      "edge": 23.7,
+      "fair": 65.7,
+      "cost_c": 42.0,
+      "win": false,
+      "result": "no",
+      "n": 225,
+      "settle_date": "2026-05-04",
+      "volume": "675",
+      "pnl": -42.0
+    },
+    {
+      "movie": "billie_eilish_hit_me_hard_and_soft",
+      "floor": 92.0,
+      "direction": "YES",
+      "edge": 12.0,
+      "fair": 100.0,
+      "cost_c": 88.0,
+      "win": true,
+      "result": "yes",
+      "n": 59,
+      "settle_date": "2026-05-11",
+      "volume": "39",
+      "pnl": 12.0
+    },
+    {
+      "movie": "the_sheep_detectives",
+      "floor": 92.0,
+      "direction": "NO",
+      "edge": 19.08,
+      "fair": 11.92,
+      "cost_c": 69.0,
+      "win": false,
+      "result": "yes",
+      "n": 34,
+      "settle_date": "2026-05-11",
+      "volume": "0",
+      "pnl": -69.0
+    },
+    {
+      "movie": "in_the_grey",
+      "floor": 50.0,
+      "direction": "YES",
+      "edge": 36.35,
+      "fair": 47.35,
+      "cost_c": 11.0,
+      "win": false,
+      "result": "no",
+      "n": 33,
+      "settle_date": "2026-05-18",
+      "volume": "0",
+      "pnl": -11.0
+    },
+    {
+      "movie": "star_wars_the_mandalorian_and_grogu",
+      "floor": 63.0,
+      "direction": "NO",
+      "edge": 13.62,
+      "fair": 40.38,
+      "cost_c": 46.0,
+      "win": true,
+      "result": "no",
+      "n": 212,
+      "settle_date": "2026-05-25",
+      "volume": "412",
+      "pnl": 54.0
+    },
+    {
+      "movie": "scary_movie",
+      "floor": 25.0,
+      "direction": "YES",
+      "edge": 18.64,
+      "fair": 42.64,
+      "cost_c": 24.0,
+      "win": false,
+      "result": "no",
+      "n": 97,
+      "settle_date": "2026-06-08",
+      "volume": "3958",
+      "pnl": -24.0
+    },
+    {
+      "movie": "stop_that_train",
+      "floor": 80.0,
+      "direction": "YES",
+      "edge": 23.46,
+      "fair": 88.46,
+      "cost_c": 65.0,
+      "win": true,
+      "result": "yes",
+      "n": 38,
+      "settle_date": "2026-06-15",
+      "volume": "1237",
+      "pnl": 35.0
+    },
+    {
+      "movie": "disclosure_day",
+      "floor": 80.0,
+      "direction": "YES",
+      "edge": 17.48,
+      "fair": 78.48,
+      "cost_c": 61.0,
+      "win": false,
+      "result": "no",
+      "n": 267,
+      "settle_date": "2026-06-15",
+      "volume": "10702",
+      "pnl": -61.0
+    },
+    {
+      "movie": "toy_story_5",
+      "floor": 93.0,
+      "direction": "YES",
+      "edge": 35.78,
+      "fair": 78.78,
+      "cost_c": 43.0,
+      "win": true,
+      "result": "yes",
+      "n": 197,
+      "settle_date": "2026-06-22",
+      "volume": "3753",
+      "pnl": 57.0
+    },
+    {
+      "movie": "the_death_of_robin_hood",
+      "floor": 65.0,
+      "direction": "NO",
+      "edge": 16.08,
+      "fair": 63.92,
+      "cost_c": 20.0,
+      "win": false,
+      "result": "yes",
+      "n": 29,
+      "settle_date": "2026-06-22",
+      "volume": "828",
+      "pnl": -20.0
+    },
+    {
+      "movie": "supergirl",
+      "floor": 55.0,
+      "direction": "NO",
+      "edge": 12.03,
+      "fair": 73.97,
+      "cost_c": 14.0,
+      "win": false,
+      "result": "yes",
+      "n": 268,
+      "settle_date": "2026-06-29",
+      "volume": "850",
+      "pnl": -14.0
+    },
+    {
+      "movie": "young_washington",
+      "floor": 55.0,
+      "direction": "YES",
+      "edge": 10.22,
+      "fair": 88.22,
+      "cost_c": 78.0,
+      "win": true,
+      "result": "yes",
+      "n": 28,
+      "settle_date": "2026-07-06",
+      "volume": "1206",
+      "pnl": 22.0
+    }
+  ]
+}

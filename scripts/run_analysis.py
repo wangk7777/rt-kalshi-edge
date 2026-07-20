@@ -21,6 +21,7 @@ from src import config
 from src.collectors.kalshi_client import get_ladder_manual
 from src.model.bayesian import ModelInputs, run_model
 from src.strategy.decide import choose, evaluate_ladder
+from src.config import DEFAULT_DRIFT, DEFAULT_PRIOR_STRENGTH
 
 # ---- 终端彩色文字的小工具（这些是 ANSI 转义码，不用 numpy/库）----
 # \033[32m 表示绿色，\033[0m 表示恢复默认。包住一段文字就能上色。
@@ -98,9 +99,9 @@ def main():
     # 解析最终用哪个值：命令行给了(不是 None)就用命令行，否则用 config。
     # "A if 条件 else B" 是三元表达式：条件成立取 A，否则取 B。
     base_rate = args.base_rate if args.base_rate is not None else m["base_rate"]
-    prior_strength = args.prior if args.prior is not None else m["prior_strength"]
+    prior_strength = args.prior if args.prior is not None else m.get("prior_strength", DEFAULT_PRIOR_STRENGTH)
     n_final = args.nfinal if args.nfinal is not None else m["n_final"]
-    drift = args.drift if args.drift is not None else m["drift"]
+    drift = args.drift if args.drift is not None else m.get("drift", DEFAULT_DRIFT)
 
     # 把所有输入打包成 ModelInputs 对象
     inputs = ModelInputs(

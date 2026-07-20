@@ -16,10 +16,22 @@ from __future__ import annotations
 import csv
 import json
 import os
+import sys
+import io
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 
 from src.model.bayesian import ModelInputs, run_model
+
+class Tee:
+    def __init__(self):
+        self.terminal = sys.stdout
+        self.buffer = io.StringIO()
+    def write(self, msg):
+        self.terminal.write(msg)
+        self.buffer.write(msg)
+    def flush(self):
+        self.terminal.flush()
 
 SAMPLES_PATH = os.path.join("data", "backtest", "samples.csv")
 HISTORICAL_DIR = os.path.join("data", "historical")
@@ -128,6 +140,10 @@ def run_params(samples, drift, prior):
 
 def main():
     start = datetime.now()
+
+    tee = Tee()
+    sys.stdout = tee
+
     print(f"🕐 v2 回测开始: {start.strftime('%Y-%m-%d %H:%M:%S')}\n")
 
     # 读样本 + 预处理成结构，分组
@@ -157,61 +173,75 @@ def main():
     print(f"验证组: {len(groups['valid'])} 样本")
     print(f"样本外(2026): {len(groups['holdout'])} 样本\n")
 
-    # ===== 在校准组扫参数 =====
-    print("=" * 55)
-    print(f"在校准组扫参数 ({len(DRIFT_GRID)}×{len(PRIOR_GRID)}={len(DRIFT_GRID)*len(PRIOR_GRID)}组)")
-    print("=" * 55)
+    # ===== 扫参数：每组同时在校准组和验证组评估 =====
+    print("=" * 70)
+    print(f"扫参数：每组同时评估校准组+验证组 ({len(DRIFT_GRID)}×{len(PRIOR_GRID)}组)")
+    print("=" * 70)
+    print(f"{'drift':>5}{'prior':>6}{'校准组CE':>11}{'验证组CE':>11}{'验证组Brier':>13}")
 
     grid_results = []
-    best = None
     for drift in DRIFT_GRID:
         for prior in PRIOR_GRID:
-            pairs = run_params(groups["calib"], drift, prior)
-            ce = calibration_error(pairs)
-            br = brier(pairs)
-            sc = score_C(pairs)
-            grid_results.append({"drift": drift, "prior": prior,
-                                 "calib_error": ce, "brier": br, "score_C": sc})
-            marker = ""
-            if best is None or sc < best["score_C"]:
-                best = grid_results[-1]
-                marker = " ← 目前最优"
-            print(f"  drift={drift} prior={prior:2}: "
-                  f"校准误差={ce:.4f} Brier={br:.4f} 综合={sc:.4f}{marker}")
+            calib_pairs = run_params(groups["calib"], drift, prior)
+            valid_pairs = run_params(groups["valid"], drift, prior)
+            calib_ce = calibration_error(calib_pairs)
+            valid_ce = calibration_error(valid_pairs)
+            valid_br = brier(valid_pairs)
+            grid_results.append({
+                "drift": drift, "prior": prior,
+                "calib_ce": calib_ce, "valid_ce": valid_ce, "valid_brier": valid_br,
+            })
+            print(f"{drift:>5}{prior:>6}{calib_ce:>11.4f}{valid_ce:>11.4f}{valid_br:>13.4f}")
 
-    print(f"\n🏆 最优参数: drift={best['drift']}, prior={best['prior']}")
-    print(f"   (校准误差={best['calib_error']:.4f}, Brier={best['brier']:.4f})")
+    # 校准组最优（大概率过拟合，仅作对比展示）
+    best_calib = min(grid_results, key=lambda x: x["calib_ce"])
+    # 验证组最优（真正泛化好的，用这个）
+    best = min(grid_results, key=lambda x: x["valid_ce"])
 
-    # ===== 用最优参数在验证组验证 =====
-    print("\n" + "=" * 55)
-    print("用最优参数在【验证组】验证（校准时没碰过）")
-    print("=" * 55)
+    print("\n" + "=" * 70)
+    print(f"校准组最优: drift={best_calib['drift']} prior={best_calib['prior']} "
+          f"(校准CE={best_calib['calib_ce']:.4f}, 但验证CE={best_calib['valid_ce']:.4f})")
+    print(f"  ⚠ 校准组最优往往过拟合（偏好大drift），不直接用")
+    print(f"🏆 验证组最优: drift={best['drift']} prior={best['prior']} "
+          f"(验证CE={best['valid_ce']:.4f}, Brier={best['valid_brier']:.4f})")
+    print(f"  ← 这个泛化好，是最终参数")
+    print("=" * 70)
+
+    # ===== 用验证组最优参数，在 2026 样本外做最终确认 =====
+    print("\n" + "=" * 70)
+    print("最终确认：验证组最优参数 在【2026样本外】（校准+验证都没碰过）")
+    print("=" * 70)
+    if groups["holdout"]:
+        holdout_pairs = run_params(groups["holdout"], best["drift"], best["prior"])
+        holdout_ce = calibration_error(holdout_pairs)
+        holdout_br = brier(holdout_pairs)
+        print(f"2026样本外: 校准误差={holdout_ce:.4f}  Brier={holdout_br:.4f}")
+        print("\n2026样本外校准曲线:")
+        for row in calibration_table(holdout_pairs):
+            bar = "█" * int(row["actual_freq"] * 30)
+            print(f"  预测[{row['bin']}] 均值{row['pred_mean']:.2f} "
+                  f"→ 实际{row['actual_freq']:.2f} (n={row['n']:4}) {bar}")
+    else:
+        print("  (无2026样本)")
+        holdout_ce = holdout_br = None
+
+    # ===== 验证组校准曲线（最优参数）=====
+    print("\n验证组校准曲线（最优参数 drift={} prior={}）:".format(best["drift"], best["prior"]))
     valid_pairs = run_params(groups["valid"], best["drift"], best["prior"])
-    valid_ce = calibration_error(valid_pairs)
-    valid_br = brier(valid_pairs)
-    print(f"验证组 校准误差={valid_ce:.4f}  Brier={valid_br:.4f}")
-    print("\n验证组校准曲线:")
     for row in calibration_table(valid_pairs):
         bar = "█" * int(row["actual_freq"] * 30)
         print(f"  预测[{row['bin']}] 均值{row['pred_mean']:.2f} "
               f"→ 实际{row['actual_freq']:.2f} (n={row['n']:4}) {bar}")
 
-    # ===== 对比：旧参数(drift=2,prior=10)在验证组 =====
-    print("\n对比：旧参数 drift=2,prior=10 在验证组:")
-    old_pairs = run_params(groups["valid"], 2, 10)
-    print(f"  旧参数 校准误差={calibration_error(old_pairs):.4f}  Brier={brier(old_pairs):.4f}")
-    print(f"  新参数 校准误差={valid_ce:.4f}  Brier={valid_br:.4f}")
-    improve = calibration_error(old_pairs) - valid_ce
-    print(f"  校准误差改善: {improve:+.4f} ({'变好' if improve>0 else '变差'})")
-
+    valid_ce = calibration_error(valid_pairs)
+    valid_br = brier(valid_pairs)
     end = datetime.now()
     duration = (end - start).total_seconds()
     print(f"\n⏱  总耗时: {duration:.0f}秒 ({duration/60:.1f}分钟)")
 
-    # ===== 存 JSON(全量) + TXT(可读) =====
+    # ===== 存 JSON + TXT =====
     os.makedirs(RESULTS_DIR, exist_ok=True)
     stamp = start.strftime("%Y%m%d_%H%M%S")
-
     json_path = os.path.join(RESULTS_DIR, f"v2_{stamp}.json")
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump({
@@ -219,33 +249,30 @@ def main():
             "n_sims": N_SIMS,
             "group_sizes": {k: len(v) for k, v in groups.items()},
             "grid_results": grid_results,
-            "best_params": best,
-            "validation": {
-                "calib_error": valid_ce, "brier": valid_br,
-                "calibration_table": calibration_table(valid_pairs),
-            },
-            "old_params_on_valid": {
-                "calib_error": calibration_error(old_pairs),
-                "brier": brier(old_pairs),
-            },
+            "best_by_calib": best_calib,
+            "best_by_valid": best,
+            "holdout": {"calib_error": holdout_ce, "brier": holdout_br},
         }, f, ensure_ascii=False, indent=2)
 
     txt_path = os.path.join(RESULTS_DIR, f"v2_{stamp}.txt")
     with open(txt_path, "w", encoding="utf-8") as f:
         f.write(f"回测 v2 报告  {start.strftime('%Y-%m-%d %H:%M:%S')}\n")
         f.write("=" * 55 + "\n\n")
-        f.write(f"最优参数: drift={best['drift']}, prior={best['prior']}\n")
-        f.write(f"  校准组: 校准误差={best['calib_error']:.4f} Brier={best['brier']:.4f}\n")
-        f.write(f"  验证组: 校准误差={valid_ce:.4f} Brier={valid_br:.4f}\n\n")
-        f.write(f"对比旧参数(drift=2,prior=10)验证组校准误差={calibration_error(old_pairs):.4f}\n")
-        f.write(f"改善: {improve:+.4f}\n\n")
-        f.write("验证组校准曲线:\n")
-        for row in calibration_table(valid_pairs):
-            f.write(f"  预测[{row['bin']}] 均值{row['pred_mean']:.2f} "
-                    f"→ 实际{row['actual_freq']:.2f} (n={row['n']})\n")
+        f.write(f"验证组最优参数: drift={best['drift']}, prior={best['prior']}\n")
+        f.write(f"  验证组: CE={best['valid_ce']:.4f} Brier={best['valid_brier']:.4f}\n")
+        if holdout_ce is not None:
+            f.write(f"  2026样本外: CE={holdout_ce:.4f} Brier={holdout_br:.4f}\n")
+        f.write(f"\n(校准组最优是 drift={best_calib['drift']}，但过拟合，未采用)\n")
 
-    print(f"\n💾 JSON(全量): {json_path}")
-    print(f"💾 TXT(可读): {txt_path}")
+    print(f"\n💾 JSON: {json_path}")
+    print(f"💾 TXT: {txt_path}")
+
+    # 恢复 stdout，把完整报告原封不动存 txt
+    sys.stdout = tee.terminal
+    report_path = os.path.join(RESULTS_DIR, f"report_v2_{stamp}.txt")
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write(tee.buffer.getvalue())
+    print(f"💾 完整报告已存: {report_path}")
 
 
 if __name__ == "__main__":

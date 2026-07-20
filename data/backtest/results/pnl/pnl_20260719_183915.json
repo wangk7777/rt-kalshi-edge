@@ -1,0 +1,1248 @@
+{
+  "params": {
+    "drift": 4.0,
+    "prior": 15.0,
+    "decision_day": "3",
+    "edge_threshold": 10,
+    "contracts": 100,
+    "initial": 1000.0
+  },
+  "n_trades": 68,
+  "wins": 36,
+  "losses": 32,
+  "final_capital": 1578.0,
+  "total_pnl": 578.0,
+  "max_drawdown": 0.1244,
+  "equity_curve": [
+    [
+      "start",
+      1000.0
+    ],
+    [
+      "2024-04-01",
+      947.0
+    ],
+    [
+      "2024-04-29",
+      967.0
+    ],
+    [
+      "2024-05-13",
+      1026.0
+    ],
+    [
+      "2024-06-10",
+      1017.0
+    ],
+    [
+      "2024-06-17",
+      1034.0
+    ],
+    [
+      "2024-08-19",
+      1031.0
+    ],
+    [
+      "2024-09-23",
+      1081.0
+    ],
+    [
+      "2024-10-07",
+      1142.0
+    ],
+    [
+      "2024-10-14",
+      1172.0
+    ],
+    [
+      "2024-11-11",
+      1188.0
+    ],
+    [
+      "2024-12-16",
+      1173.0
+    ],
+    [
+      "2024-12-16",
+      1144.0
+    ],
+    [
+      "2024-12-23",
+      1174.0
+    ],
+    [
+      "2024-12-30",
+      1225.0
+    ],
+    [
+      "2025-01-13",
+      1214.0
+    ],
+    [
+      "2025-01-20",
+      1127.0
+    ],
+    [
+      "2025-02-03",
+      1171.0
+    ],
+    [
+      "2025-02-10",
+      1207.0
+    ],
+    [
+      "2025-02-17",
+      1161.0
+    ],
+    [
+      "2025-02-24",
+      1149.0
+    ],
+    [
+      "2025-03-03",
+      1134.0
+    ],
+    [
+      "2025-03-17",
+      1121.0
+    ],
+    [
+      "2025-03-24",
+      1177.0
+    ],
+    [
+      "2025-04-14",
+      1254.0
+    ],
+    [
+      "2025-04-21",
+      1182.0
+    ],
+    [
+      "2025-05-05",
+      1126.0
+    ],
+    [
+      "2025-05-19",
+      1156.0
+    ],
+    [
+      "2025-06-09",
+      1122.0
+    ],
+    [
+      "2025-06-16",
+      1098.0
+    ],
+    [
+      "2025-07-07",
+      1154.0
+    ],
+    [
+      "2025-07-21",
+      1199.0
+    ],
+    [
+      "2025-08-04",
+      1173.0
+    ],
+    [
+      "2025-08-11",
+      1137.0
+    ],
+    [
+      "2025-08-11",
+      1199.0
+    ],
+    [
+      "2025-08-18",
+      1214.0
+    ],
+    [
+      "2025-09-01",
+      1275.0
+    ],
+    [
+      "2025-09-01",
+      1352.0
+    ],
+    [
+      "2025-09-15",
+      1417.0
+    ],
+    [
+      "2025-09-15",
+      1482.0
+    ],
+    [
+      "2025-09-29",
+      1454.0
+    ],
+    [
+      "2025-10-06",
+      1525.0
+    ],
+    [
+      "2025-11-03",
+      1541.0
+    ],
+    [
+      "2025-12-29",
+      1516.0
+    ],
+    [
+      "2025-12-29",
+      1573.0
+    ],
+    [
+      "2026-01-26",
+      1647.0
+    ],
+    [
+      "2026-02-02",
+      1598.0
+    ],
+    [
+      "2026-02-16",
+      1627.0
+    ],
+    [
+      "2026-02-16",
+      1703.0
+    ],
+    [
+      "2026-03-09",
+      1690.0
+    ],
+    [
+      "2026-03-23",
+      1654.0
+    ],
+    [
+      "2026-03-23",
+      1608.0
+    ],
+    [
+      "2026-04-06",
+      1681.0
+    ],
+    [
+      "2026-04-06",
+      1609.0
+    ],
+    [
+      "2026-04-20",
+      1645.0
+    ],
+    [
+      "2026-04-27",
+      1614.0
+    ],
+    [
+      "2026-04-27",
+      1639.0
+    ],
+    [
+      "2026-05-04",
+      1597.0
+    ],
+    [
+      "2026-05-11",
+      1609.0
+    ],
+    [
+      "2026-05-11",
+      1540.0
+    ],
+    [
+      "2026-05-18",
+      1529.0
+    ],
+    [
+      "2026-05-25",
+      1583.0
+    ],
+    [
+      "2026-06-08",
+      1559.0
+    ],
+    [
+      "2026-06-15",
+      1594.0
+    ],
+    [
+      "2026-06-15",
+      1533.0
+    ],
+    [
+      "2026-06-22",
+      1590.0
+    ],
+    [
+      "2026-06-22",
+      1570.0
+    ],
+    [
+      "2026-06-29",
+      1556.0
+    ],
+    [
+      "2026-07-06",
+      1578.0
+    ]
+  ],
+  "trades": [
+    {
+      "movie": "godzilla_x_kong_the_new_empire",
+      "floor": 55.0,
+      "direction": "YES",
+      "edge": 47.0,
+      "fair": 100.0,
+      "cost_c": 53.0,
+      "win": false,
+      "result": "no",
+      "n": 165,
+      "settle_date": "2024-04-01",
+      "yes_ask": 53.0,
+      "pnl": -53.0
+    },
+    {
+      "movie": "challengers",
+      "floor": 95.0,
+      "direction": "NO",
+      "edge": 11.64,
+      "fair": 8.36,
+      "cost_c": 80.0,
+      "win": true,
+      "result": "no",
+      "n": 60,
+      "settle_date": "2024-04-29",
+      "yes_ask": 24.0,
+      "pnl": 20.0
+    },
+    {
+      "movie": "kingdom_of_the_planet_of_the_apes",
+      "floor": 80.0,
+      "direction": "YES",
+      "edge": 16.24,
+      "fair": 57.24,
+      "cost_c": 41.0,
+      "win": true,
+      "result": "yes",
+      "n": 209,
+      "settle_date": "2024-05-13",
+      "yes_ask": 41.0,
+      "pnl": 59.0
+    },
+    {
+      "movie": "the_watchers",
+      "floor": 30.0,
+      "direction": "YES",
+      "edge": 10.83,
+      "fair": 19.83,
+      "cost_c": 9.0,
+      "win": false,
+      "result": "no",
+      "n": 107,
+      "settle_date": "2024-06-10",
+      "yes_ask": 9.0,
+      "pnl": -9.0
+    },
+    {
+      "movie": "inside_out_2",
+      "floor": 92.0,
+      "direction": "NO",
+      "edge": 17.0,
+      "fair": 0.0,
+      "cost_c": 83.0,
+      "win": true,
+      "result": "no",
+      "n": 205,
+      "settle_date": "2024-06-17",
+      "yes_ask": 24.0,
+      "pnl": 17.0
+    },
+    {
+      "movie": "alien_romulus",
+      "floor": 82.0,
+      "direction": "YES",
+      "edge": 27.14,
+      "fair": 30.14,
+      "cost_c": 3.0,
+      "win": false,
+      "result": "no",
+      "n": 252,
+      "settle_date": "2024-08-19",
+      "yes_ask": 3.0,
+      "pnl": -3.0
+    },
+    {
+      "movie": "transformers_one",
+      "floor": 90.0,
+      "direction": "NO",
+      "edge": 44.79,
+      "fair": 5.21,
+      "cost_c": 50.0,
+      "win": true,
+      "result": "no",
+      "n": 51,
+      "settle_date": "2024-09-23",
+      "yes_ask": 55.0,
+      "pnl": 50.0
+    },
+    {
+      "movie": "joker_folie_a_deux",
+      "floor": 60.0,
+      "direction": "NO",
+      "edge": 12.22,
+      "fair": 48.78,
+      "cost_c": 39.0,
+      "win": true,
+      "result": "no",
+      "n": 44,
+      "settle_date": "2024-10-07",
+      "yes_ask": 69.0,
+      "pnl": 61.0
+    },
+    {
+      "movie": "terrifier_3",
+      "floor": 85.0,
+      "direction": "NO",
+      "edge": 10.93,
+      "fair": 19.07,
+      "cost_c": 70.0,
+      "win": true,
+      "result": "no",
+      "n": 6,
+      "settle_date": "2024-10-14",
+      "yes_ask": 40.0,
+      "pnl": 30.0
+    },
+    {
+      "movie": "the_best_christmas_pageant_ever",
+      "floor": 85.0,
+      "direction": "YES",
+      "edge": 11.75,
+      "fair": 95.75,
+      "cost_c": 84.0,
+      "win": true,
+      "result": "yes",
+      "n": 36,
+      "settle_date": "2024-11-11",
+      "yes_ask": 84.0,
+      "pnl": 16.0
+    },
+    {
+      "movie": "kraven_the_hunter",
+      "floor": 15.0,
+      "direction": "YES",
+      "edge": 38.09,
+      "fair": 53.09,
+      "cost_c": 15.0,
+      "win": false,
+      "result": "no",
+      "n": 100,
+      "settle_date": "2024-12-16",
+      "yes_ask": 15.0,
+      "pnl": -15.0
+    },
+    {
+      "movie": "lord_of_the_rings_war_of_the_rohirrim",
+      "floor": 55.0,
+      "direction": "YES",
+      "edge": 19.77,
+      "fair": 48.77,
+      "cost_c": 29.0,
+      "win": false,
+      "result": "no",
+      "n": 67,
+      "settle_date": "2024-12-16",
+      "yes_ask": 29.0,
+      "pnl": -29.0
+    },
+    {
+      "movie": "mufasa",
+      "floor": 55.0,
+      "direction": "YES",
+      "edge": 21.57,
+      "fair": 91.57,
+      "cost_c": 70.0,
+      "win": true,
+      "result": "yes",
+      "n": 145,
+      "settle_date": "2024-12-23",
+      "yes_ask": 70.0,
+      "pnl": 30.0
+    },
+    {
+      "movie": "nosferatu",
+      "floor": 92.0,
+      "direction": "NO",
+      "edge": 22.22,
+      "fair": 28.78,
+      "cost_c": 49.0,
+      "win": true,
+      "result": "no",
+      "n": 70,
+      "settle_date": "2024-12-30",
+      "yes_ask": 52.0,
+      "pnl": 51.0
+    },
+    {
+      "movie": "den_of_thieves_2",
+      "floor": 55.0,
+      "direction": "NO",
+      "edge": 36.28,
+      "fair": 52.72,
+      "cost_c": 11.0,
+      "win": false,
+      "result": "yes",
+      "n": 45,
+      "settle_date": "2025-01-13",
+      "yes_ask": 90.0,
+      "pnl": -11.0
+    },
+    {
+      "movie": "wolf_man",
+      "floor": 52.0,
+      "direction": "YES",
+      "edge": 11.22,
+      "fair": 98.22,
+      "cost_c": 87.0,
+      "win": false,
+      "result": "no",
+      "n": 167,
+      "settle_date": "2025-01-20",
+      "yes_ask": 87.0,
+      "pnl": -87.0
+    },
+    {
+      "movie": "dog_man",
+      "floor": 75.0,
+      "direction": "YES",
+      "edge": 23.24,
+      "fair": 79.24,
+      "cost_c": 56.0,
+      "win": true,
+      "result": "yes",
+      "n": 54,
+      "settle_date": "2025-02-03",
+      "yes_ask": 56.0,
+      "pnl": 44.0
+    },
+    {
+      "movie": "heart_eyes",
+      "floor": 90.0,
+      "direction": "NO",
+      "edge": 13.71,
+      "fair": 22.29,
+      "cost_c": 64.0,
+      "win": true,
+      "result": "no",
+      "n": 39,
+      "settle_date": "2025-02-10",
+      "yes_ask": 37.0,
+      "pnl": 36.0
+    },
+    {
+      "movie": "captain_america_brave_new_world",
+      "floor": 50.0,
+      "direction": "NO",
+      "edge": 22.42,
+      "fair": 31.58,
+      "cost_c": 46.0,
+      "win": false,
+      "result": "yes",
+      "n": 241,
+      "settle_date": "2025-02-17",
+      "yes_ask": 56.0,
+      "pnl": -46.0
+    },
+    {
+      "movie": "unbreakable_boy",
+      "floor": 50.0,
+      "direction": "YES",
+      "edge": 13.61,
+      "fair": 25.61,
+      "cost_c": 12.0,
+      "win": false,
+      "result": "no",
+      "n": 28,
+      "settle_date": "2025-02-24",
+      "yes_ask": 12.0,
+      "pnl": -12.0
+    },
+    {
+      "movie": "last_breath",
+      "floor": 77.0,
+      "direction": "YES",
+      "edge": 37.94,
+      "fair": 52.94,
+      "cost_c": 15.0,
+      "win": false,
+      "result": "no",
+      "n": 77,
+      "settle_date": "2025-03-03",
+      "yes_ask": 15.0,
+      "pnl": -15.0
+    },
+    {
+      "movie": "novocaine",
+      "floor": 82.0,
+      "direction": "YES",
+      "edge": 29.51,
+      "fair": 42.51,
+      "cost_c": 13.0,
+      "win": false,
+      "result": "no",
+      "n": 44,
+      "settle_date": "2025-03-17",
+      "yes_ask": 13.0,
+      "pnl": -13.0
+    },
+    {
+      "movie": "disney_snow_white",
+      "floor": 43.0,
+      "direction": "YES",
+      "edge": 33.58,
+      "fair": 77.58,
+      "cost_c": 44.0,
+      "win": true,
+      "result": "yes",
+      "n": 179,
+      "settle_date": "2025-03-24",
+      "yes_ask": 44.0,
+      "pnl": 56.0
+    },
+    {
+      "movie": "warfare",
+      "floor": 90.0,
+      "direction": "YES",
+      "edge": 26.01,
+      "fair": 49.01,
+      "cost_c": 23.0,
+      "win": true,
+      "result": "yes",
+      "n": 37,
+      "settle_date": "2025-04-14",
+      "yes_ask": 23.0,
+      "pnl": 77.0
+    },
+    {
+      "movie": "sinners",
+      "floor": 97.0,
+      "direction": "NO",
+      "edge": 18.86,
+      "fair": 9.14,
+      "cost_c": 72.0,
+      "win": false,
+      "result": "yes",
+      "n": 45,
+      "settle_date": "2025-04-21",
+      "yes_ask": 30.0,
+      "pnl": -72.0
+    },
+    {
+      "movie": "thunderbolts",
+      "floor": 88.0,
+      "direction": "YES",
+      "edge": 16.47,
+      "fair": 72.47,
+      "cost_c": 56.0,
+      "win": false,
+      "result": "no",
+      "n": 245,
+      "settle_date": "2025-05-05",
+      "yes_ask": 56.0,
+      "pnl": -56.0
+    },
+    {
+      "movie": "final_destination_bloodlines",
+      "floor": 90.0,
+      "direction": "YES",
+      "edge": 24.21,
+      "fair": 94.21,
+      "cost_c": 70.0,
+      "win": true,
+      "result": "yes",
+      "n": 115,
+      "settle_date": "2025-05-19",
+      "yes_ask": 70.0,
+      "pnl": 30.0
+    },
+    {
+      "movie": "from_the_world_of_john_wick_ballerina",
+      "floor": 75.0,
+      "direction": "YES",
+      "edge": 12.85,
+      "fair": 46.85,
+      "cost_c": 34.0,
+      "win": false,
+      "result": "no",
+      "n": 192,
+      "settle_date": "2025-06-09",
+      "yes_ask": 34.0,
+      "pnl": -34.0
+    },
+    {
+      "movie": "how_to_train_your_dragon",
+      "floor": 77.0,
+      "direction": "YES",
+      "edge": 35.29,
+      "fair": 59.29,
+      "cost_c": 24.0,
+      "win": false,
+      "result": "no",
+      "n": 176,
+      "settle_date": "2025-06-16",
+      "yes_ask": 24.0,
+      "pnl": -24.0
+    },
+    {
+      "movie": "jurassic_world_rebirth",
+      "floor": 50.0,
+      "direction": "YES",
+      "edge": 24.23,
+      "fair": 68.23,
+      "cost_c": 44.0,
+      "win": true,
+      "result": "yes",
+      "n": 231,
+      "settle_date": "2025-07-07",
+      "yes_ask": 44.0,
+      "pnl": 56.0
+    },
+    {
+      "movie": "smurfs",
+      "floor": 20.0,
+      "direction": "YES",
+      "edge": 11.57,
+      "fair": 66.57,
+      "cost_c": 55.0,
+      "win": true,
+      "result": "yes",
+      "n": 72,
+      "settle_date": "2025-07-21",
+      "yes_ask": 55.0,
+      "pnl": 45.0
+    },
+    {
+      "movie": "the_naked_gun",
+      "floor": 90.0,
+      "direction": "YES",
+      "edge": 70.98,
+      "fair": 96.98,
+      "cost_c": 26.0,
+      "win": false,
+      "result": "no",
+      "n": 204,
+      "settle_date": "2025-08-04",
+      "yes_ask": 26.0,
+      "pnl": -26.0
+    },
+    {
+      "movie": "weapons",
+      "floor": 90.0,
+      "direction": "NO",
+      "edge": 28.12,
+      "fair": 35.88,
+      "cost_c": 36.0,
+      "win": false,
+      "result": "yes",
+      "n": 14,
+      "settle_date": "2025-08-11",
+      "yes_ask": 67.0,
+      "pnl": -36.0
+    },
+    {
+      "movie": "freakier_friday",
+      "floor": 72.0,
+      "direction": "YES",
+      "edge": 35.3,
+      "fair": 73.3,
+      "cost_c": 38.0,
+      "win": true,
+      "result": "yes",
+      "n": 145,
+      "settle_date": "2025-08-11",
+      "yes_ask": 38.0,
+      "pnl": 62.0
+    },
+    {
+      "movie": "nobody_2",
+      "floor": 75.0,
+      "direction": "YES",
+      "edge": 14.32,
+      "fair": 99.32,
+      "cost_c": 85.0,
+      "win": true,
+      "result": "yes",
+      "n": 132,
+      "settle_date": "2025-08-18",
+      "yes_ask": 85.0,
+      "pnl": 15.0
+    },
+    {
+      "movie": "caught_stealing",
+      "floor": 82.0,
+      "direction": "YES",
+      "edge": 32.07,
+      "fair": 71.07,
+      "cost_c": 39.0,
+      "win": true,
+      "result": "yes",
+      "n": 54,
+      "settle_date": "2025-09-01",
+      "yes_ask": 39.0,
+      "pnl": 61.0
+    },
+    {
+      "movie": "the_roses",
+      "floor": 63.0,
+      "direction": "YES",
+      "edge": 49.29,
+      "fair": 72.29,
+      "cost_c": 23.0,
+      "win": true,
+      "result": "yes",
+      "n": 93,
+      "settle_date": "2025-09-01",
+      "yes_ask": 23.0,
+      "pnl": 77.0
+    },
+    {
+      "movie": "the_long_walk",
+      "floor": 90.0,
+      "direction": "NO",
+      "edge": 20.89,
+      "fair": 44.11,
+      "cost_c": 35.0,
+      "win": true,
+      "result": "no",
+      "n": 57,
+      "settle_date": "2025-09-15",
+      "yes_ask": 68.0,
+      "pnl": 65.0
+    },
+    {
+      "movie": "downton_abbey_the_grand_finale",
+      "floor": 87.0,
+      "direction": "YES",
+      "edge": 17.13,
+      "fair": 52.13,
+      "cost_c": 35.0,
+      "win": true,
+      "result": "yes",
+      "n": 24,
+      "settle_date": "2025-09-15",
+      "yes_ask": 35.0,
+      "pnl": 65.0
+    },
+    {
+      "movie": "one_battle_after_another",
+      "floor": 95.0,
+      "direction": "NO",
+      "edge": 52.33,
+      "fair": 19.67,
+      "cost_c": 28.0,
+      "win": false,
+      "result": "yes",
+      "n": 91,
+      "settle_date": "2025-09-29",
+      "yes_ask": 73.0,
+      "pnl": -28.0
+    },
+    {
+      "movie": "the_smashing_machine",
+      "floor": 80.0,
+      "direction": "NO",
+      "edge": 23.72,
+      "fair": 47.28,
+      "cost_c": 29.0,
+      "win": true,
+      "result": "no",
+      "n": 32,
+      "settle_date": "2025-10-06",
+      "yes_ask": 75.0,
+      "pnl": 71.0
+    },
+    {
+      "movie": "anniversary",
+      "floor": 60.0,
+      "direction": "YES",
+      "edge": 16.0,
+      "fair": 100.0,
+      "cost_c": 84.0,
+      "win": true,
+      "result": "yes",
+      "n": 43,
+      "settle_date": "2025-11-03",
+      "yes_ask": 84.0,
+      "pnl": 16.0
+    },
+    {
+      "movie": "marty_supreme",
+      "floor": 92.0,
+      "direction": "NO",
+      "edge": 15.08,
+      "fair": 59.92,
+      "cost_c": 25.0,
+      "win": false,
+      "result": "yes",
+      "n": 82,
+      "settle_date": "2025-12-29",
+      "yes_ask": 80.0,
+      "pnl": -25.0
+    },
+    {
+      "movie": "anaconda",
+      "floor": 50.0,
+      "direction": "YES",
+      "edge": 32.83,
+      "fair": 75.83,
+      "cost_c": 43.0,
+      "win": true,
+      "result": "yes",
+      "n": 87,
+      "settle_date": "2025-12-29",
+      "yes_ask": 43.0,
+      "pnl": 57.0
+    },
+    {
+      "movie": "mercy",
+      "floor": 20.0,
+      "direction": "YES",
+      "edge": 33.17,
+      "fair": 59.17,
+      "cost_c": 26.0,
+      "win": true,
+      "result": "yes",
+      "n": 121,
+      "settle_date": "2026-01-26",
+      "yes_ask": 26.0,
+      "pnl": 74.0
+    },
+    {
+      "movie": "send_help",
+      "floor": 90.0,
+      "direction": "NO",
+      "edge": 14.31,
+      "fair": 36.69,
+      "cost_c": 49.0,
+      "win": false,
+      "result": "yes",
+      "n": 118,
+      "settle_date": "2026-02-02",
+      "yes_ask": 55.0,
+      "pnl": -49.0
+    },
+    {
+      "movie": "crime_101",
+      "floor": 85.0,
+      "direction": "YES",
+      "edge": 23.48,
+      "fair": 94.48,
+      "cost_c": 71.0,
+      "win": true,
+      "result": "yes",
+      "n": 125,
+      "settle_date": "2026-02-16",
+      "yes_ask": 71.0,
+      "pnl": 29.0
+    },
+    {
+      "movie": "wuthering_heights",
+      "floor": 62.0,
+      "direction": "NO",
+      "edge": 13.23,
+      "fair": 62.77,
+      "cost_c": 24.0,
+      "win": true,
+      "result": "no",
+      "n": 163,
+      "settle_date": "2026-02-16",
+      "yes_ask": 82.0,
+      "pnl": 76.0
+    },
+    {
+      "movie": "hoppers",
+      "floor": 95.0,
+      "direction": "YES",
+      "edge": 26.35,
+      "fair": 39.35,
+      "cost_c": 13.0,
+      "win": false,
+      "result": "no",
+      "n": 108,
+      "settle_date": "2026-03-09",
+      "yes_ask": 13.0,
+      "pnl": -13.0
+    },
+    {
+      "movie": "project_hail_mary",
+      "floor": 92.0,
+      "direction": "NO",
+      "edge": 34.67,
+      "fair": 29.33,
+      "cost_c": 36.0,
+      "win": false,
+      "result": "yes",
+      "n": 133,
+      "settle_date": "2026-03-23",
+      "yes_ask": 67.0,
+      "pnl": -36.0
+    },
+    {
+      "movie": "ready_or_not_2_here_i_come",
+      "floor": 75.0,
+      "direction": "YES",
+      "edge": 44.51,
+      "fair": 90.51,
+      "cost_c": 46.0,
+      "win": false,
+      "result": "no",
+      "n": 41,
+      "settle_date": "2026-03-23",
+      "yes_ask": 46.0,
+      "pnl": -46.0
+    },
+    {
+      "movie": "the_super_mario_galaxy_movie",
+      "floor": 40.0,
+      "direction": "YES",
+      "edge": 17.54,
+      "fair": 44.54,
+      "cost_c": 27.0,
+      "win": true,
+      "result": "yes",
+      "n": 158,
+      "settle_date": "2026-04-06",
+      "yes_ask": 27.0,
+      "pnl": 73.0
+    },
+    {
+      "movie": "the_drama",
+      "floor": 77.0,
+      "direction": "YES",
+      "edge": 17.49,
+      "fair": 89.49,
+      "cost_c": 72.0,
+      "win": false,
+      "result": "no",
+      "n": 152,
+      "settle_date": "2026-04-06",
+      "yes_ask": 72.0,
+      "pnl": -72.0
+    },
+    {
+      "movie": "lee_cronin_the_mummy",
+      "floor": 45.0,
+      "direction": "YES",
+      "edge": 36.0,
+      "fair": 100.0,
+      "cost_c": 64.0,
+      "win": true,
+      "result": "yes",
+      "n": 129,
+      "settle_date": "2026-04-20",
+      "yes_ask": 64.0,
+      "pnl": 36.0
+    },
+    {
+      "movie": "mother_mary",
+      "floor": 70.0,
+      "direction": "YES",
+      "edge": 11.18,
+      "fair": 42.18,
+      "cost_c": 31.0,
+      "win": false,
+      "result": "no",
+      "n": 49,
+      "settle_date": "2026-04-27",
+      "yes_ask": 31.0,
+      "pnl": -31.0
+    },
+    {
+      "movie": "michael",
+      "floor": 37.0,
+      "direction": "YES",
+      "edge": 12.45,
+      "fair": 87.45,
+      "cost_c": 75.0,
+      "win": true,
+      "result": "yes",
+      "n": 197,
+      "settle_date": "2026-04-27",
+      "yes_ask": 75.0,
+      "pnl": 25.0
+    },
+    {
+      "movie": "the_devil_wears_prada_2",
+      "floor": 77.0,
+      "direction": "YES",
+      "edge": 23.7,
+      "fair": 65.7,
+      "cost_c": 42.0,
+      "win": false,
+      "result": "no",
+      "n": 225,
+      "settle_date": "2026-05-04",
+      "yes_ask": 42.0,
+      "pnl": -42.0
+    },
+    {
+      "movie": "billie_eilish_hit_me_hard_and_soft",
+      "floor": 92.0,
+      "direction": "YES",
+      "edge": 12.0,
+      "fair": 100.0,
+      "cost_c": 88.0,
+      "win": true,
+      "result": "yes",
+      "n": 59,
+      "settle_date": "2026-05-11",
+      "yes_ask": 88.0,
+      "pnl": 12.0
+    },
+    {
+      "movie": "the_sheep_detectives",
+      "floor": 92.0,
+      "direction": "NO",
+      "edge": 19.08,
+      "fair": 11.92,
+      "cost_c": 69.0,
+      "win": false,
+      "result": "yes",
+      "n": 34,
+      "settle_date": "2026-05-11",
+      "yes_ask": 32.0,
+      "pnl": -69.0
+    },
+    {
+      "movie": "in_the_grey",
+      "floor": 50.0,
+      "direction": "YES",
+      "edge": 36.35,
+      "fair": 47.35,
+      "cost_c": 11.0,
+      "win": false,
+      "result": "no",
+      "n": 33,
+      "settle_date": "2026-05-18",
+      "yes_ask": 11.0,
+      "pnl": -11.0
+    },
+    {
+      "movie": "star_wars_the_mandalorian_and_grogu",
+      "floor": 63.0,
+      "direction": "NO",
+      "edge": 13.62,
+      "fair": 40.38,
+      "cost_c": 46.0,
+      "win": true,
+      "result": "no",
+      "n": 212,
+      "settle_date": "2026-05-25",
+      "yes_ask": 58.0,
+      "pnl": 54.0
+    },
+    {
+      "movie": "scary_movie",
+      "floor": 25.0,
+      "direction": "YES",
+      "edge": 18.64,
+      "fair": 42.64,
+      "cost_c": 24.0,
+      "win": false,
+      "result": "no",
+      "n": 97,
+      "settle_date": "2026-06-08",
+      "yes_ask": 24.0,
+      "pnl": -24.0
+    },
+    {
+      "movie": "stop_that_train",
+      "floor": 80.0,
+      "direction": "YES",
+      "edge": 23.46,
+      "fair": 88.46,
+      "cost_c": 65.0,
+      "win": true,
+      "result": "yes",
+      "n": 38,
+      "settle_date": "2026-06-15",
+      "yes_ask": 65.0,
+      "pnl": 35.0
+    },
+    {
+      "movie": "disclosure_day",
+      "floor": 80.0,
+      "direction": "YES",
+      "edge": 17.48,
+      "fair": 78.48,
+      "cost_c": 61.0,
+      "win": false,
+      "result": "no",
+      "n": 267,
+      "settle_date": "2026-06-15",
+      "yes_ask": 61.0,
+      "pnl": -61.0
+    },
+    {
+      "movie": "toy_story_5",
+      "floor": 93.0,
+      "direction": "YES",
+      "edge": 35.78,
+      "fair": 78.78,
+      "cost_c": 43.0,
+      "win": true,
+      "result": "yes",
+      "n": 197,
+      "settle_date": "2026-06-22",
+      "yes_ask": 43.0,
+      "pnl": 57.0
+    },
+    {
+      "movie": "the_death_of_robin_hood",
+      "floor": 65.0,
+      "direction": "NO",
+      "edge": 16.08,
+      "fair": 63.92,
+      "cost_c": 20.0,
+      "win": false,
+      "result": "yes",
+      "n": 29,
+      "settle_date": "2026-06-22",
+      "yes_ask": 85.0,
+      "pnl": -20.0
+    },
+    {
+      "movie": "supergirl",
+      "floor": 55.0,
+      "direction": "NO",
+      "edge": 12.03,
+      "fair": 73.97,
+      "cost_c": 14.0,
+      "win": false,
+      "result": "yes",
+      "n": 268,
+      "settle_date": "2026-06-29",
+      "yes_ask": 88.0,
+      "pnl": -14.0
+    },
+    {
+      "movie": "young_washington",
+      "floor": 55.0,
+      "direction": "YES",
+      "edge": 10.22,
+      "fair": 88.22,
+      "cost_c": 78.0,
+      "win": true,
+      "result": "yes",
+      "n": 28,
+      "settle_date": "2026-07-06",
+      "yes_ask": 78.0,
+      "pnl": 22.0
+    }
+  ]
+}

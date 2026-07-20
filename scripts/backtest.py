@@ -1,9 +1,7 @@
 """
 回测本体 v1：用固定参数(drift/prior)对全样本跑模型，
 按 n 分层输出 Brier 分数和校准曲线，回答"模型概率准不准"。
-
-v1 不扫参数、不分校准/验证组——先跑通、看第一个真实结果。
-回测用【真实 n_final】（从评论文件切到结算日的条数），不用 config 的预估值。
+所有 print 的完整报告会原封不动存进 results/report_时间戳.txt。
 
 用法：py -m scripts.backtest
 """
@@ -13,7 +11,8 @@ from __future__ import annotations
 import csv
 import json
 import os
-import time
+import sys
+import io
 from datetime import datetime
 from collections import defaultdict
 
@@ -23,13 +22,24 @@ from src.model.bayesian import ModelInputs, run_model
 SAMPLES_PATH = os.path.join("data", "backtest", "samples.csv")
 HISTORICAL_DIR = os.path.join("data", "historical")
 
-# ==== 回测参数 ====
 DRIFT = 2.0
 PRIOR_STRENGTH = 10.0
-N_SIMS = 200_000        # 蒙特卡洛次数（v1用足量；扫参数时再降）
-SPREAD_MAX = 10         # 流动性过滤：价差>此值的样本算edge时不用（但概率校准仍用全部）
+N_SIMS = 200_000
+SPREAD_MAX = 10
 
-# n 分层边界
+
+class Tee:
+    """让 print 同时输出到终端和缓冲，最后整体存 txt。"""
+    def __init__(self):
+        self.terminal = sys.stdout
+        self.buffer = io.StringIO()
+    def write(self, msg):
+        self.terminal.write(msg)
+        self.buffer.write(msg)
+    def flush(self):
+        self.terminal.flush()
+
+
 def n_layer_name(n):
     if n < 10: return "<10"
     if n < 20: return "10-20"
@@ -46,7 +56,6 @@ def parse_dt(s):
 
 
 def compute_n_final(movie_key, settle_date_str):
-    """真实 n_final = 评论文件里 createDate <= 结算日 的条数。"""
     path = os.path.join(HISTORICAL_DIR, f"{movie_key}_fullpull.json")
     if not os.path.exists(path):
         return None
@@ -55,14 +64,11 @@ def compute_n_final(movie_key, settle_date_str):
     settle = parse_dt(settle_date_str)
     if settle is None:
         return len(reviews)
-    # Kalshi 结算在结算日 10:00 AM EDT = 14:00 UTC。
-    # 切到这个时刻，才是 Kalshi 结算时真正算进去的评论数。
     if settle.tzinfo is None:
         from datetime import timezone, timedelta
         settle = settle.replace(tzinfo=timezone.utc) + timedelta(hours=14)
-    count = sum(1 for r in reviews
-                if parse_dt(r.get("date")) and parse_dt(r["date"]) <= settle)
-    return count
+    return sum(1 for r in reviews
+               if parse_dt(r.get("date")) and parse_dt(r["date"]) <= settle)
 
 
 def brier(pairs):
@@ -74,8 +80,7 @@ def brier(pairs):
 def print_calibration(pairs, n_bins=10):
     bins = [[] for _ in range(n_bins)]
     for p, a in pairs:
-        idx = min(int(p * n_bins), n_bins - 1)
-        bins[idx].append((p, a))
+        bins[min(int(p * n_bins), n_bins - 1)].append((p, a))
     print("  校准曲线（预测概率 → 实际发生频率，理想情况两者相等）:")
     for i, b in enumerate(bins):
         if not b:
@@ -88,24 +93,17 @@ def print_calibration(pairs, n_bins=10):
 
 
 def main():
-
-    # ==== 运行开始时间 ====
     start_time = datetime.now()
+    tee = Tee()
+    sys.stdout = tee    # 从这里开始捕获所有 print
+
     print(f"🕐 回测开始: {start_time.strftime('%Y-%m-%d %H:%M:%S')}\n")
 
-    # 读样本
     with open(SAMPLES_PATH, encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
     print(f"读入 {len(rows)} 行样本（v1：全样本，不分校准/验证组）\n")
     print(f"参数: drift={DRIFT}, prior_strength={PRIOR_STRENGTH}, n_sims={N_SIMS}\n")
 
-    # ==== v2 会用的校准/验证切分（v1 先不用，预留）====
-    # 校准组: settle_date <= "2025-06-30"（2024 + 2025上半年，约67部）
-    # 验证组: "2025-07-01" ~ "2025-12-31"（2025下半年）
-    # 样本外: 2026 全年（最后模拟真实交易）
-    # v2 扫参数时：在校准组找最优 drift/prior，验证组算 Brier。
-
-    # 预先算真实 n_final
     n_final_cache = {}
     for r in rows:
         mk = r["movie_key"]
@@ -131,10 +129,8 @@ def main():
         if n_final < n_now:
             n_final = n_now
 
-        inp = ModelInputs(
-            score_now=score_now, n_now=n_now, base_rate=base_rate,
-            prior_strength=PRIOR_STRENGTH, n_final=n_final, drift=DRIFT,
-        )
+        inp = ModelInputs(score_now=score_now, n_now=n_now, base_rate=base_rate,
+                          prior_strength=PRIOR_STRENGTH, n_final=n_final, drift=DRIFT)
         res = run_model(inp, n_sims=N_SIMS)
         prob = res.prob_at_least(floor)
         actual = 1 if result == "yes" else 0
@@ -147,18 +143,16 @@ def main():
             elapsed = (datetime.now() - start_time).total_seconds()
             print(f"  已处理 {i+1}/{len(rows)}，耗时 {elapsed:.0f}秒")
 
-    # ==== 结果汇总 ====
     overall_brier = brier(all_pairs)
     layer_results = {}
     for name in ["<10", "10-20", "20-40", "40-80", "80+"]:
         b = brier(layer_pairs[name])
         layer_results[name] = {"brier": b, "n_samples": len(layer_pairs[name])}
     day_results = {}
-    for day in ["0", "3", "7", "14"]:
+    for day in ["0", "1", "2", "3", "4", "5"]:
         b = brier(day_pairs[day])
         day_results[day] = {"brier": b, "n_samples": len(day_pairs[day])}
 
-    # ==== 打印 ====
     print("\n" + "=" * 55)
     print(f"总体 Brier: {overall_brier:.4f}   (0.25=瞎猜, 越低越准)")
     print(f"样本数: {len(all_pairs)}，跳过 {skipped}")
@@ -182,7 +176,6 @@ def main():
         bstr = f"{b:.4f}" if b is not None else "无样本"
         print(f"  解禁+{day}天: Brier={bstr}  (样本{len(pairs)})")
 
-    # ==== 运行结束 + 耗时 ====
     end_time = datetime.now()
     duration = (end_time - start_time).total_seconds()
     print("\n" + "=" * 55)
@@ -191,25 +184,29 @@ def main():
     print(f"⏱  总耗时: {duration:.0f} 秒 ({duration/60:.1f} 分钟)")
     print("=" * 55)
 
-    # ==== 存结果到文件（保留历史，供以后对比）====
+    # 存 JSON + 完整报告 TXT
     results_dir = os.path.join("data", "backtest", "results")
     os.makedirs(results_dir, exist_ok=True)
     stamp = start_time.strftime("%Y%m%d_%H%M%S")
-    out_path = os.path.join(results_dir, f"backtest_{stamp}.json")
-    with open(out_path, "w", encoding="utf-8") as f:
+
+    json_path = os.path.join(results_dir, f"backtest_{stamp}.json")
+    with open(json_path, "w", encoding="utf-8") as f:
         json.dump({
-            "run_time": start_time.isoformat(),
-            "duration_seconds": duration,
-            "params": {"drift": DRIFT, "prior_strength": PRIOR_STRENGTH,
-                       "n_sims": N_SIMS},
+            "run_time": start_time.isoformat(), "duration_seconds": duration,
+            "params": {"drift": DRIFT, "prior_strength": PRIOR_STRENGTH, "n_sims": N_SIMS},
             "scope": "全样本(v1,未分组)",
             "overall_brier": overall_brier,
-            "n_samples": len(all_pairs),
-            "skipped": skipped,
-            "by_n_layer": layer_results,
-            "by_decision_day": day_results,
+            "n_samples": len(all_pairs), "skipped": skipped,
+            "by_n_layer": layer_results, "by_decision_day": day_results,
         }, f, ensure_ascii=False, indent=2)
-    print(f"\n💾 结果已存: {out_path}")
+    print(f"\n💾 JSON已存: {json_path}")
+
+    # 恢复 stdout，把完整报告写 txt
+    sys.stdout = tee.terminal
+    report_path = os.path.join(results_dir, f"report_v1_{stamp}.txt")
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write(tee.buffer.getvalue())
+    print(f"💾 完整报告已存: {report_path}")
 
 
 if __name__ == "__main__":
