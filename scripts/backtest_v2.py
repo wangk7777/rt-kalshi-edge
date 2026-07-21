@@ -133,7 +133,9 @@ def run_params(samples, drift, prior):
             prior_strength=prior, n_final=s["n_final"], drift=drift,
         )
         res = run_model(inp, n_sims=N_SIMS)
-        prob = res.prob_at_least(s["floor"])
+        # Kalshi 结算是严格大于：above 55 只有终值 >=56 才算 yes。
+        # 所以获胜概率对齐为 P(score >= floor+1)。
+        prob = res.prob_at_least(s["floor"] + 1)
         pairs.append((prob, 1 if s["result"] == "yes" else 0))
     return pairs
 

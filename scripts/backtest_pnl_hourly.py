@@ -1,15 +1,11 @@
 """
-PnL v2
-策略1（持有到期）：在每小时数据集上模拟真实"盯盘"交易。
+PnL 策略1（持有到期）：每小时数据集，模拟真实盯盘交易。
 
-规则（A1 - 第一次满足就下注，不用未来信息）：
-  - 数据：samples_pnl.csv（每片每小时每门槛）
-  - 过滤：decision_time < 结算时刻(settle_date 14:00 UTC) + n≥40 + 价差≤10
-  - 一片一注：按时间遍历，第一次出现"有门槛 胜率≥80% 且 edge>0"时，
-    在该时刻选胜率最高的门槛下注，之后该片不再交易
-  - 胜率 = 模型概率（YES用prob，NO用1-prob）
-  - 持有到期，固定100张，按 result 结算
-  - 按结算时间滚动资金
+交易规则（避免"钢镚陷阱"）：
+  - n≥40（模型可靠）+ 价差≤10（买得到）
+  - 胜率≥80% 且 买价<95¢（排除接近必然的钢镚门槛）且 edge≥5¢（有利润）
+  - 一片一注：第一次满足的时刻，选 edge 最大的门槛下注
+  - 持有到期，固定100张，结算时刻 = settle_date 14:00 UTC
 
 用法：py -m scripts.backtest_pnl_hourly
 切样本外：HOLDOUT_ONLY = True
@@ -20,6 +16,8 @@ from __future__ import annotations
 import csv
 import json
 import os
+import sys
+import io
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 
@@ -30,17 +28,34 @@ HISTORICAL_DIR = os.path.join("data", "historical")
 RESULTS_DIR = os.path.join("data", "backtest", "results", "pnl")
 
 # ==== 参数 ====
-DRIFT = 4.0
-PRIOR_STRENGTH = 15.0
+DRIFT = 2.0
+PRIOR_STRENGTH = 10.0
 N_SIMS = 50_000
-N_MIN = 40                # 只在评论数≥40时交易
-WIN_PROB_MIN = 0.80       # 胜率≥80%才考虑
-SPREAD_MAX = 10
+N_MIN = 80
+WIN_PROB_MIN = 0.80      
+WIN_PROB_MAX = 0.98
+PRICE_MAX = 90
+EDGE_MIN = 5
+EDGE_MAX = 10
+SPREAD_MAX = 5
+VOLUME_MIN = 1000
+DIRECTION = "both"       # "both" yes合约no合约都买/ "yes_only" / "no_only"
 CONTRACTS = 100
 INITIAL_CAPITAL = 1000.0
 
-HOLDOUT_ONLY = False      # True=只2026样本外
+HOLDOUT_ONLY = True    # False就是全样本，True=只2026样本外
 HOLDOUT_START = "2026-01-01"
+
+
+class Tee:
+    def __init__(self):
+        self.terminal = sys.stdout
+        self.buffer = io.StringIO()
+    def write(self, msg):
+        self.terminal.write(msg)
+        self.buffer.write(msg)
+    def flush(self):
+        self.terminal.flush()
 
 
 def parse_dt(s):
@@ -59,39 +74,43 @@ def compute_n_final(movie_key, settle_date_str):
     settle = parse_dt(settle_date_str + "T00:00:00Z")
     if settle is None:
         return len(reviews)
-    settle = settle.replace(hour=14)  # 14:00 UTC
+    settle = settle.replace(hour=14)
     return sum(1 for r in reviews
                if parse_dt(r.get("date")) and parse_dt(r["date"]) <= settle)
 
 
 def main():
     start = datetime.now()
+    tee = Tee()
+    sys.stdout = tee
+
     scope = "2026样本外" if HOLDOUT_ONLY else "全样本"
-    print(f"🕐 PnL策略1(持有到期) [{scope}]  {start.strftime('%H:%M:%S')}")
-    print(f"参数: drift={DRIFT} prior={PRIOR_STRENGTH} n≥{N_MIN} 胜率≥{WIN_PROB_MIN:.0%} "
-          f"价差≤{SPREAD_MAX} {CONTRACTS}张 ${INITIAL_CAPITAL:.0f}\n")
+    print(f"🕐 PnL策略1(持有到期) [{scope}]  {start.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"参数: drift={DRIFT} prior={PRIOR_STRENGTH} n≥{N_MIN} 胜率≥{WIN_PROB_MIN:.0%} 胜率≤{WIN_PROB_MAX:.0%} "
+          f"买价<{PRICE_MAX}¢ edge≥{EDGE_MIN}¢ edge≤{EDGE_MAX}¢ 价差≤{SPREAD_MAX} {CONTRACTS}张 ${INITIAL_CAPITAL:.0f}\n")
 
     with open(SAMPLES_PATH, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        all_rows = list(reader)
+        all_rows = list(csv.DictReader(f))
     print(f"读入 {len(all_rows)} 行\n")
 
-    # 按电影分组，每片内按时间排序
     by_movie = defaultdict(list)
     for r in all_rows:
         by_movie[r["movie_key"]].append(r)
 
     n_final_cache = {}
     model_cache = {}
+    n_final_this = None
 
     def model_prob(score, n, base_rate, floor):
         key = (score, n, base_rate, floor)
         if key in model_cache:
             return model_cache[key]
-        nf = n_final_this
         inp = ModelInputs(score_now=score, n_now=n, base_rate=base_rate,
-                          prior_strength=PRIOR_STRENGTH, n_final=max(nf, n), drift=DRIFT)
-        p = run_model(inp, n_sims=N_SIMS).prob_at_least(floor)
+                          prior_strength=PRIOR_STRENGTH,
+                          n_final=max(n_final_this, n), drift=DRIFT)
+        # Kalshi 结算是严格大于：above 55 只有终值 >=56 才算 yes。
+        # 所以获胜概率对齐为 P(score >= floor+1)。
+        p = run_model(inp, n_sims=N_SIMS).prob_at_least(floor + 1)
         model_cache[key] = p
         return p
 
@@ -113,27 +132,24 @@ def main():
         if n_final_this is None:
             continue
         base_rate = float(rows[0]["base_rate"])
-        final_score = rows[0]["final_score"]
 
-        # 按时间排序所有(时刻,门槛)行
-        rows_sorted = sorted(rows, key=lambda r: r["decision_time"])
-
-        # 按时刻分组（同一时刻有多个门槛）
         by_time = defaultdict(list)
-        for r in rows_sorted:
+        for r in rows:
             by_time[r["decision_time"]].append(r)
 
-        # 按时间遍历，找第一个满足条件的时刻（A1）
-        traded = False
         for t_str in sorted(by_time.keys()):
             t_dt = parse_dt(t_str.replace(" ", "T") + ":00Z")
             if t_dt is None or t_dt >= settle_cutoff:
-                continue   # 结算后不交易
+                continue
 
-            candidates = []   # (胜率, 门槛行, 方向, edge, 买价)
+            candidates = []
             for r in by_time[t_str]:
                 n_now = int(r["n_at_decision"])
                 if n_now < N_MIN:
+                    continue
+                vol_raw = r.get("volume")
+                vol_int = int(vol_raw) if str(vol_raw).isdigit() else 0
+                if vol_int < VOLUME_MIN:
                     continue
                 spread = r.get("spread")
                 if spread == "" or spread is None or float(spread) > SPREAD_MAX:
@@ -149,38 +165,46 @@ def main():
                 score = float(r["score_at_decision"])
 
                 prob_yes = model_prob(score, n_now, base_rate, floor)
-
-                # YES方向：胜率=prob_yes，edge=prob_yes*100 - yes_ask
-                edge_yes = prob_yes * 100 - yes_ask
-                # NO方向：胜率=1-prob_yes，edge=(1-prob_yes)*100 - (100-yes_bid)
                 prob_no = 1 - prob_yes
-                edge_no = prob_no * 100 - (100 - yes_bid)
+                edge_yes = prob_yes * 100 - yes_ask
+                no_ask = 100 - yes_bid
+                edge_no = prob_no * 100 - no_ask
 
-                # 只要 胜率≥阈值 且 edge>0
-                if prob_yes >= WIN_PROB_MIN and edge_yes > 0:
-                    candidates.append((prob_yes, floor, "YES", edge_yes, yes_ask,
-                                       result == "yes", n_now, r.get("volume","")))
-                if prob_no >= WIN_PROB_MIN and edge_no > 0:
-                    candidates.append((prob_no, floor, "NO", edge_no, 100 - yes_bid,
-                                       result == "no", n_now, r.get("volume","")))
+                if (DIRECTION in ("both", "yes_only")
+                        and WIN_PROB_MIN <= prob_yes <= WIN_PROB_MAX
+                        and EDGE_MIN <= edge_yes <= EDGE_MAX and yes_ask < PRICE_MAX):
+                    candidates.append({
+                        "edge": edge_yes, "win_prob": prob_yes, "floor": floor,
+                        "direction": "YES", "cost_c": yes_ask,
+                        "won": result == "yes", "n": n_now, "volume": vol_int,
+                        "yes_ask": yes_ask, "yes_bid": yes_bid,
+                        "no_ask": 100 - yes_bid, "no_bid": 100 - yes_ask,
+                        "final_score": r.get("final_score", ""),
+                    })
+                if (DIRECTION in ("both", "no_only")
+                        and WIN_PROB_MIN <= prob_no <= WIN_PROB_MAX
+                        and EDGE_MIN <= edge_no <= EDGE_MAX and no_ask < PRICE_MAX):
+                    candidates.append({
+                        "edge": edge_no, "win_prob": prob_no, "floor": floor,
+                        "direction": "NO", "cost_c": no_ask,
+                        "won": result == "no", "n": n_now, "volume": vol_int,
+                        "yes_ask": yes_ask, "yes_bid": yes_bid,
+                        "no_ask": no_ask, "no_bid": 100 - yes_ask,
+                        "final_score": r.get("final_score", ""),
+                    })
 
             if candidates:
-                # 选胜率最高的（最稳）
-                candidates.sort(key=lambda x: -x[0])
-                win_p, floor, direction, edge, cost_c, won, n_now, vol = candidates[0]
-                trades.append({
-                    "movie": movie_key, "time": t_str, "floor": floor,
-                    "direction": direction, "win_prob": win_p, "edge": edge,
-                    "cost_c": cost_c, "won": won, "n": n_now, "volume": vol,
-                    "settle_date": settle_date,
-                })
-                traded = True
-                break   # 一片一注，之后不再交易这片
+                candidates.sort(key=lambda x: -x["edge"])
+                best = candidates[0]
+                best["movie"] = movie_key
+                best["time"] = t_str
+                best["settle_date"] = settle_date
+                trades.append(best)
+                break   # 一片一注
 
         movies_processed += 1
         if movies_processed % 30 == 0:
-            print(f"  已处理 {movies_processed} 部，{len(trades)} 笔交易，"
-                  f"缓存 {len(model_cache)}")
+            print(f"  已处理 {movies_processed} 部，{len(trades)} 笔，缓存 {len(model_cache)}")
 
     # 滚动结算
     trades.sort(key=lambda t: t["settle_date"])
@@ -221,7 +245,6 @@ def main():
     print(f"最大回撤: {mdd*100:.1f}%")
     print("=" * 60)
 
-    # 分解
     print("\n按方向:")
     for d in ["YES", "NO"]:
         dt = [t for t in settled if t["direction"] == d]
@@ -230,25 +253,43 @@ def main():
                   f"盈亏${sum(t['pnl'] for t in dt):+.0f}")
 
     print("\n按胜率区间:")
-    for lo, hi in [(0.85,0.90),(0.90,0.95),(0.95,1.01)]:
-        dt = [t for t in settled if lo <= t["win_prob"] < hi]
+    # 根据 WIN_PROB_MIN/MAX 自动切档（每档0.05宽）
+    BUCKET = 0.05
+    prob_bins = []
+    lo = WIN_PROB_MIN
+    while lo < WIN_PROB_MAX - 1e-9:
+        hi = min(round(lo + BUCKET, 2), WIN_PROB_MAX)
+        prob_bins.append((round(lo, 2), hi))
+        lo = hi
+    for lo, hi in prob_bins:
+        if hi >= WIN_PROB_MAX - 1e-9:
+            dt = [t for t in settled if lo <= t["win_prob"] <= hi]
+        else:
+            dt = [t for t in settled if lo <= t["win_prob"] < hi]
         if dt:
+            w = sum(1 for t in dt if t["won"])
             print(f"  胜率{lo:.0%}-{hi:.0%}: {len(dt)}笔 "
-                  f"实际胜{sum(1 for t in dt if t['won'])}/{len(dt)} "
+                  f"实际胜{w}/{len(dt)} "
                   f"盈亏${sum(t['pnl'] for t in dt):+.0f}")
 
-    print("\n入场时机（解禁后多久下注）:")
-    print("  (time列是下注时刻，可查每笔何时入场)")
-    print("\n前15笔交易明细:")
-    for t in settled[:15]:
+    print("\n按 edge 大小:")
+    for lo, hi in [(5,10),(10,20),(20,40),(40,100)]:
+        dt = [t for t in settled if lo <= t["edge"] < hi]
+        if dt:
+            print(f"  edge{lo}-{hi}¢: {len(dt)}笔 "
+                  f"胜{sum(1 for t in dt if t['won'])} "
+                  f"盈亏${sum(t['pnl'] for t in dt):+.0f}")
+
+    print("\n前20笔交易明细:")
+    for t in settled[:20]:
         print(f"  {t['movie'][:20]:20} {t['time']} floor={t['floor']:.0f} "
               f"{t['direction']} 胜率{t['win_prob']:.0%} edge{t['edge']:.0f}¢ "
-              f"n={t['n']} {'✓' if t['won'] else '✗'} ${t['pnl']:+.0f}")
+              f"买价{t['cost_c']:.0f}¢ n={t['n']} {'✓' if t['won'] else '✗'} ${t['pnl']:+.0f}")
 
     dur = (datetime.now() - start).total_seconds()
     print(f"\n⏱ {dur:.0f}秒, 模型缓存{len(model_cache)}条")
 
-    # 存
+    # 存 JSON + 完整报告TXT
     os.makedirs(RESULTS_DIR, exist_ok=True)
     stamp = start.strftime("%Y%m%d_%H%M%S")
     tag = "holdout" if HOLDOUT_ONLY else "full"
@@ -256,7 +297,8 @@ def main():
         json.dump({
             "scope": scope, "strategy": "hold_to_expiry",
             "params": {"drift": DRIFT, "prior": PRIOR_STRENGTH, "n_min": N_MIN,
-                       "win_prob_min": WIN_PROB_MIN, "spread_max": SPREAD_MAX},
+                       "win_prob_min": WIN_PROB_MIN, "price_max": PRICE_MAX,
+                       "edge_min": EDGE_MIN, "spread_max": SPREAD_MAX},
             "n_trades": n_tr, "wins": wins,
             "final_capital": round(capital, 2),
             "return_pct": round((capital/INITIAL_CAPITAL-1)*100, 2),
@@ -264,7 +306,35 @@ def main():
             "trades": [{k:(round(v,3) if isinstance(v,float) else v)
                         for k,v in t.items()} for t in settled],
         }, f, ensure_ascii=False, indent=2)
-    print(f"💾 已存 results/pnl/")
+
+    sys.stdout = tee.terminal
+    report_path = os.path.join(RESULTS_DIR, f"report_pnl_{tag}_{stamp}.txt")
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write(tee.buffer.getvalue())
+    print(f"💾 JSON + 完整报告已存: results/pnl/  ({report_path})")
+
+    # 全字段交易记录 CSV
+    import csv as csvmod
+    csv_path = os.path.join(RESULTS_DIR, f"trades_{tag}_{stamp}.csv")
+    with open(csv_path, "w", newline="", encoding="utf-8-sig") as f:
+        if settled:
+            writer = csvmod.writer(f)
+            writer.writerow([
+                "电影", "下注时刻", "门槛floor", "方向", "模型胜率", "edge",
+                "买价cost_c", "决策时n", "成交量", "最终分",
+                "yes_ask", "yes_bid", "no_ask", "no_bid",
+                "是否赢", "盈亏pnl", "settle_date"
+            ])
+            for t in settled:
+                writer.writerow([
+                    t["movie"], t["time"], f"{t['floor']:.0f}", t["direction"],
+                    f"{t['win_prob']:.3f}", f"{t['edge']:.1f}", f"{t['cost_c']:.0f}",
+                    t["n"], t["volume"], t.get("final_score",""),
+                    f"{t['yes_ask']:.0f}", f"{t['yes_bid']:.0f}",
+                    f"{t['no_ask']:.0f}", f"{t['no_bid']:.0f}",
+                    "赢" if t["won"] else "输", f"{t.get('pnl',0):.0f}", t["settle_date"],
+                ])
+    print(f"💾 全交易记录CSV: {csv_path}")
 
 
 if __name__ == "__main__":

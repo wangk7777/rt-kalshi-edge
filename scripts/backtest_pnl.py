@@ -1,5 +1,7 @@
 """
-PnL 盈亏模拟：用验证好的 drift=4/prior=15，模拟按模型信号交易。
+PnL 盈亏模拟v1
+
+：用验证好的 drift=4/prior=15，模拟按模型信号交易。
 可切换"全样本"或"仅2026样本外"。
 
 规则：+3天、每部片选|edge|最大的1门槛、双向、固定100张、edge≥阈值、
@@ -119,7 +121,7 @@ def main():
 
             inp = ModelInputs(score_now=score, n_now=n_now, base_rate=base_rate,
                               prior_strength=PRIOR_STRENGTH, n_final=nf, drift=DRIFT)
-            fair = run_model(inp, n_sims=N_SIMS).prob_at_least(floor) * 100
+            fair = run_model(inp, n_sims=N_SIMS).prob_at_least(floor+1) * 100
 
             edge_yes = fair - yes_ask
             no_ask = 100 - yes_bid

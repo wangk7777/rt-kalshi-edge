@@ -22,8 +22,8 @@ from src.model.bayesian import ModelInputs, run_model
 SAMPLES_PATH = os.path.join("data", "backtest", "samples.csv")
 HISTORICAL_DIR = os.path.join("data", "historical")
 
-DRIFT = 2.0
-PRIOR_STRENGTH = 10.0
+DRIFT = 0.0
+PRIOR_STRENGTH = 20.0
 N_SIMS = 200_000
 SPREAD_MAX = 10
 
@@ -132,7 +132,9 @@ def main():
         inp = ModelInputs(score_now=score_now, n_now=n_now, base_rate=base_rate,
                           prior_strength=PRIOR_STRENGTH, n_final=n_final, drift=DRIFT)
         res = run_model(inp, n_sims=N_SIMS)
-        prob = res.prob_at_least(floor)
+        # Kalshi 结算是严格大于：above 55 只有终值 >=56 才算 yes。
+        # 所以获胜概率对齐为 P(score >= floor+1)。
+        prob = res.prob_at_least(floor + 1)
         actual = 1 if result == "yes" else 0
 
         all_pairs.append((prob, actual))
