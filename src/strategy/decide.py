@@ -23,6 +23,7 @@ class Rung:
     t: float          # 门槛，例如 90 表示 "above 90%"
     yes_price: float  # YES(above) 的卖价（美分）
     no_price: float   # NO(below)  的卖价（美分）
+    ticker: str = ""  # 该门槛的真实 market ticker（如 KXRT-SPI-90）
 
 
 @dataclass

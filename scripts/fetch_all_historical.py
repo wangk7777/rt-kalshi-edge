@@ -65,7 +65,7 @@ def candles_archived(movie_key: str) -> bool:
 
 def grab_reviews(movie_key: str, m: dict) -> str:
     """抓评论存 historical/，返回路径。"""
-    reviews = fetch_reviews(m["rt_movie_id"])
+    reviews = fetch_reviews(m["rt_movie_id"], movie_slug=movie_key)
     path = save_reviews_historical(movie_key, reviews)
     return f"{len(reviews)} 条评论 → {path}"
 

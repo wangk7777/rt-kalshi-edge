@@ -28,12 +28,12 @@ HISTORICAL_DIR = os.path.join("data", "historical")
 RESULTS_DIR = os.path.join("data", "backtest", "results", "pnl")
 
 # ==== 参数 ====
-DRIFT = 2.0
-PRIOR_STRENGTH = 10.0
+DRIFT = 0.0
+PRIOR_STRENGTH = 20.0
 N_SIMS = 50_000
 N_MIN = 80
 WIN_PROB_MIN = 0.80      
-WIN_PROB_MAX = 0.98
+WIN_PROB_MAX = 1.00
 PRICE_MAX = 90
 EDGE_MIN = 5
 EDGE_MAX = 10

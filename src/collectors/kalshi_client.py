@@ -19,6 +19,10 @@ from datetime import datetime, date   # 直接导入类，代码里写 datetime.
 
 import requests
 
+import base64
+from cryptography.hazmat.primitives import hashes, serialization
+from cryptography.hazmat.primitives.asymmetric import padding
+
 from src.strategy.decide import Rung
 
 # 公开行情的基础 URL（这个子域虽然历史上叫 elections，但涵盖所有市场）
@@ -29,6 +33,91 @@ HIST_BASE_URL = "https://api.elections.kalshi.com/v1"
 
 # 盘口快照目录
 ORDERBOOKS_DIR = os.path.join("data", "orderbooks")
+
+# ===== 签名认证（orderbook 等需认证的端点用）=====
+# API key 和私钥是账户通用凭据，能给所有请求签名（不只 orderbook）。
+
+def _load_env(path=".env"):
+    if os.path.exists(path):
+        for line in open(path, encoding="utf-8"):
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip())
+
+_load_env()
+_API_KEY_ID = os.environ.get("KALSHI_API_KEY")
+_PRIVATE_KEY_PATH = "rt-kalshi-monitor-private-key.txt"
+_private_key_cache = None
+
+
+def _get_private_key():
+    global _private_key_cache
+    if _private_key_cache is None:
+        if not os.path.exists(_PRIVATE_KEY_PATH):
+            raise RuntimeError(f"私钥文件不存在: {_PRIVATE_KEY_PATH}")
+        with open(_PRIVATE_KEY_PATH, "rb") as f:
+            _private_key_cache = serialization.load_pem_private_key(f.read(), password=None)
+    return _private_key_cache
+
+
+def _sign(timestamp_ms: str, method: str, sign_path: str) -> str:
+    """RSA-PSS 签名。message = timestamp + method + path"""
+    message = f"{timestamp_ms}{method}{sign_path}".encode("utf-8")
+    sig = _get_private_key().sign(
+        message,
+        padding.PSS(mgf=padding.MGF1(hashes.SHA256()),
+                    salt_length=padding.PSS.DIGEST_LENGTH),
+        hashes.SHA256(),
+    )
+    return base64.b64encode(sig).decode("utf-8")
+
+
+def _get_signed(url: str, sign_path: str, params: dict | None = None,
+                retries: int = 4) -> dict:
+    """带签名的 GET（需认证的端点用，如 orderbook）。
+    sign_path: 用于签名的路径，如 /trade-api/v2/markets/KXRT-SPI-90/orderbook
+    """
+    if not _API_KEY_ID:
+        raise RuntimeError(".env 里没有 KALSHI_API_KEY")
+    for attempt in range(retries):
+        ts = str(int(time.time() * 1000))
+        headers = {
+            "KALSHI-ACCESS-KEY": _API_KEY_ID,
+            "KALSHI-ACCESS-SIGNATURE": _sign(ts, "GET", sign_path),
+            "KALSHI-ACCESS-TIMESTAMP": ts,
+        }
+        resp = requests.get(url, params=params, headers=headers, timeout=10)
+        if resp.status_code == 429:
+            wait = 2 ** attempt
+            print(f"  [被限速，等 {wait} 秒重试…]")
+            time.sleep(wait)
+            continue
+        resp.raise_for_status()
+        return resp.json()
+    raise RuntimeError("多次重试后仍被限速，放弃。")
+
+
+def fetch_market_orderbook(ticker: str) -> dict:
+    """
+    拿单个门槛(market)的实时逐档 orderbook。返回解析后的档位。
+    返回 {yes_bids: [[price_cent, size],...降序], no_bids: [[price_cent, size],...]}
+    yes_bids 用于算买NO成本（NO成本 = 100 - yes_bid）。
+    """
+    path = f"/trade-api/v2/markets/{ticker}/orderbook"
+    url = f"https://external-api.kalshi.com{path}"
+    data = _get_signed(url, sign_path=path)
+    ob = data.get("orderbook_fp", {}) or data.get("orderbook", {})
+
+    def to_levels(arr):
+        # [["0.0100","37286.43"],...] → [[1.0, 37286.43],...] 美元转美分
+        return [[round(float(p) * 100, 2), float(s)] for p, s in (arr or [])]
+
+    yes_bids = to_levels(ob.get("yes_dollars"))
+    no_bids = to_levels(ob.get("no_dollars"))
+    yes_bids.sort(key=lambda x: -x[0])   # 价格降序，best在前
+    no_bids.sort(key=lambda x: -x[0])
+    return {"yes_bids": yes_bids, "no_bids": no_bids, "ticker": ticker}
 
 
 def get_ladder_manual(rows: list[tuple[float, float, float]]) -> list[Rung]:
@@ -135,6 +224,7 @@ def get_ladder_live(event_ticker: str) -> list[Rung]:
             t=float(threshold),
             yes_price=float(yes_ask) * 100,   # 美元转美分
             no_price=float(no_ask) * 100,
+            ticker=m.get("ticker", ""),
         ))
 
     rungs.sort(key=lambda r: r.t)   # 按门槛从小到大排

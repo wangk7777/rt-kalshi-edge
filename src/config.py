@@ -30,9 +30,12 @@ DEFAULT_LADDER = [
 # 每部你想追踪的电影一个条目。
 # 每部电影现在自带 "ladder"（门槛 + 当前 Kalshi 价格），所以价格按片各自更新。
 # kalshi_event去kalshi网站上找这部电影对应的ticker代码，填在这里，就能拉实时价格了。
+# 所有电影的embargo date是Google搜索手动填的，lift date是根据评论数据计算的，优先使用embargo date
 WATCHLIST = {
     # "toy_story_5" 是这部片的 key，你跑命令时 --movie toy_story_5 就用它。
     "toy_story_5": {
+        "embargo_date": "2026-06-16",
+        "lift_date": "2026-06-16",
         "title": "Toy Story 5",
         "base_rate": 98,  # base_rate=98: 玩具总动员 1-4 均分（直系前作，全系列 97%+）
         "n_final": 280,        # 结算时预计评论数
@@ -49,6 +52,8 @@ WATCHLIST = {
         ],
     },
     "the_death_of_robin_hood": {
+        "embargo_date": "2026-06-11",
+        "lift_date": "2026-06-11",
         "title": "The Death of Robin Hood",
         "base_rate": 60,  # base_rate=60: 无前作；导演 Michael Sarnoski（A Quiet Place: Day One ~85, Pig ~96）风格文艺，但罗宾汉黑暗改编题材不确定，取中性剧情/动作带"prior_strength": 8,  
         "n_final": 200,        
@@ -69,6 +74,7 @@ WATCHLIST = {
     # =================历史电影栏(Kalshi开过盘的)==================
     # ===========================================================
     "young_washington": {
+        "lift_date": "2026-06-29",
     "embargo_date": "2026-06-29",
     "title": "Young Washington",
     "base_rate": 60,  # base_rate=60: 无前作；历史传记剧情片类型均分兜底
@@ -80,6 +86,7 @@ WATCHLIST = {
     },
 
     "minions_and_monsters": {
+        "lift_date": "2026-06-22",
     "embargo_date": "2026-06-22",
     "title": "Minions & Monsters",
     "base_rate": 70,  # base_rate=70: 神偷奶爸/小黄人系列水位（Minions ~54, Rise of Gru ~70），照明娱乐动画品控
@@ -91,6 +98,8 @@ WATCHLIST = {
     },
 
     "jackass_best_and_last": {
+        "embargo_date": "2026-06-25",
+        "lift_date": "2026-06-25",
     "title": "Jackass: Best and Last",
     "base_rate": 80,  # base_rate=80: Jackass 系列均分（前作普遍 60-85%，Forever ~85）
     "n_final": 226,        # TODO 待定
@@ -101,6 +110,8 @@ WATCHLIST = {
     },
 
     "girls_like_girls": {
+        "embargo_date": "2026-06-17",
+        "lift_date": "2026-06-17",
     "title": "Girls Like Girls",
     "base_rate": 70,  # base_rate=70: 无前作；青少年 LGBTQ 剧情独立片类型均分
     "n_final": 226,        # TODO 待定
@@ -111,6 +122,7 @@ WATCHLIST = {
     },
 
     "stop_that_train": {
+        "lift_date": "2026-06-09",
     "embargo_date": "2026-06-09",
     "title": "Stop! That! Train!",
     "base_rate": 65,  # base_rate=65: 无前作小片；剧情/惊悚类型历史均分兜底
@@ -133,6 +145,8 @@ WATCHLIST = {
     },
 
     "supergirl": {
+        "embargo_date": "2026-06-24",
+        "lift_date": "2026-06-24",
     "title": "Supergirl",
     "base_rate": 62,  # base_rate=62: 同 DC/新版 DCU 超英片水位（近期 DC 品控波动，取中性超英带）
     "n_final": 226,        # TODO 待定
@@ -143,6 +157,8 @@ WATCHLIST = {
     },
 
     "scary_movie": {
+        "embargo_date": "2026-06-04",
+        "lift_date": "2026-06-04",
     "title": "Scary Movie",
     "base_rate": 50,  # base_rate=50: Scary Movie 系列均分（1 ~53, 后续跌至 30-40），恶搞喜剧类型
     "n_final": 226,        # TODO 待定
@@ -153,6 +169,8 @@ WATCHLIST = {
     },
 
     "masters_of_the_universe": {
+        "embargo_date": "2026-06-02",
+        "lift_date": "2026-06-02",
     "title": "Masters of the Universe",
     "base_rate": 55,  # base_rate=55: 无强前作；玩具改编大片/动作奇幻类型均分兜底
     "n_final": 226,        # TODO 待定
@@ -163,6 +181,8 @@ WATCHLIST = {
     },
 
     "power_ballad": {
+        "embargo_date": "2026-03-14",
+        "lift_date": "2026-03-14",
     "title": "Power Ballad",
     "base_rate": 65,  # base_rate=65: 无前作；音乐喜剧类型历史均分
     "n_final": 226,        # TODO 待定
@@ -173,6 +193,8 @@ WATCHLIST = {
     },
 
     "backrooms": {
+        "embargo_date": "2026-05-27",
+        "lift_date": "2026-05-27",
     "title": "Backrooms",
     "base_rate": 60,  # base_rate=60: 无前作；网络恐怖 IP 改编，恐怖类型均分兜底
     "n_final": 226,        # TODO 待定
@@ -183,6 +205,8 @@ WATCHLIST = {
     },
 
     "billie_eilish_hit_me_hard_and_soft": {
+        "embargo_date": "2026-05-07",
+        "lift_date": "2026-05-07",
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
     "base_rate": 90,  # base_rate=90: 演唱会纪录片类型（此类片 RT 普遍很高，85-95）
     "n_final": 226,        # TODO 待定
@@ -193,6 +217,7 @@ WATCHLIST = {
     },
 
     "in_the_grey": {
+        "lift_date": "2026-05-14",
     "embargo_date": "2026-05-14",
     "title": "In the Grey",
     "base_rate": 60,  # base_rate=60: 无前作；导演 Guy Ritchie 近期作品波动大（Covenant ~83, Wrath of Man ~68, Fortune ~55），动作片取中性
@@ -204,6 +229,8 @@ WATCHLIST = {
     },
 
     "the_sheep_detectives": {
+        "embargo_date": "2026-04-27",
+        "lift_date": "2026-04-27",
     "title": "The Sheep Detectives",
     "base_rate": 78,  # base_rate=78: 无前作；家庭动画/定格类型均分（此类小成本动画口碑偏高）
     "n_final": 226,        # TODO 待定
@@ -225,6 +252,8 @@ WATCHLIST = {
     },
 
     "lee_cronin_the_mummy": {
+        "embargo_date": "2026-04-16",
+        "lift_date": "2026-04-16",
     "title": "Lee Cronin's The Mummy",
     "base_rate": 70,  # base_rate=70: 无直系前作；导演 Lee Cronin（Evil Dead Rise ~85）近作 + 恐怖类型
     "n_final": 226,        # TODO 待定
@@ -235,6 +264,8 @@ WATCHLIST = {
     },
 
     "the_devil_wears_prada_2": {
+        "embargo_date": "2026-04-29",
+        "lift_date": "2026-04-29",
     "title": "The Devil Wears Prada 2",
     "base_rate": 75,  # base_rate=75: 前作《穿普拉达的女王》(2006) ~75%，直系续集
     "n_final": 226,        # TODO 待定
@@ -245,6 +276,8 @@ WATCHLIST = {
     },
 
     "mother_mary": {
+        "embargo_date": "2026-04-14",
+        "lift_date": "2026-04-14",
     "title": "Mother Mary",
     "base_rate": 68,  # base_rate=68: 无前作；导演 David Lowery 近作（Green Knight ~85, Peter Pan ~62），音乐剧情取中性
     "n_final": 226,        # TODO 待定
@@ -255,6 +288,7 @@ WATCHLIST = {
     },
     
     "zootopia_2": {
+        "lift_date": "2025-11-25",
     "title": "Zootopia 2",
     "base_rate": 90,  # base_rate=90: 疯狂动物城 1 (~98)，迪士尼动画续集通常略降，取保守
     "n_final": 226,        # TODO 待定
@@ -265,6 +299,7 @@ WATCHLIST = {
     },
 
     "avatar_fire_and_ash": {
+        "lift_date": "2025-12-16",
         "embargo_date": "2025-12-16",
     "title": "Avatar: Fire And Ash",
     "base_rate": 80,  # base_rate=80: 阿凡达 1-2 均分（~81, ~76 后升），虽然卡梅隆品控强,但比所有前作都高需要理由。建议往前作均分靠,80左右更稳
@@ -276,6 +311,7 @@ WATCHLIST = {
     },
 
     "captain_america_brave_new_world": {
+        "lift_date": "2025-02-12",
     "title": "Captain America: Brave New World",
     "base_rate": 68,  # base_rate=68: 美队系列 + 近期漫威 MCU 阶段水位（品控下滑，取中性超英带）
     "n_final": 226,        # TODO 待定
@@ -286,6 +322,7 @@ WATCHLIST = {
     },
 
     "moana_2": {
+        "lift_date": "2024-11-26",
     "title": "Moana 2",
     "base_rate": 76,  # base_rate=76: 海洋奇缘 1 (~95)，但续集从剧集改制、迪士尼近期续集普遍降，取保守
     "n_final": 226,        # TODO 待定
@@ -296,6 +333,8 @@ WATCHLIST = {
     },
 
     "michael": {
+        "embargo_date": "2026-04-21",
+        "lift_date": "2026-04-21",
     "title": "Michael",
     "base_rate": 65,  # base_rate=65: 无前作；音乐传记片类型均分（此类片口碑波动大）
     "n_final": 226,        # TODO 待定
@@ -306,6 +345,7 @@ WATCHLIST = {
     },
 
     "mickey_17": {
+        "lift_date": "2025-02-15",
     "title": "Mickey 17",
     "base_rate": 88,  # base_rate=88: 导演奉俊昊近作（寄生虫 ~99, 玉子 ~85, 雪国列车 ~94）
     "n_final": 226,        # TODO 待定
@@ -316,6 +356,7 @@ WATCHLIST = {
     },
 
     "disney_snow_white": {
+        "lift_date": "2025-03-19",
     "title": "Disney's Snow White",
     "base_rate": 60,  # base_rate=60: 迪士尼真人翻拍近期水位（Little Mermaid ~67, Pinocchio ~27, Mulan ~73），取中性
     "n_final": 226,        # TODO 待定
@@ -326,6 +367,8 @@ WATCHLIST = {
     },
 
     "project_hail_mary": {
+        "embargo_date": "2026-03-10",
+        "lift_date": "2026-03-10",
     "title": "Project Hail Mary",
     "base_rate": 82,  # base_rate=82: 导演 Lord & Miller（Spider-Verse ~94-95, 21 Jump St ~85），科幻改编取中高
     "n_final": 226,        # TODO 待定
@@ -336,6 +379,7 @@ WATCHLIST = {
     },
 
     "mufasa": {
+        "lift_date": "2024-12-17",
     "title": "Mufasa",
     "base_rate": 62,  # base_rate=62: 狮子王真人版 (2019) ~52，迪士尼前传/翻拍水位，略调高
     "n_final": 226,        # TODO 待定
@@ -346,6 +390,7 @@ WATCHLIST = {
     },
 
     "a_minecraft_movie": {
+        "lift_date": "2025-04-02",
     "title": "A Minecraft Movie",
     "base_rate": 55,  # base_rate=55: 无前作；游戏改编电影类型均分兜底（波动大）
     "n_final": 226,        # TODO 待定
@@ -356,6 +401,7 @@ WATCHLIST = {
     },
 
     "wicked_for_good": {
+        "lift_date": "2025-11-18",
     "title": "Wicked: For Good",
     "base_rate": 88,  # base_rate=88: 前作 Wicked (2024) ~88，直系续集（同拍摄、同班底）
     "n_final": 226,        # TODO 待定
@@ -366,6 +412,7 @@ WATCHLIST = {
     },
 
     "the_monkey": {
+        "lift_date": "2025-02-21",
     "embargo_date": "2025-02-21",
     "title": "The Monkey",
     "base_rate": 78,  # base_rate=78: 导演 Osgood Perkins（Longlegs ~86），恐怖类型近作
@@ -377,6 +424,8 @@ WATCHLIST = {
     },
 
     "disclosure_day": {
+        "embargo_date": "2026-06-09",
+        "lift_date": "2026-06-09",
     "title": "Disclosure Day",
     "base_rate": 60,  # base_rate=60: 无信息；剧情/惊悚类型历史均分兜底
     "n_final": 226,        # TODO 待定
@@ -387,6 +436,8 @@ WATCHLIST = {
     },
 
     "the_super_mario_galaxy_movie": {
+        "embargo_date": "2026-03-31",
+        "lift_date": "2026-03-31",
     "title": "The Super Mario Galaxy Movie",
     "base_rate": 60,  # base_rate=60: 前作 Super Mario Bros Movie (2023) ~59，直系续集（照明+任天堂）
     "n_final": 226,        # TODO 待定
@@ -397,6 +448,7 @@ WATCHLIST = {
     },
 
     "wicked": {
+        "lift_date": "2024-11-19",
     "title": "Wicked",
     "base_rate": 78,  # base_rate=78: 无前作电影；导演 Jon M. Chu（Crazy Rich Asians ~91, In the Heights ~94, Jem ~20），歌舞片取中高
     "n_final": 226,        # TODO 待定
@@ -407,6 +459,7 @@ WATCHLIST = {
     },
 
     "novocaine": {
+        "lift_date": "2025-03-08",
     "embargo_date": "2025-03-08",
     "title": "Novocaine",
     "base_rate": 68,  # base_rate=68: 无前作；动作喜剧类型历史均分
@@ -418,6 +471,7 @@ WATCHLIST = {
     },
 
     "the_fantastic_four_first_steps": {
+        "lift_date": "2025-07-22",
     "title": "The Fantastic Four: First Steps",
     "base_rate": 65,  # base_rate=65: 神奇四侠历史普遍低（前作 ~27, ~9），但新 MCU 重启 + 好导演，大幅调高至中性超英带
     "n_final": 226,        # TODO 待定
@@ -428,6 +482,8 @@ WATCHLIST = {
     },
 
     "star_wars_the_mandalorian_and_grogu": {
+        "embargo_date": "2026-05-19",
+        "lift_date": "2026-05-19",
     "title": "Star Wars: The Mandalorian and Grogu",
     "base_rate": 80,  # base_rate=80: 曼达洛人剧集口碑极高 + 星战电影近期水位，取中高
     "n_final": 226,        # TODO 待定
@@ -438,6 +494,8 @@ WATCHLIST = {
     },
 
     "mortal_kombat_ii": {
+        "embargo_date": "2026-05-06",
+        "lift_date": "2026-05-06",
     "title": "Mortal Kombat II",
     "base_rate": 50,  # base_rate=50: 前作 Mortal Kombat (2021) ~55，游戏改编续集
     "n_final": 226,        # TODO 待定
@@ -448,6 +506,7 @@ WATCHLIST = {
     },
 
     "nosferatu": {
+        "lift_date": "2024-12-02",
     "title": "Nosferatu",
     "base_rate": 85,  # base_rate=85: 导演 Robert Eggers（The Witch ~90, The Lighthouse ~90, The Northman ~89）
     "n_final": 226,        # TODO 待定
@@ -458,6 +517,8 @@ WATCHLIST = {
     },
 
     "28_years_later_the_bone_temple": {
+        "embargo_date": "2026-01-13",
+        "lift_date": "2026-01-13",
     "title": "28 Years Later: The Bone Temple",
     "base_rate": 82,  # base_rate=82: 前作 28 Years Later (~88) + 28 系列，导演 Nia DaCosta 接手，略降
     "n_final": 226,        # TODO 待定
@@ -478,6 +539,8 @@ WATCHLIST = {
     },
 
     "the_drama": {
+        "embargo_date": "2026-03-31",
+        "lift_date": "2026-03-31",
     "title": "The Drama",
     "base_rate": 68,  # base_rate=68: 无前作；导演 Kristoffer Borgli（Sick of Myself ~95, Dream Scenario ~91），A24 取中高但题材未知，保守
     "n_final": 226,        # TODO 待定
@@ -488,6 +551,8 @@ WATCHLIST = {
     },
 
     "ready_or_not_2_here_i_come": {
+        "embargo_date": "2026-03-14",
+        "lift_date": "2026-03-14",
     "title": "Ready or Not 2: Here I Come",
     "base_rate": 88,  # base_rate=88: 前作 Ready or Not (2019) ~88，同 Radio Silence 班底续集
     "n_final": 226,        # TODO 待定
@@ -498,6 +563,7 @@ WATCHLIST = {
     },
 
     "forbidden_fruits": {
+        "lift_date": "2026-03-17",
     "embargo_date": "2026-03-17",
     "title": "Forbidden Fruits",
     "base_rate": 65,  # base_rate=65: 无信息；剧情类型历史均分兜底
@@ -509,6 +575,8 @@ WATCHLIST = {
     },
 
     "reminders_of_him": {
+        "embargo_date": "2026-03-11",
+        "lift_date": "2026-03-11",
     "title": "Reminders of Him",
     "base_rate": 55,  # base_rate=55: 无前作；Colleen Hoover 小说改编爱情剧情（此类改编影评普遍偏低）
     "n_final": 226,        # TODO 待定
@@ -519,6 +587,8 @@ WATCHLIST = {
     },
 
     "hoppers": {
+        "embargo_date": "2026-03-02",
+        "lift_date": "2026-03-02",
     "title": "Hoppers",
     "base_rate": 78,  # base_rate=78: 皮克斯原创动画，皮克斯质量带（原创片近期 ~75-95）
     "n_final": 226,        # TODO 待定
@@ -529,6 +599,8 @@ WATCHLIST = {
     },
 
     "the_bride": {
+        "embargo_date": "2026-03-04",
+        "lift_date": "2026-03-04",
     "title": "The Bride!",
     "base_rate": 65,  # base_rate=65: 无前作；导演 Maggie Gyllenhaal（The Lost Daughter ~95），但怪物大片题材不确定，取中性
     "n_final": 226,        # TODO 待定
@@ -539,6 +611,8 @@ WATCHLIST = {
     },
 
     "scream_7": {
+        "embargo_date": "2026-02-26",
+        "lift_date": "2026-02-26",
     "title": "Scream 7",
     "base_rate": 72,  # base_rate=72: 惊声尖叫系列均分（近作 Scream 2022 ~76, VI ~76），恐怖续集
     "n_final": 226,        # TODO 待定
@@ -549,6 +623,8 @@ WATCHLIST = {
     },
 
     "how_to_make_a_killing": {
+        "embargo_date": "2026-02-18",
+        "lift_date": "2026-02-18",
     "title": "How to Make a Killing",
     "base_rate": 65,  # base_rate=65: 无信息；犯罪/惊悚喜剧类型均分兜底
     "n_final": 226,        # TODO 待定
@@ -559,6 +635,8 @@ WATCHLIST = {
     },
 
     "mercy": {
+        "embargo_date": "2026-01-21",
+        "lift_date": "2026-01-21",
     "title": "Mercy",
     "base_rate": 60,  # base_rate=60: 无信息；剧情/惊悚类型历史均分兜底
     "n_final": 226,        # TODO 待定
@@ -569,6 +647,8 @@ WATCHLIST = {
     },
 
     "crime_101": {
+        "embargo_date": "2026-02-11",
+        "lift_date": "2026-02-11",
     "title": "Crime 101",
     "base_rate": 70,  # base_rate=70: 无前作；导演 Bart Layton（American Animals ~88），犯罪片取中高但阵容未知，保守
     "n_final": 226,        # TODO 待定
@@ -579,6 +659,8 @@ WATCHLIST = {
     },
 
     "wuthering_heights": {
+        "embargo_date": "2026-02-09",
+        "lift_date": "2026-02-09",
     "title": "Wuthering Heights",
     "base_rate": 68,  # base_rate=68: 无前作；导演 Emerald Fennell（Promising Young Woman ~90, Saltburn ~71），文学改编取中高
     "n_final": 226,        # TODO 待定
@@ -589,6 +671,8 @@ WATCHLIST = {
     },
 
     "the_strangers_chapter_3": {
+        "embargo_date": "2026-02-05",
+        "lift_date": "2026-02-05",
     "title": "The Strangers – Chapter 3",
     "base_rate": 20,  # base_rate=20: 前作 The Strangers: Chapter 1 (2024) ~19，同三部曲续集，恐怖类型
     "n_final": 226,        # TODO 待定
@@ -610,6 +694,8 @@ WATCHLIST = {
     },
 
     "melania": {
+        "embargo_date": "2026-01-30",
+        "lift_date": "2026-01-30",
     "title": "Melania",
     "base_rate": 40,  # base_rate=40: 无前作；名人传记纪录片（政治题材，此类片口碑两极且偏低）
     "n_final": 226,        # TODO 待定
@@ -620,6 +706,8 @@ WATCHLIST = {
     },
 
     "shelter": {
+        "embargo_date": "2026-01-28",
+        "lift_date": "2026-01-28",
     "title": "Shelter",
     "base_rate": 60,  # base_rate=60: 无信息；剧情/惊悚类型历史均分兜底
     "n_final": 226,        # TODO 待定
@@ -630,6 +718,8 @@ WATCHLIST = {
     },
 
     "send_help": {
+        "embargo_date": "2026-01-26",
+        "lift_date": "2026-01-26",
     "title": "Send Help",
     "base_rate": 62,  # base_rate=62: 无前作；导演 Sam Raimi 惊悚喜剧近作方向，取中性
     "n_final": 226,        # TODO 待定
@@ -651,6 +741,7 @@ WATCHLIST = {
     },
 
     "the_housemaid": {
+        "lift_date": "2025-12-16",
     "title": "The Housemaid",
     "base_rate": 62,  # base_rate=62: 无前作；导演 Paul Feig（Bridesmaids ~90, A Simple Favor ~85），惊悚改编取中性
     "n_final": 226,        # TODO 待定
@@ -661,6 +752,7 @@ WATCHLIST = {
     },
 
     "wake_up_dead_man_a_knives_out_mystery": {
+        "lift_date": "2025-09-07",
     "title": "Wake Up Dead Man: A Knives Out Mystery",
     "base_rate": 92,  # base_rate=92: Knives Out 系列（~97, Glass Onion ~92），导演 Rian Johnson 直系续集
     "n_final": 226,        # TODO 待定
@@ -671,6 +763,7 @@ WATCHLIST = {
     },
 
     "marty_supreme": {
+        "lift_date": "2025-12-01",
     "title": "Marty Supreme",
     "base_rate": 82,  # base_rate=82: 无前作；导演 Josh Safdie（Uncut Gems ~92, Good Time ~91），A24 剧情取中高
     "n_final": 226,        # TODO 待定
@@ -681,6 +774,7 @@ WATCHLIST = {
     },
 
     "anaconda": {
+        "lift_date": "2025-12-23",
     "title": "Anaconda",
     "base_rate": 45,  # base_rate=45: 前作 Anaconda (1997) ~40，重启版；动物恐怖类型
     "n_final": 226,        # TODO 待定
@@ -691,6 +785,7 @@ WATCHLIST = {
     },
 
     "five_nights_at_freddys_2": {
+        "lift_date": "2025-12-04",
     "title": "Five Nights At Freddys 2",
     "base_rate": 35,  # base_rate=35: 前作 FNAF (2023) ~33，同 Blumhouse 游戏改编续集
     "n_final": 226,        # TODO 待定
@@ -701,6 +796,7 @@ WATCHLIST = {
     },
 
     "ella_mccay": {
+        "lift_date": "2025-12-10",
     "title": "Ella McCay",
     "base_rate": 72,  # base_rate=72: 无前作；导演 James L. Brooks（As Good as It Gets ~85, Broadcast News ~98, Spanglish ~52），剧情取中高
     "n_final": 226,        # TODO 待定
@@ -711,6 +807,7 @@ WATCHLIST = {
     },
 
     "now_you_see_me_now_you_dont": {
+        "lift_date": "2025-11-11",
     "title": "Now You See Me: Now You Don’t",
     "base_rate": 45,  # base_rate=45: 惊天魔盗团系列均分（1 ~50, 2 ~34），续集
     "n_final": 226,        # TODO 待定
@@ -721,6 +818,7 @@ WATCHLIST = {
     },
 
     "sarahs_oil": {
+        "lift_date": "2025-11-06",
     "title": "Sarah’s Oil",
     "base_rate": 65,  # base_rate=65: 无信息；历史剧情/家庭片类型均分兜底
     "n_final": 226,        # TODO 待定
@@ -731,6 +829,7 @@ WATCHLIST = {
     },
 
     "anniversary": {
+        "lift_date": "2025-10-28",
     "embargo_date": "2025-10-28",
     "title": "Anniversary",
     "base_rate": 60,  # base_rate=60: 无信息；剧情/惊悚类型历史均分兜底
@@ -742,6 +841,7 @@ WATCHLIST = {
     },
 
     "rental_family": {
+        "lift_date": "2025-09-07",
     "title": "Rental Family",
     "base_rate": 68,  # base_rate=68: 无前作；剧情喜剧类型均分（Searchlight 出品，略调高）
     "n_final": 226,        # TODO 待定
@@ -752,6 +852,7 @@ WATCHLIST = {
     },
 
     "springsteen_deliver_me_from_nowhere": {
+        "lift_date": "2025-08-30",
     "title": "Springsteen: Deliver Me from Nowhere",
     "base_rate": 70,  # base_rate=70: 无前作；音乐传记片类型均分（导演 Scott Cooper: Crazy Heart ~92, Hostiles ~72）
     "n_final": 226,        # TODO 待定
@@ -762,6 +863,7 @@ WATCHLIST = {
     },
 
     "the_running_man": {
+        "lift_date": "2025-11-11",
     "title": "The Running Man",
     "base_rate": 70,  # base_rate=70: 无直系前作参照（重拍）；导演 Edgar Wright（Baby Driver ~92, Last Night in Soho ~74, Hot Fuzz ~91），动作取中高
     "n_final": 226,        # TODO 待定
@@ -772,6 +874,7 @@ WATCHLIST = {
     },
 
     "predator_badlands": {
+        "lift_date": "2025-11-04",
     "title": "Predator: Badlands",
     "base_rate": 78,  # base_rate=78: 铁血战士系列 + 导演 Dan Trachtenberg（Prey ~94），近作口碑回升，取中高
     "n_final": 226,        # TODO 待定
@@ -782,6 +885,7 @@ WATCHLIST = {
     },
 
     "regretting_you": {
+        "lift_date": "2025-10-22",
     "title": "Regretting You",
     "base_rate": 50,  # base_rate=50: 无前作；Colleen Hoover 小说改编爱情剧情（此类改编影评普遍偏低）
     "n_final": 226,        # TODO 待定
@@ -792,6 +896,7 @@ WATCHLIST = {
     },
 
     "black_phone_2": {
+        "lift_date": "2025-10-15",
         "embargo_date": "2025-10-15",
     "title": "Black Phone 2",
     "base_rate": 82,  # base_rate=82: 前作 The Black Phone (2021) ~83，同 Scott Derrickson 续集
@@ -803,6 +908,7 @@ WATCHLIST = {
     },
 
     "roofman": {
+        "lift_date": "2025-09-07",
     "title": "Roofman",
     "base_rate": 72,  # base_rate=72: 无前作；导演 Derek Cianfrance（Blue Valentine ~87, A Place Beyond the Pines ~80），犯罪剧情取中高
     "n_final": 226,        # TODO 待定
@@ -813,6 +919,7 @@ WATCHLIST = {
     },
 
     "the_smashing_machine": {
+        "lift_date": "2025-09-01",
     "title": "The Smashing Machine",
     "base_rate": 78,  # base_rate=78: 无前作；导演 Benny Safdie（Uncut Gems ~92），A24 体育传记取中高
     "n_final": 226,        # TODO 待定
@@ -823,6 +930,7 @@ WATCHLIST = {
     },
 
     "tron_ares": {
+        "lift_date": "2025-10-07",
     "title": "Tron: Ares",
     "base_rate": 55,  # base_rate=55: Tron 系列均分（Legacy ~51），科幻续集
     "n_final": 226,        # TODO 待定
@@ -833,6 +941,7 @@ WATCHLIST = {
     },
 
     "the_long_walk": {
+        "lift_date": "2025-09-02",
     "title": "The Long Walk",
     "base_rate": 75,  # base_rate=75: 无前作；斯蒂芬·金改编 + 导演 Francis Lawrence（Hunger Games 系列 ~85-97, Constantine ~46），剧情惊悚取中高
     "n_final": 226,        # TODO 待定
@@ -843,6 +952,7 @@ WATCHLIST = {
     },
 
     "caught_stealing": {
+        "lift_date": "2025-08-25",
     "embargo_date": "2025-08-25",
     "title": "Caught Stealing",
     "base_rate": 82,  # base_rate=82: 无前作；导演 Darren Aronofsky（Black Swan ~89, The Whale ~64, Requiem ~78），犯罪剧情取中高
@@ -854,6 +964,7 @@ WATCHLIST = {
     },
 
     "one_battle_after_another": {
+        "lift_date": "2025-09-17",
     "title": "One Battle After Another",
     "base_rate": 88,  # base_rate=88: 无前作；导演 Paul Thomas Anderson（There Will Be Blood ~91, Licorice Pizza ~91, Phantom Thread ~91），近作均分极高
     "n_final": 226,        # TODO 待定
@@ -864,6 +975,7 @@ WATCHLIST = {
     },
 
     "downton_abbey_the_grand_finale": {
+        "lift_date": "2025-09-03",
     "title": "Downton Abbey: The Grand Finale",
     "base_rate": 84,  # base_rate=84: 前两部电影（2019 ~84, A New Era ~85）+ 剧集，直系续集
     "n_final": 226,        # TODO 待定
@@ -874,6 +986,7 @@ WATCHLIST = {
     },
 
     "him": {
+        "lift_date": "2025-09-18",
     "title": "Him",
     "base_rate": 60,  # base_rate=60: 无前作；Jordan Peele 监制恐怖片（Monkeypaw 出品），恐怖类型取中性
     "n_final": 226,        # TODO 待定
@@ -884,6 +997,7 @@ WATCHLIST = {
     },
 
     "the_conjuring_last_rites": {
+        "lift_date": "2025-09-03",
     "title": "The Conjuring: Last Rites",
     "base_rate": 75,  # base_rate=75: 招魂宇宙主线均分（Conjuring 1 ~86, 2 ~80, 3 ~56），系列续集
     "n_final": 226,        # TODO 待定
@@ -894,6 +1008,7 @@ WATCHLIST = {
     },
 
     "honey_dont": {
+        "lift_date": "2025-05-23",
     "title": "Honey Don’t!",
     "base_rate": 72,  # base_rate=72: 无直系前作；导演 Ethan Coen（Drive-Away Dolls ~66, 科恩兄弟历史高），喜剧取中性偏高
     "n_final": 226,        # TODO 待定
@@ -904,6 +1019,7 @@ WATCHLIST = {
     },
 
     "the_roses": {
+        "lift_date": "2025-08-25",
     "title": "The Roses",
     "base_rate": 72,  # base_rate=72: 无直系前作（翻拍 War of the Roses ~84）；导演 Jay Roach（Bombshell ~68, Trumbo ~75），黑色喜剧取中高
     "n_final": 226,        # TODO 待定
@@ -914,6 +1030,7 @@ WATCHLIST = {
     },
 
     "nobody_2": {
+        "lift_date": "2025-08-13",
     "title": "Nobody 2",
     "base_rate": 82,  # base_rate=82: 前作 Nobody (2021) ~84，同班底动作续集
     "n_final": 226,        # TODO 待定
@@ -935,6 +1052,7 @@ WATCHLIST = {
     },
 
     "weapons": {
+        "lift_date": "2025-07-28",
     "title": "Weapons",
     "base_rate": 82,  # base_rate=82: 无前作；导演 Zach Cregger（Barbarian ~92），恐怖类型近作取中高
     "n_final": 226,        # TODO 待定
@@ -945,6 +1063,7 @@ WATCHLIST = {
     },
 
     "the_naked_gun": {
+        "lift_date": "2025-07-30",
     "title": "The Naked Gun",
     "base_rate": 72,  # base_rate=72: 白头神探系列（原三部曲极高 ~85-96），重启版取中性偏高
     "n_final": 226,        # TODO 待定
@@ -955,6 +1074,7 @@ WATCHLIST = {
     },
 
     "freakier_friday": {
+        "lift_date": "2025-08-05",
     "title": "Freakier Friday",
     "base_rate": 72,  # base_rate=72: 前作 Freaky Friday (2003) ~88，迪士尼家庭续集，略降
     "n_final": 226,        # TODO 待定
@@ -965,6 +1085,7 @@ WATCHLIST = {
     },
 
     "i_know_what_you_did_last_summer": {
+        "lift_date": "2025-07-16",
     "title": "I Know What You Did Last Summer",
     "base_rate": 42,  # base_rate=42: 系列均分（1997 ~43），重启版恐怖续集
     "n_final": 226,        # TODO 待定
@@ -975,6 +1096,7 @@ WATCHLIST = {
     },
 
     "happy_gilmore_2": {
+        "lift_date": "2025-07-25",
     "title": "Happy Gilmore 2",
     "base_rate": 62,  # base_rate=62: 前作 Happy Gilmore (1996) ~62，Sandler/Netflix 喜剧续集
     "n_final": 226,        # TODO 待定
@@ -985,6 +1107,7 @@ WATCHLIST = {
     },
 
     "elio": {
+        "lift_date": "2025-06-17",
     "title": "Elio",
     "base_rate": 78,  # base_rate=78: 皮克斯原创动画，皮克斯原创质量带
     "n_final": 226,        # TODO 待定
@@ -995,6 +1118,7 @@ WATCHLIST = {
     },
 
     "smurfs": {
+        "lift_date": "2025-07-16",
     "embargo_date": "2025-07-16",
     "title": "Smurfs",
     "base_rate": 40,  # base_rate=40: 蓝精灵系列历史偏低（前作真人版 ~20-40, 动画版 ~60），家庭动画取中低
@@ -1006,6 +1130,7 @@ WATCHLIST = {
     },
 
     "jurassic_world_rebirth": {
+        "lift_date": "2025-06-30",
     "embargo_date": "2025-06-30",
     "title": "Jurassic World Rebirth",
     "base_rate": 55,  # base_rate=55: 侏罗纪世界系列均分（近作 ~29-47），大片续集，导演 Gareth Edwards 略调高
@@ -1017,6 +1142,7 @@ WATCHLIST = {
     },
 
     "m3gan_2": {
+        "lift_date": "2025-06-25",
     "title": "M3GAN 2.0",
     "base_rate": 88,  # base_rate=88: 前作 M3GAN (2023) ~93，同 Blumhouse 续集，略降
     "n_final": 226,        # TODO 待定
@@ -1027,6 +1153,7 @@ WATCHLIST = {
     },
 
     "f1": {
+        "lift_date": "2025-06-17",
     "title": "F1",
     "base_rate": 82,  # base_rate=82: 无前作；导演 Joseph Kosinski（Top Gun Maverick ~96, Oblivion ~54），体育大片取中高
     "n_final": 226,        # TODO 待定
@@ -1037,6 +1164,7 @@ WATCHLIST = {
     },
 
     "materialists": {
+        "lift_date": "2025-06-09",
     "title": "Materialists",
     "base_rate": 84,  # base_rate=84: 无前作；导演 Celine Song（Past Lives ~95），A24 爱情剧情取中高
     "n_final": 226,        # TODO 待定
@@ -1047,6 +1175,7 @@ WATCHLIST = {
     },
 
     "28_years_later": {
+        "lift_date": "2025-06-18",
     "title": "28 Years Later",
     "base_rate": 85,  # base_rate=85: 28 系列（28 Days Later ~87, 28 Weeks Later ~72），导演 Danny Boyle 回归续集
     "n_final": 226,        # TODO 待定
@@ -1057,6 +1186,7 @@ WATCHLIST = {
     },
 
     "how_to_train_your_dragon": {
+        "lift_date": "2025-06-11",
         "embargo_date": "2025-06-11",
     "title": "How to Train Your Dragon",
     "base_rate": 77,  # base_rate=77: 前作动画三部曲极高（~98, ~92, ~90），迪士尼那批真人翻拍(狮子王、小美人鱼)普遍比动画原作降不少
@@ -1068,6 +1198,7 @@ WATCHLIST = {
     },
 
     "from_the_world_of_john_wick_ballerina": {
+        "lift_date": "2025-06-04",
     "title": "From the World of John Wick: Ballerina",
     "base_rate": 82,  # base_rate=82: John Wick 宇宙均分（系列 ~86-94），衍生动作片
     "n_final": 226,        # TODO 待定
@@ -1078,6 +1209,7 @@ WATCHLIST = {
     },
 
     "karate_kid_legends": {
+        "lift_date": "2025-05-28",
     "embargo_date": "2025-05-28",
     "title": "Karate Kid: Legends",
     "base_rate": 62,  # base_rate=62: 系列均分（2010 版 ~67, Cobra Kai 剧集高），动作续集
@@ -1089,6 +1221,7 @@ WATCHLIST = {
     },
 
     "fight_or_flight": {
+        "lift_date": "2025-05-09",
     "embargo_date": "2025-05-09",
     "title": "Fight or Flight",
     "base_rate": 60,  # base_rate=60: 无前作；动作喜剧类型历史均分兜底
@@ -1100,6 +1233,7 @@ WATCHLIST = {
     },
 
     "lilo_and_stitch": {
+        "lift_date": "2025-05-20",
     "title": "Lilo & Stitch",
     "base_rate": 62,  # base_rate=62: 迪士尼真人翻拍近期水位（原动画 ~86，翻拍普遍降至 60-70）
     "n_final": 226,        # TODO 待定
@@ -1110,6 +1244,7 @@ WATCHLIST = {
     },
 
     "final_destination_bloodlines": {
+        "lift_date": "2025-05-13",
     "title": "Final Destination: Bloodlines",
     "base_rate": 62,  # base_rate=62: 死神来了系列均分（1 ~72, 后续 ~40-60），恐怖续集，略调高（口碑回暖预期）
     "n_final": 226,        # TODO 待定
@@ -1120,6 +1255,7 @@ WATCHLIST = {
     },
 
     "mission_impossible_the_final_reckoning": {
+        "lift_date": "2025-05-14",
     "title": "Mission: Impossible – The Final Reckoning",
     "base_rate": 88,  # base_rate=88: 碟中谍近作均分（Fallout ~97, Dead Reckoning ~96），系列续集
     "n_final": 226,        # TODO 待定
@@ -1130,6 +1266,7 @@ WATCHLIST = {
     },
 
     "thunderbolts": {
+        "lift_date": "2025-04-29",
     "title": "Thunderbolts",
     "base_rate": 68,  # base_rate=68: 近期漫威 MCU 阶段水位（品控波动），超英团队片取中性
     "n_final": 226,        # TODO 待定
@@ -1140,6 +1277,7 @@ WATCHLIST = {
     },
 
     "the_accountant_2": {
+        "lift_date": "2025-03-09",
     "title": "The Accountant 2",
     "base_rate": 65,  # base_rate=65: 前作 The Accountant (2016) ~52，同 Gavin O'Connor/Affleck 续集，略调高
     "n_final": 226,        # TODO 待定
@@ -1150,6 +1288,7 @@ WATCHLIST = {
     },
 
     "clown_in_a_cornfield": {
+        "lift_date": "2025-03-11",
     "title": "Clown in a Cornfield",
     "base_rate": 65,  # base_rate=65: 无前作；恐怖小说改编，恐怖类型均分兜底
     "n_final": 226,        # TODO 待定
@@ -1160,6 +1299,7 @@ WATCHLIST = {
     },
 
     "sinners": {
+        "lift_date": "2025-04-10",
     "title": "Sinners",
     "base_rate": 88,  # base_rate=88: 无前作；导演 Ryan Coogler（Black Panther ~96, Creed ~95, Fruitvale ~94），近作均分极高
     "n_final": 226,        # TODO 待定
@@ -1170,6 +1310,7 @@ WATCHLIST = {
     },
 
     "warfare": {
+        "lift_date": "2025-03-28",
     "title": "Warfare",
     "base_rate": 82,  # base_rate=82: 无前作；导演 Alex Garland（Civil War ~83, Ex Machina ~92, Annihilation ~88），战争片取中高
     "n_final": 226,        # TODO 待定
@@ -1180,6 +1321,7 @@ WATCHLIST = {
     },
 
     "the_amateur": {
+        "lift_date": "2026-04-08",
     "embargo_date": "2026-04-08",
     "title": "The Amateur",
     "base_rate": 68,  # base_rate=68: 无直系前作（翻拍 1981）；导演 James Hawes（One Life ~85），惊悚动作取中性
@@ -1191,6 +1333,7 @@ WATCHLIST = {
     },
 
     "the_woman_in_the_yard": {
+        "lift_date": "2025-03-28",
     "title": "The Woman in the Yard",
     "base_rate": 55,  # base_rate=55: 无前作；导演 Jaume Collet-Serra（近作波动大），Blumhouse 恐怖取中性偏低
     "n_final": 226,        # TODO 待定
@@ -1201,6 +1344,7 @@ WATCHLIST = {
     },
 
     "last_breath": {
+        "lift_date": "2025-02-27",
     "title": "Last Breath",
     "base_rate": 78,  # base_rate=78: 无前作；改编自同名纪录片（~98），剧情惊悚取中高保守
     "n_final": 226,        # TODO 待定
@@ -1211,6 +1355,7 @@ WATCHLIST = {
     },
 
     "unbreakable_boy": {
+        "lift_date": "2025-02-19",
     "title": "Unbreakable Boy",
     "base_rate": 55,  # base_rate=55: 无前作；信仰/家庭剧情片类型均分（此类片影评普遍偏低）
     "n_final": 226,        # TODO 待定
@@ -1221,6 +1366,7 @@ WATCHLIST = {
     },
 
     "heart_eyes": {
+        "lift_date": "2025-01-31",
     "title": "Heart Eyes",
     "base_rate": 72,  # base_rate=72: 无前作；恐怖喜剧类型历史均分（Spooky/rom-com hybrid 近期口碑不错）
     "n_final": 226,        # TODO 待定
@@ -1231,6 +1377,7 @@ WATCHLIST = {
     },
 
     "dog_man": {
+        "lift_date": "2025-01-29",
     "title": "Dog Man",
     "base_rate": 72,  # base_rate=72: 无直系前作；DreamWorks/Captain Underpants 宇宙（~87），家庭动画取中高
     "n_final": 226,        # TODO 待定
@@ -1241,6 +1388,7 @@ WATCHLIST = {
     },
 
     "flight_risk": {
+        "lift_date": "2025-01-23",
     "title": "Flight Risk",
     "base_rate": 42,  # base_rate=42: 无前作；导演 Mel Gibson（Hacksaw Ridge ~84, 但惊悚片方向），动作惊悚取中低
     "n_final": 226,        # TODO 待定
@@ -1262,6 +1410,7 @@ WATCHLIST = {
     },
 
     "wolf_man": {
+        "lift_date": "2025-01-15",
     "title": "Wolf Man",
     "base_rate": 55,  # base_rate=55: 无直系前作；导演 Leigh Whannell（Invisible Man ~92, Upgrade ~88），恐怖取中性（怪物翻拍不确定）
     "n_final": 226,        # TODO 待定
@@ -1272,6 +1421,7 @@ WATCHLIST = {
     },
 
     "den_of_thieves_2": {
+        "lift_date": "2025-01-10",
     "embargo_date": "2025-01-10",
     "title": "Den of Thieves 2: Pantera",
     "base_rate": 62,  # base_rate=62: 前作 Den of Thieves (2018) ~41，同 Gerard Butler 犯罪续集，略调高
@@ -1283,6 +1433,7 @@ WATCHLIST = {
     },
 
     "sonic_the_hedgehog_3": {
+        "lift_date": "2024-12-18",
     "title": "Sonic The Hedgehog 3",
     "base_rate": 75,  # base_rate=75: 索尼克系列均分（1 ~63, 2 ~69），游戏改编续集，口碑上升趋势
     "n_final": 226,        # TODO 待定
@@ -1293,6 +1444,7 @@ WATCHLIST = {
     },
 
     "kraven_the_hunter": {
+        "lift_date": "2024-12-11",
     "title": "Kraven the Hunter",
     "base_rate": 40,  # base_rate=40: 索尼漫威宇宙（SSU）历史偏低（Morbius ~15, Madame Web ~11, Venom ~30-58），超英取中低
     "n_final": 226,        # TODO 待定
@@ -1303,6 +1455,7 @@ WATCHLIST = {
     },
 
     "a_complete_unknown": {
+        "lift_date": "2024-12-10",
     "title": "A Complete Unknown",
     "base_rate": 82,  # base_rate=82: 无前作；导演 James Mangold（Ford v Ferrari ~92, Walk the Line ~83, Logan ~94），音乐传记取中高
     "n_final": 226,        # TODO 待定
@@ -1313,6 +1466,7 @@ WATCHLIST = {
     },
 
     "lord_of_the_rings_war_of_the_rohirrim": {
+        "lift_date": "2024-12-09",
     "embargo_date": "2024-12-09",
     "title": "Lord of the Rings: War of the Rohirrim",
     "base_rate": 75,  # base_rate=75: 中土宇宙动画衍生；LOTR 电影历史极高但动画外传取中高保守
@@ -1324,6 +1478,7 @@ WATCHLIST = {
     },
 
     "nightbitch": {
+        "lift_date": "2024-09-08",
     "title": "Nightbitch",
     "base_rate": 68,  # base_rate=68: 无前作；导演 Marielle Heller（Can You Ever Forgive Me ~98, A Beautiful Day ~80），剧情取中高但题材不确定，保守
     "n_final": 226,        # TODO 待定
@@ -1334,6 +1489,7 @@ WATCHLIST = {
     },
 
     "red_one": {
+        "lift_date": "2024-11-06",
     "title": "Red One",
     "base_rate": 58,  # base_rate=58: 无前作；节日动作喜剧类型历史均分（大成本合家欢近期口碑偏低）
     "n_final": 226,        # TODO 待定
@@ -1344,6 +1500,7 @@ WATCHLIST = {
     },
 
     "the_best_christmas_pageant_ever": {
+        "lift_date": "2024-11-07",
     "embargo_date": "2024-11-07",
     "title": "The Best Christmas Pageant Ever",
     "base_rate": 72,  # base_rate=72: 无前作；家庭/信仰节日剧情类型均分（Kingdom Story 出品，略调高）
@@ -1366,6 +1523,7 @@ WATCHLIST = {
     },
 
     "venom_the_last_dance": {
+        "lift_date": "2024-10-23",
     "title": "Venom: The Last Dance",
     "base_rate": 45,  # base_rate=45: 毒液系列均分（1 ~30, 2 ~57），SSU 续集
     "n_final": 226,        # TODO 待定
@@ -1376,6 +1534,7 @@ WATCHLIST = {
     },
 
     "the_wild_robot": {
+        "lift_date": "2024-09-08",
         "embargo_date": "2024-09-08",
     "title": "The Wild Robot",
     "base_rate": 92,  # base_rate=92: 无前作；DreamWorks 原创动画（近作 Puss in Boots 2 ~95），高口碑动画带
@@ -1387,6 +1546,7 @@ WATCHLIST = {
     },
 
     "smile_2": {
+        "lift_date": "2024-10-16",
     "title": "Smile 2",
     "base_rate": 82,  # base_rate=82: 前作 Smile (2022) ~79，同班底恐怖续集，略调高
     "n_final": 226,        # TODO 待定
@@ -1397,6 +1557,7 @@ WATCHLIST = {
     },
 
     "terrifier_3": {
+        "lift_date": "2024-09-20",
     "embargo_date": "2024-09-20",
     "title": "Terrifier 3",
     "base_rate": 78,  # base_rate=78: 系列均分（Terrifier 2 ~85），Cult 恐怖续集
@@ -1408,6 +1569,7 @@ WATCHLIST = {
     },
 
     "speak_no_evil": {
+        "lift_date": "2024-09-09",
     "title": "Speak No Evil",
     "base_rate": 72,  # base_rate=72: 翻拍自 2022 丹麦版（~85），Blumhouse 惊悚，取中性偏高
     "n_final": 226,        # TODO 待定
@@ -1418,6 +1580,7 @@ WATCHLIST = {
     },
 
     "beetlejuice_beetlejuice": {
+        "lift_date": "2024-08-28",
     "title": "Beetlejuice Beetlejuice",
     "base_rate": 76,  # base_rate=76: 前作 Beetlejuice (1988) ~85，Tim Burton 直系续集，略降
     "n_final": 226,        # TODO 待定
@@ -1428,6 +1591,7 @@ WATCHLIST = {
     },
 
     "reagan": {
+        "lift_date": "2024-08-30",
         "embargo_date": "2024-08-30",
     "title": "Reagan",
     "base_rate": 40,  # base_rate=40: 无前作；政治传记片（此类党派题材影评普遍两极偏低）
@@ -1439,6 +1603,7 @@ WATCHLIST = {
     },
 
     "trap": {
+        "lift_date": "2024-08-01",
     "title": "Trap",
     "base_rate": 62,  # base_rate=62: 无直系前作；导演 M. Night Shyamalan 近作波动大（Old ~50, Knock at the Cabin ~68），惊悚取中性
     "n_final": 226,        # TODO 待定
@@ -1449,6 +1614,7 @@ WATCHLIST = {
     },
 
     "twisters": {
+        "lift_date": "2024-07-10",
     "title": "Twisters",
     "base_rate": 72,  # base_rate=72: 前作 Twister (1996) ~65，导演 Lee Isaac Chung（Minari ~98），灾难续集取中高
     "n_final": 226,        # TODO 待定
@@ -1459,6 +1625,7 @@ WATCHLIST = {
     },
 
     "transformers_one": {
+        "lift_date": "2024-09-12",
     "title": "Transformers One",
     "base_rate": 65,  # base_rate=65: 变形金刚系列均分（真人片 ~15-57），但动画前传+好评预期，大幅调高
     "n_final": 226,        # TODO 待定
@@ -1469,6 +1636,7 @@ WATCHLIST = {
     },
 
     "fly_me_to_the_moon": {
+        "lift_date": "2024-07-09",
     "embargo_date": "2024-07-09",
     "title": "Fly Me to the Moon",
     "base_rate": 70,  # base_rate=70: 无前作；导演 Greg Berlanti（Love, Simon ~92），爱情喜剧剧情取中高
@@ -1480,6 +1648,7 @@ WATCHLIST = {
     },
 
     "despicable_me_4": {
+        "lift_date": "2024-06-20",
     "embargo_date": "2024-06-20",
     "title": "Despicable Me 4",
     "base_rate": 68,  # base_rate=68: 神偷奶爸系列均分（1 ~81, 2 ~59, 3 ~59），照明动画续集
@@ -1491,6 +1660,7 @@ WATCHLIST = {
     },
 
     "a_quiet_place_day_one": {
+        "lift_date": "2024-06-26",
     "title": "A Quiet Place: Day One",
     "base_rate": 88,  # base_rate=88: 寂静之地系列（1 ~96, 2 ~91），衍生前传，取系列水位保守
     "n_final": 226,        # TODO 待定
@@ -1501,6 +1671,7 @@ WATCHLIST = {
     },
 
     "inside_out_2": {
+        "lift_date": "2024-06-12",
     "title": "Inside Out 2",
     "base_rate": 90,  # base_rate=90: 头脑特工队 1 (~98)，皮克斯续集，取保守
     "n_final": 226,        # TODO 待定
@@ -1511,6 +1682,7 @@ WATCHLIST = {
     },
 
     "the_watchers": {
+        "lift_date": "2024-06-06",
     "title": "The Watchers",
     "base_rate": 55,  # base_rate=55: 无前作；导演 Ishana Night Shyamalan 处女作，恐怖类型均分兜底
     "n_final": 226,        # TODO 待定
@@ -1521,6 +1693,7 @@ WATCHLIST = {
     },
 
     "the_fall_guy": {
+        "lift_date": "2024-03-13",
     "title": "The Fall Guy",
     "base_rate": 78,  # base_rate=78: 无前作；导演 David Leitch（Bullet Train ~54, Atomic Blonde ~78, Deadpool 2 ~85），动作喜剧取中高
     "n_final": 226,        # TODO 待定
@@ -1531,6 +1704,7 @@ WATCHLIST = {
     },
 
     "kingdom_of_the_planet_of_the_apes": {
+        "lift_date": "2024-05-08",
     "title": "Kingdom of the Planet of the Apes",
     "base_rate": 82,  # base_rate=82: 猩球崛起系列均分（近三部 ~82-94），系列续集
     "n_final": 226,        # TODO 待定
@@ -1541,6 +1715,7 @@ WATCHLIST = {
     },
 
     "civil_war": {
+        "lift_date": "2024-03-15",
     "title": "Civil War",
     "base_rate": 85,  # base_rate=85: 无前作；导演 Alex Garland（Ex Machina ~92, Annihilation ~88, Men ~68），A24 剧情取中高
     "n_final": 226,        # TODO 待定
@@ -1551,6 +1726,7 @@ WATCHLIST = {
     },
 
     "challengers": {
+        "lift_date": "2024-04-12",
     "title": "Challengers",
     "base_rate": 85,  # base_rate=85: 无前作；导演 Luca Guadagnino（Call Me by Your Name ~94, Bones and All ~82, Suspiria ~65），剧情取中高
     "n_final": 226,        # TODO 待定
@@ -1561,6 +1737,7 @@ WATCHLIST = {
     },
 
     "kinds_of_kindness": {
+        "lift_date": "2024-05-17",
     "title": "Kinds of Kindness",
     "base_rate": 82,  # base_rate=82: 无直系前作；导演 Yorgos Lanthimos（Poor Things ~92, The Favourite ~93, The Lobster ~87），剧情取中高
     "n_final": 226,        # TODO 待定
@@ -1571,6 +1748,7 @@ WATCHLIST = {
     },
 
     "alien_romulus": {
+        "lift_date": "2024-08-14",
     "title": "Alien: Romulus",
     "base_rate": 72,  # base_rate=72: 异形系列均分（波动大 ~63-98），导演 Fede Álvarez（Evil Dead ~63, Don't Breathe ~88），取中高
     "n_final": 226,        # TODO 待定
@@ -1592,6 +1770,7 @@ WATCHLIST = {
     },
 
     "furiosa": {
+        "lift_date": "2024-05-15",
     "title": "Furiosa",
     "base_rate": 88,  # base_rate=88: 前作 Mad Max: Fury Road (2015) ~97，同 George Miller 前传，取保守
     "n_final": 226,        # TODO 待定
@@ -1602,6 +1781,7 @@ WATCHLIST = {
     },
 
     "blitz": {
+        "lift_date": "2024-10-09",
     "title": "Blitz",
     "base_rate": 78,  # base_rate=78: 无前作；导演 Steve McQueen（12 Years a Slave ~95, Small Axe 高分），战争剧情取中高
     "n_final": 226,        # TODO 待定
@@ -1612,6 +1792,7 @@ WATCHLIST = {
     },
 
     "godzilla_x_kong_the_new_empire": {
+        "lift_date": "2024-03-28",
     "embargo_date": "2024-03-28",
     "title": "Godzilla X Kong: The New Empire",
     "base_rate": 55,  # base_rate=55: 怪兽宇宙均分（GvK ~76, Godzilla 2014 ~76, KotM ~42），大片续集取中性
@@ -1623,6 +1804,7 @@ WATCHLIST = {
     },
 
     "the_first_omen": {
+        "lift_date": "2024-04-04",
     "title": "The First Omen",
     "base_rate": 60,  # base_rate=60: 凶兆系列（原作 ~86），前传恐怖片取中性
     "n_final": 226,        # TODO 待定
@@ -1633,6 +1815,7 @@ WATCHLIST = {
     },
 
     "ghostbusters_frozen_empire": {
+        "lift_date": "2024-03-20",
     "title": "Ghostbusters: Frozen Empire",
     "base_rate": 55,  # base_rate=55: 捉鬼敢死队系列均分（Afterlife ~63, 2016 ~74），续集取中性
     "n_final": 226,        # TODO 待定
@@ -1643,6 +1826,7 @@ WATCHLIST = {
     },
 
     "joker_folie_a_deux": {
+        "lift_date": "2024-09-04",
     "title": "Joker: Folie à Deux",
     "base_rate": 68,  # base_rate=68: 前作 Joker (2019) ~68，直系续集（同 Todd Phillips/Phoenix），取前作值
     "n_final": 226,        # TODO 待定
@@ -1653,6 +1837,7 @@ WATCHLIST = {
     },
 
     "gladiator_2": {
+        "lift_date": "2024-11-11",
     "title": "Gladiator 2",
     "base_rate": 78,  # base_rate=78: 前作 Gladiator (2000) ~80，导演 Ridley Scott 直系续集，略降
     "n_final": 226,        # TODO 待定
@@ -1663,6 +1848,8 @@ WATCHLIST = {
     },
 
     "deadpool_and_wolverine": {
+        "lift_date": "2024-07-23",
+    "embargo_date": "2024-07-23",
     "title": "Deadpool & Wolverine",
     "base_rate": 78,  # base_rate=78: 死侍系列均分（1 ~85, 2 ~84），MCU 续集取中高
     "n_final": 226,        # TODO 待定

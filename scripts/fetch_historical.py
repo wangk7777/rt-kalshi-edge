@@ -37,7 +37,7 @@ def main():
         )
 
     print(f"🚀 抓取历史片 {m['title']} 的全量评论（存 historical）...\n")
-    reviews = fetch_reviews(m["rt_movie_id"])   # 复用同一个抓取能力
+    reviews = fetch_reviews(m["rt_movie_id"], movie_slug=args.movie)   # movie_key 即 URL slug
 
     path = save_reviews_historical(args.movie, reviews)
     print(f"\n💾 已存档 {len(reviews)} 条评论到: {path}")

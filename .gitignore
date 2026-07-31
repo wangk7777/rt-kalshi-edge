@@ -12,3 +12,12 @@ venv/
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# 环境变量文件
+/.env
+
+# Kalshi 交易私钥
+/rt-kalshi-monitor-private-key.txt
+
+# 回测数据文件
+data/backtest/orderbooks_merged.json

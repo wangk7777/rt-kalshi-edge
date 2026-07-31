@@ -14,52 +14,65 @@
 from __future__ import annotations
 
 import datetime
-import html   # 标准库：把 HTML 实体（&#44; &quot; 等）解码回正常标点
+import html
 import json
 import os
 import time
 
 import requests
 
-# 伪装成正常浏览器，否则 RT 可能拒绝脚本请求
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
-}
-
-# 评论快照目录（按片分子文件夹）
+# RT 数据目录
 SNAPSHOTS_DIR = os.path.join("data", "snapshots")
-# 历史片全量存档目录
 HISTORICAL_DIR = os.path.join("data", "historical")
 
+MAX_PAGE_RETRY = 4
+RETRY_WAIT = 15        # 限速类错误的重试等待（秒）
 
-def fetch_reviews(rt_movie_id: str) -> list[dict]:
+# 可选：防爬 cookie。若纯 Referer 不够（还 401），从浏览器复制那个防爬 cookie 填这里。
+# 注意：这种 cookie 会过期，过期后需重新复制。留空则不带 cookie。
+RT_COOKIE = "eXr91Jra=A13VfeeeAQAAVGSpo4fI8KIpyTQDso2r-4pVOn4XkbRy3ht219VrVxGekUX1AWu-_oSucsiSwH8AAEB3AAAAAA|1|1|37dd44b577a16c2a9df3cfe27c522cdbbb083ac9"
+
+
+def _build_headers(movie_slug: str | None) -> dict:
+    """构造请求头。关键是 Referer 指向该电影评论页。"""
+    referer = "https://www.rottentomatoes.com/"
+    if movie_slug:
+        referer = f"https://www.rottentomatoes.com/m/{movie_slug}/reviews"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/120.0.0.0 Safari/537.36",
+        "Referer": referer,
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin",
+    }
+    if RT_COOKIE:
+        headers["Cookie"] = RT_COOKIE
+    return headers
+
+
+def fetch_reviews(rt_movie_id: str, movie_slug: str | None = None) -> list[dict]:
     """
-    抓某部电影所有影评人评论，自动翻页，返回评论列表。
-
-    rt_movie_id: 这部片的 RT 内部 UUID。
-    返回：每条评论是个 dict，含以下字段：
-      critic        影评人名
-      is_top_critic 是否顶级影评人（顶级影评人意见权重高，可能领导风向）
-      media         媒体名
-      sentiment     Fresh/Rotten（RT 官方判定，结算口径就看这个）
-      score         原始打分（如 "8/10" "B" "4/5"），换算交给分析层
-      date          发布时间（ISO 字符串，如 "2026-06-21T18:41:17.000Z"）
-      quote         评论原文（已 HTML 解码）
-      url           评论原文链接（溯源用）
+    抓某部电影所有影评人评论，自动翻页。
+    rt_movie_id: RT 内部 UUID。
+    movie_slug:  电影 URL slug（如 'toy_story_5'），用于构造 Referer。
+                 强烈建议传入 movie_key，否则可能 401。
     """
     base_url = (
         f"https://www.rottentomatoes.com/napi/rtcf/v1/movies/"
         f"{rt_movie_id}/reviews"
     )
+    headers = _build_headers(movie_slug)
 
     all_reviews: list[dict] = []
+    has_next = True
     cursor = ""
     page_num = 0
-    MAX_PAGE_RETRY = 4       # 单页最多重试次数
-    RETRY_WAIT = 15          # 每次重试等待秒数
 
-    while True:
+    while has_next:
         page_num += 1
         params = {
             "type": "critic",
@@ -69,42 +82,45 @@ def fetch_reviews(rt_movie_id: str) -> list[dict]:
         if cursor:
             params["after"] = cursor
 
-        # 单页带重试：限速导致的异常返回会重试，而不是静默停止
+        # 带重试的请求：401/403 认证问题不重试；限速/超时才重试
+        attempt = 0
         data = None
-        for attempt in range(1, MAX_PAGE_RETRY + 1):
+        while True:
+            attempt += 1
             try:
-                resp = requests.get(base_url, headers=HEADERS, params=params, timeout=15)
+                resp = requests.get(base_url, headers=headers, params=params, timeout=15)
                 resp.raise_for_status()
-                d = resp.json()
-            except Exception as e:
+                data = resp.json()
+                break
+            except requests.HTTPError as e:
+                code = e.response.status_code if e.response is not None else None
+                if code in (401, 403):
+                    # 认证被拒，重试无用，直接报错并给出诊断
+                    raise RuntimeError(
+                        f"第{page_num}页 {code} 认证被拒 —— RT 要求有效的 Referer/Cookie。\n"
+                        f"  已带 Referer: {headers.get('Referer')}\n"
+                        f"  是否带 Cookie: {'是' if 'Cookie' in headers else '否'}\n"
+                        f"  若纯 Referer 不够，请设环境变量 RT_COOKIE=从浏览器复制的防爬cookie。\n"
+                        f"  已抓 {len(all_reviews)} 条。原始错误: {e}"
+                    )
+                # 其它 HTTP 错误（如 429 限速）走重试
                 if attempt >= MAX_PAGE_RETRY:
                     raise RuntimeError(
                         f"第{page_num}页请求失败{MAX_PAGE_RETRY}次（疑似限速），"
                         f"抓取中断，已抓{len(all_reviews)}条: {e}"
                     )
-                print(f"  ⚠ 第{page_num}页请求异常，{RETRY_WAIT}秒后重试({attempt}/{MAX_PAGE_RETRY})")
+                print(f"  ⚠ 第{page_num}页 HTTP {code}，{RETRY_WAIT}秒后重试({attempt}/{MAX_PAGE_RETRY})")
                 time.sleep(RETRY_WAIT)
-                continue
-
-            # 关键：检查返回结构是否完整。
-            # 限速时 RT 可能返回 200 + 残缺内容（没有 pageInfo），
-            # 旧代码会误判 has_next=False 静默停止 —— 这正是 deadpool 漏抓的原因。
-            reviews = d.get("reviews")
-            page_info = d.get("pageInfo")
-            if reviews is None or page_info is None:
+            except (requests.RequestException, ValueError) as e:
+                # 网络异常/JSON解析失败，也重试
                 if attempt >= MAX_PAGE_RETRY:
                     raise RuntimeError(
-                        f"第{page_num}页返回结构异常{MAX_PAGE_RETRY}次（疑似限速），"
-                        f"抓取中断，已抓{len(all_reviews)}条"
+                        f"第{page_num}页请求失败{MAX_PAGE_RETRY}次，"
+                        f"抓取中断，已抓{len(all_reviews)}条: {e}"
                     )
-                print(f"  ⚠ 第{page_num}页返回残缺，{RETRY_WAIT}秒后重试({attempt}/{MAX_PAGE_RETRY})")
+                print(f"  ⚠ 第{page_num}页请求异常，{RETRY_WAIT}秒后重试({attempt}/{MAX_PAGE_RETRY})")
                 time.sleep(RETRY_WAIT)
-                continue
 
-            data = d
-            break   # 这一页正常拿到
-
-        # 解析这一页
         for r in data.get("reviews", []):
             sentiment = r.get("scoreSentiment")
             critic = r.get("critic", {}) or {}
@@ -121,27 +137,20 @@ def fetch_reviews(rt_movie_id: str) -> list[dict]:
                 "url": r.get("publicationReviewUrl", ""),
             })
 
-        page_info = data["pageInfo"]
+        page_info = data.get("pageInfo", {})
         has_next = page_info.get("hasNextPage", False)
         cursor = page_info.get("endCursor", "")
 
         print(f"  已抓取 {len(all_reviews)} 条...")
         time.sleep(0.5)
 
-        if not has_next:
-            break   # 只有明确 hasNextPage=False 才正常结束
-
     return all_reviews
 
 
 def save_reviews(movie_key: str, reviews: list[dict]) -> str:
-    """
-    存【每日快照】（金标准）：正在进行的片，每天一份。
-    路径 data/snapshots/{片}/{日期}.json
-    """
     folder = os.path.join(SNAPSHOTS_DIR, movie_key)
     os.makedirs(folder, exist_ok=True)
-    today = datetime.date.today().isoformat()  # 例如 2026-06-21
+    today = datetime.date.today().isoformat()
     path = os.path.join(folder, f"{today}.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(reviews, f, ensure_ascii=False, indent=4)
@@ -149,12 +158,6 @@ def save_reviews(movie_key: str, reviews: list[dict]) -> str:
 
 
 def save_reviews_historical(movie_key: str, reviews: list[dict]) -> str:
-    """
-    存【历史片全量】（切片重建用）：已结算的片，抓一次全量。
-    路径 data/historical/{片}_fullpull.json（不带日期戳）。
-    历史片是固定的历史事实，重抓直接覆盖，不保留多个时间版本。
-    文件名带 fullpull 标记，和金标准快照区分开——回测时知道这是重建数据。
-    """
     os.makedirs(HISTORICAL_DIR, exist_ok=True)
     path = os.path.join(HISTORICAL_DIR, f"{movie_key}_fullpull.json")
     with open(path, "w", encoding="utf-8") as f:
