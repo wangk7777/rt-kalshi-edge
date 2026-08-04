@@ -11,7 +11,7 @@
 公平价、edge 留到回测本体里算（那时才代入不同 drift/prior 扫参数）。
 这样 samples.csv 是个不依赖参数的"事实表"，可反复用于不同回测实验。
 
-用法：py -m scripts.build_samples
+用法：py -m scripts.backtest.build_samples
 输出：data/backtest/samples.csv
 """
 
@@ -73,7 +73,7 @@ def slice_at(reviews, cutoff_dt):
     if not valid:
         return None, 0
     fresh = sum(1 for r in valid if is_fresh(r))
-    return round(fresh / len(valid) * 100, 2), len(valid)
+    return round(fresh / len(valid) * 100), len(valid)
 
 
 def price_at(candles, target_dt, max_gap_hours=MAX_PRICE_GAP_HOURS):
@@ -141,7 +141,6 @@ def main():
             n_first_day = sum(1 for d in dates if d.date() == first_day)
             if n_first_day == 1:
                 # 首日孤儿：解禁日 = 次日（第一条评论之后那天）
-                from datetime import timedelta
                 next_day = first_day + timedelta(days=1)
                 lift_date = parse_dt(next_day.isoformat() + "T00:00:00Z")
             else:

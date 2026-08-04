@@ -5,8 +5,8 @@
 （它们格式一样，都是评论列表）。
 
 用法：
-    py -m scripts.show_report data/snapshots/toy_story_5/2026-06-21.json
-    py -m scripts.show_report data/historical/zootopia_2_fullpull_2026-06-22.json
+    py -m scripts.archive_old.show_report data/snapshots/toy_story_5/2026-06-21.json
+    py -m scripts.archive_old.show_report data/historical/zootopia_2_fullpull_2026-06-22.json
 """
 
 from __future__ import annotations

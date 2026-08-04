@@ -2,9 +2,9 @@
 命令行入口：给一部电影跑模型，打印做多/做空的 edge 表和推荐。
 
 用法示例（在项目根目录运行）：
-    py -m scripts.run_analysis --movie toy_story_5 --score 96 --reviews 45
-    py -m scripts.run_analysis --movie toy_story_5 --score 96 --reviews 45 --side short
-    py -m scripts.run_analysis --movie toy_story_5 --score 96 --reviews 45 --drift 4
+    py -m scripts.archive_old.run_analysis --movie toy_story_5 --score 96 --reviews 45
+    py -m scripts.archive_old.run_analysis --movie toy_story_5 --score 96 --reviews 45 --side short
+    py -m scripts.archive_old.run_analysis --movie toy_story_5 --score 96 --reviews 45 --drift 4
 
 现阶段烂番茄分数和评论数要手动传入（或先跑 fetch_reviews 拿到）。
 模型参数(drift/base_rate/prior/n_final)可用命令行临时覆盖，不给就用 config 里的。

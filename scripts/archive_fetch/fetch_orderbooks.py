@@ -5,8 +5,8 @@
 存各档 price/size（算滑点用）+ best bid/ask + depth。
 
 用法：
-  py -m scripts.fetch_orderbooks                          # 全量（断点续传，已存在的跳过）
-  py -m scripts.fetch_orderbooks --movie minions_and_monsters   # 只抓一部，强制重抓覆盖
+  py -m scripts.archive_fetch.fetch_orderbooks                          # 全量（断点续传，已存在的跳过）
+  py -m scripts.archive_fetch.fetch_orderbooks --movie minions_and_monsters   # 只抓一部，强制重抓覆盖
 
 API key 从项目根 .env 读取（PREDEXON_API_KEY=...）
 """

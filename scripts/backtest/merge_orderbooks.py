@@ -6,7 +6,7 @@
 - 跳过空文件（如 minions_and_monsters）
 - 结构：{ movie_key: { settle_date, final_score, markets: { ticker: {floor,result,hourly_snapshots} } } }
 
-用法：py -m scripts.merge_orderbooks
+用法：py -m scripts.backtest.merge_orderbooks
 """
 
 import json

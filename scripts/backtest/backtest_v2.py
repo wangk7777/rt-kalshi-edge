@@ -8,7 +8,7 @@
   3. 【样本外】(2026) 留作最终检验。
 目标：看调参数能不能把 v1 发现的"系统性高估"校准掉。
 
-用法：py -m scripts.backtest_v2
+用法：py -m scripts.backtest.backtest_v2
 """
 
 from __future__ import annotations

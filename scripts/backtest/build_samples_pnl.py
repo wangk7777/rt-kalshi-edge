@@ -7,7 +7,7 @@ PnL专用数据集：每部片 × 每根小时candle × 每门槛 = 一行。
   - 评论切片按candle的精确时间戳切（不是切到当天23:59）
   - 输出 samples_pnl.csv（旧的 samples.csv 保留给参数校准）
 
-用法：py -m scripts.build_samples_pnl
+用法：py -m scripts.backtest.build_samples_pnl
 输出：data/backtest/samples_pnl.csv
 """
 
@@ -150,7 +150,7 @@ def main():
                     ptr += 1
                 if total == 0:
                     continue   # 那一刻还没评论
-                score = round(fresh / total * 100, 2)
+                score = round(fresh / total * 100)
 
                 yes_ask = c.get("yes_ask")
                 yes_bid = c.get("yes_bid")

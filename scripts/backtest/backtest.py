@@ -3,7 +3,7 @@
 按 n 分层输出 Brier 分数和校准曲线，回答"模型概率准不准"。
 所有 print 的完整报告会原封不动存进 results/report_时间戳.txt。
 
-用法：py -m scripts.backtest
+用法：py -m scripts.backtest.backtest
 """
 
 from __future__ import annotations

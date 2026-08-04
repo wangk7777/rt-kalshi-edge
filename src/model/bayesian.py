@@ -112,7 +112,7 @@ def run_model(inp: ModelInputs, n_sims: int = 200_000, seed: int | None = 42) ->
 
     # 然后再除以总评论数换算成百分比的好评率
     # 得到一个包含 20 万个分数的数组（比如 [94.5, 96.2, 91.8, ...]）。
-    final_scores = final_fresh / inp.n_final * 100   # 换算成百分比
+    final_scores = np.round(final_fresh / inp.n_final * 100)   # 换算成百分比
 
     # 把结果打包成 ModelResult 返回。.mean()/.std() 是 numpy 数组自带的求均值/标准差。
     return ModelResult(

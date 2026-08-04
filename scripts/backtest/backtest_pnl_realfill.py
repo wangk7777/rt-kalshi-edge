@@ -7,7 +7,7 @@
 - 一片一注、持有到期、固定100张
 - 同时输出：理想成交(best price) vs 真实成交(逐档) 对比
 
-用法：py -m scripts.backtest_pnl_realfill
+用法：py -m scripts.backtest.backtest_pnl_realfill
 """
 
 import json
@@ -17,23 +17,25 @@ from datetime import datetime, timezone, timedelta
 from src import config
 from src.model.bayesian import ModelInputs, run_model
 
-# ---------- 参数（沿用第二版验证好的重力策略）----------
-DRIFT = 0.0
-PRIOR_STRENGTH = 20.0
-N_SIMS = 50_000
-N_MIN = 80
-WIN_PROB_MIN = 0.80
-WIN_PROB_MAX = 0.92
-PRICE_MAX = 90
-EDGE_MIN = 5
-EDGE_MAX = 10
+# ---------- 参数----------
+_p = config.get_strategy_params()   # 纯默认
+DRIFT = _p["DRIFT"]
+PRIOR_STRENGTH = _p["PRIOR_STRENGTH"]
+N_MIN = _p["N_MIN"]
+WIN_PROB_MIN = _p["WIN_PROB_MIN"]
+WIN_PROB_MAX = _p["WIN_PROB_MAX"]
+PRICE_MAX = _p["PRICE_MAX"]
+EDGE_MIN = _p["EDGE_MIN"]
+EDGE_MAX = _p["EDGE_MAX"]
+SPREAD_MAX = _p["SPREAD_MAX"]
+N_SIMS = _p["N_SIMS"]
+
 CONTRACTS = 100
 INITIAL_CAPITAL = 1000.0
-SPREAD_MAX = 5           # best_ask - best_bid 上限（真实盘口价差）
 DIRECTION = "both"          # both / yes_only / no_only
 # ---------- n_final 开关 ----------
-USE_FIXED_N_FINAL = False    # True=用下面的固定估计值（模拟实盘）; False=用真实n_final（回测上帝视角）
-FIXED_N_FINAL = 200         # USE_FIXED_N_FINAL=True 时，所有片统一用这个估计值
+USE_FIXED_N_FINAL = False     # True=用下面的固定估计值（模拟实盘）; False=用真实n_final（回测上帝视角）
+FIXED_N_FINAL = 400         # USE_FIXED_N_FINAL=True 时，所有片统一用这个估计值
 # ---------- 避开压线门槛 ----------
 AVOID_BOUNDARY = False       # True=跳过预测最终分接近门槛的合约
 BOUNDARY_MARGIN = 1         # 预测最终分距门槛±此值内视为压线，跳过
@@ -84,7 +86,7 @@ def score_n_at(reviews_sorted, cutoff_dt):
             break
     if n == 0:
         return None, 0
-    return round(fresh / n * 100, 2), n
+    return round(fresh / n * 100), n
 
 
 # ---------- 逐档吃单（滑点核心）----------
@@ -237,6 +239,7 @@ def main():
                 candidate.update({
                     "movie": movie_key, "time": hk, "floor": floor, "ticker": ticker,
                     "n": n, "score": score, "final_score": mdata.get("final_score"),
+                    "predicted_final": predicted_final,
                     "settle_date": mdata.get("settle_date"),
                     "yes_bid": yes_bid, "yes_ask": yes_ask,
                 })
@@ -360,7 +363,7 @@ def main():
     with open(csv_path, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)
         w.writerow(["电影", "时刻", "门槛", "方向", "模型胜率", "edge",
-                    "真实买价", "滑点", "价差", "决策n", "score",
+                    "真实买价", "滑点", "价差", "决策n", "score", "预测最终分",
                     "最终分", "yes_bid", "yes_ask", "是否赢", "真实盈亏", "settle"])
         for t, pnl in real_detail:
             w.writerow([
@@ -369,7 +372,7 @@ def main():
                 f"{t['real_cost']:.2f}",
                 f"{t['real_cost']-t['ideal_cost']:+.2f}",
                 f"{t['yes_ask']-t['yes_bid']:.0f}",
-                t["n"], t["score"], t.get("final_score", ""),
+                t["n"], t["score"], f"{t['predicted_final']:.1f}", t.get("final_score", ""),
                 f"{t['yes_bid']:.0f}", f"{t['yes_ask']:.0f}",
                 "赢" if t["won"] else "输", f"{pnl:+.0f}", t["settle_date"],
             ])

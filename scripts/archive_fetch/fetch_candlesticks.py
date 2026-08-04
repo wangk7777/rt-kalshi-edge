@@ -16,7 +16,7 @@ data/historical_candlesticks/{片}.json，供 edge 回测用。
   3. 对每个门槛拉 candlesticks
   4. 全部组装存进一个 json（自包含：答案 + 所有门槛K线）
 
-用法：py -m scripts.fetch_candlesticks --movie primate
+用法：py -m scripts.archive_fetch.fetch_candlesticks --movie primate
 """
 
 from __future__ import annotations

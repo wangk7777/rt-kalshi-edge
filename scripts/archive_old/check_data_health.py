@@ -2,7 +2,7 @@
 回测前数据体检：遍历所有历史片，检查评论 + 盘口数据的完整性和质量。
 在回测前跑一次，把脏数据揪出来，别让数据问题伪装成模型结论。
 
-用法：py -m scripts.check_data_health
+用法：py -m scripts.archive_old.check_data_health
 """
 
 from __future__ import annotations

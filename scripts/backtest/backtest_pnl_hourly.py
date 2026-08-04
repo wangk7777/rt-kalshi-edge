@@ -7,7 +7,7 @@ PnL 策略1（持有到期）：每小时数据集，模拟真实盯盘交易。
   - 一片一注：第一次满足的时刻，选 edge 最大的门槛下注
   - 持有到期，固定100张，结算时刻 = settle_date 14:00 UTC
 
-用法：py -m scripts.backtest_pnl_hourly
+用法：py -m scripts.backtest.backtest_pnl_hourly
 切样本外：HOLDOUT_ONLY = True
 """
 
@@ -22,22 +22,24 @@ from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 
 from src.model.bayesian import ModelInputs, run_model
-
+from src import config
 SAMPLES_PATH = os.path.join("data", "backtest", "samples_pnl.csv")
 HISTORICAL_DIR = os.path.join("data", "historical")
 RESULTS_DIR = os.path.join("data", "backtest", "results", "pnl")
 
 # ==== 参数 ====
-DRIFT = 0.0
-PRIOR_STRENGTH = 20.0
-N_SIMS = 50_000
-N_MIN = 80
-WIN_PROB_MIN = 0.80      
-WIN_PROB_MAX = 1.00
-PRICE_MAX = 90
-EDGE_MIN = 5
-EDGE_MAX = 10
-SPREAD_MAX = 5
+_p = config.get_strategy_params()   # 纯默认
+DRIFT = _p["DRIFT"]
+PRIOR_STRENGTH = _p["PRIOR_STRENGTH"]
+N_MIN = _p["N_MIN"]
+WIN_PROB_MIN = _p["WIN_PROB_MIN"]
+WIN_PROB_MAX = _p["WIN_PROB_MAX"]
+PRICE_MAX = _p["PRICE_MAX"]
+EDGE_MIN = _p["EDGE_MIN"]
+EDGE_MAX = _p["EDGE_MAX"]
+SPREAD_MAX = _p["SPREAD_MAX"]
+N_SIMS = _p["N_SIMS"]
+
 VOLUME_MIN = 1000
 DIRECTION = "both"       # "both" yes合约no合约都买/ "yes_only" / "no_only"
 CONTRACTS = 100

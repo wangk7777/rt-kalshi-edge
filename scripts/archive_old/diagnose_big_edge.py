@@ -4,7 +4,7 @@
 
 独立诊断脚本，不做交易模拟。扫全部样本（不受PnL交易规则限制）。
 
-用法：py -m scripts.diagnose_big_edge
+用法：py -m scripts.archive_old.diagnose_big_edge
 """
 
 from __future__ import annotations

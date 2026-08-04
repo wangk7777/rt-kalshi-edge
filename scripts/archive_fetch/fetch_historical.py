@@ -10,7 +10,7 @@
 抓回来的是【当前全量】评论。回测时靠每条的 createDate 切片重建历史时点，
 所以这里只管原原本本全量存档，不做切片。
 
-用法：py -m scripts.fetch_historical --movie zootopia_2
+用法：py -m scripts.archive_fetch.fetch_historical --movie zootopia_2
 """
 
 from __future__ import annotations

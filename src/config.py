@@ -5,14 +5,44 @@
 
 from __future__ import annotations
 
-# ===== 决策设置（对所有电影通用）=====
-MIN_EDGE = 5.0     # 至少要有几美分的 edge 才行动（你的安全垫）。想激进就调低，想保守就调高。
-WIN_FLOOR = 0.90   # "最稳健"推荐要求的最低胜率（0.90 = 90%）。
+# ========== 默认交易策略参数（所有脚本共用）==========
+STRATEGY_DEFAULTS = {
+    "DRIFT": 1.0,
+    "PRIOR_STRENGTH": 20.0,
+    "N_SIMS": 50_000,
+    "N_MIN": 10,
+    "WIN_PROB_MIN": 0.80,
+    "WIN_PROB_MAX": 0.95,
+    "PRICE_MAX": 92,
+    "EDGE_MIN": 5,
+    "EDGE_MAX": 10,
+    "SPREAD_MAX": 5,
+    "N_FINAL": 200,      # 默认 n_final（实盘固定估计值）
+}
 
-# ===== 模型参数（回测 v2 定稿）=====
-# 全局默认。个别电影想单独调，在它的 WATCHLIST 条目里写同名字段覆盖即可。
-DEFAULT_DRIFT = 4.0           # 回测 v2 验证组最优
-DEFAULT_PRIOR_STRENGTH = 15   # 回测 v2 验证组最优
+# 辅助函数，用于获取某片的策略参数（单片可覆盖默认）。
+def get_strategy_params(movie_key=None):
+    """返回某片的策略参数（单片覆盖默认）。movie_key=None 则返回纯默认。"""
+    params = dict(STRATEGY_DEFAULTS)   # 复制默认
+    if movie_key:
+        m = WATCHLIST.get(movie_key, {})
+        # 单片可覆盖的字段（config里用小写，映射到大写参数名）
+        overrides = {
+            "n_final": "N_FINAL",
+            "drift": "DRIFT",
+            "prior_strength": "PRIOR_STRENGTH",
+            "win_prob_min": "WIN_PROB_MIN",
+            "win_prob_max": "WIN_PROB_MAX",
+            "price_max": "PRICE_MAX",
+            "edge_min": "EDGE_MIN",
+            "edge_max": "EDGE_MAX",
+            "spread_max": "SPREAD_MAX",
+            "n_min": "N_MIN",
+        }
+        for cfg_key, param_key in overrides.items():
+            if cfg_key in m and m[cfg_key] is not None:
+                params[param_key] = m[cfg_key]
+    return params
 
 # ===== 模板阶梯 =====
 # 加新电影时复制这个用。每一行是 (门槛, YES卖价, NO卖价)，单位美分。
@@ -32,6 +62,142 @@ DEFAULT_LADDER = [
 # kalshi_event去kalshi网站上找这部电影对应的ticker代码，填在这里，就能拉实时价格了。
 # 所有电影的embargo date是Google搜索手动填的，lift date是根据评论数据计算的，优先使用embargo date
 WATCHLIST = {
+
+    "spider_man_brand_new_day": {
+        "embargo_date": "2026-07-28",
+        "title": "Spider-Man: Brand New Day",
+        "base_rate": 88,  # Tom Holland 蜘蛛侠系列均分（Homecoming ~92, Far From Home ~90, No Way Home ~93），MCU 续集，略降取保守
+        "n_final": 325,        # TODO 待定
+        "kalshi_event": "KXRT-SPI",
+        "kalshi_settle_date": "2026-08-03",   
+        "rt_movie_id": "0603023c-0e37-3d17-ba35-87de930bfc90", 
+    },
+
+    "ice_cream_man": {
+        "title": "Ice Cream Man",
+        "base_rate": 62,  # 导演 Eli Roth 近作均分（Thanksgiving ~80, Borderlands ~6, Hostel ~62, Green Inferno ~36, House with a Clock ~66）波动极大，恐怖是其主场，取中性
+        "n_final": 90,        # TODO 待定
+        "kalshi_event": "KXRT-ICE",
+        "kalshi_settle_date": "2026-08-10",   
+        "rt_movie_id": "65e185e4-e760-39d5-a518-19df8cc56275", 
+    },
+
+    "avengers_doomsday": {
+        "title": "Avengers: Doomsday",
+        "base_rate": 80,   # 复仇者联盟系列均分（Infinity War ~85, Endgame ~94, Age of Ultron ~76），导演罗素兄弟回归 + 近期 MCU 品控波动，取系列水位保守
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-AVE",
+        "kalshi_settle_date": "2026-12-21",   
+        "rt_movie_id": "a74c9b00-96c0-4c92-8ad4-ba53e4524ef4", 
+    },
+
+    "tony": {
+        "embargo_date": "2026-07-29",
+        "title": "Tony",
+        "base_rate": 85,  # 导演 Matt Johnson 近作（BlackBerry ~97, Nirvanna the Band Movie ~95, The Dirties ~83, Operation Avalanche ~69），上升趋势明显，A24 传记，取近作中高
+        "n_final": 70,        # TODO 待定
+        "kalshi_event": "KXRT-TON",
+        "kalshi_settle_date": "2026-08-10",   
+        "rt_movie_id": "c4ca0abc-c87a-4b6a-8a3e-69d1c8faa0d1", 
+    },
+
+    "one_night_only": {
+        "embargo_date": "2026-08-05",
+        "title": "One Night Only",
+        "base_rate": 68,  # 导演 Will Gluck 近作均分（Anyone But You ~52, Easy A ~85, Friends with Benefits ~70, Peter Rabbit ~64/60），爱情喜剧取中性偏上
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-ONE",
+        "kalshi_settle_date": "2026-08-10",   
+        "rt_movie_id": "41a3f656-d948-3918-9312-60c5d5c70532", 
+    },
+
+    "digger": {
+        "title": "Digger",
+        "base_rate": 82,  # 导演 Iñárritu 近作（Birdman ~91, The Revenant ~78, Bardo ~66, Babel ~69），黑色喜剧讽刺片，奥斯卡级导演取中高
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-DIG",
+        "kalshi_settle_date": "2026-10-05",   
+        "rt_movie_id": "6e03a6b1-1dce-32fd-84b1-6e74b3d040bd", 
+    },
+
+    "super_troopers_3": {
+        "title": "Super Troopers 3",
+        "base_rate": 45,  # 系列均分（Super Troopers 2001 ~36, Super Troopers 2 2018 ~35），Broken Lizard 喜剧续集，略调高
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-SUPER",
+        "kalshi_settle_date": "2026-08-10",   
+        "rt_movie_id": "100f330d-e46d-3ed2-a6cf-1caf8f4bf7a1", 
+    },
+
+    "mutiny": {
+        "title": "Mutiny",
+        "base_rate": 55,  # 导演 Jean-François Richet（Plane ~76, Blood Father ~89, 但近作波动）+ Statham 动作片带（此类中低 40-60），取中性
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-MUT",
+        "kalshi_settle_date": "2026-08-24",   
+        "rt_movie_id": "86495b5b-b2fe-42bf-af9d-52a308d17156", 
+    },
+
+    "insidious_out_of_the_further": {
+        "title": "Insidious: Out of the Further",
+        "base_rate": 55,  # 潜行者系列均分（1 ~67, 2 ~39, 3 ~59, The Red Door ~35），近作走低，取系列偏低位
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-INS",
+        "kalshi_settle_date": "2026-08-24",   
+        "rt_movie_id": "ea29ff28-c459-30e1-8b84-f4762dc59fa0", 
+    },
+
+    "buddy": {
+        "title": "Buddy",
+        "base_rate": 68,  # 导演 Casper Kelly（Too Many Cooks 短片 cult 高，长片处女作）+ BoulderLight Pictures（Barbarian ~92）恐怖厂牌，取中性偏上
+        "n_final": 37,        # TODO 待定
+        "kalshi_event": "KXRT-BUD",
+        "kalshi_settle_date": "2026-08-31",   
+        "rt_movie_id": "9b58c92c-bc29-378e-8435-ccabe92cc59b", 
+    },
+
+    "the_end_of_oak_street": {
+        "title": "The End of Oak Street",
+        "base_rate": 75,  # 导演 David Robert Mitchell（It Follows ~85, Under the Silver Lake ~57, Myth of American Sleepover ~78），科幻取中高
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-END",
+        "kalshi_settle_date": "2026-08-17",   
+        "rt_movie_id": "81dae336-d6cd-38d4-b1a1-281c607b0edd", 
+    },
+
+    "dune_part_three": {
+        "title": "Dune: Part Three",
+        "base_rate": 90,  # 沙丘系列均分（Part One ~83, Part Two ~92），导演 Villeneuve 直系续集，取系列高位
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-DUNE",
+        "kalshi_settle_date": "2026-12-28",   
+        "rt_movie_id": "64bfaac0-37ae-3b90-be7d-4fa970abba62", 
+    },
+
+    "the_dog_stars": {
+        "title": "The Dog Stars",
+        "base_rate": 72,  # 导演 Ridley Scott 近作（Napoleon ~57, House of Gucci ~62, The Last Duel ~85, The Martian ~91）波动大，科幻剧情取中高
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-DOG",
+        "kalshi_settle_date": "2026-08-31",   
+        "rt_movie_id": "56fd1619-f765-34d3-932a-900717fab92d", 
+    },
+
+    "the_brink_of_war": {
+        "title": "The Brink of War",
+        "base_rate": 68,  # 导演 Michael Russell Gunn 长片处女作（无前作参照）→ 兜底：政治历史剧情类型 + 强演员阵容（Jeff Daniels/Jared Harris/J.K. Simmons）+ Angel Studios，取中性偏上
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-BRIN",
+        "kalshi_settle_date": "2026-08-17",   
+        "rt_movie_id": "01ffcb82-a024-4acc-a343-633bdabc868c", 
+    },
+
+    
+
+    #######################################################################################
+    ###################################### 回测数据 ########################################
+    #######################################################################################
+
     # "toy_story_5" 是这部片的 key，你跑命令时 --movie toy_story_5 就用它。
     "toy_story_5": {
         "embargo_date": "2026-06-16",
@@ -51,6 +217,7 @@ WATCHLIST = {
             (95, 38, 63),
         ],
     },
+
     "the_death_of_robin_hood": {
         "embargo_date": "2026-06-11",
         "lift_date": "2026-06-11",
@@ -70,11 +237,9 @@ WATCHLIST = {
             (95, 38, 63),
         ],
     },
-    # ===========================================================
-    # =================历史电影栏(Kalshi开过盘的)==================
-    # ===========================================================
+
     "young_washington": {
-        "lift_date": "2026-06-29",
+    "lift_date": "2026-06-29",
     "embargo_date": "2026-06-29",
     "title": "Young Washington",
     "base_rate": 60,  # base_rate=60: 无前作；历史传记剧情片类型均分兜底
@@ -86,20 +251,20 @@ WATCHLIST = {
     },
 
     "minions_and_monsters": {
-        "lift_date": "2026-06-22",
+    "lift_date": "2026-06-22",
     "embargo_date": "2026-06-22",
     "title": "Minions & Monsters",
     "base_rate": 70,  # base_rate=70: 神偷奶爸/小黄人系列水位（Minions ~54, Rise of Gru ~70），照明娱乐动画品控
     "n_final": 226,        # TODO 待定
     "kalshi_event": "KXRTCAPTAINAMERICA",
     "kalshi_settle_date": "2026-07-06",   
-    "final_score_official": 51,   
+    "final_score_official": 91,   
     "rt_movie_id": "2b250e14-f43a-3704-92bf-efe317a75f0c", 
     },
 
     "jackass_best_and_last": {
-        "embargo_date": "2026-06-25",
-        "lift_date": "2026-06-25",
+    "embargo_date": "2026-06-25",
+    "lift_date": "2026-06-25",
     "title": "Jackass: Best and Last",
     "base_rate": 80,  # base_rate=80: Jackass 系列均分（前作普遍 60-85%，Forever ~85）
     "n_final": 226,        # TODO 待定
@@ -110,8 +275,8 @@ WATCHLIST = {
     },
 
     "girls_like_girls": {
-        "embargo_date": "2026-06-17",
-        "lift_date": "2026-06-17",
+    "embargo_date": "2026-06-17",
+    "lift_date": "2026-06-17",
     "title": "Girls Like Girls",
     "base_rate": 70,  # base_rate=70: 无前作；青少年 LGBTQ 剧情独立片类型均分
     "n_final": 226,        # TODO 待定
@@ -122,7 +287,7 @@ WATCHLIST = {
     },
 
     "stop_that_train": {
-        "lift_date": "2026-06-09",
+    "lift_date": "2026-06-09",
     "embargo_date": "2026-06-09",
     "title": "Stop! That! Train!",
     "base_rate": 65,  # base_rate=65: 无前作小片；剧情/惊悚类型历史均分兜底
@@ -134,6 +299,7 @@ WATCHLIST = {
     },
 
     "obsession": {
+    "embargo_date": "2025-09-06",
     "title": "Obsession",
     "base_rate": 45,  # base_rate=45: 惊悚/情色惊悚类型历史均分（该子类型口碑普遍偏低）
     "n_final": 226,        # TODO 待定
@@ -145,8 +311,8 @@ WATCHLIST = {
     },
 
     "supergirl": {
-        "embargo_date": "2026-06-24",
-        "lift_date": "2026-06-24",
+    "embargo_date": "2026-06-24",
+    "lift_date": "2026-06-24",
     "title": "Supergirl",
     "base_rate": 62,  # base_rate=62: 同 DC/新版 DCU 超英片水位（近期 DC 品控波动，取中性超英带）
     "n_final": 226,        # TODO 待定
@@ -157,8 +323,8 @@ WATCHLIST = {
     },
 
     "scary_movie": {
-        "embargo_date": "2026-06-04",
-        "lift_date": "2026-06-04",
+    "embargo_date": "2026-06-04",
+    "lift_date": "2026-06-04",
     "title": "Scary Movie",
     "base_rate": 50,  # base_rate=50: Scary Movie 系列均分（1 ~53, 后续跌至 30-40），恶搞喜剧类型
     "n_final": 226,        # TODO 待定
@@ -169,8 +335,8 @@ WATCHLIST = {
     },
 
     "masters_of_the_universe": {
-        "embargo_date": "2026-06-02",
-        "lift_date": "2026-06-02",
+    "embargo_date": "2026-06-02",
+    "lift_date": "2026-06-02",
     "title": "Masters of the Universe",
     "base_rate": 55,  # base_rate=55: 无强前作；玩具改编大片/动作奇幻类型均分兜底
     "n_final": 226,        # TODO 待定
@@ -181,8 +347,8 @@ WATCHLIST = {
     },
 
     "power_ballad": {
-        "embargo_date": "2026-03-14",
-        "lift_date": "2026-03-14",
+    "embargo_date": "2026-03-14",
+    "lift_date": "2026-03-14",
     "title": "Power Ballad",
     "base_rate": 65,  # base_rate=65: 无前作；音乐喜剧类型历史均分
     "n_final": 226,        # TODO 待定
@@ -193,8 +359,8 @@ WATCHLIST = {
     },
 
     "backrooms": {
-        "embargo_date": "2026-05-27",
-        "lift_date": "2026-05-27",
+    "embargo_date": "2026-05-27",
+    "lift_date": "2026-05-27",
     "title": "Backrooms",
     "base_rate": 60,  # base_rate=60: 无前作；网络恐怖 IP 改编，恐怖类型均分兜底
     "n_final": 226,        # TODO 待定
@@ -205,8 +371,8 @@ WATCHLIST = {
     },
 
     "billie_eilish_hit_me_hard_and_soft": {
-        "embargo_date": "2026-05-07",
-        "lift_date": "2026-05-07",
+    "embargo_date": "2026-05-07",
+    "lift_date": "2026-05-07",
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
     "base_rate": 90,  # base_rate=90: 演唱会纪录片类型（此类片 RT 普遍很高，85-95）
     "n_final": 226,        # TODO 待定
@@ -217,7 +383,7 @@ WATCHLIST = {
     },
 
     "in_the_grey": {
-        "lift_date": "2026-05-14",
+    "lift_date": "2026-05-14",
     "embargo_date": "2026-05-14",
     "title": "In the Grey",
     "base_rate": 60,  # base_rate=60: 无前作；导演 Guy Ritchie 近期作品波动大（Covenant ~83, Wrath of Man ~68, Fortune ~55），动作片取中性
@@ -229,8 +395,8 @@ WATCHLIST = {
     },
 
     "the_sheep_detectives": {
-        "embargo_date": "2026-04-27",
-        "lift_date": "2026-04-27",
+    "embargo_date": "2026-04-27",
+    "lift_date": "2026-04-27",
     "title": "The Sheep Detectives",
     "base_rate": 78,  # base_rate=78: 无前作；家庭动画/定格类型均分（此类小成本动画口碑偏高）
     "n_final": 226,        # TODO 待定
@@ -252,8 +418,8 @@ WATCHLIST = {
     },
 
     "lee_cronin_the_mummy": {
-        "embargo_date": "2026-04-16",
-        "lift_date": "2026-04-16",
+    "embargo_date": "2026-04-16",
+    "lift_date": "2026-04-16",
     "title": "Lee Cronin's The Mummy",
     "base_rate": 70,  # base_rate=70: 无直系前作；导演 Lee Cronin（Evil Dead Rise ~85）近作 + 恐怖类型
     "n_final": 226,        # TODO 待定
@@ -264,8 +430,8 @@ WATCHLIST = {
     },
 
     "the_devil_wears_prada_2": {
-        "embargo_date": "2026-04-29",
-        "lift_date": "2026-04-29",
+    "embargo_date": "2026-04-29",
+    "lift_date": "2026-04-29",
     "title": "The Devil Wears Prada 2",
     "base_rate": 75,  # base_rate=75: 前作《穿普拉达的女王》(2006) ~75%，直系续集
     "n_final": 226,        # TODO 待定
@@ -276,8 +442,8 @@ WATCHLIST = {
     },
 
     "mother_mary": {
-        "embargo_date": "2026-04-14",
-        "lift_date": "2026-04-14",
+    "embargo_date": "2026-04-14",
+    "lift_date": "2026-04-14",
     "title": "Mother Mary",
     "base_rate": 68,  # base_rate=68: 无前作；导演 David Lowery 近作（Green Knight ~85, Peter Pan ~62），音乐剧情取中性
     "n_final": 226,        # TODO 待定
@@ -1792,7 +1958,7 @@ WATCHLIST = {
     },
 
     "godzilla_x_kong_the_new_empire": {
-        "lift_date": "2024-03-28",
+    "lift_date": "2024-03-28",
     "embargo_date": "2024-03-28",
     "title": "Godzilla X Kong: The New Empire",
     "base_rate": 55,  # base_rate=55: 怪兽宇宙均分（GvK ~76, Godzilla 2014 ~76, KotM ~42），大片续集取中性
@@ -1804,7 +1970,7 @@ WATCHLIST = {
     },
 
     "the_first_omen": {
-        "lift_date": "2024-04-04",
+    "lift_date": "2024-04-04",
     "title": "The First Omen",
     "base_rate": 60,  # base_rate=60: 凶兆系列（原作 ~86），前传恐怖片取中性
     "n_final": 226,        # TODO 待定
@@ -1815,7 +1981,7 @@ WATCHLIST = {
     },
 
     "ghostbusters_frozen_empire": {
-        "lift_date": "2024-03-20",
+    "lift_date": "2024-03-20",
     "title": "Ghostbusters: Frozen Empire",
     "base_rate": 55,  # base_rate=55: 捉鬼敢死队系列均分（Afterlife ~63, 2016 ~74），续集取中性
     "n_final": 226,        # TODO 待定
@@ -1826,7 +1992,7 @@ WATCHLIST = {
     },
 
     "joker_folie_a_deux": {
-        "lift_date": "2024-09-04",
+    "lift_date": "2024-09-04",
     "title": "Joker: Folie à Deux",
     "base_rate": 68,  # base_rate=68: 前作 Joker (2019) ~68，直系续集（同 Todd Phillips/Phoenix），取前作值
     "n_final": 226,        # TODO 待定
@@ -1837,7 +2003,7 @@ WATCHLIST = {
     },
 
     "gladiator_2": {
-        "lift_date": "2024-11-11",
+    "lift_date": "2024-11-11",
     "title": "Gladiator 2",
     "base_rate": 78,  # base_rate=78: 前作 Gladiator (2000) ~80，导演 Ridley Scott 直系续集，略降
     "n_final": 226,        # TODO 待定
@@ -1848,7 +2014,7 @@ WATCHLIST = {
     },
 
     "deadpool_and_wolverine": {
-        "lift_date": "2024-07-23",
+    "lift_date": "2024-07-23",
     "embargo_date": "2024-07-23",
     "title": "Deadpool & Wolverine",
     "base_rate": 78,  # base_rate=78: 死侍系列均分（1 ~85, 2 ~84），MCU 续集取中高
@@ -1861,12 +2027,5 @@ WATCHLIST = {
 
 
 
-    # ===========================================================
-    # =================历史电影栏(Kalshi未开盘的)==================
-    # ===========================================================
 
-
-    
-    # 要加电影：复制上面整个 block，改 key 名和里面的值，
-    # 并给它自己的 "ladder"（可以复制 DEFAULT_LADDER 当起点）。
 }

@@ -13,10 +13,10 @@
 错误隔离：某部片失败不影响其它片，最后汇总报告哪些成功/跳过/失败。
 
 用法：
-    py -m scripts.fetch_all_historical            # 只抓还没抓过的
-    py -m scripts.fetch_all_historical --force    # 强制全部重抓
-    py -m scripts.fetch_all_historical --movie primate   # 只抓某一部
-    py -m scripts.fetch_all_historical --force --reviews-only # 只抓评论
+    py -m scripts.archive_fetch.fetch_all_historical            # 只抓还没抓过的
+    py -m scripts.archive_fetch.fetch_all_historical --force    # 强制全部重抓
+    py -m scripts.archive_fetch.fetch_all_historical --movie primate   # 只抓某一部
+    py -m scripts.archive_fetch.fetch_all_historical --force --reviews-only # 只抓评论
 """
 
 from __future__ import annotations

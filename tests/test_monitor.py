@@ -7,11 +7,14 @@
 """
 
 import sys, os
+from datetime import datetime, timezone
+from src import config
 # 把项目根目录加进路径（tests/ 的上一级）
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from scripts.monitor import fill_yes, fill_no
+from scripts.monitor import fill_yes, fill_no, is_valid_rt_data, should_watch, evaluate_rung
 
+DEFAULT_PARAMS = config.get_strategy_params()
 
 # ==================== fill_no 测试（买NO逐档吃yes_bids）====================
 
@@ -331,6 +334,183 @@ def test_in_range_all_boundaries():
     # 5. cost 正好踩在 price_max 上 (根据代码是 cost < price_max，所以拦截)
     assert not in_range(0.85, 5, 90.0, 0.80, 0.92, 5, 10, 90.0)
 
+# ========== 10个刁钻边界测试 ==========
+
+def test_tricky_1_depth_off_by_one():
+    """深度差1张：99张深度买100张，应返回None（不能部分成交）。"""
+    assert fill_no([[59.0, 99.0]], 100) is None
+
+
+def test_tricky_2_fractional_sizes_exact():
+    """小数size正好凑够100：33.4+33.3+33.3=100.0。"""
+    result = fill_no([[60.0, 33.4], [60.0, 33.3], [60.0, 33.3]], 100)
+    assert result == 40.0
+
+
+def test_tricky_3_all_zero_size():
+    """所有档size=0（API抽风）：过滤后为空，返回None。"""
+    assert fill_no([[59.0, 0.0], [58.0, 0.0]], 100) is None
+
+
+def test_tricky_4_no_extreme_cheap():
+    """yes_bid=99 → 买NO成本=1¢（极便宜的NO，赌几乎不可能超门槛）。
+       这种应能算出，但edge筛选/胜率会另外拦（不在这测筛选）。"""
+    assert fill_no([[99.0, 5000.0]], 100) == 1.0
+
+
+def test_tricky_5_no_extreme_expensive():
+    """yes_bid=0 → 买NO成本=100¢（不可能的NO）。计算正确，但买价100会被PRICE_MAX拦。"""
+    assert fill_no([[0.0, 5000.0]], 100) == 100.0
+
+
+def test_tricky_6_yes_depth_partial_across_many_levels():
+    """买YES跨很多小档凑齐，验证加权均价。
+       10@80 + 20@81 + 70@82 = (800+1620+5740)/100 = 81.6"""
+    asks = [[80.0, 10.0], [81.0, 20.0], [82.0, 70.0]]
+    result = fill_yes(asks, 100)
+    assert abs(result - 81.6) < 0.01
+
+
+def test_tricky_7_negative_and_valid_mixed():
+    """负size和有效档混合：负的被过滤，只用有效档。
+       [-50@95(过滤), 200@96] → 买100张@96"""
+    asks = [[95.0, -50.0], [96.0, 200.0]]
+    assert fill_yes(asks, 100) == 96.0
+
+
+def test_tricky_8_rt_score_float_string():
+    """RT返回带小数的字符串分数 '92.0'：应能处理（可转float，0-100内）。"""
+    assert is_valid_rt_data("92.0", 317) is True
+
+
+def test_tricky_9_rt_n_zero_score_high():
+    """n=0但score非0（矛盾数据，RT抽风）：n=0合理(≥0)，
+       但后续n<80会拦。这里只测数据校验层：n=0是合法的(≥0)。"""
+    assert is_valid_rt_data(85, 0) is True
+
+
+def test_tricky_10_rt_score_exactly_boundary():
+    """分数正好100.0和0.0（边界值）：都应合法。
+       101则非法。"""
+    assert is_valid_rt_data(100, 200) is True
+    assert is_valid_rt_data(0, 200) is True
+    assert is_valid_rt_data(101, 200) is False
+
+TODAY = datetime(2026, 7, 15, tzinfo=timezone.utc)
+
+
+def test_config_1_normal_watching():
+    """正常：还没结算，已解禁 → 盯。"""
+    assert should_watch("2026-08-01", "2026-07-10", TODAY) is True
+
+
+def test_config_2_no_embargo_field():
+    """config没写embargo/lift(None)，还没结算 → 盯（靠RT的n<80再拦）。
+       回答你的问题：没写embargo字段的片会被纳入盯盘。"""
+    assert should_watch("2026-08-01", None, TODAY) is True
+
+
+def test_config_3_already_settled():
+    """已过结算日 → 不盯。"""
+    assert should_watch("2026-07-01", "2026-06-20", TODAY) is False
+
+
+def test_config_4_not_yet_lifted():
+    """还没到解禁日 → 不盯（即使填了未来的lift）。"""
+    assert should_watch("2026-08-01", "2026-07-20", TODAY) is False
+
+
+def test_config_5_settle_missing():
+    """kalshi_settle_date缺失(空串) → 不盯（无法判断，安全跳过）。"""
+    assert should_watch("", None, TODAY) is False
+
+
+def test_config_6_settle_malformed():
+    """settle_date格式错误 → parse失败 → 不盯（不崩溃）。"""
+    assert should_watch("not-a-date", None, TODAY) is False
+
+
+def test_config_7_lift_malformed_but_settle_ok():
+    """lift格式错误但settle正常 → lift parse成None → 当作没填lift → 盯。"""
+    assert should_watch("2026-08-01", "garbage", TODAY) is True
+
+
+def test_config_8_lift_exactly_today():
+    """解禁日正好是今天 → 盯（解禁当天可交易）。"""
+    # today是7-15 00:00，lift 7-15 00:00 → today>=lift，不被"没解禁"拦 → 盯
+    assert should_watch("2026-08-01", "2026-07-15", TODAY) is True
+
+
+def test_config_9_settle_with_time_format():
+    """settle_date带完整时间戳格式(ISO)：正常解析。"""
+    assert should_watch("2026-08-01T14:00:00Z", None, TODAY) is True
+
+
+def test_config_10_settle_string_None():
+    """settle_date被误填成字符串'None' → parse失败 → 不盯（不崩溃）。"""
+    assert should_watch("None", None, TODAY) is False
+
+
+# 注意：这些测试依赖 monitor.py 顶部的参数
+# (WIN_PROB 0.80-0.92, EDGE 5-10, PRICE_MAX 90, SPREAD_MAX 5)
+
+
+def test_opportunity_clear_no():
+    """清晰NO机会：prob_no=0.85, no_ask=80 → edge=5 → 触发NO。"""
+    r = evaluate_rung(0.15, 22, 80, DEFAULT_PARAMS)
+    assert r is not None
+    assert r[0] == "NO"
+    assert abs(r[1] - 5.0) < 0.01
+
+
+def test_opportunity_clear_yes():
+    """清晰YES机会：prob_yes=0.85, yes_ask=80 → edge=5 → 触发YES。"""
+    r = evaluate_rung(0.85, 80, 22, DEFAULT_PARAMS)
+    assert r is not None
+    assert r[0] == "YES"
+
+
+def test_no_opportunity_edge_too_small():
+    """edge=2 太小 → 不触发。"""
+    assert evaluate_rung(0.85, 83, 19, DEFAULT_PARAMS) is None
+
+
+def test_no_opportunity_edge_too_big():
+    """edge=15 太大(模型可能错) → 不触发。"""
+    assert evaluate_rung(0.85, 70, 12, DEFAULT_PARAMS) is None
+
+
+def test_no_opportunity_winprob_too_high():
+    """胜率95%>上限92% → 不触发(避开钢镚)。"""
+    assert evaluate_rung(0.95, 92, 12, DEFAULT_PARAMS) is None
+
+
+def test_no_opportunity_winprob_too_low():
+    """胜率75%<下限80% → 不触发。"""
+    assert evaluate_rung(0.75, 20, 82, DEFAULT_PARAMS) is None
+
+
+def test_no_opportunity_spread_too_wide():
+    """价差25¢>上限5 → 不触发。"""
+    assert evaluate_rung(0.85, 85, 40,DEFAULT_PARAMS) is None
+
+
+def test_no_opportunity_price_too_high():
+    """买价>=90 → 不触发。"""
+    # prob_yes=0.9, yes_ask=90 → 买价90不<90
+    assert evaluate_rung(0.90, 90, 12, DEFAULT_PARAMS) is None
+
+
+def test_opportunity_edge_boundary_5():
+    """edge正好=5(下限) → 触发(>=)。"""
+    r = evaluate_rung(0.85, 80, 22,DEFAULT_PARAMS)  # edge_yes=5
+    assert r is not None
+
+
+def test_opportunity_winprob_boundary():
+    """胜率正好80%和92%(边界) → 触发。"""
+    # prob_yes=0.80, yes_ask=73 → edge=7, 买价73<90 → 触发
+    assert evaluate_rung(0.80, 73, 30,DEFAULT_PARAMS) is not None
 
 # ==================== 直接跑（不用pytest）====================
 

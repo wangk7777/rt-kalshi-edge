@@ -6,7 +6,7 @@
 结算终点：settle_date 14:00 UTC
 深度档位：完整保留（不砍，为将来多门槛/Kelly策略留）
 
-用法：py -m scripts.orderbook_stats
+用法：py -m scripts.archive_old.orderbook_stats
 """
 
 import json

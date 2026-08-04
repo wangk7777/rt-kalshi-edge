@@ -216,6 +216,7 @@ def build_report(reviews: list[dict]) -> dict:
         return (sum(1 for r in g if _is_fresh(r)) / len(g)) if g else None
 
     trends = _build_trends(reviews)
+    growth = _build_growth(reviews)
 
     return {
         "n_total": n_total, "fresh": fresh, "rotten": rotten,
@@ -229,6 +230,46 @@ def build_report(reviews: list[dict]) -> dict:
         "top_n": len(top), "top_fresh": fresh_rate(top),
         "other_n": len(other), "other_fresh": fresh_rate(other),
         "trends": trends,
+        "growth": growth,
+    }
+
+
+def _build_growth(reviews: list[dict]) -> dict:
+    """计算评论增长数据（每日新增 + 两种增速），用于设定 n_final。
+    到结算日的预估在 print 阶段用 settle_date 现算（build 阶段没有 settle_date）。"""
+    dated = [(_parse_date(r.get("date")), r) for r in reviews]
+    dated = [(d, r) for d, r in dated if d is not None]
+    if not dated:
+        return {"per_day": []}
+    dated.sort(key=lambda x: x[0])
+
+    per_day = OrderedDict()
+    for d, r in dated:
+        per_day.setdefault(d, 0)
+        per_day[d] += 1
+    days = list(per_day.items())
+
+    total = len(dated)
+    first_day, last_day = days[0][0], days[-1][0]
+    first_day_count = days[0][1]
+    span_days = (last_day - first_day).days
+
+    # 增速口径1：整体均速（排除首日爆发，用首日之后经过的天数）
+    rate_overall = (total - first_day_count) / max(span_days, 1)
+
+    # 增速口径2：近3日均速（最近3个有评论的日子）
+    recent = days[-3:] if len(days) >= 3 else days
+    recent_new = sum(c for _, c in recent)
+    recent_span = max((recent[-1][0] - recent[0][0]).days, 1)
+    rate_recent = recent_new / recent_span
+
+    return {
+        "per_day": [(d.isoformat(), c) for d, c in days],
+        "total": total, "first_day_count": first_day_count,
+        "first_day": first_day.isoformat(), "last_day": last_day.isoformat(),
+        "last_day_obj": last_day, "span_days": span_days,
+        "rate_overall": rate_overall, "rate_recent": rate_recent,
+        "recent_new": recent_new, "recent_days": len(recent),
     }
 
 
@@ -257,7 +298,8 @@ def _bar(value: float, vmax: float, width: int = 50) -> str:
 
 # ============ 打印：四大板块 ============
 
-def print_report(report: dict) -> None:
+def print_report(report: dict, settle_date: str = None,
+                 model_fn=None, model_params: dict = None) -> None:
     if report.get("n_total", 0) == 0:
         print("  （没有评论数据 / no reviews）")
         return
@@ -312,30 +354,56 @@ def print_report(report: dict) -> None:
 
     # 4a 新鲜度（累计）
     print("\n  ▸ 新鲜度趋势 Tomatometer（累计 cumulative，n=累计总数）")
-    fmax = max(x["cum_fresh_pct"] for x in b) or 1
     for x in b:
-        print(f"    {x['label']:12} n={x['cum_n']:<4} {x['cum_fresh_pct']:5.1f}%  "
-              f"{_bar(x['cum_fresh_pct'], fmax)}")
+        print(f"    {x['label']:12} n={x['cum_n']:<4} {x['cum_fresh_pct']:5.1f}%")
 
     # 4b 平均分（累计）
     print("\n  ▸ 平均分趋势 Mean score（累计 cumulative，n=累计有效打分）")
-    avals = [x["cum_avg"] for x in b if x["cum_avg"] is not None]
-    amax = max(avals) if avals else 1
     for x in b:
         if x["cum_avg"] is None:
             print(f"    {x['label']:12} n=0    —")
         else:
-            print(f"    {x['label']:12} n={x['cum_score_n']:<4} {x['cum_avg']:.3f}  "
-                  f"{_bar(x['cum_avg'], amax)}")
+            print(f"    {x['label']:12} n={x['cum_score_n']:<4} {x['cum_avg']:.3f}")
 
-    # 4c 差评（独立）
-    print("\n  ▸ 差评趋势 Rotten%（当天独立 per-day，n=当天新增）")
-    rmax = max(x["day_rotten_ratio"] for x in b) or 1
+    # 4c 差评（每日新增差评的绝对数，不用小样本百分比）
+    print("\n  ▸ 差评趋势 Rotten（每日新增差评数）")
+    total_rotten = sum(round(x["day_n"] * x["day_rotten_ratio"]) for x in b)
     for x in b:
-        warn = "  ⚠样本少" if x["day_n"] < 5 else ""
-        print(f"    {x['label']:12} n={x['day_n']:<4} {x['day_rotten_ratio']*100:5.1f}%  "
-              f"{_bar(x['day_rotten_ratio'], rmax)}{warn}")
-    print(f"  方向 Direction:", _trend_verdict(b))
+        day_rot = round(x["day_n"] * x["day_rotten_ratio"])
+        print(f"    {x['label']:12} 新增{x['day_n']:<3} 差评 {day_rot}")
+    print(f"  累计差评 Total rotten: {total_rotten} / {r['n_total']}")
+    print(f"  方向 Direction:", _rotten_verdict(b, r['n_total'], total_rotten))
+
+    # ---- 板块 5：评论增长预估（用于设定 n_final）----
+    forecasts = _print_growth(r.get("growth"), settle_date)
+
+    # ---- 板块 6：各 n_final 预估下的模型预测分数 ----
+    if model_fn is not None and model_params is not None and forecasts:
+        _print_model_predictions(forecasts, model_fn, model_params)
+
+
+def _print_model_predictions(forecasts: dict, model_fn, mp: dict) -> None:
+    """板块6：对每个预估 n_final 跑模型，给出预测最终分。
+    model_fn(score_now, n_now, base_rate, prior, drift, n_final, n_sims) → 预测分(float)。
+    mp: {score_now, n_now, base_rate, drift, prior_strength, n_sims}。"""
+    print("\n【6】各 n_final 下的模型预测分数 Model prediction")
+    print(f"  当前 score={mp['score_now']:.0f}  n={mp['n_now']}  |  "
+          f"base_rate={mp['base_rate']}  drift={mp['drift']}  prior={mp['prior_strength']}")
+    print(f"  {'n_final':>8}  {'口径':16}  预测最终分")
+    print("  " + "-" * 40)
+    # 去重（不同口径可能算出相同 n_final），按 n_final 排序
+    seen = {}
+    for label, nf in forecasts.items():
+        nf = max(int(nf), mp["n_now"])   # n_final 不小于当前 n
+        seen.setdefault(nf, []).append(label)
+    for nf in sorted(seen):
+        labels = " / ".join(seen[nf])
+        try:
+            pred = model_fn(mp["score_now"], mp["n_now"], mp["base_rate"],
+                            mp["prior_strength"], mp["drift"], nf, mp.get("n_sims", 50000))
+            print(f"  {nf:>8}  {labels:16}  {pred:.1f}")
+        except Exception as e:
+            print(f"  {nf:>8}  {labels:16}  (模型出错: {e})")
 
 
 def _trend_verdict(buckets: list[dict]) -> str:
@@ -349,3 +417,98 @@ def _trend_verdict(buckets: list[dict]) -> str:
     if diff < -8:
         return f"✓ 差评走低（{diff:.0f}点），口碑改善 / improving"
     return "✓ 大体稳定 / stable"
+
+
+def _rotten_verdict(buckets: list[dict], total_reviews: int, total_rotten: int) -> str:
+    """基于差评绝对数量判断趋势，不被小样本百分比误导。
+    一两条差评不触发警告；只有差评成规模增多才警惕。"""
+    # 累计差评很少 → 无趋势（避免1条差评被当成"口碑转向"）
+    if total_rotten <= 2 or (total_reviews and total_rotten / total_reviews < 0.10):
+        return f"✓ 差评零星（{total_rotten}/{total_reviews}），无恶化趋势 / negligible"
+    # 只用样本 >=5 的桶比较前后半段的差评占比
+    solid = [b for b in buckets if b["day_n"] >= 5]
+    if len(solid) < 2:
+        return "数据点太少，趋势不可靠 / too few solid points"
+    mid = len(solid) // 2
+    early_n = sum(b["day_n"] for b in solid[:mid])
+    late_n = sum(b["day_n"] for b in solid[mid:])
+    early = sum(b["day_n"] * b["day_rotten_ratio"] for b in solid[:mid]) / max(early_n, 1)
+    late = sum(b["day_n"] * b["day_rotten_ratio"] for b in solid[mid:]) / max(late_n, 1)
+    diff = (late - early) * 100
+    if diff > 10:
+        return f"⚠ 差评占比走高（+{diff:.0f}点），警惕口碑转向 / worsening"
+    if diff < -10:
+        return f"✓ 差评占比走低（{diff:.0f}点），口碑改善 / improving"
+    return "✓ 大体稳定 / stable"
+
+
+def _print_growth(g: dict, settle_date: str = None) -> None:
+    """板块5：评论增长预估，帮助设定 n_final。"""
+    from datetime import date as _date, datetime as _datetime, timezone as _tz
+
+    print("\n【5】评论增长预估 Growth forecast（用于设定 n_final）")
+    if not g or not g.get("per_day"):
+        print("  无日期数据 / no dates")
+        return
+
+    total = g["total"]
+    today = _datetime.now(_tz.utc).astimezone().date()   # 真实的今天（本地日期）
+    print(f"  解禁 {g['first_day']} 起，当前累计 {total} 条，跨度 {g['span_days']} 天  (今天 {today.isoformat()})")
+
+    # 到结算日还有几天（从今天算，不是从最后一条评论日期）
+    days_left = None
+    settle_shown = "未提供"
+    if settle_date:
+        try:
+            s = str(settle_date).split("T")[0]
+            settle_dt = _date.fromisoformat(s)
+            days_left = (settle_dt - today).days
+            settle_shown = f"{settle_dt.isoformat()} (还有 {days_left} 天)"
+        except (ValueError, TypeError):
+            settle_shown = f"{settle_date}（无法解析）"
+    print(f"  结算日 settle: {settle_shown}")
+
+    # 每日新增
+    print("\n  每日新增 Daily new:")
+    for i, (day, count) in enumerate(g["per_day"]):
+        tag = "  (解禁首日)" if i == 0 else ""
+        print(f"    {day}   +{count}{tag}")
+
+    # 增速分析
+    print("\n  ── 增速分析 ──")
+    fd_pct = g["first_day_count"] / total * 100 if total else 0
+    print(f"    首日爆发    : {g['first_day_count']} 条 (占当前 {fd_pct:.0f}%)")
+    print(f"    整体均速    : {g['rate_overall']:.2f} 条/天  (排除首日爆发)")
+    print(f"    近{g['recent_days']}日均速  : {g['rate_recent']:.2f} 条/天  "
+          f"(近{g['recent_days']}日新增 {g['recent_new']} 条)")
+
+    # 三个口径预估
+    print("\n  ── 到结算日 n_final 参考区间 ──")
+    if days_left is None:
+        print("    （未提供结算日，无法预估。在 config 填 kalshi_settle_date 后可算）")
+        return None
+    if days_left <= 0:
+        print(f"    已到/过结算日，最终 n_final ≈ {total} 条")
+        return {"保守": total}
+
+    conservative = total
+    linear = round(total + g["rate_recent"] * days_left)
+    decay = round(total + g["rate_recent"] * days_left * 0.5)
+    linear_overall = round(total + g["rate_overall"] * days_left)
+    print(f"    保守(增速归零)    : ≈ {conservative} 条   (已饱和，几乎不再增)")
+    print(f"    线性(近{g['recent_days']}日均速)  : ≈ {linear} 条   "
+          f"(近期速度不变，{g['rate_recent']:.1f}×{days_left})")
+    print(f"    线性(整体均速)    : ≈ {linear_overall} 条   "
+          f"({g['rate_overall']:.1f}×{days_left})")
+    print(f"    衰减(近期速再减半): ≈ {decay} 条   (增速继续放缓)")
+    # 建议：取衰减到线性之间
+    print(f"    ▸ 建议 n_final: {min(decay, linear)}-{max(decay, linear)}  "
+          f"（结合增速是否递减，偏保守取值）")
+
+    # 返回4个预估，供板块6跑模型
+    return {
+        "保守": conservative,
+        f"线性(近{g['recent_days']}日)": linear,
+        "线性(整体)": linear_overall,
+        "衰减": decay,
+    }

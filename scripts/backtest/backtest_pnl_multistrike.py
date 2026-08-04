@@ -8,7 +8,7 @@
 - 同时机会：按时间先到先得，本金不足则跳过（记录）
 - 详细报告：每片买了几个门槛/集中度、资金不足跳过、约束来源、回撤、按月
 
-用法：py -m scripts.backtest_pnl_multistrike
+用法：py -m scripts.backtest.backtest_pnl_multistrike
 """
 
 import csv
@@ -22,16 +22,18 @@ from src import config
 from src.model.bayesian import ModelInputs, run_model
 
 # ---------- 策略参数（沿用重力策略）----------
-DRIFT = 0.0
-PRIOR_STRENGTH = 20.0
-N_SIMS = 50_000
-N_MIN = 80
-WIN_PROB_MIN = 0.80
-WIN_PROB_MAX = 0.95
-PRICE_MAX = 90
-EDGE_MIN = 5
-EDGE_MAX = 10
-SPREAD_MAX = 5
+_p = config.get_strategy_params()   # 纯默认
+DRIFT = _p["DRIFT"]
+PRIOR_STRENGTH = _p["PRIOR_STRENGTH"]
+N_MIN = _p["N_MIN"]
+WIN_PROB_MIN = _p["WIN_PROB_MIN"]
+WIN_PROB_MAX = _p["WIN_PROB_MAX"]
+PRICE_MAX = _p["PRICE_MAX"]
+EDGE_MIN = _p["EDGE_MIN"]
+EDGE_MAX = _p["EDGE_MAX"]
+SPREAD_MAX = _p["SPREAD_MAX"]
+N_SIMS = _p["N_SIMS"]
+
 DIRECTION = "both"              # both / yes_only / no_only
 
 # ---------- 仓位管理参数（跑前可调）----------
@@ -42,7 +44,7 @@ MAX_CONTRACTS_PER_TRADE = 300  # 每笔绝对上限（保险丝）
 MAX_MOVIE_EXPOSURE_PCT = 1.0  # 单片所有门槛总仓位≤本金比例（1.0=不限）
 MIN_CONTRACTS = 10             # 低于此量不值得下
 
-INITIAL_CAPITAL = 1000.0
+INITIAL_CAPITAL = 3000.0
 
 OB_PATH = os.path.join("data", "backtest", "orderbooks_merged.json")
 HISTORICAL_DIR = os.path.join("data", "historical")

@@ -4,7 +4,7 @@
 它做三件事：解析命令行 → 调 collectors 抓评论和orderbook并存档 → 调 analysis 体检并打印。
 
 用法（在项目根目录运行）：
-    py -m scripts.fetch_reviews --movie toy_story_5
+    py -m scripts.archive_fetch.fetch_reviews --movie toy_story_5
 
 电影专属的 RT UUID 存在 config.WATCHLIST 的 rt_movie_id 字段里
 （每部片去烂番茄网页 F12 → 网络 → Fetch/XHR → 搜 reviews 找到）。
