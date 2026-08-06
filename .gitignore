@@ -19,8 +19,6 @@ Thumbs.db
 # Kalshi 交易私钥
 /rt-kalshi-monitor-private-key.txt
 
-# 数据文件夹
-data/
 
 # 回测数据文件
 data/backtest/orderbooks_merged.json

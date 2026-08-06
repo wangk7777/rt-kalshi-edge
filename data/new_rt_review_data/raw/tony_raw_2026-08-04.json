@@ -1,0 +1,1555 @@
+[
+  {
+    "reviewId": "103148565",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://apnews.com/article/tony-movie-review-bourdain-33276683445cbef6390c0285e80c0a3c",
+    "createDate": "2026-08-04T18:58:08.000Z",
+    "updateDate": "2026-08-04T18:58:08.000Z",
+    "reviewQuote": "Focusing on a slice of time from a cultural icon is a now-savvy alternative to the cradle-to-grave biopic. But “Tony” fails as an origin story. The cook is off.",
+    "language": "English",
+    "critic": {
+      "displayName": "Mark Kennedy",
+      "initials": "MK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mark-kennedy",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "mark-kennedy",
+      "encryptedCriticId": "YrjWEjlx",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Associated Press",
+      "editorialUrl": "https://apnews.com/tag/apf-Reviews",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PlhUUNLXXZhPtpMZr0tfb82C940=/256x256/v1.YzsxMDAwMDAzNTY5O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "XYrjAvZx",
+      "publicationId": "531"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148563",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "2.5/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://1morefilmblog.com/2026/08/04/tony-johnson-2026/",
+    "createDate": "2026-08-04T18:57:18.000Z",
+    "updateDate": "2026-08-04T18:57:18.000Z",
+    "reviewQuote": "I admired Tony the movie even if I found it very difficult to root for Tony the human being&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Kenneth R. Morefield",
+      "initials": "KM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/kenneth-r-morefield",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "kenneth-r-morefield",
+      "encryptedCriticId": "jlO086y0",
+      "displayImageUrl": "https://resizing.flixster.com/WBPpkCbHkIAiffU-mpLLH_CmFnw=/128x128/v1.YzszMjk1O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "1More Film Blog",
+      "editorialUrl": "http://1morefilmblog.com/wordpress/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "krLnWNyw",
+      "publicationId": "2497"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148485",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://geekvibesnation.com/tony-review/",
+    "createDate": "2026-08-04T17:08:55.000Z",
+    "updateDate": "2026-08-04T17:08:55.000Z",
+    "reviewQuote": " Tony is a terrific film&#46; One that should be remembered for ages to come",
+    "language": "English",
+    "critic": {
+      "displayName": "Roberto Tyler Ortiz",
+      "initials": "RO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/roberto-tyler-ortiz",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "roberto-tyler-ortiz",
+      "encryptedCriticId": "lo85nLXy",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Geek Vibes Nation",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "rEX8ALxZ",
+      "publicationId": "100009880"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148376",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "http://www.nycmovieguru.com/aug7th26.html#tony",
+    "createDate": "2026-08-04T03:02:15.000Z",
+    "updateDate": "2026-08-04T03:02:15.000Z",
+    "reviewQuote": "A captivating&#44; heartfelt and funny coming-of-age drama&#46; Dominic Sessa gives a warm&#44; tender and Oscar-worthy performance&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Avi Offer",
+      "initials": "AO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/avi-offer",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "avi-offer",
+      "encryptedCriticId": "VlJeqxrP",
+      "displayImageUrl": "https://resizing.flixster.com/t0Po8TkPnZm6BEEtNvaGzlLpzjA=/38x42/v1.YzsxODE3O2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "NYC Movie Guru",
+      "editorialUrl": "http://www.nycmovieguru.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "pZ691Vye",
+      "publicationId": "2162"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148367",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C+",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://riot-us.com/2026/07/29/tony-movie-review-in-just-one-bite-matt-johnson-serves-male-angst-instead-of-bourdain/",
+    "createDate": "2026-08-04T01:17:09.000Z",
+    "updateDate": "2026-08-04T01:17:09.000Z",
+    "reviewQuote": "If you admire Anthony Bourdain&#8217;s boisterous way of getting you to take &quot;just one bite&#44;&quot; or if his sentimentality caused you to be more vulnerable with strangers&#44; it would be best to keep your Bourdain fantasies intact and skip watching this abstraction&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Amanda Jesuca",
+      "initials": "AJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/amanda-jesuca",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "amanda-jesuca",
+      "encryptedCriticId": "rALOKAEZ",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Geek Girl Riot / RIOTUS",
+      "editorialUrl": "https://riot-us.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/lWjFaQwMElBRRTUxEVMsQcS3naY=/256x256/v1.YzsxMDAwMDAzOTU5O3A7MjA3MDk7MjA0ODs0ODAwOzQ4MDA",
+      "encryptedPublicationId": "BZ5Doby9",
+      "publicationId": "3343"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148089",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.rogerebert.com/reviews/tony-film-review-2026",
+    "createDate": "2026-08-03T14:48:20.000Z",
+    "updateDate": "2026-08-03T14:48:20.000Z",
+    "reviewQuote": "Sessa is up to the task of finding both the deep uncertainty and brash confidence in this complex young man&#44; sometimes in the same beat&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Brian Tallerico",
+      "initials": "BT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brian-tallerico",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "brian-tallerico",
+      "encryptedCriticId": "8yNL8VrL",
+      "displayImageUrl": "https://resizing.flixster.com/ZqIhdI86FIkxq_gEB6AH4vBIZLE=/128x128/v1.YzszNjUxO2o7MjA3MDA7MjA0ODs5NjA7OTYw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "RogerEbert.com",
+      "editorialUrl": "http://www.rogerebert.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "eoraDKZg",
+      "publicationId": "1708"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147860",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.cinefied.com/post/tony-review",
+    "createDate": "2026-08-01T02:38:56.000Z",
+    "updateDate": "2026-08-01T02:38:56.000Z",
+    "reviewQuote": "While Tony does have its moments of chaos and tension&#44; Johnson delivers a remarkably warm and tender film that feels very fresh and singular while never sacrificing any of Johnson&#8217;s more notable formal quirks&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Trevor Leavell",
+      "initials": "TL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/trevor-leavell",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "trevor-leavell",
+      "encryptedCriticId": "ld64bM6Z",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Pop Culture Leftovers",
+      "editorialUrl": "http://www.popcultureleftovers.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "BZ5DM8y9",
+      "publicationId": "3487"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147494",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://seeitorskipitreviews.com/2026/07/31/tony-review-a-beautifully-seasoned-coming-of-age-story/",
+    "createDate": "2026-07-31T03:46:16.000Z",
+    "updateDate": "2026-07-31T03:46:16.000Z",
+    "reviewQuote": "Tony is a coming-of-age story that anyone can connect with&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Patrick Beatty",
+      "initials": "PB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/patrick-beatty",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "patrick-beatty",
+      "encryptedCriticId": "y8mvgbYZ",
+      "displayImageUrl": "https://resizing.flixster.com/9dylKcg-V-65euXdmQYdRv5je2c=/128x128/v1.YzsxMDAwMDAzNDQwO2o7MjA3MDk7MjA0ODs3MDA7NzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "See It or Skip It",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "ZkNoAXQy",
+      "publicationId": "100011641"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147493",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B+",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://theplaylist.net/tony-review-matt-johnson-anthony-bourdain-dominic-sessa-20260730/",
+    "createDate": "2026-07-31T03:40:12.000Z",
+    "updateDate": "2026-07-31T03:40:12.000Z",
+    "reviewQuote": "A typical coming-of-age film tends to prioritize the product over the process of transformation&#46; &quot;Tony&#44;&quot; however&#44; allows the audience to luxuriate in the people and places that its subject loved best&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Marshall Shaffer",
+      "initials": "MS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/marshall-shaffer",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "marshall-shaffer",
+      "encryptedCriticId": "xye8MYle",
+      "displayImageUrl": "https://resizing.flixster.com/2qYCq6gdZm_mvDI8B5SXlhdisBw=/128x128/v1.YzszMjgwO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Playlist",
+      "editorialUrl": "http://theplaylist.net/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/MZ_fZKZ5inGW4tQO3YyG5DjpcbA=/256x256/v1.YzsxMDAwMDAzODA1O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "Ermo1Vyb",
+      "publicationId": "2100"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147461",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://nypost.com/2026/07/30/entertainment/tony-review-late-anthony-bourdain-is-turned-into-a-coming-of-age-movie-hero/",
+    "createDate": "2026-07-31T00:16:58.000Z",
+    "updateDate": "2026-07-31T00:16:58.000Z",
+    "reviewQuote": "At its lovable best, “Tony” fondly reminds us of the man who could never shoot a successful fishing segment, went on head-pounding benders in Greece and helped teach the world that food could change lives.  ",
+    "language": "English",
+    "critic": {
+      "displayName": "Johnny Oleksinski",
+      "initials": "JO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/johnny-oleksinski",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "johnny-oleksinski",
+      "encryptedCriticId": "plDYBQy6",
+      "displayImageUrl": "https://resizing.flixster.com/tF0Aqr_JJM_NlfUqW4RRlzr_ZEE=/128x128/v1.YzszMDYyO2o7MjA3MDA7MjA0ODsxNjkzOzE2MzM",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "New York Post",
+      "editorialUrl": "http://www.nypost.com/entertainment/movies/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/2zXkX2WNO8FfXP6O-Nc8TKTueIM=/225x225/v1.YzsxMDAwMDAzNzIyO2o7MjA3MDk7MjA0ODsyMjU7MjI1",
+      "encryptedPublicationId": "EqrEq2ra",
+      "publicationId": "336"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147320",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "4/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.rendyreviews.com/movie-reviews/tony-review",
+    "createDate": "2026-07-30T17:40:21.000Z",
+    "updateDate": "2026-07-30T17:40:21.000Z",
+    "reviewQuote": "Proof that you don&#8217;t need to change a great old recipe to deliver a delicious dish&#46;&#10;&#10;",
+    "language": "English",
+    "critic": {
+      "displayName": "Rendy Jones",
+      "initials": "RJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rendy-jones",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rendy-jones",
+      "encryptedCriticId": "qrEgKpya",
+      "displayImageUrl": "https://resizing.flixster.com/A8lPVPvQaP-gduyNTvLUMJkoqPg=/128x128/v1.YzsxMDAwMDAzNDgyO2o7MjA3MDk7MjA0ODs3ODE7NzM5",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Rendy Reviews",
+      "editorialUrl": "http://www.rendyreviews.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "publicationImageUrl": "https://resizing.flixster.com/XG7Qmff_NKu-AQiLLgGcxeuT7Qs=/256x256/v1.YzsxMDAwMDAzOTA4O3A7MjA3MDk7MjA0ODszNzU7MzAw",
+      "encryptedPublicationId": "aloE8pZw",
+      "publicationId": "3099"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147293",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thewolfmancometh.com/2026/07/30/tony-movie-review-2026-anthony-bourdain-dominic-sessa/",
+    "createDate": "2026-07-30T17:08:06.000Z",
+    "updateDate": "2026-08-03T14:28:32.000Z",
+    "reviewQuote": "Bourdain devotees will likely enjoy seeing the early years of the chef brought to life&#44; though it&apos;s hard to root for a self-described &quot;spoiled&#44; miserable&#44; narcissistic&#44; self-destructive and thoughtless young lout&quot; as a character&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Patrick Cavanaugh",
+      "initials": "PC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/patrick-cavanaugh",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "patrick-cavanaugh",
+      "encryptedCriticId": "Ly9nKMZn",
+      "displayImageUrl": "https://resizing.flixster.com/8bNo56qCPFC66Uk_DAA4gfmoP2I=/128x128/v1.YzszODU0O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Wolfman Cometh",
+      "editorialUrl": "https://thewolfmancometh.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "OrVK3nlk",
+      "publicationId": "3483"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147210",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "85/100",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.moviefone.com/news/movie-review-tony/",
+    "createDate": "2026-07-30T07:33:34.000Z",
+    "updateDate": "2026-07-30T14:33:41.000Z",
+    "reviewQuote": "Tony is simply a terrifically composed coming-of-age story told with warmth&#44; attention to detail&#44; and emotional depth&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Don Kaye",
+      "initials": "DK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/don-kaye",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "don-kaye",
+      "encryptedCriticId": "64rw64ZA",
+      "displayImageUrl": "https://resizing.flixster.com/aZ3L-aOfVJZsWeZ98BITaknPIXY=/128x128/v1.YzsxMDAwMDAzOTM0O2o7MjA3MDk7MjA0ODsxMDAwOzk0MQ",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Moviefone",
+      "editorialUrl": "https://www.moviefone.com/movies/movie-news/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "e8y8kRl2",
+      "publicationId": "1447"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147193",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://weliveentertainment.com/welivefilm/tony-review-no-real-reservations-just-delights/",
+    "createDate": "2026-07-30T01:46:29.000Z",
+    "updateDate": "2026-07-30T01:46:29.000Z",
+    "reviewQuote": "Tony is one of the best kinds of summer movies &#8211; one where you want to live in this world for as long as you feel like it&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Aaron Neuwirth",
+      "initials": "AN",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/aaron-neuwirth",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "aaron-neuwirth",
+      "encryptedCriticId": "VZB1B4yA",
+      "displayImageUrl": "https://resizing.flixster.com/Rc2FIfREcE5-g064pz2xWjkgXso=/128x128/v1.YzsxMDAwMDAzOTA3O2o7MjA3MDk7MjA0ODsxNDI4OzE1ODI",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "We Live Entertainment",
+      "editorialUrl": "http://weliveentertainment.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "RyRMPqld",
+      "publicationId": "2789"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147190",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://stephensilver.substack.com/p/tony-shows-us-anthony-bourdain-in",
+    "createDate": "2026-07-30T01:19:25.000Z",
+    "updateDate": "2026-07-30T01:19:25.000Z",
+    "reviewQuote": "A film that works as a successful distillation of what Bourdain was about&#44; while also telling a self-contained story that doesn&#8217;t require any knowledge of Bourdain&#8217;s life in order to appreciate it&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Stephen Silver",
+      "initials": "SS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/stephen-silver",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "stephen-silver",
+      "encryptedCriticId": "dyn0derQ",
+      "displayImageUrl": "https://resizing.flixster.com/sO7Jn-MPESAo4coPwMp2J4WVkBs=/128x128/v1.YzsyNjA0O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The SS Ben Hecht",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "lDpwa7Wl",
+      "publicationId": "100009886"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147179",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.flickeringmyth.com/movie-review-tony-2026/",
+    "createDate": "2026-07-29T23:21:57.000Z",
+    "updateDate": "2026-07-29T23:21:57.000Z",
+    "reviewQuote": "Matt Johnson&apos;s biopics don&#8217;t feel like traditional biopics&#46; No&#44; they are stories that happen to be about real people while homing in on relatable circumstances without sacrificing his tremendous Nirvanna comedic sensibilities&#46; Tony Is no exception",
+    "language": "English",
+    "critic": {
+      "displayName": "Robert Kojder",
+      "initials": "RK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/robert-kojder",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "robert-kojder",
+      "encryptedCriticId": "XrAz0Dlw",
+      "displayImageUrl": "https://resizing.flixster.com/dCqSNsIip8dOWb086HO0RxoiUMg=/38x42/v1.YzsyNDQ2O2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Flickering Myth",
+      "editorialUrl": "https://www.flickeringmyth.com/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/fkGco3Oo9izZpE4yBf5rNxtWP4Q=/256x256/v1.YzsxMDAwMDAzOTIyO3A7MjA3MDk7MjA0ODsxNTAwOzE1MDA",
+      "encryptedPublicationId": "qrEANEra",
+      "publicationId": "2936"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147125",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://collider.com/tony-movie-review-anthony-bourdain-dominic-sessa-antonio-banderas/",
+    "createDate": "2026-07-29T19:59:17.000Z",
+    "updateDate": "2026-07-29T19:59:17.000Z",
+    "reviewQuote": "It&apos;s crass&#44; it&apos;s loud&#44; it&apos;s messy&#44; and yet&#44; you end up with something profound&#44; beautiful&#44; and exciting on your plate&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Aidan Kelley",
+      "initials": "AK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/aidan-kelley",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "aidan-kelley",
+      "encryptedCriticId": "yRm43Qel",
+      "displayImageUrl": "https://resizing.flixster.com/TwnGKJhiJ2R521EUyRwcFvj0Gac=/128x128/v1.YzsxMDAwMDAzOTQ1O2o7MjA3MDk7MjA0ODs0MzI7NDMy",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Collider",
+      "editorialUrl": "http://www.collider.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "vl499pyz",
+      "publicationId": "1982"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147121",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.slashfilm.com/2222501/tony-movie-review-a24/",
+    "createDate": "2026-07-29T19:57:03.000Z",
+    "updateDate": "2026-07-29T19:57:04.000Z",
+    "reviewQuote": "As with &quot;BlackBerry&#44;&quot; Johnson brings a winning&#44; warts-and-all texture to the film&#44; making it a recognizable yet tasty dish&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Bill Bria",
+      "initials": "BB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/bill-bria",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "bill-bria",
+      "encryptedCriticId": "rj3w7gbl",
+      "displayImageUrl": "https://resizing.flixster.com/fVkyZ479SIAo3FVRhKu9sPddPzU=/128x128/v1.YzsxMDAwMDAzOTM4O3A7MjA3MDk7MjA0ODs4MTE7ODEx",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Slashfilm",
+      "editorialUrl": "http://www.slashfilm.com/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "oraOOJyg",
+      "publicationId": "1996"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147120",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.avclub.com/tony-review-dominic-sessa-anthony-bourdain-matt-johnson",
+    "createDate": "2026-07-29T19:56:26.000Z",
+    "updateDate": "2026-07-29T19:56:26.000Z",
+    "reviewQuote": "Beyond its dutiful biopic services, Tony reminds its audience of the sharp turns and unlikely encounters that can change the course of our lives and give us stories to share over the dinner table.",
+    "language": "English",
+    "critic": {
+      "displayName": "Monica Castillo",
+      "initials": "MC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/monica-castillo",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "monica-castillo",
+      "encryptedCriticId": "oraWwvyg",
+      "displayImageUrl": "https://resizing.flixster.com/yz1Fvd4fIjUBASNjmgOtuUKFYHg=/128x128/v1.YzsyNTYxO2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "AV Club",
+      "editorialUrl": "http://www.avclub.com/channels/film/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/p_lVlSWxAwFI0LDmURpDSJLeQOU=/200x200/v1.YzsxMDAwMDAzODk1O3A7MjA3MDk7MjA0ODsyMDA7MjAw",
+      "encryptedPublicationId": "jVy2BbyW",
+      "publicationId": "833"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147097",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B+",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.reelingreviews.com/reviews/tony/",
+    "createDate": "2026-07-29T18:55:31.000Z",
+    "updateDate": "2026-07-30T14:33:32.000Z",
+    "reviewQuote": "Sessa&apos;s take on the nineteen year-old Bourdain is of an angry young man with a chip on his shoulder&#44; someone overly confident in his abilities needing to be knocked down a few pegs&#44; yet with an undeniable&#44; surly charm&#46;&#46;&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Laura Clifford",
+      "initials": "LC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/laura-clifford",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "laura-clifford",
+      "encryptedCriticId": "NBZ5wMl9",
+      "displayImageUrl": "https://resizing.flixster.com/uGoPAefqzdf6eW1_1RMpGc7IQzI=/38x52/v1.YzsxNjcyO2c7MjA3MDA7MjA0ODszODs1Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Reeling Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4plDnQZ6",
+      "publicationId": "386"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147097",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B+",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.reelingreviews.com/reviews/tony/",
+    "createDate": "2026-07-29T18:55:31.000Z",
+    "updateDate": "2026-07-30T14:33:32.000Z",
+    "reviewQuote": "Sessa&apos;s take on the nineteen year-old Bourdain is of an angry young man with a chip on his shoulder&#44; someone overly confident in his abilities needing to be knocked down a few pegs&#44; yet with an undeniable&#44; surly charm&#46;&#46;&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Laura Clifford",
+      "initials": "LC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/laura-clifford",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "laura-clifford",
+      "encryptedCriticId": "NBZ5wMl9",
+      "displayImageUrl": "https://resizing.flixster.com/uGoPAefqzdf6eW1_1RMpGc7IQzI=/38x52/v1.YzsxNjcyO2c7MjA3MDA7MjA0ODszODs1Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Reeling Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4plDnQZ6",
+      "publicationId": "386"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147092",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.empireonline.com/movies/reviews/tony/",
+    "createDate": "2026-07-29T18:38:45.000Z",
+    "updateDate": "2026-07-29T18:38:45.000Z",
+    "reviewQuote": "A hangout movie is perhaps the most fitting way for Bourdain to be brought to the screen. Though its ambitions never quite match its subject, it depicts a summer you’ll be hard-pressed not to be charmed by.",
+    "language": "English",
+    "critic": {
+      "displayName": "Harry Stainer",
+      "initials": "HS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/harry-stainer",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "harry-stainer",
+      "encryptedCriticId": "l7JX6ajr",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Empire Magazine",
+      "editorialUrl": "",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/WwgQYHastKnXaHSSzhDUUpajUPU=/256x256/v1.YzsxMDAwMDAzNjM5O2o7MjA3MDk7MjA0ODs3MjA7NzIw",
+      "encryptedPublicationId": "1XrAqGrw",
+      "publicationId": "148"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147060",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://slate.com/culture/2026/07/anthony-bourdain-movie-tony-matt-johnson-nirvanna-blackberry.html",
+    "createDate": "2026-07-29T17:45:05.000Z",
+    "updateDate": "2026-07-30T14:33:41.000Z",
+    "reviewQuote": "Even if Tony were not a biopic at all, but simply the fictional story of one screwed-up kid’s transformative summer working in a restaurant kitchen, it would be a movie worth watching. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Dana Stevens",
+      "initials": "DS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/dana-stevens",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "dana-stevens",
+      "encryptedCriticId": "Wy1mRRyz",
+      "displayImageUrl": "https://resizing.flixster.com/qFgnGN4gdP_LDOvCwcXl6-VmKpA=/100x100/v1.YzsyMjM5O2o7MjA3MDA7MjA0ODsxMDA7MTAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Slate",
+      "editorialUrl": "http://www.slate.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/9bJJnuvJeh7W1xkhn_QoJjNRmY0=/256x256/v1.YzsxMDAwMDAzNzcyO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "jGlgzdrp",
+      "publicationId": "419"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147053",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B-",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://awardswatch.com/tony-review-matt-johnsons-sweet-anthony-bourdain-pic-offers-a-salty-appetizer-of-his-life-b/",
+    "createDate": "2026-07-29T17:37:51.000Z",
+    "updateDate": "2026-07-29T17:37:51.000Z",
+    "reviewQuote": "The best that can be said about Tony is that the movie never takes itself too seriously and is entertaining from beginning to end&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "J. Don Birnam",
+      "initials": "JB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/j-don-birnam",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "j-don-birnam",
+      "encryptedCriticId": "6lKBdvrp",
+      "displayImageUrl": "https://resizing.flixster.com/k_9b_fBVqY_FBgQITaI64_-Nqj0=/128x128/v1.YzszMTc2O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "AwardsWatch",
+      "editorialUrl": "https://awardswatch.com/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "Wy1KJnrz",
+      "publicationId": "3094"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147050",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "C-",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://thefilmmaven.com/tony-review-anthony-bourdain/",
+    "createDate": "2026-07-29T17:35:42.000Z",
+    "updateDate": "2026-07-29T17:35:42.000Z",
+    "reviewQuote": "It eschews the conventional biopic formula&#44; but in doing so seems to amble aimlessly&#44; much like its central character&#44; in search of something to do&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Kristen Lopez",
+      "initials": "KL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/kristen-lopez",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "kristen-lopez",
+      "encryptedCriticId": "VlJvVblP",
+      "displayImageUrl": "https://resizing.flixster.com/SRmY2OpSeRFqE_TkqqjeEtBSLKE=/128x128/v1.YzsyNzczO2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Film Maven",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y225Gd4y",
+      "publicationId": "100010077"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147049",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "A-",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://consequence.net/2026/07/tony-review-anthony-bourdain-matt-johnson/",
+    "createDate": "2026-07-29T17:35:10.000Z",
+    "updateDate": "2026-07-29T17:35:10.000Z",
+    "reviewQuote": "Tony doesn&#8217;t give Tony too much growth by the end&#44; but it does highlight some core values that Bourdain would express in his work as an adult&#58; The pleasure of creation&#44; the beauty of consumption&#44; and the power of the unassuming and unexpected&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Liz Shannon Miller",
+      "initials": "LM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/liz-shannon-miller",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "liz-shannon-miller",
+      "encryptedCriticId": "Qrq6v9ln",
+      "displayImageUrl": "https://resizing.flixster.com/J-NEOol1DLqdoximU5975ERsswY=/38x42/v1.YzsyNDczO2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Consequence",
+      "editorialUrl": "https://consequence.net/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "7ldaozyO",
+      "publicationId": "2610"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147013",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.upi.com/Entertainment_News/Movies/2026/07/29/Tony-Anthony-Bourdain-movie-review/4961785259229/",
+    "createDate": "2026-07-29T16:47:44.000Z",
+    "updateDate": "2026-07-29T16:47:44.000Z",
+    "reviewQuote": "Few biopics these days truly present their subjects warts and all&#46; In life&#44; it seemed Bourdain was secure enough to own his mistakes&#44; and presenting them unflinchingly makes Tony&apos;s story far more resonant&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Fred Topel",
+      "initials": "FT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/fred-topel",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "fred-topel",
+      "encryptedCriticId": "W4y3O2yn",
+      "displayImageUrl": "https://resizing.flixster.com/zfjasQJxVxEL9pyvJHfO2hmhHXw=/128x128/v1.YzsyNDk0O2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "United Press International",
+      "editorialUrl": "http://www.upi.com/Entertainment_News/Movies/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "el77jalq",
+      "publicationId": "2795"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147006",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.the-independent.com/arts-entertainment/films/reviews/tony-review-movie-anthony-bourdain-b3023936.html",
+    "createDate": "2026-07-29T16:19:21.000Z",
+    "updateDate": "2026-07-29T16:19:21.000Z",
+    "reviewQuote": "As a film about what it means to embrace what’s in front of you and not what’s in your mind, it’s a lovely and deeply likeable work.",
+    "language": "English",
+    "critic": {
+      "displayName": "Clarisse Loughrey",
+      "initials": "CL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/clarisse-loughrey",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "clarisse-loughrey",
+      "encryptedCriticId": "py0bNJrE",
+      "displayImageUrl": "https://resizing.flixster.com/xK35z-MBIxVJhgsydtYT920W5KA=/128x128/v1.YzsyOTIxO2o7MjA3MDA7MjA0ODs2NDY7NjQ2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Independent (UK)",
+      "editorialUrl": "https://www.the-independent.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/a-7LH0wAqDEHqTEQzsPR1D1inJY=/256x256/v1.YzsxMDAwMDAzNjc3O2o7MjA3MDk7MjA0ODszNzA7Mzcw",
+      "encryptedPublicationId": "e8y8pvy2",
+      "publicationId": "691"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147005",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://variety.com/2026/film/reviews/tony-review-dominic-sessa-antonio-banderas-1236821892/",
+    "createDate": "2026-07-29T16:18:19.000Z",
+    "updateDate": "2026-07-29T16:18:19.000Z",
+    "reviewQuote": "To me, if an Anthony Bourdain biopic can’t clear the bar called “Bourdain would have liked it,” it’s probably not a good movie. “Tony” clears that bar. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Owen Gleiberman",
+      "initials": "OG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/owen-gleiberman",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "owen-gleiberman",
+      "encryptedCriticId": "jGlgjvrp",
+      "displayImageUrl": "https://resizing.flixster.com/iumWKQ033DTjaA5VVe-tTPhRtBo=/128x128/v1.YzsyNzE4O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Variety",
+      "editorialUrl": "http://variety.com/v/film/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/cMg4FAB7XrqmpueG7MpVj83MU8w=/256x256/v1.YzsxMDAwMDAzODI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "YxyebgZe",
+      "publicationId": "466"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147004",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "A",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://freshfiction.tv/tony-review-matt-johnsons-anthony-bourdain-biopic-cooks/",
+    "createDate": "2026-07-29T16:17:44.000Z",
+    "updateDate": "2026-07-31T14:34:42.000Z",
+    "reviewQuote": "Fresh&#44; intoxicating&#44; profound and deeply resonant&#44; this heartfelt dramedy is a must-see&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Courtney Howard",
+      "initials": "CH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/courtney-howard",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "courtney-howard",
+      "encryptedCriticId": "7ld5bzyO",
+      "displayImageUrl": "https://resizing.flixster.com/pMrOINXjOSmdzUstbaxFt6bCehg=/128x128/v1.YzsyODA2O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Fresh Fiction",
+      "editorialUrl": "http://freshfiction.tv/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "py0D7EyE",
+      "publicationId": "2915"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147002",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/tony-review-dominic-sessa-anthony-bourdain-matt-johnson-1236653323/",
+    "createDate": "2026-07-29T16:16:44.000Z",
+    "updateDate": "2026-07-29T16:16:44.000Z",
+    "reviewQuote": "A slender slice of a famous life, the movie feels a little wispy in its mix of scrappy and sweet, rough-edged and yet bathed in the balming glow of nostalgia. But it has an idiosyncratic charm that fits the title character.",
+    "language": "English",
+    "critic": {
+      "displayName": "David Rooney",
+      "initials": "DR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/david-rooney",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "david-rooney",
+      "encryptedCriticId": "BZ55DPZ9",
+      "displayImageUrl": "https://resizing.flixster.com/-_nxKSoIajfV_9NjUmE0Esql060=/128x128/v1.YzszODM5O3A7MjA3MDA7MjA0ODsyNDg7MzIw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Hollywood Reporter",
+      "editorialUrl": "http://www.hollywoodreporter.com/hr/film/reviews/index.jsp",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PnE_AJzukoI8np6MHm5j9vpNtOM=/256x256/v1.YzsxMDAwMDAzNjcwO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "6arXpQrO",
+      "publicationId": "213"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103147000",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.indiewire.com/criticism/movies/tony-movie-review-anthony-bourdain-1235207248/",
+    "createDate": "2026-07-29T16:15:48.000Z",
+    "updateDate": "2026-07-29T16:15:48.000Z",
+    "reviewQuote": "“Tony” struggles for an ending, but it doesn’t really need one; the real fun here lies in paving the way to parts unknown. ",
+    "language": "English",
+    "critic": {
+      "displayName": "David Ehrlich",
+      "initials": "DE",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/david-ehrlich",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "david-ehrlich",
+      "encryptedCriticId": "py0KERlE",
+      "displayImageUrl": "https://resizing.flixster.com/2ocOQwKmuDCppI7ILWpDLodiAOg=/128x128/v1.YzsyNjk4O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "IndieWire",
+      "editorialUrl": "http://www.indiewire.com/t/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/OJCGA3R7DYPGq5Z7vLgQrcMSPVY=/256x256/v1.YzsxMDAwMDAzNjc5O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "Q5yMXplg",
+      "publicationId": "226"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146999",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.screendaily.com/reviews/tony-review-dominic-sessa-impresses-as-young-chef-anthony-bourdain-in-matt-johnsons-bittersweet-coming-of-age-drama/5218894.article",
+    "createDate": "2026-07-29T16:14:45.000Z",
+    "updateDate": "2026-07-29T16:14:45.000Z",
+    "reviewQuote": "With Banderas particularly touching as Bourdain’s unlikely father figure, Tony immerses us in this sleepy Massachusetts community and the character’s gradual artistic awakening. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Tim Grierson",
+      "initials": "TG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/tim-grierson",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "tim-grierson",
+      "encryptedCriticId": "4yzWDjZP",
+      "displayImageUrl": "https://resizing.flixster.com/uVyMVRvadeb8ap6UWMG_cxthKMw=/128x128/v1.YzsyNzM2O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Screen International",
+      "editorialUrl": "http://www.screendaily.com/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/X3J3A5l9y7LAqi1uUfPn55_-nTY=/256x256/v1.YzsxMDAwMDAzNzY1O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "M8yN9VlL",
+      "publicationId": "1069"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146998",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "9/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://fandomwire.com/tony-review-anthony-bourdain/",
+    "createDate": "2026-07-29T16:14:01.000Z",
+    "updateDate": "2026-07-29T16:14:01.000Z",
+    "reviewQuote": "Whether you are a fan of Anthony Bourdain&#44; someone who loves chef-centric media like The Bear&#44; or are just looking for a funny&#44; inspiring story&#44; Tony offers something for everyone&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Sean Boelman",
+      "initials": "SB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/sean-boelman",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "sean-boelman",
+      "encryptedCriticId": "yRm43XGl",
+      "displayImageUrl": "https://resizing.flixster.com/AURmzoi1nquk6gpW5LO_MjFGa04=/128x128/v1.YzsxMDAwMDAzMjYzO2o7MjA3MDk7MjA0ODsyMDQ4OzIwNDg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "FandomWire",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "y9RP4qQZ",
+      "publicationId": "100009878"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146996",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas",
+    "createDate": "2026-07-29T16:13:20.000Z",
+    "updateDate": "2026-07-29T16:13:20.000Z",
+    "reviewQuote": "This is a strange film in some ways. It is watchable and entertaining, but its feelgood trajectory is compromised by what we know of the author. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Peter Bradshaw",
+      "initials": "PB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/peter-bradshaw",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "peter-bradshaw",
+      "encryptedCriticId": "eorakqyg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Guardian",
+      "editorialUrl": "https://www.theguardian.com/film+tone/reviews",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PSiWKUHiH7OIbfgdTcalUEnDgpU=/256x256/v1.YzsxMDAwMDAzNjYzO3A7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "J4yzkxZP",
+      "publicationId": "205"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146995",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-tony-review-anthony-bourdain/",
+    "createDate": "2026-07-29T16:11:27.000Z",
+    "updateDate": "2026-07-30T14:33:35.000Z",
+    "reviewQuote": "It might focus on the origins of a beloved pop-culture figure, but there are so many moments in which you can forget about the beats and markers of Bourdain’s real life and simply enjoy it as a story about one man’s voracious aspirations and appetites.",
+    "language": "English",
+    "critic": {
+      "displayName": "Barry Hertz",
+      "initials": "BH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/barry-hertz",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "barry-hertz",
+      "encryptedCriticId": "pZ6wnxre",
+      "displayImageUrl": "https://resizing.flixster.com/F_GKegtduH_wi0JhWktMMttmiSE=/128x128/v1.YzsyODg0O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Globe and Mail",
+      "editorialUrl": "http://www.theglobeandmail.com/arts/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/bbqkO_rVzWYujdxyYnMEKSRiOl8=/256x256/v1.YzsxMDAwMDAzNjYwO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "5pZ6dxle",
+      "publicationId": "662"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146994",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://metro.co.uk/2026/07/29/anthony-bourdains-biopic-tony-like-a-punch-gut-29248874/",
+    "createDate": "2026-07-29T16:09:34.000Z",
+    "updateDate": "2026-07-29T16:09:46.000Z",
+    "reviewQuote": "The bond between the two is phenomenal -- Banderas' performance is tender, powerful, and an unexpected standout in the film.",
+    "language": "English",
+    "critic": {
+      "displayName": "Alana Anderson",
+      "initials": "AA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alana-anderson",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "alana-anderson",
+      "encryptedCriticId": "ZpAaWnDr",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "metro.co.uk",
+      "editorialUrl": "http://metro.co.uk/tag/film-review/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/lBqhMxf_CpFuaWQA1XGjImJnbmU=/256x256/v1.YzsxMDAwMDAzNzA2O3A7MjA3MDk7MjA0ODs0MDE7NDAx",
+      "encryptedPublicationId": "4y39Yarn",
+      "publicationId": "3868"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146993",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thefilmstage.com/tony-review-matt-johnson-finds-the-right-ingredients-in-anthony-bourdain-biopic/",
+    "createDate": "2026-07-29T16:08:29.000Z",
+    "updateDate": "2026-07-29T16:08:29.000Z",
+    "reviewQuote": "If nothing else&#44; it&#8217;s a welcome sign that Johnson can retain his signature voice while dropping some elements of his style and finding interest in a topic he might not care all that much about&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Devan Suber",
+      "initials": "DS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/devan-suber",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "devan-suber",
+      "encryptedCriticId": "ZpAaX6dr",
+      "displayImageUrl": "https://resizing.flixster.com/9eFgGnrWn9QdiWlAQOF_KEF_8hg=/128x128/v1.YzsxMDAwMDAzOTU2O2o7MjA3MDk7MjA0ODszNDA7MzQw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Film Stage",
+      "editorialUrl": "https://thefilmstage.com/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "4yzjG5yP",
+      "publicationId": "2305"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146992",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.thewrap.com/creative-content/reviews/tony-review-anthony-bourdain-dominic-sessa-a24/",
+    "createDate": "2026-07-29T16:07:47.000Z",
+    "updateDate": "2026-07-30T14:33:37.000Z",
+    "reviewQuote": "&apos;Tony&apos; does earn our affection&#44; mostly because it never pretends Bourdain has&#46; We are invited to view the genius as a work in progress&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "William Bibbiani",
+      "initials": "WB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/william-bibbiani",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "william-bibbiani",
+      "encryptedCriticId": "OrVnRPrk",
+      "displayImageUrl": "https://resizing.flixster.com/V26KZodvYQgTRFjz6Pz6GxcMqf4=/128x128/v1.YzsyNzQ5O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "TheWrap",
+      "editorialUrl": "http://www.thewrap.com/tag/movie_reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/oIEyuPqk711nt7MzMwmDagOBMFg=/200x200/v1.YzsxMDAwMDAzODA4O3A7MjA3MDk7MjA0ODsyMDA7MjAw",
+      "encryptedPublicationId": "4yzjWeyP",
+      "publicationId": "2205"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146991",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "9/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.ign.com/articles/tony-review-anthony-bourdain-movie",
+    "createDate": "2026-07-29T16:07:19.000Z",
+    "updateDate": "2026-07-29T16:07:19.000Z",
+    "reviewQuote": "A zesty&#44; energetic biopic about a teenage Anthony Bourdain&#44; Matt Johnson&#8217;s second film this year is an act of controlled chaos&#44; tapping into the nostalgia of na&#239;ve youth while examining how creativity is born&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Siddhant Adlakha",
+      "initials": "SA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/siddhant-adlakha",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "siddhant-adlakha",
+      "encryptedCriticId": "vl4D6olz",
+      "displayImageUrl": "https://resizing.flixster.com/ubRSPpYN9TYxyAsn-SLXz7h1_ww=/128x128/v1.YzszMDI4O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "IGN Movies",
+      "editorialUrl": "http://filmforce.ign.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "MaloMpZw",
+      "publicationId": "811"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146988",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://nextbestpicture.com/tony/",
+    "createDate": "2026-07-29T16:03:00.000Z",
+    "updateDate": "2026-07-29T16:03:00.000Z",
+    "reviewQuote": "Sessa once again employs an infectious charm that complements the inner turmoil of a young man navigating his own identity crisis&#46; It&#8217;s a wonderfully endearing turn by a promising young actor&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Josh Parham",
+      "initials": "JP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/josh-parham",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "josh-parham",
+      "encryptedCriticId": "yMP4Jmzl",
+      "displayImageUrl": "https://resizing.flixster.com/_PGiENawZV1py9fSarihvW3Q4Eo=/128x128/v1.YzsxMDAwMDAyNzU5O3A7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Next Best Picture",
+      "editorialUrl": "https://www.nextbestpicture.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "4rwkKbrA",
+      "publicationId": "3046"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146987",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.thedailybeast.com/obsessed/tony-review-anthony-bourdain-origin-story-is-a-tasty-revelation/",
+    "createDate": "2026-07-29T16:02:44.000Z",
+    "updateDate": "2026-07-29T16:02:44.000Z",
+    "reviewQuote": "Has a rough-around-the-edges charm that&#8217;s in keeping with its go-for-broke protagonist&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Nick Schager",
+      "initials": "NS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nick-schager",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "nick-schager",
+      "encryptedCriticId": "XrAm7Erw",
+      "displayImageUrl": "https://resizing.flixster.com/lVxA_CN_iLgiKqbgRkLqXVp-6zs=/128x128/v1.YzsxMDAwMDAyNjgyO2o7MjA3MDk7MjA0ODs3MTA7NzEx",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Daily Beast",
+      "editorialUrl": "http://www.thedailybeast.com/beaststyle.html",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "RyRMeQld",
+      "publicationId": "2345"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146986",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://screenrant.com/tony-movie-2026-review/",
+    "createDate": "2026-07-29T16:02:09.000Z",
+    "updateDate": "2026-07-29T16:02:09.000Z",
+    "reviewQuote": "Matt Johnson&#46;&#46;&#46; has once again taken true-story source material and made a real movie&#46; It works on its own terms&#44; with or without the halo of its subject&apos;s career&#46; It&apos;s actually about something&#46; And it&apos;s a delight to watch&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Alex Harrison",
+      "initials": "AH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alex-harrison",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "alex-harrison",
+      "encryptedCriticId": "ZBd3k7ml",
+      "displayImageUrl": "https://resizing.flixster.com/NSRHwfrCAuzpfZZw0BdZTNC7IJY=/128x128/v1.YzsxMDAwMDAzNDI4O2o7MjA3MDk7MjA0ODsyMjI0OzIyMjQ",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Screen Rant",
+      "editorialUrl": "http://screenrant.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "e8y8djy2",
+      "publicationId": "1647"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146985",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://awardsradar.com/2026/07/29/film-review-tony-is-a-captivating-look-at-a-formative-summer-in-the-life-of-anthony-bourdain/",
+    "createDate": "2026-07-29T16:02:00.000Z",
+    "updateDate": "2026-07-29T16:02:00.000Z",
+    "reviewQuote": "Tony is a captivating look at a formative summer in the life of Anthony Bourdain&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Joey Magidson",
+      "initials": "JM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/joey-magidson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "joey-magidson",
+      "encryptedCriticId": "5rPJjnye",
+      "displayImageUrl": "https://resizing.flixster.com/YJtkOF_vXvOvNsAXefyD988T5TA=/128x128/v1.YzszMTA2O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Awards Radar",
+      "editorialUrl": "https://awardsradar.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Ly94qGln",
+      "publicationId": "3834"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146984",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtu.be/UxDGOiiK98g",
+    "createDate": "2026-07-29T16:01:30.000Z",
+    "updateDate": "2026-07-29T16:01:30.000Z",
+    "reviewQuote": "It unflinchingly probes into the mayhem of Anthony&#8217;s adolescence&#44; complete with compulsive lying and reckless shenanigans&#46; Dominic Sessa fully commits to the role but it&#8217;s Antonio Banderas who delivers the most beautifully understated performance&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Lady Jenevia",
+      "initials": "LJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/lady-jenevia",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "lady-jenevia",
+      "encryptedCriticId": "lDpMokQl",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "LadyJenevia (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "ZBdmRvRl",
+      "publicationId": "100010330"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103146983",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.slantmagazine.com/film/tony-review-dominic-sessa-matt-johnson/",
+    "createDate": "2026-07-29T15:59:40.000Z",
+    "updateDate": "2026-08-03T14:28:36.000Z",
+    "reviewQuote": "The film is more interested in the passions that kept Anthony Boudrain&apos;s demons at bay than in how those demons ultimately consumed him&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Rocco T. Thompson",
+      "initials": "RT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rocco-t-thompson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rocco-t-thompson",
+      "encryptedCriticId": "7ZW1e8lm",
+      "displayImageUrl": "https://resizing.flixster.com/97zqTYInodUcYiQtxBMC-06n4rk=/128x128/v1.YzsxMDAwMDAzMzM3O3A7MjA3MDk7MjA0ODsyNzEyOzI3MDA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Slant Magazine",
+      "editorialUrl": "http://slantmagazine.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "p5rPaple",
+      "publicationId": "821"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  }
+]

@@ -1,0 +1,1042 @@
+[
+  {
+    "reviewId": "103119323",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thebloggingbanshee.com/2026/04/17/overlook-2026-review-buddy/",
+    "createDate": "2026-04-17T23:47:25.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "Buddy is a hilarious&#44; suspenseful&#44; and heartfelt adventure turning millennial nostalgia into the stuff of nightmares&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Molly Henery",
+      "initials": "MH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/molly-henery",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "molly-henery",
+      "encryptedCriticId": "vZGgQJZ7",
+      "displayImageUrl": "https://resizing.flixster.com/pWg4s4n8U4SZY4rMrJknSmDxcWk=/128x128/v1.YzsxMDAwMDAyOTc5O2o7MjA3MDk7MjA0ODs1MjM4OzUxNzg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Blogging Banshee",
+      "editorialUrl": "https://thebloggingbanshee.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "BZ5DPjy9",
+      "publicationId": "3143"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103100459",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.youtube.com/live/_u7cJ96Ydw8",
+    "createDate": "2026-02-12T03:10:55.000Z",
+    "updateDate": "2026-05-25T14:44:54.000Z",
+    "reviewQuote": "It is fun&#46; It starts to take itself too seriously but overall people will have a good time with it",
+    "language": "English",
+    "critic": {
+      "displayName": "Rachel Wagner",
+      "initials": "RW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rachel-wagner",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rachel-wagner",
+      "encryptedCriticId": "xlbEJgrE",
+      "displayImageUrl": "https://resizing.flixster.com/T6uh3laka2d-tpkuXfW-bp4lqIo=/128x128/v1.YzszMjU3O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Rachel's Reviews (YouTube)",
+      "editorialUrl": "https://www.youtube.com/user/smilingldsgirl",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "8y8Jkqr2",
+      "publicationId": "3347"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103099277",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.dreadcentral.com/reviews/556185/buddy-unleashes-messy-singular-killer-unicorn-madness-sundance-2026-review/",
+    "createDate": "2026-02-07T03:08:42.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "Imperfect&#44; yes&#44; but films like &#8216;Buddy&#8217; don&#8217;t come along very often&#44; and filmmakers like Casper Kelly are even rarer&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Josh Korngut",
+      "initials": "JK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/josh-korngut",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "josh-korngut",
+      "encryptedCriticId": "8y8pqjy2",
+      "displayImageUrl": "https://resizing.flixster.com/a2ZVsAuGV5AAWW_bgHqu3M-VyGM=/128x128/v1.YzsxMDAwMDAzMTk5O3A7MjA3MDk7MjA0ODs1MjA7NDc5",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Dread Central",
+      "editorialUrl": "http://dreadcentral.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "eoraD9Zg",
+      "publicationId": "1696"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103098276",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://discussingfilm.net/2026/02/04/buddy-review-casper-kelly-sundance/",
+    "createDate": "2026-02-04T18:51:13.000Z",
+    "updateDate": "2026-05-25T14:44:51.000Z",
+    "reviewQuote": "Buddy is worth watching for Keegan-Michael Key&apos;s creepy and hilarious voice performance alone&#44; but its surreal horrors also linger in your mind long after the credits roll&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Andrew J. Salazar",
+      "initials": "AS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/andrew-j-salazar",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "andrew-j-salazar",
+      "encryptedCriticId": "GrQYnzrM",
+      "displayImageUrl": "https://resizing.flixster.com/4ehuDpXNQM-1JcNn2s0XG_sRwfA=/128x128/v1.YzszMzk3O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Discussing Film",
+      "editorialUrl": "https://discussingfilm.wordpress.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "vZpkMDyV",
+      "publicationId": "3156"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096518",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://sunshinestatecineplex.com/2026/01/29/sundance-2026-buddy-horror/",
+    "createDate": "2026-01-30T04:42:47.000Z",
+    "updateDate": "2026-05-25T14:44:51.000Z",
+    "reviewQuote": "While Buddy might not be for everyone&#44; it&#8217;s a fun and weird horror experience you&#8217;re unlikely to forget&#46; Featuring great performances and visuals&#44; Kelly continues to build his brand as an absurdist horror filmmaker&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Alan French",
+      "initials": "AF",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alan-french",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "alan-french",
+      "encryptedCriticId": "arXXAmrO",
+      "displayImageUrl": "https://resizing.flixster.com/D8zI081evuphmbTRaxec8QXfuIc=/128x128/v1.YzszMDk5O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Sunshine State Cineplex",
+      "editorialUrl": "https://sunshinestatecineplex.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "QrqO19yn",
+      "publicationId": "3172"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096082",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://awardsbuzz.com/sundance-review-buddy-is-a-fantastically-twisted-story-of-childrens-tv-gone-very-dark/",
+    "createDate": "2026-01-29T16:07:50.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "Buddy most certainly is not for everyone&#44; but those willing to laugh at its send-up of children&#8217;s TV shows and the horrors that could lurk behind them should have a great time&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Abe Friedtanzer",
+      "initials": "AF",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/abe-friedtanzer",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "abe-friedtanzer",
+      "encryptedCriticId": "rLb4An7y",
+      "displayImageUrl": "https://resizing.flixster.com/-bDxJmPC69VTzeGI24sRMPYNAdg=/128x128/v1.YzsxMDAwMDAyNzg1O3A7MjA3MDk7MjA0ODsxMDAwOzEwMDA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Awards Buzz",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y9RPaV3Z",
+      "publicationId": "100010078"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095464",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://slate.com/culture/2026/01/sundance-film-festival-2026-buddy-too-many-cooks.html",
+    "createDate": "2026-01-27T20:43:14.000Z",
+    "updateDate": "2026-05-21T14:26:32.000Z",
+    "reviewQuote": "The movie’s hilarious and unsettling disjunctions come from the way it introduces genuine menace into Buddy’s world without needing to rewrite its rules, because the menace was already bubbling just under the surface.",
+    "language": "English",
+    "critic": {
+      "displayName": "Sam Adams",
+      "initials": "SA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/sam-adams",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "sam-adams",
+      "encryptedCriticId": "QWy176rz",
+      "displayImageUrl": "https://resizing.flixster.com/jZzzXV3Ns4Yf6t1QsgiY7jzsrl8=/128x128/v1.YzsxMDAwMDAzMzc3O2o7MjA3MDk7MjA0ODs0NDg4OzQzNDM",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Slate",
+      "editorialUrl": "http://www.slate.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/9bJJnuvJeh7W1xkhn_QoJjNRmY0=/256x256/v1.YzsxMDAwMDAzNzcyO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "jGlgzdrp",
+      "publicationId": "419"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095424",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://screenanarchy.com/2026/01/sundance-2026-review-buddy-brings-childhood-horrors-to-unreal-life.html",
+    "createDate": "2026-01-27T19:30:57.000Z",
+    "updateDate": "2026-05-21T14:26:37.000Z",
+    "reviewQuote": "Deftly balancing dark&#44; cringe-worthy comedy with absurdist horror&#44; Buddy delivers exactly what its primary image of a half-charred Buddy wielding an ax in an artificial forest promised&#58; Twisted fun &#40;not&#41; for the whole family&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Mel Valentin",
+      "initials": "MV",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mel-valentin",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "mel-valentin",
+      "encryptedCriticId": "pZ612Vye",
+      "displayImageUrl": "https://resizing.flixster.com/rDHGR8diRoqbCb2qP2kIxR_YVQg=/128x128/v1.YzszOTM0O2o7MjA3MDA7MjA0ODs5ODY7OTg2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "ScreenAnarchy",
+      "editorialUrl": "http://screenanarchy.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "e8y8Pvy2",
+      "publicationId": "1703"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095214",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thefilmstage.com/sundance-review-buddy-is-a-funny-irrevent-feature-from-the-creator-of-too-many-cooks/",
+    "createDate": "2026-01-27T14:20:23.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "By and large&#44; Buddy proves that high-concept short-form premises can be expanded to a feature format effectively&#44; so long as the final film isn&#8217;t too winky and the stakes feel grounded&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Caleb Hammond",
+      "initials": "CH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/caleb-hammond",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "caleb-hammond",
+      "encryptedCriticId": "rY74n9oy",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Film Stage",
+      "editorialUrl": "https://thefilmstage.com/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "4yzjG5yP",
+      "publicationId": "2305"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094768",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.heyuguys.com/buddy-review/",
+    "createDate": "2026-01-26T11:58:51.000Z",
+    "updateDate": "2026-05-21T14:26:33.000Z",
+    "reviewQuote": "Fun&#44; unhinged - Buddy accomplishes exactly what it sets out to do&#46; It is hilarious&#44; unique&#44; and wildly unpredictable&#44; becoming a true Sundance original&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Nathan McVay",
+      "initials": "NM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nathan-mcvay",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "nathan-mcvay",
+      "encryptedCriticId": "Qrqdz9Zn",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "HeyUGuys",
+      "editorialUrl": "http://www.heyuguys.co.uk/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "dynJadyQ",
+      "publicationId": "2473"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094752",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.rogerebert.com/festivals/sundance-2026-leviticus-buddy-mum-im-alien-pregnant",
+    "createDate": "2026-01-26T08:05:26.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "A delightfully bleak&#44; but mostly missed opportunity&#46;  ",
+    "language": "English",
+    "critic": {
+      "displayName": "Robert Daniels",
+      "initials": "RD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/robert-daniels",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "robert-daniels",
+      "encryptedCriticId": "arXXeGrO",
+      "displayImageUrl": "https://resizing.flixster.com/vyTskjv_RqRBbg0pHnCeiK0VigU=/128x128/v1.YzsyOTY3O2o7MjA3MDA7MjA0ODs3MjA7NzIw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "RogerEbert.com",
+      "editorialUrl": "http://www.rogerebert.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "eoraDKZg",
+      "publicationId": "1708"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094734",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://nerdbot.com/2026/01/23/buddy-demented-kids-show-satire-that-goes-for-broke-review/",
+    "createDate": "2026-01-26T05:16:29.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "&quot;Buddy&quot; is bloody&#44; fun&#44; and laugh out loud funny&#44; knowing when to turn that dial to demented levels that is sure to delight audiences&#46; I don&#8217;t know that it all works&#46;&#46;&#46;but &quot;Buddy&quot; get&#8217;s more and more fun the weirder and weirder it gets&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Derrick Murray",
+      "initials": "DM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/derrick-murray",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "derrick-murray",
+      "encryptedCriticId": "yRm438El",
+      "displayImageUrl": "https://resizing.flixster.com/QkWoqwnChNMiCPEyKej-hZt1Ywc=/128x128/v1.YzsxMDAwMDAzNDE2O2o7MjA3MDk7MjA0ODs5NjA7OTYw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "NERDBOT",
+      "editorialUrl": "https://nerdbot.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "XrA4ezZw",
+      "publicationId": "3704"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094725",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://popculturereviews.com/2026/01/22/buddy-review/",
+    "createDate": "2026-01-26T04:47:18.000Z",
+    "updateDate": "2026-05-26T14:42:39.000Z",
+    "reviewQuote": "Dismantling the perfect image of childhood shows&#44; Kelly cuts through the propaganda in children&#8217;s entertainment with satire&#44; wit&#44; and style&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Brittany Patrice Witherspoon",
+      "initials": "BW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brittany-patrice-witherspoon",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "brittany-patrice-witherspoon",
+      "encryptedCriticId": "6lKO2Ylp",
+      "displayImageUrl": "https://resizing.flixster.com/QWhnEqbShggul8TmWX_tqKHrXfE=/128x128/v1.YzsxMDAwMDAzMjA1O2o7MjA3MDk7MjA0ODs0ODY7NTgx",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Pop Culture Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "rwo5DGar",
+      "publicationId": "100010102"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094693",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.thewrap.com/creative-content/movies/buddy-review-cristin-milioti-horror-comedy/",
+    "createDate": "2026-01-26T01:41:24.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "Each time you think you&#8217;re seeing the daylight of something potentially better to explore on the horizon&#44; &quot;Buddy&quot; keeps dragging you back into the banal darkness&#46; Like the kids&#44; you deserve far better than whatever this lackluster production amounts to&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Chase Hutchinson",
+      "initials": "CH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/chase-hutchinson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "chase-hutchinson",
+      "encryptedCriticId": "Ly93barn",
+      "displayImageUrl": "https://resizing.flixster.com/EVPp1JjCTq6rj6XeJbIFvgrrBBo=/128x128/v1.YzsxMDAwMDAyNzgxO2o7MjA3MDk7MjA0ODsyOTM7Mjkz",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "TheWrap",
+      "editorialUrl": "http://www.thewrap.com/tag/movie_reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/oIEyuPqk711nt7MzMwmDagOBMFg=/200x200/v1.YzsxMDAwMDAzODA4O3A7MjA3MDk7MjA0ODsyMDA7MjAw",
+      "encryptedPublicationId": "4yzjWeyP",
+      "publicationId": "2205"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094584",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://dailydead.com/sundance-2026-review-buddy-is-a-huggable-horror-sideshow/",
+    "createDate": "2026-01-25T07:14:21.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "It takes our snuggliest memories and feeds them through a meat grinder&#44; never playing it safe or caring about the ages of those in danger&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Matt Donato",
+      "initials": "MD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/matt-donato",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "matt-donato",
+      "encryptedCriticId": "qrEqeGra",
+      "displayImageUrl": "https://resizing.flixster.com/4hBz-X7VTMG7OpT2QJq6UUhD38A=/128x128/v1.YzszMzc2O2o7MjA3MDA7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Daily Dead",
+      "editorialUrl": "http://dailydead.com/category/features/review/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "jlOdW3y0",
+      "publicationId": "2723"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094564",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://bloody-disgusting.com/reviews/3930737/buddy-sundance-review-casper-kellys-mascot-horror-satire-is-an-absurd-delight/",
+    "createDate": "2026-01-25T02:22:19.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "Casper Kelly continues his explorations of pop culture insanity&#44; this time with an engaging and energetic descent into puppet-induced madness&#46; While its satire is never quite that deep&#44; Buddy&#8216;s foremost aim is to entertain&#46; It certainly succeeds&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Meagan Navarro",
+      "initials": "MN",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/meagan-navarro",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "meagan-navarro",
+      "encryptedCriticId": "RyRexvld",
+      "displayImageUrl": "https://resizing.flixster.com/JoRZPBO0wdkHljVI2ij8bxtL-jM=/128x128/v1.YzszMTk5O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Bloody Disgusting",
+      "editorialUrl": "https://bloody-disgusting.com/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "zjlO23r0",
+      "publicationId": "1667"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094547",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://variety.com/2026/film/reviews/buddy-review-a-barney-spoof-sundance-1236639938/",
+    "createDate": "2026-01-25T00:34:32.000Z",
+    "updateDate": "2026-05-21T14:26:26.000Z",
+    "reviewQuote": "Casper Kelly is a talent to watch. In Buddy, he’s essentially reviving an old joke and doing multiple variations on it. But he has a gleefully rich understanding of the inner insanity that can drive pop culture.",
+    "language": "English",
+    "critic": {
+      "displayName": "Owen Gleiberman",
+      "initials": "OG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/owen-gleiberman",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "owen-gleiberman",
+      "encryptedCriticId": "jGlgjvrp",
+      "displayImageUrl": "https://resizing.flixster.com/iumWKQ033DTjaA5VVe-tTPhRtBo=/128x128/v1.YzsyNzE4O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Variety",
+      "editorialUrl": "http://variety.com/v/film/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/cMg4FAB7XrqmpueG7MpVj83MU8w=/256x256/v1.YzsxMDAwMDAzODI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "YxyebgZe",
+      "publicationId": "466"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094545",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/buddy-review-keegan-michael-key-cristin-milioti-horror-1236483756/",
+    "createDate": "2026-01-25T00:32:07.000Z",
+    "updateDate": "2026-05-21T14:26:28.000Z",
+    "reviewQuote": "Genre audiences willing to settle for some weird-ass but ultimately toothless subversiveness might enjoy Buddy... But the movie is a one-joke premise, cute and colorful but unsatisfyingly fleshed out.",
+    "language": "English",
+    "critic": {
+      "displayName": "David Rooney",
+      "initials": "DR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/david-rooney",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "david-rooney",
+      "encryptedCriticId": "BZ55DPZ9",
+      "displayImageUrl": "https://resizing.flixster.com/-_nxKSoIajfV_9NjUmE0Esql060=/128x128/v1.YzszODM5O3A7MjA3MDA7MjA0ODsyNDg7MzIw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Hollywood Reporter",
+      "editorialUrl": "http://www.hollywoodreporter.com/hr/film/reviews/index.jsp",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PnE_AJzukoI8np6MHm5j9vpNtOM=/256x256/v1.YzsxMDAwMDAzNjcwO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "6arXpQrO",
+      "publicationId": "213"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094531",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "2.5/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://nypost.com/2026/01/23/entertainment/buddy-review-deranged-sundance-horror-film-has-a-barney-like-creature-go-on-a-kid-killing-rampage/",
+    "createDate": "2026-01-24T23:40:12.000Z",
+    "updateDate": "2026-05-21T14:26:33.000Z",
+    "reviewQuote": "The first 20 minutes were side-splittingly funny and bitingly observed... Then a more ambitious story involving parents in the outside world, played by Cristin Milioti and Topher Grace, takes over, and the movie struggles to match its rocket-fuel kickoff.",
+    "language": "English",
+    "critic": {
+      "displayName": "Johnny Oleksinski",
+      "initials": "JO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/johnny-oleksinski",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "johnny-oleksinski",
+      "encryptedCriticId": "plDYBQy6",
+      "displayImageUrl": "https://resizing.flixster.com/tF0Aqr_JJM_NlfUqW4RRlzr_ZEE=/128x128/v1.YzszMDYyO2o7MjA3MDA7MjA0ODsxNjkzOzE2MzM",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "New York Post",
+      "editorialUrl": "http://www.nypost.com/entertainment/movies/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/2zXkX2WNO8FfXP6O-Nc8TKTueIM=/225x225/v1.YzsxMDAwMDAzNzIyO2o7MjA3MDk7MjA0ODsyMjU7MjI1",
+      "encryptedPublicationId": "EqrEq2ra",
+      "publicationId": "336"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094521",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.joblo.com/buddy-sundance-review-too-many-cooks-meets-barney-friends/",
+    "createDate": "2026-01-24T22:26:24.000Z",
+    "updateDate": "2026-05-21T14:26:28.000Z",
+    "reviewQuote": "Never lives up to the dazzling first thirty minutes&#44; but still a fun gonzo horror ride&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Chris Bumbray",
+      "initials": "CB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/chris-bumbray",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "chris-bumbray",
+      "encryptedCriticId": "QrqOjVyn",
+      "displayImageUrl": "https://resizing.flixster.com/Jd8Bga-Ps7baBaMBDaze2DpzHiw=/128x128/v1.YzsxMDAwMDAzMzc4O2o7MjA3MDk7MjA0ODs2Mjg7NjI2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "JoBlo's Movie Network",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "6dynOJZQ",
+      "publicationId": "573"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094514",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://collider.com/buddy-movie-review-cristin-milioti-topher-grace-sundance/",
+    "createDate": "2026-01-24T21:38:16.000Z",
+    "updateDate": "2026-05-21T14:26:36.000Z",
+    "reviewQuote": "Buddy is the kind of odd comedy that could take one joke and wear it out&#44; but instead&#44; Kelly&#8217;s film will leave you wanting even more of this nostalgic nightmare&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Ross Bonaime",
+      "initials": "RB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/ross-bonaime",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "ross-bonaime",
+      "encryptedCriticId": "4rw9ebyA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Collider",
+      "editorialUrl": "http://www.collider.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "vl499pyz",
+      "publicationId": "1982"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094435",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.thedailybeast.com/obsessed/buddy-sundance-review-what-if-barney-was-your-childs-worst-nightmare/",
+    "createDate": "2026-01-24T13:46:37.000Z",
+    "updateDate": "2026-05-21T14:26:27.000Z",
+    "reviewQuote": "A horror-comedy that takes a scalpel&#8212;or&#44; more accurately&#44; several weapons&#8212;to its jaunty protagonist&#44; all while reveling in his darkly disturbed spirit&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Nick Schager",
+      "initials": "NS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nick-schager",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "nick-schager",
+      "encryptedCriticId": "XrAm7Erw",
+      "displayImageUrl": "https://resizing.flixster.com/lVxA_CN_iLgiKqbgRkLqXVp-6zs=/128x128/v1.YzsxMDAwMDAyNjgyO2o7MjA3MDk7MjA0ODs3MTA7NzEx",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Daily Beast",
+      "editorialUrl": "http://www.thedailybeast.com/beaststyle.html",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "RyRMeQld",
+      "publicationId": "2345"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094398",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B+",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.indiewire.com/criticism/movies/buddy-review-casper-kelly-sundance-1235174700/",
+    "createDate": "2026-01-24T02:10:32.000Z",
+    "updateDate": "2026-06-22T14:27:00.000Z",
+    "reviewQuote": "It gets harder and harder to find something that feels fresh enough to be truly shocking and executed competently enough to transcend its gimmicks, and we should all celebrate when we find one. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Christian Zilko",
+      "initials": "CZ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/christian-zilko",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "christian-zilko",
+      "encryptedCriticId": "RyRQ1gld",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "IndieWire",
+      "editorialUrl": "http://www.indiewire.com/t/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/OJCGA3R7DYPGq5Z7vLgQrcMSPVY=/256x256/v1.YzsxMDAwMDAzNjc5O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "Q5yMXplg",
+      "publicationId": "226"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094386",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.upi.com/Entertainment_News/Movies/2026/01/23/Buddy-Sundance-movie-review/9461769218262/",
+    "createDate": "2026-01-24T01:40:59.000Z",
+    "updateDate": "2026-05-21T14:26:24.000Z",
+    "reviewQuote": "An effective satire of those shows that simplify morals for kids&#46; Turning it into a slasher movie with Buddy stalking the kids turns the show into a funhouse hell&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Fred Topel",
+      "initials": "FT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/fred-topel",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "fred-topel",
+      "encryptedCriticId": "W4y3O2yn",
+      "displayImageUrl": "https://resizing.flixster.com/zfjasQJxVxEL9pyvJHfO2hmhHXw=/128x128/v1.YzsyNDk0O2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "United Press International",
+      "editorialUrl": "http://www.upi.com/Entertainment_News/Movies/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "el77jalq",
+      "publicationId": "2795"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094322",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "4/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://butwhytho.net/2026/01/buddy-2026-review-horror/",
+    "createDate": "2026-01-23T23:00:51.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "There is a great version of&#160;Buddy &#40;2026&#41; that either goes much further or is simply cut down into a short film&#46; In its current form&#44; it&apos;s a disappointment&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "James Preston Poole",
+      "initials": "JP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/james-preston-poole",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "james-preston-poole",
+      "encryptedCriticId": "Z5JojMjr",
+      "displayImageUrl": "https://resizing.flixster.com/wIIotHp3-mJdU0Skj7T5ICsvavM=/128x128/v1.YzsxMDAwMDAzMjczO2o7MjA3MDk7MjA0ODsxNDQwOzEwODM",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "But Why Tho?",
+      "editorialUrl": "https://butwhytho.net/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "krLnNKyw",
+      "publicationId": "3409"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094280",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.theguardian.com/film/2026/jan/23/buddy-review-comedy-horror-sundance-festival",
+    "createDate": "2026-01-23T21:35:21.000Z",
+    "updateDate": "2026-05-21T14:26:32.000Z",
+    "reviewQuote": "With the poor child actors forced to stay in well-observed yet progressively grating Nickelodeon schtick, it’s hard to feel all that bothered about their survival.",
+    "language": "English",
+    "critic": {
+      "displayName": "Benjamin Lee",
+      "initials": "BL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/benjamin-lee",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "benjamin-lee",
+      "encryptedCriticId": "ErmG6Myb",
+      "displayImageUrl": "https://resizing.flixster.com/QXSSh9qh198wWx_tX1ustL0MTg4=/128x128/v1.YzsxMDAwMDAyOTE0O2o7MjA3MDk7MjA0ODs5NTU7ODY3",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Guardian",
+      "editorialUrl": "https://www.theguardian.com/film+tone/reviews",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PSiWKUHiH7OIbfgdTcalUEnDgpU=/256x256/v1.YzsxMDAwMDAzNjYzO3A7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "J4yzkxZP",
+      "publicationId": "205"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094269",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://fandomwire.com/buddy-sundance-review/",
+    "createDate": "2026-01-23T21:09:58.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "It&#8217;s a lot of fun&#44; has a great concept&#44; and has no shortage of visual style&#44; but it feels like the type of movie destined more for late night&#47;cult status than mainstream appeal&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Sean Boelman",
+      "initials": "SB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/sean-boelman",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "sean-boelman",
+      "encryptedCriticId": "yRm43XGl",
+      "displayImageUrl": "https://resizing.flixster.com/AURmzoi1nquk6gpW5LO_MjFGa04=/128x128/v1.YzsxMDAwMDAzMjYzO2o7MjA3MDk7MjA0ODsyMDQ4OzIwNDg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "FandomWire",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "y9RP4qQZ",
+      "publicationId": "100009878"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094253",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://deadline.com/2026/01/buddy-review-casper-kelly-cristin-milioti-sundance-1236694437/",
+    "createDate": "2026-01-23T20:49:20.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "Kelly plays with form in ways that some might find exasperating, but there is always a method to his madness and, like Too Many Cooks, Buddy goes out on a psychedelic high, like an extraordinary experiment in mind control.",
+    "language": "English",
+    "critic": {
+      "displayName": "Damon Wise",
+      "initials": "DW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/damon-wise",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "damon-wise",
+      "encryptedCriticId": "RyRGNoZd",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Deadline Hollywood Daily",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/J9nZqvu0OQcTuaqREwauFUr28IQ=/256x256/v1.YzsxMDAwMDAzOTI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "vZpkOdyV",
+      "publicationId": "2256"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094223",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://shadestudios.com/f/sundance-2025-buddy-review",
+    "createDate": "2026-01-23T20:15:53.000Z",
+    "updateDate": "2026-05-21T00:09:08.000Z",
+    "reviewQuote": "&#91;Buddy&#93; is proof that original storytelling is alive and well&#44; even if it pulls from a bevy of influences&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Alfred Castaneda",
+      "initials": "AC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alfred-castaneda",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "alfred-castaneda",
+      "encryptedCriticId": "yxpY2xMy",
+      "displayImageUrl": "https://resizing.flixster.com/xB0LeN7-MW9oZtxC5nC9RFMVASQ=/128x128/v1.YzsxMDAwMDAzNDMzO2o7MjA3MDk7MjA0ODs4MDA7ODAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Shade Studios",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "l7JgxQzr",
+      "publicationId": "100011395"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094222",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://punchdrunkcritics.com/2026/01/buddy-64581/",
+    "createDate": "2026-01-23T20:15:52.000Z",
+    "updateDate": "2026-05-21T14:26:32.000Z",
+    "reviewQuote": "It&#8217;s a film that will delight most Midnight audiences and stoners will dig it&#44; but it&#8217;s also hard to escape that parodies of Barney feel so yesterday&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Travis Hopson",
+      "initials": "TH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/travis-hopson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "travis-hopson",
+      "encryptedCriticId": "krLmpklw",
+      "displayImageUrl": "https://resizing.flixster.com/X4Vmyp4ye7iwkLCo4LAdzMdgw6o=/128x128/v1.YzsyNDkwO2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Punch Drunk Critics",
+      "editorialUrl": "http://www.punchdrunkcritics.com/search/label/reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "BZ5DjLy9",
+      "publicationId": "2787"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103094154",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://horrorbuzz.com/movies/buddy/",
+    "createDate": "2026-01-23T18:40:25.000Z",
+    "updateDate": "2026-05-21T14:26:28.000Z",
+    "reviewQuote": "A deliriously absurd&#44; journey through the banal world of children&#8217;s programming that serves as both satire and an indictment&#46; Buddy is destined to become a cult classic&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Norman Gidney",
+      "initials": "NG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/norman-gidney1",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "norman-gidney1",
+      "encryptedCriticId": "VZBY84yA",
+      "displayImageUrl": "https://resizing.flixster.com/df8Cht0zIoKQgR9IuTKqCGmKitI=/128x128/v1.YzszNTcyO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "HorrorBuzz",
+      "editorialUrl": "http://horrorbuzz.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "GrQkDWyM",
+      "publicationId": "3640"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  }
+]

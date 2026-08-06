@@ -103,10 +103,13 @@ def fetch_market_orderbook(ticker: str) -> dict:
     拿单个门槛(market)的实时逐档 orderbook。返回解析后的档位。
     返回 {yes_bids: [[price_cent, size],...降序], no_bids: [[price_cent, size],...]}
     yes_bids 用于算买NO成本（NO成本 = 100 - yes_bid）。
+    注：orderbook 是公开数据，不需要认证/签名。
     """
     path = f"/trade-api/v2/markets/{ticker}/orderbook"
     url = f"https://external-api.kalshi.com{path}"
-    data = _get_signed(url, sign_path=path)
+    resp = requests.get(url, timeout=15)     # 公开端点，不签名
+    resp.raise_for_status()
+    data = resp.json()
     ob = data.get("orderbook_fp", {}) or data.get("orderbook", {})
 
     def to_levels(arr):

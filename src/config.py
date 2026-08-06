@@ -4,8 +4,11 @@
 """
 
 from __future__ import annotations
+from src.collectors.platforms.kalshi import KalshiPlatform
+from src.collectors.platforms.polymarket import PolymarketPlatform
 
 # ========== 默认交易策略参数（所有脚本共用）==========
+# 如果想针对某一个电影进行个性化参数设置，可以在 WATCHLIST 里加对应字段覆盖默认。
 STRATEGY_DEFAULTS = {
     "DRIFT": 1.0,
     "PRIOR_STRENGTH": 20.0,
@@ -44,6 +47,17 @@ def get_strategy_params(movie_key=None):
                 params[param_key] = m[cfg_key]
     return params
 
+
+def get_platforms(movie_cfg):
+    """根据 config 填的字段，返回该片开盘的平台对象列表。
+    填了 kalshi_event → Kalshi；填了 polymarket_event_slug → Polymarket；都填 → 两个。"""
+    platforms = []
+    if movie_cfg.get("kalshi_event"):
+        platforms.append(KalshiPlatform())
+    if movie_cfg.get("polymarket_event_slug"):
+        platforms.append(PolymarketPlatform())
+    return platforms
+
 # ===== 模板阶梯 =====
 # 加新电影时复制这个用。每一行是 (门槛, YES卖价, NO卖价)，单位美分。
 # 不会被直接使用——每部电影在下面 WATCHLIST 里带自己的 "ladder"，
@@ -58,10 +72,125 @@ DEFAULT_LADDER = [
 
 # ===== 电影清单 =====
 # 每部你想追踪的电影一个条目。
-# 每部电影现在自带 "ladder"（门槛 + 当前 Kalshi 价格），所以价格按片各自更新。
-# kalshi_event去kalshi网站上找这部电影对应的ticker代码，填在这里，就能拉实时价格了。
+
+# 各个字段填写流程：
+# 1. title：电影完整名称
+# 2. movie key：电影名称的小写+下划线
+# 3. base_rate: 按照z_other_documents/base_rate_填写指南.txt来填写（交给Claude联网填写）
+# 4. n_final：可以先填默认的200，等解禁之后从烂番茄官网使用rt_review_import_report.py抓取评论数据后根据report来更新预估的值
+# 5. kalshi_event：Kalshi上的event ticker（网站查）
+# 6. kalshi_settle_date：Kalshi上的结算日期（网站查）
+# 7. polymarket_event_slug: 去polymarket该event的网站上看网址：event/后面的那一串就是slug：https://polymarket.com/event/<event_slug>
+# 8. polymarket_settle_date: polymarket上的结算日期（网站查）
+# 9. rt_movie_id：去烂番茄官网然后按ctrl+u查看网页源代码，然后搜索emsID字段，就是这个电影的uuid
+# 10. embargo_date：上网查，能查到就填，查不到可以不用填，因为monitor.py盯盘脚本有自动过滤的逻辑（按settle date大于今日日期）
+
+# 注：回测数据区域的电影是kalshi上历史结算的所有电影，用于之前backtest和backtest_pnl的回测分析
+# 里面有一个lift_date字段是根据烂番茄上的全量评论推算出来的
 # 所有电影的embargo date是Google搜索手动填的，lift date是根据评论数据计算的，优先使用embargo date
+
 WATCHLIST = {
+
+    "heart_of_the_beast": {
+        "title": "Heart of the Beast",
+        "base_rate": 62,  # 导演 David Ayer 近作均分（The Beekeeper ~68, Suicide Squad ~26, Fury ~76, End of Watch ~85, Bright ~26）波动极大；动作冒险取中性，Brad Pitt/Plan B 主演略调高
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-HEA",
+        "kalshi_settle_date": "2026-09-28",   
+        "rt_movie_id": "55736447-211f-430d-9492-41e935a08b5e", 
+    },
+
+    "practical_magic_2": {
+        "title": "Practical Magic 2",
+        "base_rate": 55,    # 直系前作 Practical Magic (1998) ~40（第1优先）；导演 Susanne Bier（Bird Box ~63, In a Better World ~76）品质高于前作，向上调整取中低
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-PRA",
+        "kalshi_settle_date": "2026-09-14",   
+        "rt_movie_id": "ebe5bab5-816c-466f-98b9-e65a0abe5c67", 
+    },
+
+    "resident_evil": {
+        "title": "Resident Evil",
+        "base_rate": 78,    # 无直系前作参照（重启）；导演 Zach Cregger 近作（Weapons ~92, Barbarian ~92）（第2优先），恐怖是其绝对主场，取中高但游戏改编题材保守
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-RES",
+        "kalshi_settle_date": "2026-09-21",   
+        "rt_movie_id": "18291325-7a41-323c-8833-1dd9926f7a86", 
+    },
+
+    "by_any_means": {
+        "title": "By Any Means",
+        "base_rate": 72,    # 导演 Elegance Bratton（The Inspection 2022 ~95，仅一部剧情长片）（第2优先）；历史犯罪剧情+强阵容，样本少取中高保守
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-BYA",
+        "kalshi_settle_date": "2026-09-07",   
+        "rt_movie_id": "44c22acf-ec40-46fa-ace7-581f9509ab33", 
+    },
+
+    "onslaught": {
+        "title": "Onslaught",
+        "base_rate": 68,    # 导演 Adam Wingard 近作（Godzilla x Kong ~54, Godzilla vs Kong ~76, The Guest ~91, You're Next ~76）（第2优先）；A24 动作恐怖回归小成本主场，取中性偏上
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-ONS",
+        "kalshi_settle_date": "2026-09-07",   
+        "rt_movie_id": "142b62f7-1a18-4e22-ac85-4b1609cf313d", 
+    },
+
+    "primetime": {
+        "title": "Primetime",
+        "base_rate": 78,    # 导演 Lance Oppenheim 剧情长片处女作（纪录片 Some Kind of Heaven ~98 广受好评）+ A24 + Ari Aster 监制（第3优先）；犯罪传记取中高
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-PRI",
+        "kalshi_settle_date": "2026-09-28",   
+        "rt_movie_id": "907f4b43-2592-4b16-a02d-38b079d1fc19", 
+    },
+
+    "the_weight": {
+        "title": "The Weight",
+        "embargo_date": "2026-01-27",
+        "base_rate": 65,    # 导演 Padraic McKinley（无知名前作参照）→ 兜底：历史剧情类型 + 强演员阵容（Ethan Hawke/Russell Crowe）+ Sundance 入围（第4优先），取中性偏上
+        "n_final": 130,        # TODO 待定
+        "kalshi_event": "KXRT-WEI",
+        "kalshi_settle_date": "2026-09-21",   
+        "rt_movie_id": "90aa100f-a25f-342f-9a87-b208a55b39ad", 
+    },
+
+    "coyote_vs_acme": {
+        "title": "Coyote vs. Acme",
+        "base_rate": 68,    # 导演 Dave Green（TMNZ: Out of the Shadows ~38, Earth to Echo ~50）偏低（第2优先）；但 Looney Tunes IP + James Gunn 编剧/监制（第3优先）大幅上调，真人动画混合取中性偏上
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-COY",
+        "kalshi_settle_date": "2026-08-31",   
+        "rt_movie_id": "c5e9934a-cac2-4689-b6cf-2ab2f68760ae", 
+    },
+
+    "it_ends": {
+        "title": "It Ends",
+        "base_rate": 62,    # 导演 Alex Ullom 长片处女作（无前作参照）→ 兜底：科幻恐怖惊悚类型历史均分（第4优先），信号最弱
+        "n_final": 41,        # TODO 待定
+        "kalshi_event": "KXRT-ITE",
+        "kalshi_settle_date": "2026-08-24",   
+        "rt_movie_id": "52a1073b-75ea-3ba1-8296-fc25ddcb70db", 
+        "exclude_from_backtest": True,
+    },
+
+    "clayface": {
+        "title": "Clayface",
+        "base_rate": 72,    # 导演 James Watkins 近作（Speak No Evil 2024 ~85, Eden Lake ~82, The Woman in Black ~66）（第2优先）；编剧 Mike Flanagan + DCU 恐怖，取中高
+        "n_final": 200,        # TODO 待定
+        "kalshi_event": "KXRT-CLA",
+        "kalshi_settle_date": "2026-10-26",   
+        "rt_movie_id": "d5639ed5-2dfe-44a3-8ed2-1cb3ea99855f", 
+    },
+
+    "paw_patrol_the_dino_movie": {
+        "title": "PAW Patrol: The Dino Movie",
+        "base_rate": 74,    # 汪汪队电影系列均分（The Movie 2021 ~82, Mighty Movie 2023 ~72）；直系前作，第三部续集延续小幅下滑趋势，取略低于均值
+        "n_final": 200,        # TODO 待定
+        "polymarket_event_slug": "paw-patrol-the-dino-movie-rotten-tomatoes-score-20260709174855589",
+        "polymarket_settle_date": "2026-08-17",   
+        "rt_movie_id": "1392798f-bc2f-3a97-a5fa-efe5246f7344", 
+    },
 
     "spider_man_brand_new_day": {
         "embargo_date": "2026-07-28",
@@ -75,6 +204,7 @@ WATCHLIST = {
 
     "ice_cream_man": {
         "title": "Ice Cream Man",
+        "embargo_date": "2026-08-03",
         "base_rate": 62,  # 导演 Eli Roth 近作均分（Thanksgiving ~80, Borderlands ~6, Hostel ~62, Green Inferno ~36, House with a Clock ~66）波动极大，恐怖是其主场，取中性
         "n_final": 90,        # TODO 待定
         "kalshi_event": "KXRT-ICE",
@@ -105,7 +235,7 @@ WATCHLIST = {
         "embargo_date": "2026-08-05",
         "title": "One Night Only",
         "base_rate": 68,  # 导演 Will Gluck 近作均分（Anyone But You ~52, Easy A ~85, Friends with Benefits ~70, Peter Rabbit ~64/60），爱情喜剧取中性偏上
-        "n_final": 200,        # TODO 待定
+        "n_final": 100,        # TODO 待定
         "kalshi_event": "KXRT-ONE",
         "kalshi_settle_date": "2026-08-10",   
         "rt_movie_id": "41a3f656-d948-3918-9312-60c5d5c70532", 
@@ -122,8 +252,9 @@ WATCHLIST = {
 
     "super_troopers_3": {
         "title": "Super Troopers 3",
+        "embargo_date": "2026-08-05",
         "base_rate": 45,  # 系列均分（Super Troopers 2001 ~36, Super Troopers 2 2018 ~35），Broken Lizard 喜剧续集，略调高
-        "n_final": 200,        # TODO 待定
+        "n_final": 55,        # TODO 待定
         "kalshi_event": "KXRT-SUPER",
         "kalshi_settle_date": "2026-08-10",   
         "rt_movie_id": "100f330d-e46d-3ed2-a6cf-1caf8f4bf7a1", 
@@ -154,6 +285,7 @@ WATCHLIST = {
         "kalshi_event": "KXRT-BUD",
         "kalshi_settle_date": "2026-08-31",   
         "rt_movie_id": "9b58c92c-bc29-378e-8435-ccabe92cc59b", 
+        "exclude_from_backtest": True,
     },
 
     "the_end_of_oak_street": {

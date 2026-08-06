@@ -1,537 +1,310 @@
 """
-盯盘脚本的单元测试：测纯计算逻辑（滑点、NO成本、筛选边界）。
-不测 API 调用（那些靠真实运行验证）。
+盯盘脚本单元测试：覆盖纯计算逻辑 + 平台适配 + edge cases。
+不测真实 API 调用（那些靠真实运行验证），用 fake platform 测平台相关逻辑。
 
 用法：py -m pytest tests/test_monitor.py -v
-  或： py tests/test_monitor.py   （直接跑，用断言）
+  或： py tests/test_monitor.py
 """
-
-import sys, os
+import sys
+import os
 from datetime import datetime, timezone
-from src import config
-# 把项目根目录加进路径（tests/ 的上一级）
+
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from scripts.monitor import fill_yes, fill_no, is_valid_rt_data, should_watch, evaluate_rung
-
-DEFAULT_PARAMS = config.get_strategy_params()
-
-# ==================== fill_no 测试（买NO逐档吃yes_bids）====================
-
-def test_fill_no_single_level_enough():
-    """单档深度足够：全部以best价成交。"""
-    yes_bids = [[55.0, 5000.0]]
-    # 买NO 100张：卖YES@55，NO成本=100-55=45
-    assert fill_no(yes_bids, 100) == 45.0
-
-
-def test_fill_no_multi_level():
-    """吃穿多档：均价计算。"""
-    yes_bids = [[59.0, 50.0], [58.0, 50.0]]
-    # 50@59 + 50@58 → 卖YES均价58.5 → NO成本=100-58.5=41.5
-    assert fill_no(yes_bids, 100) == 41.5
-
-
-def test_fill_no_depth_insufficient():
-    """深度不足100张：返回None。"""
-    yes_bids = [[59.0, 30.0], [58.0, 40.0]]  # 只70张
-    assert fill_no(yes_bids, 100) is None
-
-
-def test_fill_no_exact_depth():
-    """深度正好100张。"""
-    yes_bids = [[60.0, 100.0]]
-    assert fill_no(yes_bids, 100) == 40.0
-
-
-def test_fill_no_empty():
-    """空盘口：返回None。"""
-    assert fill_no([], 100) is None
-
-
-def test_fill_no_real_spiderman():
-    """真实蜘蛛侠KXRT-SPI-90数据：深度充足，best价成交。"""
-    yes_bids = [[59.0, 125.09], [58.0, 125.18], [57.0, 464.0]]
-    # 100张全在第一档(125.09>100)，卖YES@59，NO成本=41
-    assert fill_no(yes_bids, 100) == 41.0
-
-
-# ==================== fill_yes 测试（买YES逐档吃yes_asks）====================
-
-def test_fill_yes_single_level():
-    yes_asks = [[85.0, 200.0]]
-    assert fill_yes(yes_asks, 100) == 85.0
-
-
-def test_fill_yes_multi_level_slippage():
-    """经典滑点例子：best只1张，吃到下一档。"""
-    yes_asks = [[96.0, 1.0], [97.0, 200.0]]
-    # 1@96 + 99@97 = (96 + 99*97)/100 = 96.99
-    result = fill_yes(yes_asks, 100)
-    assert abs(result - 96.99) < 0.01
-
-
-def test_fill_yes_depth_insufficient():
-    yes_asks = [[85.0, 50.0]]  # 只50张
-    assert fill_yes(yes_asks, 100) is None
-
-
-def test_fill_yes_empty():
-    assert fill_yes([], 100) is None
-
-
-# ==================== edge / 筛选逻辑测试 ====================
-
-def test_edge_no_calculation():
-    """买NO的edge = prob_no*100 - no_ask。"""
-    prob_no = 0.85
-    no_ask = 41.0
-    edge_no = prob_no * 100 - no_ask
-    assert edge_no == 44.0
-
-
-def test_edge_yes_calculation():
-    prob_yes = 0.90
-    yes_ask = 85.0
-    edge_yes = prob_yes * 100 - yes_ask
-    assert edge_yes == 5.0
-
-
-def test_no_ask_from_yes_bid():
-    """no_ask = 100 - yes_bid 换算。"""
-    yes_bid = 59.0
-    no_ask = 100 - yes_bid
-    assert no_ask == 41.0
-
-
-def test_spread_calculation():
-    """价差 = yes_ask - yes_bid。"""
-    yes_ask = 60.0
-    no_ask = 41.0
-    yes_bid = 100 - no_ask   # = 59
-    spread = yes_ask - yes_bid
-    assert spread == 1.0
-
-
-# ==================== 筛选条件边界测试 ====================
-
-def in_range(prob, edge, cost, wp_min, wp_max, e_min, e_max, price_max):
-    """模拟盯盘的筛选条件。"""
-    return (wp_min <= prob <= wp_max and
-            e_min <= edge <= e_max and
-            cost < price_max)
-
-
-def test_filter_edge_too_low():
-    """edge低于下限：不通过。"""
-    assert not in_range(0.85, 4, 41, 0.80, 0.92, 5, 10, 90)
-
-
-def test_filter_edge_too_high():
-    """edge高于上限：不通过（大edge=模型错）。"""
-    assert not in_range(0.85, 15, 41, 0.80, 0.92, 5, 10, 90)
-
-
-def test_filter_edge_in_range():
-    """edge在5-10：通过。"""
-    assert in_range(0.85, 7, 41, 0.80, 0.92, 5, 10, 90)
-
-
-def test_filter_winprob_too_high():
-    """胜率高于上限(钢镚)：不通过。"""
-    assert not in_range(0.95, 7, 41, 0.80, 0.92, 5, 10, 90)
-
-
-def test_filter_winprob_too_low():
-    assert not in_range(0.75, 7, 41, 0.80, 0.92, 5, 10, 90)
-
-
-def test_filter_price_too_high():
-    """买价≥上限：不通过。"""
-    assert not in_range(0.85, 7, 95, 0.80, 0.92, 5, 10, 90)
-
-
-def test_filter_boundary_winprob_exact():
-    """胜率正好等于边界：通过（<=）。"""
-    assert in_range(0.80, 7, 41, 0.80, 0.92, 5, 10, 90)
-    assert in_range(0.92, 7, 41, 0.80, 0.92, 5, 10, 90)
-
-# ==================== fill_no 的极端边界测试 (Edge Cases) ====================
-
-def test_fill_no_zero_size_in_book():
-    """订单簿中存在 size 为 0 的挂单（幽灵挂单/脏数据）。应跳过它并继续吃单。"""
-    yes_bids = [[60.0, 0.0], [59.0, 50.0], [58.0, 50.0]]
-    # 忽略 0张@60，买入 50@59 + 50@58 -> 均价 58.5 -> NO成本 = 41.5
-    assert fill_no(yes_bids, 100) == 41.5
-
-def test_fill_no_exact_float_precision():
-    """浮点数精度测试：确保大数叠加时没有引发离谱的精度爆炸。"""
-    # 模拟 3 档极小碎片买单
-    yes_bids = [[55.0, 33.33], [54.0, 33.33], [53.0, 33.34]]
-    # (55*33.33 + 54*33.33 + 53*33.34)/100 = 53.9999
-    # NO 成本 = 100 - 53.9999 = 46.0001
-    result = fill_no(yes_bids, 100)
-    assert abs(result - 46.0001) < 1e-6
-
-def test_fill_no_negative_size():
-    """订单簿中出现负数量挂单（通常为API逻辑错误，但系统应能免疫）。
-       注：这取决于当前代码逻辑。当前代码 min(need, float(size)) 会吃进负数吗？
-       实际上当前实现如果遇到负size会减少need和proceeds，这是不对的。
-       为了严谨，我们应该在被测代码里加防线，但这里先测试代码现在的表现或者假设不会传负数。
-       为了强壮性，这里假设我们在清洗数据时就已经剔除了。"""
-    pass
-
-# ==================== fill_yes 的极端边界测试 (Edge Cases) ====================
-
-def test_fill_yes_unsorted_asks():
-    """盘口数据未排序：fill_yes 内部会自己排序，吃到最低价（防API乱序）。"""
-    yes_asks = [[90.0, 100.0], [80.0, 100.0]]   # 乱序传入
-    # fill_yes 内部排序后，吃最低的80档，均价=80（不是90）
-    assert fill_yes(yes_asks, 100) == 80.0
-
-def test_fill_yes_buy_everything():
-    """恰好吃空整个订单簿。"""
-    yes_asks = [[80.0, 50.0], [81.0, 50.0]]
-    # 吃光，均价 80.5
-    assert fill_yes(yes_asks, 100) == 80.5
-
-def test_fill_yes_buy_fractional_contracts():
-    """吃进零碎数量（部分平台支持碎股，Kalshi 是整张，但安全起见测一下）。"""
-    yes_asks = [[50.0, 1.5], [51.0, 1.0]]
-    # 吃 2 张：1.5@50 + 0.5@51 = (75 + 25.5)/2 = 50.25
-    assert fill_yes(yes_asks, 2) == 50.25
-
-# ==================== 筛选逻辑极端边界测试 (Edge Cases) ====================
-
-def in_range(prob, edge, cost, wp_min, wp_max, e_min, e_max, price_max):
-    return (wp_min <= prob <= wp_max and
-            e_min <= edge <= e_max and
-            cost < price_max)
-
-def test_filter_exact_price_max():
-    """买价刚好等于 PRICE_MAX：根据代码 cost < PRICE_MAX，应被拒绝。"""
-    # 这里是一个极其容易出 Bug 的点（Off-by-one error）
-    assert not in_range(0.85, 7, 90.0, 0.80, 0.92, 5, 10, 90.0)
-    assert in_range(0.85, 7, 89.9, 0.80, 0.92, 5, 10, 90.0)
-
-def test_filter_zero_edge():
-    """EDGE 刚好为 0：如果有这个需求，测试边缘。"""
-    assert in_range(0.85, 0.0, 85.0, 0.80, 0.92, 0.0, 10.0, 90.0)
-    assert not in_range(0.85, -0.1, 85.1, 0.80, 0.92, 0.0, 10.0, 90.0)
-
-def test_filter_floating_point_imprecision():
-    """浮点数极小误差的过滤测试。
-       比如 0.8000000000000001 和 0.7999999999999999"""
-    # 理论上应该支持极小浮动，但这取决于 Python 的比较符。Python 是严格比较。
-    assert in_range(0.80000001, 7, 85, 0.80, 0.92, 5, 10, 90)
-    assert not in_range(0.79999999, 7, 85, 0.80, 0.92, 5, 10, 90)
-
-def test_fill_yes_ignore_zero_and_negative_size():
-    """隐患1：订单簿出现 size <= 0 的异常挂单。
-       API 抽风返回了无效深度，系统必须跳过它，去吃下一档真实挂单。"""
-    yes_asks = [
-        [50.0, -10.0],  # 恶意负数挂单，应跳过
-        [51.0, 0.0],    # 幽灵零挂单，应跳过
-        [52.0, 100.0]   # 真实可用挂单
-    ]
-    # 正确逻辑：忽略前两档，直接以 52.0 的价格吃下 100 张
-    assert fill_yes(yes_asks, 100) == 52.0
-
-def test_fill_no_ignore_zero_and_negative_size():
-    """隐患1(对应 NO)：买 NO 遇到异常挂单。"""
-    yes_bids = [
-        [60.0, 0.0],    # 零挂单，应跳过
-        [58.0, 100.0]   # 真实可用挂单
-    ]
-    # 正确逻辑：忽略 60，卖给 58。NO 成本 = 100 - 58 = 42
-    assert fill_no(yes_bids, 100) == 42.0
-
-def test_fill_no_force_bids_descending():
-    """隐患2：如果传给 fill_no 的 bids 未排序，后果极其严重！
-       这要求业务层或 fill_no 函数内部必须强制按价格降序（从大到小）排列 bids。"""
-    # 模拟 API 乱序返回：低价 50 在前，高价 60 在后
-    unsorted_yes_bids = [[50.0, 100.0], [60.0, 100.0]]
-    
-    # 业务逻辑：我们是买 NO（也就是卖 YES）。我们绝对要把 YES 卖给出价最高的那个冤大头（60）。
-    # 如果不排序直接吃，就会卖给 50（血亏！）。
-    # 期望的 NO 成本应该是：100 - 60 = 40。
-    
-    # 注意：这个测试目前在你现有的 fill_no 代码下会【失败】（它会返回 50）。
-    # 这是在倒逼你去修改 fill_no 源码！
-    assert fill_no(unsorted_yes_bids, 100) == 40.0
-
-# ==================== 进阶排雷测试 (Advanced Edge Cases) ====================
-
-def test_fill_yes_exact_micro_fraction():
-    """测试极小碎片的吃单逻辑。
-       当 need 剩下极小的一点点浮点数尾巴时，确保 min(need, size) 能正确扣减并停止，
-       不会引发无限循环或精度爆炸。"""
-    yes_asks = [
-        [50.0, 99.99],
-        [51.0, 0.02],
-        [52.0, 100.0]
-    ]
-    # 买100张：99.99@50 + 0.01@51
-    # 总成本 = (99.99 * 50) + (0.01 * 51) = 4999.5 + 0.51 = 5000.01
-    # 均价 = 5000.01 / 100 = 50.0001
-    result = fill_yes(yes_asks, 100)
-    assert abs(result - 50.0001) < 1e-6
-
-def test_fill_no_exact_micro_fraction():
-    """NO合约的极小碎片吃单逻辑测试。"""
-    yes_bids = [
-        [60.0, 99.99],
-        [50.0, 0.02]
-    ]
-    # 买NO 100张（卖YES 100张）：卖出 99.99@60 + 0.01@50
-    # 总收入 = (99.99 * 60) + (0.01 * 50) = 5999.4 + 0.5 = 5999.9
-    # NO 总成本 = 10000 - 5999.9 = 4000.1
-    # 均价 = 4000.1 / 100 = 40.001
-    result = fill_no(yes_bids, 100)
-    assert abs(result - 40.001) < 1e-6
-
-def test_fill_yes_duplicate_price_levels():
-    """同价位出现多笔零散挂单。
-       有些交易所的 L3 数据或聚合订单簿，同一价格可能会拆成好几行。
-       排序和撮合必须能无缝吃下它们。"""
-    yes_asks = [
-        [50.0, 30.0],
-        [50.0, 40.0],  # 和上一档价格一样
-        [51.0, 100.0]
-    ]
-    # 应该吃：30@50 + 40@50 + 30@51 = 1500 + 2000 + 1530 = 5030
-    # 均价 = 50.3
-    assert fill_yes(yes_asks, 100) == 50.3
-
-def test_fill_no_inverted_market():
-    """遇到严重倒挂的无效市场（送钱局或API大错乱）。
-       假设某人脑子抽了，挂出了 yes_bid = 105（买价大于100）。
-       测试系统是否会诚实地收下这份“负成本”的礼物。"""
-    yes_bids = [
-        [105.0, 100.0] # 有人花 105 美分买价值最多 100 美分的合约
-    ]
-    # 卖给他 100 张 YES。收入 105 * 100 = 10500。
-    # NO 成本 = 10000 - 10500 = -500。均价 = -5.0（白赚且负成本！）
-    # 虽然现实极少发生，但代码逻辑必须能算出负数。
-    assert fill_no(yes_bids, 100) == -5.0
-
-def test_in_range_all_boundaries():
-    """全面测试筛选逻辑的各种边缘触发条件，防止 >, >=, <, <= 的一毫厘失误。"""
-    # 参数: prob, edge, cost, wp_min, wp_max, e_min, e_max, price_max
-    
-    # 1. 完美踩中下限 (应该通过)
-    assert in_range(0.80, 5, 89.9, 0.80, 0.92, 5, 10, 90)
-    
-    # 2. 完美踩中上限 (应该通过)
-    assert in_range(0.92, 10, 89.9, 0.80, 0.92, 5, 10, 90)
-    
-    # 3. prob 差一丝丝不到下限 (拦截)
-    assert not in_range(0.799, 5, 80, 0.80, 0.92, 5, 10, 90)
-    
-    # 4. edge 差一丝丝不到下限 (拦截)
-    assert not in_range(0.85, 4.99, 80, 0.80, 0.92, 5, 10, 90)
-    
-    # 5. cost 正好踩在 price_max 上 (根据代码是 cost < price_max，所以拦截)
-    assert not in_range(0.85, 5, 90.0, 0.80, 0.92, 5, 10, 90.0)
-
-# ========== 10个刁钻边界测试 ==========
-
-def test_tricky_1_depth_off_by_one():
-    """深度差1张：99张深度买100张，应返回None（不能部分成交）。"""
-    assert fill_no([[59.0, 99.0]], 100) is None
-
-
-def test_tricky_2_fractional_sizes_exact():
-    """小数size正好凑够100：33.4+33.3+33.3=100.0。"""
-    result = fill_no([[60.0, 33.4], [60.0, 33.3], [60.0, 33.3]], 100)
-    assert result == 40.0
-
-
-def test_tricky_3_all_zero_size():
-    """所有档size=0（API抽风）：过滤后为空，返回None。"""
-    assert fill_no([[59.0, 0.0], [58.0, 0.0]], 100) is None
-
-
-def test_tricky_4_no_extreme_cheap():
-    """yes_bid=99 → 买NO成本=1¢（极便宜的NO，赌几乎不可能超门槛）。
-       这种应能算出，但edge筛选/胜率会另外拦（不在这测筛选）。"""
-    assert fill_no([[99.0, 5000.0]], 100) == 1.0
-
-
-def test_tricky_5_no_extreme_expensive():
-    """yes_bid=0 → 买NO成本=100¢（不可能的NO）。计算正确，但买价100会被PRICE_MAX拦。"""
-    assert fill_no([[0.0, 5000.0]], 100) == 100.0
-
-
-def test_tricky_6_yes_depth_partial_across_many_levels():
-    """买YES跨很多小档凑齐，验证加权均价。
-       10@80 + 20@81 + 70@82 = (800+1620+5740)/100 = 81.6"""
-    asks = [[80.0, 10.0], [81.0, 20.0], [82.0, 70.0]]
-    result = fill_yes(asks, 100)
-    assert abs(result - 81.6) < 0.01
-
-
-def test_tricky_7_negative_and_valid_mixed():
-    """负size和有效档混合：负的被过滤，只用有效档。
-       [-50@95(过滤), 200@96] → 买100张@96"""
-    asks = [[95.0, -50.0], [96.0, 200.0]]
-    assert fill_yes(asks, 100) == 96.0
-
-
-def test_tricky_8_rt_score_float_string():
-    """RT返回带小数的字符串分数 '92.0'：应能处理（可转float，0-100内）。"""
-    assert is_valid_rt_data("92.0", 317) is True
-
-
-def test_tricky_9_rt_n_zero_score_high():
-    """n=0但score非0（矛盾数据，RT抽风）：n=0合理(≥0)，
-       但后续n<80会拦。这里只测数据校验层：n=0是合法的(≥0)。"""
-    assert is_valid_rt_data(85, 0) is True
-
-
-def test_tricky_10_rt_score_exactly_boundary():
-    """分数正好100.0和0.0（边界值）：都应合法。
-       101则非法。"""
-    assert is_valid_rt_data(100, 200) is True
-    assert is_valid_rt_data(0, 200) is True
-    assert is_valid_rt_data(101, 200) is False
+import scripts.monitor as monitor
+from scripts.monitor import (
+    fill_asks, evaluate_rung, is_valid_rt_data, should_watch,
+    get_settle_date_for_mode, get_active_platforms,
+)
 
 TODAY = datetime(2026, 7, 15, tzinfo=timezone.utc)
 
+PARAMS = {
+    "DRIFT": 1.0, "PRIOR_STRENGTH": 20.0, "N_SIMS": 50000,
+    "N_MIN": 10, "WIN_PROB_MIN": 0.80, "WIN_PROB_MAX": 0.95,
+    "PRICE_MAX": 92, "EDGE_MIN": 5, "EDGE_MAX": 10,
+    "SPREAD_MAX": 5, "N_FINAL": 200,
+}
 
-def test_config_1_normal_watching():
-    """正常：还没结算，已解禁 → 盯。"""
+
+# ==================== fill_asks ====================
+
+def test_fill_asks_single_level_enough():
+    assert fill_asks([[45.0, 5000.0]], 100) == 45.0
+
+def test_fill_asks_multi_level():
+    assert fill_asks([[41.0, 50.0], [42.0, 50.0]], 100) == 41.5
+
+def test_fill_asks_depth_insufficient():
+    assert fill_asks([[41.0, 30.0], [42.0, 40.0]], 100) is None
+
+def test_fill_asks_exact_depth():
+    assert fill_asks([[40.0, 100.0]], 100) == 40.0
+
+def test_fill_asks_empty():
+    assert fill_asks([], 100) is None
+
+def test_fill_asks_unsorted_input():
+    # 乱序：排序后 40@60 + 50@40 = (2400+2000)/100 = 44.0
+    assert fill_asks([[50.0, 60.0], [40.0, 60.0]], 100) == 44.0
+
+def test_fill_asks_filters_nonpositive_size():
+    assert fill_asks([[40.0, 0.0], [41.0, -5.0], [42.0, 100.0]], 100) == 42.0
+
+def test_fill_asks_partial_last_level():
+    assert fill_asks([[40.0, 60.0], [50.0, 100.0]], 100) == 44.0
+
+def test_fill_asks_polymarket_garbage_order():
+    # best价55先吃，99的垃圾单吃不到
+    assert fill_asks([[55.0, 155.0], [99.0, 2000.0]], 100) == 55.0
+
+
+# ==================== evaluate_rung ====================
+
+def test_evaluate_rung_yes_opportunity():
+    r = evaluate_rung(0.85, 78, 27, PARAMS)
+    assert r is not None and r[0] == "YES" and abs(r[1] - 7.0) < 0.01
+
+def test_evaluate_rung_no_opportunity():
+    r = evaluate_rung(0.15, 27, 78, PARAMS)
+    assert r is not None and r[0] == "NO" and abs(r[1] - 7.0) < 0.01
+
+def test_evaluate_rung_spread_too_wide():
+    assert evaluate_rung(0.85, 80, 30, PARAMS) is None
+
+def test_evaluate_rung_edge_too_low():
+    assert evaluate_rung(0.80, 78, 24, PARAMS) is None
+
+def test_evaluate_rung_edge_too_high():
+    assert evaluate_rung(0.90, 75, 23, PARAMS) is None
+
+def test_evaluate_rung_winprob_too_low():
+    assert evaluate_rung(0.70, 63, 20, PARAMS) is None
+
+def test_evaluate_rung_winprob_too_high():
+    assert evaluate_rung(0.98, 90, 8, PARAMS) is None
+
+def test_evaluate_rung_price_too_high():
+    assert evaluate_rung(0.95, 93, 5, PARAMS) is None
+
+def test_evaluate_rung_boundary_edge_min():
+    # edge正好5，价差5 → 命中
+    r = evaluate_rung(0.85, 80, 25, PARAMS)
+    assert r is not None and r[0] == "YES"
+
+def test_evaluate_rung_boundary_winprob_min():
+    r = evaluate_rung(0.80, 73, 32, PARAMS)
+    assert r is not None and r[0] == "YES"
+
+def test_evaluate_rung_direction_no_only():
+    monitor.DIRECTION = "no_only"
+    try:
+        assert evaluate_rung(0.85, 78, 27, PARAMS) is None
+    finally:
+        monitor.DIRECTION = "both"
+
+def test_evaluate_rung_direction_yes_only():
+    monitor.DIRECTION = "yes_only"
+    try:
+        assert evaluate_rung(0.15, 27, 78, PARAMS) is None
+    finally:
+        monitor.DIRECTION = "both"
+
+
+# ==================== is_valid_rt_data ====================
+
+def test_valid_rt_data_normal():
+    assert is_valid_rt_data(85, 120) is True
+
+def test_valid_rt_data_none():
+    assert is_valid_rt_data(None, 100) is False
+    assert is_valid_rt_data(85, None) is False
+
+def test_valid_rt_data_out_of_range():
+    assert is_valid_rt_data(-5, 100) is False
+    assert is_valid_rt_data(105, 100) is False
+
+def test_valid_rt_data_negative_n():
+    assert is_valid_rt_data(85, -3) is False
+
+def test_valid_rt_data_zero_boundary():
+    assert is_valid_rt_data(0, 50) is True
+    assert is_valid_rt_data(100, 50) is True
+
+def test_valid_rt_data_nonnumeric():
+    assert is_valid_rt_data("abc", 100) is False
+    assert is_valid_rt_data(85, "xyz") is False
+
+
+# ==================== should_watch ====================
+
+def test_should_watch_in_window():
     assert should_watch("2026-08-01", "2026-07-10", TODAY) is True
 
+def test_should_watch_after_settle():
+    assert should_watch("2026-07-10", None, TODAY) is False
 
-def test_config_2_no_embargo_field():
-    """config没写embargo/lift(None)，还没结算 → 盯（靠RT的n<80再拦）。
-       回答你的问题：没写embargo字段的片会被纳入盯盘。"""
+def test_should_watch_before_embargo():
+    assert should_watch("2026-08-01", "2026-07-20", TODAY) is False
+
+def test_should_watch_lift_exactly_today():
+    assert should_watch("2026-08-01", "2026-07-15", TODAY) is True
+
+def test_should_watch_iso_format():
+    assert should_watch("2026-08-01T14:00:00Z", None, TODAY) is True
+
+def test_should_watch_string_none():
+    assert should_watch("None", None, TODAY) is False
+
+def test_should_watch_no_embargo():
     assert should_watch("2026-08-01", None, TODAY) is True
 
 
-def test_config_3_already_settled():
-    """已过结算日 → 不盯。"""
-    assert should_watch("2026-07-01", "2026-06-20", TODAY) is False
+# ==================== get_settle_date_for_mode ====================
+
+def test_settle_mode_kalshi_only():
+    monitor.PLATFORM_MODE = "kalshi"
+    try:
+        cfg = {"kalshi_settle_date": "2026-08-10", "polymarket_settle_date": "2026-08-17"}
+        assert get_settle_date_for_mode(cfg) == "2026-08-10"
+    finally:
+        monitor.PLATFORM_MODE = "kalshi"
+
+def test_settle_mode_polymarket_only():
+    monitor.PLATFORM_MODE = "polymarket"
+    try:
+        cfg = {"kalshi_settle_date": "2026-08-10", "polymarket_settle_date": "2026-08-17"}
+        assert get_settle_date_for_mode(cfg) == "2026-08-17"
+    finally:
+        monitor.PLATFORM_MODE = "kalshi"
+
+def test_settle_mode_both_takes_later():
+    monitor.PLATFORM_MODE = "both"
+    try:
+        cfg = {"kalshi_settle_date": "2026-08-10", "polymarket_settle_date": "2026-08-17"}
+        assert get_settle_date_for_mode(cfg) == "2026-08-17"
+    finally:
+        monitor.PLATFORM_MODE = "kalshi"
+
+def test_settle_mode_polymarket_missing():
+    monitor.PLATFORM_MODE = "polymarket"
+    try:
+        assert get_settle_date_for_mode({"kalshi_settle_date": "2026-08-10"}) == ""
+    finally:
+        monitor.PLATFORM_MODE = "kalshi"
+
+def test_settle_mode_none_at_all():
+    monitor.PLATFORM_MODE = "both"
+    try:
+        assert get_settle_date_for_mode({}) == ""
+    finally:
+        monitor.PLATFORM_MODE = "kalshi"
 
 
-def test_config_4_not_yet_lifted():
-    """还没到解禁日 → 不盯（即使填了未来的lift）。"""
-    assert should_watch("2026-08-01", "2026-07-20", TODAY) is False
+# ==================== get_active_platforms（两层过滤）====================
+
+class FakePlatform:
+    def __init__(self, name):
+        self.name = name
+
+def _patch_get_platforms(platforms):
+    monitor.config.get_platforms = lambda cfg: platforms
+
+def test_active_platforms_kalshi_mode():
+    monitor.PLATFORM_MODE = "kalshi"
+    orig = monitor.config.get_platforms
+    try:
+        _patch_get_platforms([FakePlatform("kalshi"), FakePlatform("polymarket")])
+        active = get_active_platforms({})
+        assert len(active) == 1 and active[0].name == "kalshi"
+    finally:
+        monitor.config.get_platforms = orig
+        monitor.PLATFORM_MODE = "kalshi"
+
+def test_active_platforms_polymarket_mode():
+    monitor.PLATFORM_MODE = "polymarket"
+    orig = monitor.config.get_platforms
+    try:
+        _patch_get_platforms([FakePlatform("kalshi"), FakePlatform("polymarket")])
+        active = get_active_platforms({})
+        assert len(active) == 1 and active[0].name == "polymarket"
+    finally:
+        monitor.config.get_platforms = orig
+        monitor.PLATFORM_MODE = "kalshi"
+
+def test_active_platforms_both_mode():
+    monitor.PLATFORM_MODE = "both"
+    orig = monitor.config.get_platforms
+    try:
+        _patch_get_platforms([FakePlatform("kalshi"), FakePlatform("polymarket")])
+        assert len(get_active_platforms({})) == 2
+    finally:
+        monitor.config.get_platforms = orig
+        monitor.PLATFORM_MODE = "kalshi"
+
+def test_active_platforms_not_open_on_mode():
+    monitor.PLATFORM_MODE = "polymarket"
+    orig = monitor.config.get_platforms
+    try:
+        _patch_get_platforms([FakePlatform("kalshi")])
+        assert get_active_platforms({}) == []
+    finally:
+        monitor.config.get_platforms = orig
+        monitor.PLATFORM_MODE = "kalshi"
+
+def test_active_platforms_none_open():
+    monitor.PLATFORM_MODE = "both"
+    orig = monitor.config.get_platforms
+    try:
+        _patch_get_platforms([])
+        assert get_active_platforms({}) == []
+    finally:
+        monitor.config.get_platforms = orig
+        monitor.PLATFORM_MODE = "kalshi"
 
 
-def test_config_5_settle_missing():
-    """kalshi_settle_date缺失(空串) → 不盯（无法判断，安全跳过）。"""
-    assert should_watch("", None, TODAY) is False
+# ==================== 平台规则差异 ====================
 
+def test_platform_rule_difference():
+    from src.model.bayesian import ModelInputs, run_model
+    from src.collectors.platforms.kalshi import KalshiPlatform
+    from src.collectors.platforms.polymarket import PolymarketPlatform
+    res = run_model(ModelInputs(score_now=85, n_now=120, base_rate=80,
+                                prior_strength=20, n_final=200, drift=1), n_sims=50000)
+    assert PolymarketPlatform().yes_prob(res, 80) >= KalshiPlatform().yes_prob(res, 80)
 
-def test_config_6_settle_malformed():
-    """settle_date格式错误 → parse失败 → 不盯（不崩溃）。"""
-    assert should_watch("not-a-date", None, TODAY) is False
+def test_kalshi_yes_prob_uses_floor_plus_one():
+    from src.model.bayesian import ModelInputs, run_model
+    from src.collectors.platforms.kalshi import KalshiPlatform
+    res = run_model(ModelInputs(score_now=85, n_now=120, base_rate=80,
+                                prior_strength=20, n_final=200, drift=1), n_sims=50000)
+    assert KalshiPlatform().yes_prob(res, 80) == res.prob_at_least(81)
 
+def test_polymarket_yes_prob_uses_floor():
+    from src.model.bayesian import ModelInputs, run_model
+    from src.collectors.platforms.polymarket import PolymarketPlatform
+    res = run_model(ModelInputs(score_now=85, n_now=120, base_rate=80,
+                                prior_strength=20, n_final=200, drift=1), n_sims=50000)
+    assert PolymarketPlatform().yes_prob(res, 80) == res.prob_at_least(80)
 
-def test_config_7_lift_malformed_but_settle_ok():
-    """lift格式错误但settle正常 → lift parse成None → 当作没填lift → 盯。"""
-    assert should_watch("2026-08-01", "garbage", TODAY) is True
-
-
-def test_config_8_lift_exactly_today():
-    """解禁日正好是今天 → 盯（解禁当天可交易）。"""
-    # today是7-15 00:00，lift 7-15 00:00 → today>=lift，不被"没解禁"拦 → 盯
-    assert should_watch("2026-08-01", "2026-07-15", TODAY) is True
-
-
-def test_config_9_settle_with_time_format():
-    """settle_date带完整时间戳格式(ISO)：正常解析。"""
-    assert should_watch("2026-08-01T14:00:00Z", None, TODAY) is True
-
-
-def test_config_10_settle_string_None():
-    """settle_date被误填成字符串'None' → parse失败 → 不盯（不崩溃）。"""
-    assert should_watch("None", None, TODAY) is False
-
-
-# 注意：这些测试依赖 monitor.py 顶部的参数
-# (WIN_PROB 0.80-0.92, EDGE 5-10, PRICE_MAX 90, SPREAD_MAX 5)
-
-
-def test_opportunity_clear_no():
-    """清晰NO机会：prob_no=0.85, no_ask=80 → edge=5 → 触发NO。"""
-    r = evaluate_rung(0.15, 22, 80, DEFAULT_PARAMS)
-    assert r is not None
-    assert r[0] == "NO"
-    assert abs(r[1] - 5.0) < 0.01
-
-
-def test_opportunity_clear_yes():
-    """清晰YES机会：prob_yes=0.85, yes_ask=80 → edge=5 → 触发YES。"""
-    r = evaluate_rung(0.85, 80, 22, DEFAULT_PARAMS)
-    assert r is not None
-    assert r[0] == "YES"
-
-
-def test_no_opportunity_edge_too_small():
-    """edge=2 太小 → 不触发。"""
-    assert evaluate_rung(0.85, 83, 19, DEFAULT_PARAMS) is None
-
-
-def test_no_opportunity_edge_too_big():
-    """edge=15 太大(模型可能错) → 不触发。"""
-    assert evaluate_rung(0.85, 70, 12, DEFAULT_PARAMS) is None
-
-
-def test_no_opportunity_winprob_too_high():
-    """胜率95%>上限92% → 不触发(避开钢镚)。"""
-    assert evaluate_rung(0.95, 92, 12, DEFAULT_PARAMS) is None
-
-
-def test_no_opportunity_winprob_too_low():
-    """胜率75%<下限80% → 不触发。"""
-    assert evaluate_rung(0.75, 20, 82, DEFAULT_PARAMS) is None
-
-
-def test_no_opportunity_spread_too_wide():
-    """价差25¢>上限5 → 不触发。"""
-    assert evaluate_rung(0.85, 85, 40,DEFAULT_PARAMS) is None
-
-
-def test_no_opportunity_price_too_high():
-    """买价>=90 → 不触发。"""
-    # prob_yes=0.9, yes_ask=90 → 买价90不<90
-    assert evaluate_rung(0.90, 90, 12, DEFAULT_PARAMS) is None
-
-
-def test_opportunity_edge_boundary_5():
-    """edge正好=5(下限) → 触发(>=)。"""
-    r = evaluate_rung(0.85, 80, 22,DEFAULT_PARAMS)  # edge_yes=5
-    assert r is not None
-
-
-def test_opportunity_winprob_boundary():
-    """胜率正好80%和92%(边界) → 触发。"""
-    # prob_yes=0.80, yes_ask=73 → edge=7, 买价73<90 → 触发
-    assert evaluate_rung(0.80, 73, 30,DEFAULT_PARAMS) is not None
-
-# ==================== 直接跑（不用pytest）====================
 
 if __name__ == "__main__":
-    tests = [v for k, v in sorted(globals().items())
+    tests = [(k, v) for k, v in sorted(globals().items())
              if k.startswith("test_") and callable(v)]
     passed = failed = 0
-    for t in tests:
+    for name, t in tests:
         try:
             t()
-            print(f"✓ {t.__name__}")
+            print(f"OK {name}")
             passed += 1
         except AssertionError as e:
-            print(f"✗ {t.__name__}  失败: {e}")
+            print(f"FAIL {name}: {e}")
             failed += 1
         except Exception as e:
-            print(f"✗ {t.__name__}  错误: {type(e).__name__}: {e}")
+            print(f"ERR {name}: {type(e).__name__}: {e}")
             failed += 1
-    print(f"\n{'='*40}")
-    print(f"通过 {passed} / {passed+failed}")
+    print(f"\n{'=' * 40}\n通过 {passed} / {passed + failed}")
     if failed:
-        print(f"⚠ {failed} 个失败")
+        print(f"{failed} 个失败")
         sys.exit(1)
-    print("✅ 全部通过")
+    print("全部通过")

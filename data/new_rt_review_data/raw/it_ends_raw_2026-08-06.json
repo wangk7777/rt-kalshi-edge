@@ -1,0 +1,870 @@
+[
+  {
+    "reviewId": "103147270",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.youtube.com/watch?v=uSIJ3WjMWaM",
+    "createDate": "2026-07-30T16:09:15.000Z",
+    "updateDate": "2026-07-30T16:09:15.000Z",
+    "reviewQuote": "Gen Z grapples with the Sisyphean doldrums of adulthood in Ullom&apos;s slightly sinister debut&#44; a metaphorical odyssey on a road to nowhere which generates interesting conversations but not intriguing characterizations&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Nicholas Bell",
+      "initials": "NB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nicholas-bell",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "nicholas-bell",
+      "encryptedCriticId": "8y81vvZ2",
+      "displayImageUrl": "https://resizing.flixster.com/GAPYMpTay6hjvVgSOit8YIUuwsw=/128x128/v1.YzszMDExO2o7MjA3MDA7MjA0ODs4NzI7ODcy",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Fish Jelly Films (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y9RP4MQZ",
+      "publicationId": "100009834"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103142010",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.movierecsbylex.com/reviews/itends",
+    "createDate": "2026-07-09T21:47:26.000Z",
+    "updateDate": "2026-07-09T21:47:26.000Z",
+    "reviewQuote": "It Ends is a strong directorial debut with a clever script&#46; The metaphor may be simple&#44; but it effectively captures the existential dread of adulthood&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Lexi Amoriello",
+      "initials": "LA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/lexi-amoriello",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "lexi-amoriello",
+      "encryptedCriticId": "ZWz47L7y",
+      "displayImageUrl": "https://resizing.flixster.com/8HDlUQyu1zbvbGI8hn4-zE9gIJY=/128x128/v1.YzsxMDAwMDAzOTU3O3A7MjA3MDk7MjA0ODsxNzcwOzIwODA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Movie Recs by Lex",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "lDpwDN2l",
+      "publicationId": "100011686"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103084895",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://substreammagazine.com/2025/12/it-ends-review/",
+    "createDate": "2025-12-17T21:15:29.000Z",
+    "updateDate": "2025-12-17T21:15:29.000Z",
+    "reviewQuote": "&quot;It Ends&quot; feels that understanding the journey into adulthood comes at a cost&#46; In thinking about the many memories and people you had to jettison to reach what we are told is happiness&#44; you&apos;ll question why you had to in the first place&#46;&#160;",
+    "language": "English",
+    "critic": {
+      "displayName": "Murjani Rawls",
+      "initials": "MR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/murjani-rawls",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "murjani-rawls",
+      "encryptedCriticId": "vZp8EWZV",
+      "displayImageUrl": "https://resizing.flixster.com/R1o3F2cefJTXC4YAyHmFgplaPfw=/128x128/v1.YzszNzM0O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Substream Magazine",
+      "editorialUrl": "https://substreammagazine.com/category/reviews/film-reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "krLnXJyw",
+      "publicationId": "3053"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103070409",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "4/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thehollywoodnews.com/2025/10/27/it-ends-review-dir-alex-ullom-celluloid-screams-2025/",
+    "createDate": "2025-10-28T07:33:22.000Z",
+    "updateDate": "2025-10-28T07:33:22.000Z",
+    "reviewQuote": "From thoughts on the range of characters differing survival tactics&#44; to musings as to what is actually happening to the core four means that It Ends is a film whose staying power lasts far beyond its conclusion&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Kat Hughes",
+      "initials": "KH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/kat-hughes",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "kat-hughes",
+      "encryptedCriticId": "9ZkwogZG",
+      "displayImageUrl": "https://resizing.flixster.com/-gd2q0tWwxe_G_SxSkHA5_d5GQI=/128x128/v1.YzsxMDAwMDAyODQxO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "THN",
+      "editorialUrl": "http://www.thehollywoodnews.com/film-reviews-film/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "pZ69YJye",
+      "publicationId": "3062"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103045810",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://rue-morgue.com/fantasia-25-movie-review-it-ends-marks-the-beginning-of-a-major-talent/",
+    "createDate": "2025-08-15T13:01:36.000Z",
+    "updateDate": "2025-08-15T13:01:36.000Z",
+    "reviewQuote": "IT ENDS is existential horror at its most relatable and engrossing&#44; taking us on a trip that has us as anxious about its endgame as the characters are&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Michael Gingold",
+      "initials": "MG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/michael-gingold",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "michael-gingold",
+      "encryptedCriticId": "jlOk9nl0",
+      "displayImageUrl": "https://resizing.flixster.com/S7q8uVIvzaeGBuK0zBHaj287jIM=/128x128/v1.YzszMjg0O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Rue Morgue Magazine",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4vZpq9rV",
+      "publicationId": "1456"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103044644",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://inreviewonline.com/2025/08/04/it-ends-review/",
+    "createDate": "2025-08-12T00:46:58.000Z",
+    "updateDate": "2025-08-12T00:46:58.000Z",
+    "reviewQuote": "&#91;It Ends&#93; takes its easy-to-market conceit and plays with it&#44; iterates on it&#44; takes it to logical conclusions&#44; and keeps things interesting until the very last moment&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Jake Pitre",
+      "initials": "JP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jake-pitre",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "jake-pitre",
+      "encryptedCriticId": "Wy1OzXrz",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "In Review Online",
+      "editorialUrl": "http://inreviewonline.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/Q5y7GVOGv96-hDA1kOtnZUBp-mo=/256x256/v1.YzsxMDAwMDAzOTE4O3A7MjA3MDk7MjA0ODs4MDA7ODAw",
+      "encryptedPublicationId": "e8y8QYZ2",
+      "publicationId": "1503"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103041698",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "A-",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://insessionfilm.com/movie-review-fantasia-2025-it-ends/",
+    "createDate": "2025-08-01T19:02:05.000Z",
+    "updateDate": "2025-08-01T19:02:05.000Z",
+    "reviewQuote": "For 87 efficient minutes&#44; Ullom approaches his framing device in constantly surprising ways&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Maxance Vincent",
+      "initials": "MV",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/maxance-vincent",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "maxance-vincent",
+      "encryptedCriticId": "vZp83JZV",
+      "displayImageUrl": "https://resizing.flixster.com/_TOBoRFN9oWf98GfwcNV2QhOljw=/128x128/v1.YzsxMDAwMDAzMzM5O3A7MjA3MDk7MjA0ODs1MDA7NTAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "InSession Film",
+      "editorialUrl": "http://insessionfilm.com/movie-reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "7ZWeRWlm",
+      "publicationId": "3137"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103026497",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://awfj.org/blog/2025/06/04/it-ends-sydney-ff-2025-review-by-alexandra-heller-nicholas/",
+    "createDate": "2025-06-17T03:06:21.000Z",
+    "updateDate": "2025-06-17T03:06:22.000Z",
+    "reviewQuote": "A film elegant in its simplicity that garners much of its oomph from the solid individual performances and the undeniable spark between them&#44; It Ends is the kind of bold&#44; original movie that low budget horror cinema at its best provides a perfect home for",
+    "language": "English",
+    "critic": {
+      "displayName": "Alexandra Heller-Nicholas",
+      "initials": "AH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alexandra-heller-nicholas",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "alexandra-heller-nicholas",
+      "encryptedCriticId": "krLkzXZw",
+      "displayImageUrl": "https://resizing.flixster.com/6ptnq6It8ScvJmYGr8ov4EqVfNo=/128x128/v1.YzsyOTcxO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "AWFJ.org",
+      "editorialUrl": "http://awfj.org/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "7ZWeOQlm",
+      "publicationId": "2237"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103019510",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.starburstmagazine.com/reviews/it-ends-chicago-critics-film-festival/",
+    "createDate": "2025-05-21T23:05:15.000Z",
+    "updateDate": "2025-05-21T23:05:15.000Z",
+    "reviewQuote": "Through this horrifying premise and powerfully simple, sense-dulling filmmaking, Alex Ullom becomes a filmmaker to watch as he inquires about the very real lack of motivation in a generation without direction.",
+    "language": "English",
+    "critic": {
+      "displayName": "Anthony Oleszkiewicz",
+      "initials": "AO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/anthony-oleszkiewicz",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "anthony-oleszkiewicz",
+      "encryptedCriticId": "rX14YYql",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Starburst",
+      "editorialUrl": "http://www.starburstmagazine.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/VABvGjn_SEud9P4M7_QmJhQ1lAs=/256x256/v1.YzsxMDAwMDAzNzc0O2o7MjA3MDk7MjA0ODs5MDA7OTAw",
+      "encryptedPublicationId": "4y39Rqrn",
+      "publicationId": "2424"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103009282",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://screenzealots.com/2025/04/13/it-ends/",
+    "createDate": "2025-04-15T21:42:39.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "Creative&#44; unsettling&#44; and surprisingly thought-provoking&#44; this is a strong entry in indie sci-fi horror&#44; proving that a smart script and eerie atmosphere can go a long way&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Louisa Moore",
+      "initials": "LM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/louisa-moore",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "louisa-moore",
+      "encryptedCriticId": "VZBBWdZA",
+      "displayImageUrl": "https://resizing.flixster.com/Uy3L_maG0fFVrHyx7mHEde2vNBY=/128x128/v1.YzszMjIxO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Screen Zealots",
+      "editorialUrl": "https://screenzealots.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "xlbW4nyE",
+      "publicationId": "3320"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103005472",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "4/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.dreadcentral.com/reviews/526440/it-ends-a-phenomenal-look-at-gen-z-ennui-sxsw-2025-review/",
+    "createDate": "2025-04-02T16:52:17.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "Alexander Ullom&#8217;s It Ends is a smart and inventive genre-bending experience&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Rendy Jones",
+      "initials": "RJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rendy-jones",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rendy-jones",
+      "encryptedCriticId": "qrEgKpya",
+      "displayImageUrl": "https://resizing.flixster.com/A8lPVPvQaP-gduyNTvLUMJkoqPg=/128x128/v1.YzsxMDAwMDAzNDgyO2o7MjA3MDk7MjA0ODs3ODE7NzM5",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Dread Central",
+      "editorialUrl": "http://dreadcentral.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "eoraD9Zg",
+      "publicationId": "1696"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103004825",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "4/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.youtube.com/watch?v=R5jH4CdtYQY",
+    "createDate": "2025-03-31T03:33:53.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "It&apos;s rare that I see a film that is so steeped in subtext and metaphoric storytelling that comes to such a satisfying conclusion&#46; Great central performances ground it while the concept moves from eery and terrifying to mundanely relatable in the best way&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Cody Leach",
+      "initials": "CL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/cody-leach",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "cody-leach",
+      "encryptedCriticId": "Z6JpmxJZ",
+      "displayImageUrl": "https://resizing.flixster.com/NuEXXhDodYxEvnzE99EwaAqGLVw=/128x128/v1.YzsxMDAwMDAyNzkzO3A7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Cody Leach (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "rEX8AvBZ",
+      "publicationId": "100009680"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103003551",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://collider.com/it-ends-review/",
+    "createDate": "2025-03-25T21:06:26.000Z",
+    "updateDate": "2025-07-16T14:28:37.000Z",
+    "reviewQuote": "Ultimately&#44; It Ends is a winning experiment that treads lightly regarding horror influences&#46; Ullom&#8217;s head-on collision between hope and fate is a calamitous display&#44; running on the pains of existence&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Matt Donato",
+      "initials": "MD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/matt-donato",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "matt-donato",
+      "encryptedCriticId": "qrEqeGra",
+      "displayImageUrl": "https://resizing.flixster.com/4hBz-X7VTMG7OpT2QJq6UUhD38A=/128x128/v1.YzszMzc2O2o7MjA3MDA7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Collider",
+      "editorialUrl": "http://www.collider.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "vl499pyz",
+      "publicationId": "1982"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103002670",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.inverse.com/entertainment/sxsw-genre-dead-lover-it-ends-the-surrender-slanted-tick-reviews",
+    "createDate": "2025-03-21T20:23:18.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "A brilliant and thought-provoking Gen Z riff on Jean-Paul Sartre&#8217;s No Exit&#44; It Ends is a singular road-trip thriller that interrogates contemporary social anxieties and thorny friendships&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Hoai-Tran Bui",
+      "initials": "HB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/hoai-tran-bui",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "hoai-tran-bui",
+      "encryptedCriticId": "Erme0arb",
+      "displayImageUrl": "https://resizing.flixster.com/xR2L1-rw5oEjbs5PXU3KMrDM14M=/128x128/v1.YzszNDg0O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Inverse",
+      "editorialUrl": "https://www.inverse.com/article/20834-high-maintenance-season-1-hbo-review",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "7lda9XyO",
+      "publicationId": "2998"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103001159",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "9/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://fandomwire.com/it-ends-sxsw-review/",
+    "createDate": "2025-03-18T01:31:41.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "It Ends has the potential to be an indie horror breakout on the level of something like Talk to Me&#46; It&#8217;s creative&#44; smart&#44; and &#8212; most importantly &#8212; genuinely scary and fun&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Sean Boelman",
+      "initials": "SB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/sean-boelman",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "sean-boelman",
+      "encryptedCriticId": "yRm43XGl",
+      "displayImageUrl": "https://resizing.flixster.com/AURmzoi1nquk6gpW5LO_MjFGa04=/128x128/v1.YzsxMDAwMDAzMjYzO2o7MjA3MDk7MjA0ODsyMDQ4OzIwNDg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "FandomWire",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "y9RP4qQZ",
+      "publicationId": "100009878"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103000941",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://nextbestpicture.com/it-ends/",
+    "createDate": "2025-03-17T19:43:04.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "&#8220;It Ends&#8221; is not only a thrilling film but also an inspired inspection into the fears and existential dread that plague Gen-Z&#44; all of which is bolstered by Alexander Ullom&#8217;s fantastic screenplay and an amazing quartet of performances&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Giovanni Lago",
+      "initials": "GL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/giovanni-lago",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "giovanni-lago",
+      "encryptedCriticId": "rwo0M04r",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Next Best Picture",
+      "editorialUrl": "https://www.nextbestpicture.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "4rwkKbrA",
+      "publicationId": "3046"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103000685",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "A-",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://theplaylist.net/it-ends-review-the-kids-are-not-alright-in-alex-ulloms-evocative-existential-horror-debut-sxsw-20250314/",
+    "createDate": "2025-03-16T01:09:09.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "It&#8217;s a simple yet effectively haunting work that&#8217;s well-shot&#44; written&#44; and acted across the board&#44; especially for a first feature that takes on as much as this does&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Chase Hutchinson",
+      "initials": "CH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/chase-hutchinson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "chase-hutchinson",
+      "encryptedCriticId": "Ly93barn",
+      "displayImageUrl": "https://resizing.flixster.com/EVPp1JjCTq6rj6XeJbIFvgrrBBo=/128x128/v1.YzsxMDAwMDAyNzgxO2o7MjA3MDk7MjA0ODsyOTM7Mjkz",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Playlist",
+      "editorialUrl": "http://theplaylist.net/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/MZ_fZKZ5inGW4tQO3YyG5DjpcbA=/256x256/v1.YzsxMDAwMDAzODA1O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "Ermo1Vyb",
+      "publicationId": "2100"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103000536",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://sunshinestatecineplex.com/2025/03/14/sxsw-2025-it-ends-review/",
+    "createDate": "2025-03-15T00:34:29.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "From beginning to end&#44; the mystery of It Ends takes a backseat to the relationships between characters&#46; While the momentum slows at times&#44; the overall film is a compelling experience&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Alan French",
+      "initials": "AF",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alan-french",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "alan-french",
+      "encryptedCriticId": "arXXAmrO",
+      "displayImageUrl": "https://resizing.flixster.com/D8zI081evuphmbTRaxec8QXfuIc=/128x128/v1.YzszMDk5O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Sunshine State Cineplex",
+      "editorialUrl": "https://sunshinestatecineplex.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "QrqO19yn",
+      "publicationId": "3172"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103000236",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.rogerebert.com/festivals/sxsw-film-festival-2025-it-ends-the-threesome-caper",
+    "createDate": "2025-03-14T13:43:12.000Z",
+    "updateDate": "2026-02-03T14:33:16.000Z",
+    "reviewQuote": "Anchored by four genuinely engaging performances and a concept that understands the benefit of not overexplaining itself&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Brian Tallerico",
+      "initials": "BT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brian-tallerico",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "brian-tallerico",
+      "encryptedCriticId": "8yNL8VrL",
+      "displayImageUrl": "https://resizing.flixster.com/ZqIhdI86FIkxq_gEB6AH4vBIZLE=/128x128/v1.YzszNjUxO2o7MjA3MDA7MjA0ODs5NjA7OTYw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "RogerEbert.com",
+      "editorialUrl": "http://www.rogerebert.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "eoraDKZg",
+      "publicationId": "1708"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "102999815",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://screenanarchy.com/2025/03/sxsw-2025-review-it-ends-angst-and-fear-on-the-endless-road-to-adulthood.html",
+    "createDate": "2025-03-13T15:07:25.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "Speaking to the universal fears of growing up and outgrowing the world you once knew&#59; It Ends strikes a deep chord by relating to an anxiety to which we can all relate&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "J Hurtado",
+      "initials": "JH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/j-hurtado",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "j-hurtado",
+      "encryptedCriticId": "RyRJwGyd",
+      "displayImageUrl": "https://resizing.flixster.com/E_ntNymtOy9NeegMqunYisZoW-s=/128x128/v1.YzsxMDAwMDAzMDY4O2o7MjA3MDk7MjA0ODs3MTA7NzEw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "ScreenAnarchy",
+      "editorialUrl": "http://screenanarchy.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "e8y8Pvy2",
+      "publicationId": "1703"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "102999370",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "4/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://bloody-disgusting.com/reviews/3857692/it-ends-review-inventive-horror-hangout-movie-gets-existential/",
+    "createDate": "2025-03-12T17:22:16.000Z",
+    "updateDate": "2025-12-05T14:32:25.000Z",
+    "reviewQuote": "Writer&#47;Director Alexander Ullom nestles an existential crisis within his genre-bending road trip thriller in his feature debut&#46; What begins as an intense horror movie settles into a meditative rhythm for an inventive slice-of-life metaphor&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Meagan Navarro",
+      "initials": "MN",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/meagan-navarro",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "meagan-navarro",
+      "encryptedCriticId": "RyRexvld",
+      "displayImageUrl": "https://resizing.flixster.com/JoRZPBO0wdkHljVI2ij8bxtL-jM=/128x128/v1.YzszMTk5O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Bloody Disgusting",
+      "editorialUrl": "https://bloody-disgusting.com/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "zjlO23r0",
+      "publicationId": "1667"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "102998475",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://loudandclearreviews.com/it-ends-2025-film-review/",
+    "createDate": "2025-03-09T18:26:56.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "It Ends is worth watching once&#44; blind if you can&#44; but once you know the joke there is not much there&#46; &#91;&#46;&#46;&#46;&#93; This is a valiant first effort&#44; but it needed some fine tuning to become a true horror classic&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Wesley Hunt",
+      "initials": "WH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/wesley-hunt",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "wesley-hunt",
+      "encryptedCriticId": "rwo029Mr",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Loud and Clear Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "y0VpDXPr",
+      "publicationId": "100009659"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "102998459",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://variety.com/2025/film/reviews/it-ends-review-1236331979/",
+    "createDate": "2025-03-09T16:41:28.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "Gradually reveal something tonally surprising&#44; dramatically complex and immensely promising for all the young talent involved&#46;  ",
+    "language": "English",
+    "critic": {
+      "displayName": "Siddhant Adlakha",
+      "initials": "SA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/siddhant-adlakha",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "siddhant-adlakha",
+      "encryptedCriticId": "vl4D6olz",
+      "displayImageUrl": "https://resizing.flixster.com/ubRSPpYN9TYxyAsn-SLXz7h1_ww=/128x128/v1.YzszMDI4O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Variety",
+      "editorialUrl": "http://variety.com/v/film/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/cMg4FAB7XrqmpueG7MpVj83MU8w=/256x256/v1.YzsxMDAwMDAzODI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "YxyebgZe",
+      "publicationId": "466"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "102998379",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B-",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.indiewire.com/criticism/movies/it-ends-indie-horror-movie-review-1235101708/",
+    "createDate": "2025-03-08T21:16:58.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "There’s an intriguing nihilistic streak to the whole affair, but what comes before isn’t funny or insightful enough to warrant what is ultimately served up. It’s just sort of a joke on you for caring. And maybe that’s what the youth are al about. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Esther Zuckerman",
+      "initials": "EZ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/esther-zuckerman",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "esther-zuckerman",
+      "encryptedCriticId": "qrEn82la",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "IndieWire",
+      "editorialUrl": "http://www.indiewire.com/t/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/OJCGA3R7DYPGq5Z7vLgQrcMSPVY=/256x256/v1.YzsxMDAwMDAzNjc5O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "Q5yMXplg",
+      "publicationId": "226"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "102998367",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/it-ends-review-1236157544/",
+    "createDate": "2025-03-08T20:17:48.000Z",
+    "updateDate": "2026-04-24T14:37:27.000Z",
+    "reviewQuote": "Here, the threat is so outlandish that it’s not easy to wrap your head around it, which is why Ullom deserves credit for delivering such a dubious high concept with plenty of directorial craft.",
+    "language": "English",
+    "critic": {
+      "displayName": "Jordan Mintzer",
+      "initials": "JM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jordan-mintzer",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "jordan-mintzer",
+      "encryptedCriticId": "7ldXYKlO",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Hollywood Reporter",
+      "editorialUrl": "http://www.hollywoodreporter.com/hr/film/reviews/index.jsp",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PnE_AJzukoI8np6MHm5j9vpNtOM=/256x256/v1.YzsxMDAwMDAzNjcwO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "6arXpQrO",
+      "publicationId": "213"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "102998239",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://moveablefest.com/alexander-ullom-it-ends/",
+    "createDate": "2025-03-08T14:04:40.000Z",
+    "updateDate": "2025-05-07T23:37:37.000Z",
+    "reviewQuote": "Recognizing that to be alone with one&#8217;s thoughts can be the most dangerous place to be&#44; &#8220;It Ends&#8221; can be terrifying&#44; but also exhilarating when it&#8217;s conveyed so vividly as Ullom does&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Stephen Saito",
+      "initials": "SS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/stephen-saito",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "stephen-saito",
+      "encryptedCriticId": "aloaj6Zw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Moveable Fest",
+      "editorialUrl": "http://moveablefest.com/category/reviews-2/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4y39gorn",
+      "publicationId": "3124"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  }
+]

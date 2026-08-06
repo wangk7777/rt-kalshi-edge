@@ -1,0 +1,1183 @@
+[
+  {
+    "reviewId": "103105052",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://movieswetextedabout.com/the-weight-review-film-is-rock-solid-berlinale-2026/#more-4643",
+    "createDate": "2026-02-27T20:40:37.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "Mr&#46; Hawke&#8217;s show the whole way through&#46; I&#8217;ve written before about how he is the best we currently have at portraying a man in crisis&#44; and The Weight never stops finding startling new ways to trouble him&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Sarah Manvel",
+      "initials": "SM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/sarah-manvel",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "sarah-manvel",
+      "encryptedCriticId": "oraYnnrg",
+      "displayImageUrl": "https://resizing.flixster.com/Fh-Wq0tMxEEuUUAjJN7-iIHmow4=/128x128/v1.YzsxMDAwMDAyODk2O2o7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Movies We Texted About",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "lKgL1m0l",
+      "publicationId": "100010071"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103103860",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://bit.ly/4qXFm2R",
+    "createDate": "2026-02-24T13:03:51.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "The Weight is the kind of ragtag&#44; band-against-the-odds adventure that used to fill cinemas back in the day&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Stephen A. Russell",
+      "initials": "SR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/stephen-a-russell",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "stephen-a-russell",
+      "encryptedCriticId": "7ldWEDrO",
+      "displayImageUrl": "https://resizing.flixster.com/3eQm696Ew7sqFttwcz6PkwcWc-E=/128x128/v1.YzszNzA2O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Time Out",
+      "editorialUrl": "http://www.timeout.com",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/jsrbzeqCLl3PDrxftaQDztkssSI=/256x256/v1.YzsxMDAwMDAzODExO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "4el7Layq",
+      "publicationId": "1651"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103103546",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thelatinoslant.com/sundance-film-festival-2026/a-fathers-desperate-journey-defines-the-weight/",
+    "createDate": "2026-02-23T03:03:58.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "he Weight is a gripping story of a father&#8217;s lengths to reach his daughter&#46; Well-acted and beautifully shot&#44; it keeps viewers on the edge of their seats&#44; offering a compelling tale of resilience&#44; survival&#44; and betrayal&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Rosa Parra",
+      "initials": "RP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rosa-parra",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rosa-parra",
+      "encryptedCriticId": "dynRdxyQ",
+      "displayImageUrl": "https://resizing.flixster.com/gZiudcAYVnwfYugwkyH9Al3-Nkc=/128x128/v1.YzszODE3O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Latino Slant",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "yRmY00gl",
+      "publicationId": "100010001"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103102385",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.elmundo.es/cultura/cine/2026/02/17/69944932fc6c8391678b459f.html",
+    "createDate": "2026-02-18T21:53:19.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "A film as light and brilliant as it is guilty of melancholy. [Full review in Spanish]",
+    "language": "Spanish",
+    "critic": {
+      "displayName": "Luis Martínez ",
+      "initials": "LM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/luis-martinez1",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "luis-martinez1",
+      "encryptedCriticId": "YyxeBYZ1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "El Mundo (Spain)",
+      "editorialUrl": "http://www.elmundo.es/cultura/cine.html",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/efOKNrm2NxnB_MZgbWFMuZ4GXCg=/225x225/v1.YzsxMDAwMDAzNjM1O3A7MjA3MDk7MjA0ODsyMjU7MjI1",
+      "encryptedPublicationId": "Ly94jGln",
+      "publicationId": "2778"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103102043",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://lamplightreview.com/berlinale-2026-review-the-weight-ethan-hawke/",
+    "createDate": "2026-02-17T21:37:43.000Z",
+    "updateDate": "2026-07-08T14:33:18.000Z",
+    "reviewQuote": "Influences notwithstanding&#44; McKinley&apos;s film manages to carve out a solid enough identity of its own&#44; thanks in no small part to Hawke&apos;s magnetic lead performance&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Brent Hankins",
+      "initials": "BH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brent-hankins",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "brent-hankins",
+      "encryptedCriticId": "ErmgWwyb",
+      "displayImageUrl": "https://resizing.flixster.com/J1XW57ENqE-0HQtBgItW5we1g7s=/128x128/v1.YzszMzUyO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Lamplight Review",
+      "editorialUrl": "https://www.lamplightreview.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "plDakvy6",
+      "publicationId": "3186"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103101951",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.otroscines.com/post/festival-de-berlin-2026-critica-de-the-weight-pelicula-de-padraic-mckinley-con-ethan-hawke-y-russell-crowe-special-gala",
+    "createDate": "2026-02-17T19:00:25.000Z",
+    "updateDate": "2026-07-08T14:33:18.000Z",
+    "reviewQuote": "The Weight works by strictly adhering to the structure of escape films, although it fails to develop a truly ensemble portrait or flesh out the characters who travel with the protagonist. [Full review in Spanish]",
+    "language": "English",
+    "critic": {
+      "displayName": "Violeta Kovacsics",
+      "initials": "VK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/violeta-kovacsics",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "violeta-kovacsics",
+      "encryptedCriticId": "aloJA7rw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Otroscines.com",
+      "editorialUrl": "http://www.otroscines.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/VVNvHYgYBPAy8GrBvQTZHwZxZ20=/256x256/v1.YzsxMDAwMDAzNzM1O2o7MjA3MDk7MjA0ODs5MDA7OTAw",
+      "encryptedPublicationId": "xyeLoDle",
+      "publicationId": "2766"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103101861",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://loudandclearreviews.com/the-weight-2026-film-review/",
+    "createDate": "2026-02-17T10:50:15.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "A tense thriller with immense atmosphere but slightly underwhelming payoff&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "William Stottor",
+      "initials": "WS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/william-stottor",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "william-stottor",
+      "encryptedCriticId": "rALOaDzZ",
+      "displayImageUrl": "https://resizing.flixster.com/Acgc7fsrKR7Tjz01lcLXzPS60us=/128x128/v1.YzsxMDAwMDAzMjA4O3A7MjA3MDk7MjA0ODs0MzY7NzM2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Loud and Clear Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "y0VpDXPr",
+      "publicationId": "100009659"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103100492",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.youtube.com/live/_u7cJ96Ydw8",
+    "createDate": "2026-02-12T03:41:56.000Z",
+    "updateDate": "2026-07-08T14:33:22.000Z",
+    "reviewQuote": "Almost anyone will have a good time with this film&#46; Entertaining&#44; well acted&#44; well filmed&#46; One of my favorites of the festival ",
+    "language": "English",
+    "critic": {
+      "displayName": "Rachel Wagner",
+      "initials": "RW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rachel-wagner",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rachel-wagner",
+      "encryptedCriticId": "xlbEJgrE",
+      "displayImageUrl": "https://resizing.flixster.com/T6uh3laka2d-tpkuXfW-bp4lqIo=/128x128/v1.YzszMjU3O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Rachel's Reviews (YouTube)",
+      "editorialUrl": "https://www.youtube.com/user/smilingldsgirl",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "8y8Jkqr2",
+      "publicationId": "3347"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103099711",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "4/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://erikthemovieman.substack.com/p/episode-628-the-sundance-film-festival",
+    "createDate": "2026-02-09T21:48:52.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "Padraic McKinley&#8217;s unimpeachably entertaining debut is an adventure that has the tension of Sorcerer with a touch of Southern Comfort led by a never-more-confident Ethan Hawke who just continues to roll through perfectly chosen projects&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Erik Childress",
+      "initials": "EC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/erik-childress",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "erik-childress",
+      "encryptedCriticId": "MaloJvrw",
+      "displayImageUrl": "https://resizing.flixster.com/VhoDYj68xhiUu0TVmzJmEF6zFmQ=/128x128/v1.YzsxMDAwMDAzNDg0O2o7MjA3MDk7MjA0ODs0MDY7NDA2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Movie Madness Podcast",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "lKgLjDql",
+      "publicationId": "100009627"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103099305",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "9.5/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.firstshowing.net/2026/sundance-2026-ethan-hawke-vs-nature-in-the-weight-superb-thriller/",
+    "createDate": "2026-02-07T15:47:22.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "The Weight is everything one could want within a gripping survival thriller &#8211; even with well-defined characters &amp; strong performance&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Alex Billington",
+      "initials": "AB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alex-billington",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "alex-billington",
+      "encryptedCriticId": "4y38KeZn",
+      "displayImageUrl": "https://resizing.flixster.com/qByG1VQL-EoV-uzLCaUA9GOYMGI=/128x128/v1.YzsxMDAwMDAyODU0O2o7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "FirstShowing.net",
+      "editorialUrl": "http://www.firstshowing.net",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "publicationImageUrl": "https://resizing.flixster.com/O6KUJ4Ukb4Q5bOKga6DfJdZQySE=/180x180/v1.YzsxMDAwMDAzOTE3O3A7MjA3MDk7MjA0ODsxODA7MTgw",
+      "encryptedPublicationId": "MaloGGlw",
+      "publicationId": "1755"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103098366",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thefilmstage.com/sundance-review-ethan-hawke-is-good-as-gold-in-the-weight/",
+    "createDate": "2026-02-04T21:11:19.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "McKinley&#8217;s intense and&#44; at times&#44; brutal thriller is crowd-pleasing without being pandering&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Kent M. Wilhelm",
+      "initials": "KW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/kent-m-wilhelm",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "kent-m-wilhelm",
+      "encryptedCriticId": "rmRzdg6l",
+      "displayImageUrl": "https://resizing.flixster.com/805sdiWqi1IEDT80f8OH2V8KaBU=/128x128/v1.YzsxMDAwMDAzMzE1O3A7MjA3MDk7MjA0ODsyMTAwOzIxMDA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Film Stage",
+      "editorialUrl": "https://thefilmstage.com/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "4yzjG5yP",
+      "publicationId": "2305"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103098209",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://butwhytho.net/2026/02/the-weight-2026-review/",
+    "createDate": "2026-02-04T16:14:57.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "The Weight is a blisteringly confident trek through Oregon&#44; where each flirtation with death feels closer than the last&#44; and each cinematic flourish outdoes the last&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "James Preston Poole",
+      "initials": "JP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/james-preston-poole",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "james-preston-poole",
+      "encryptedCriticId": "Z5JojMjr",
+      "displayImageUrl": "https://resizing.flixster.com/wIIotHp3-mJdU0Skj7T5ICsvavM=/128x128/v1.YzsxMDAwMDAzMjczO2o7MjA3MDk7MjA0ODsxNDQwOzEwODM",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "But Why Tho?",
+      "editorialUrl": "https://butwhytho.net/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "krLnNKyw",
+      "publicationId": "3409"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103098113",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://screenanarchy.com/2026/01/sundance-2026-review-the-weight-ethan-hawke-leads-period-crime-drama.html",
+    "createDate": "2026-02-04T02:46:28.000Z",
+    "updateDate": "2026-07-08T14:33:19.000Z",
+    "reviewQuote": "Not that stories write themselves &#40;they don&#8217;t&#41;&#44; but leaning into the elemental aspects inherent in the premise can yield remarkably engrossing stories like Padraic McKinley&#8217;s feature-length debut&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Mel Valentin",
+      "initials": "MV",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mel-valentin",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "mel-valentin",
+      "encryptedCriticId": "pZ612Vye",
+      "displayImageUrl": "https://resizing.flixster.com/rDHGR8diRoqbCb2qP2kIxR_YVQg=/128x128/v1.YzszOTM0O2o7MjA3MDA7MjA0ODs5ODY7OTg2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "ScreenAnarchy",
+      "editorialUrl": "http://screenanarchy.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "e8y8Pvy2",
+      "publicationId": "1703"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103097933",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "4/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://movieweb.com/the-weight-review/",
+    "createDate": "2026-02-03T22:07:23.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "The film has a singularity of vision and cohesion of form that makes it easy to get immersed in&#44; and uses the natural&#44; sometimes wordless drama of its actors to create relatable characters&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Zachary Lee",
+      "initials": "ZL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/zachary-lee",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "zachary-lee",
+      "encryptedCriticId": "rLb40OKy",
+      "displayImageUrl": "https://resizing.flixster.com/0sQVQxo7OtFCR2an8cohHyFF8WE=/128x128/v1.YzsxMDAwMDAzNDA1O2o7MjA3MDk7MjA0ODsxMjAwOzExOTg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "MovieWeb",
+      "editorialUrl": "http://www.movieweb.com/movieguru",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "p5rPxOre",
+      "publicationId": "1421"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103097467",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "C",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://theplaylist.net/the-weight-review-ethan-hawke-elevates-a-rugged-predictable-gold-run-survivalist-westernsundance-20260131/",
+    "createDate": "2026-02-02T22:25:30.000Z",
+    "updateDate": "2026-07-08T14:33:19.000Z",
+    "reviewQuote": "It’s a “dad movie” if there ever was one, with enough set-pieces to feel exciting, a semblance of dramatic complexity (so long as you don’t dig too deep), and acting ranging from proficient to excellent in an impressively photographed package.",
+    "language": "English",
+    "critic": {
+      "displayName": "Carlos Aguilar",
+      "initials": "CA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/carlos-aguilar",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "carlos-aguilar",
+      "encryptedCriticId": "BZ5R8Lr9",
+      "displayImageUrl": "https://resizing.flixster.com/43Y9IOxlybEhooCQfm6Bnr_9vxo=/128x128/v1.YzszMjc0O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Playlist",
+      "editorialUrl": "http://theplaylist.net/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/MZ_fZKZ5inGW4tQO3YyG5DjpcbA=/256x256/v1.YzsxMDAwMDAzODA1O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "Ermo1Vyb",
+      "publicationId": "2100"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103097251",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "9/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.cbr.com/the-weight-review/",
+    "createDate": "2026-02-02T14:41:15.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "With stunning cinematography by Matteo Cocco&#44; The Weight strikes a careful balance between admiring the beauty of the wilderness and emphasizing its constant&#44; deadly threat&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Kevin L. Lee",
+      "initials": "KL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/kevin-l-lee",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "kevin-l-lee",
+      "encryptedCriticId": "Ly9n4aZn",
+      "displayImageUrl": "https://resizing.flixster.com/jN-MYNVXcVxke47FNT_RECIz-JM=/128x128/v1.YzsxMDAwMDAzODQ1O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "CBR",
+      "editorialUrl": "http://www.comicbookresources.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "M9ZkXgrG",
+      "publicationId": "1741"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096957",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.rogerebert.com/festivals/sundance-2026-the-weight-the-only-living-pickpocket-in-new-york-see-you-when-i-see-you",
+    "createDate": "2026-01-31T08:10:13.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "There are some camera choices that could hamper complete enjoyment by all&#8212;including a late-movie fight that&#8217;s shot far too close&#8212;but the last ten minutes of &quot;The Weight&quot; are as satisfying as anything you&#8217;re likely to see this year&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Brian Tallerico",
+      "initials": "BT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brian-tallerico",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "brian-tallerico",
+      "encryptedCriticId": "8yNL8VrL",
+      "displayImageUrl": "https://resizing.flixster.com/ZqIhdI86FIkxq_gEB6AH4vBIZLE=/128x128/v1.YzszNjUxO2o7MjA3MDA7MjA0ODs5NjA7OTYw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "RogerEbert.com",
+      "editorialUrl": "http://www.rogerebert.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "eoraDKZg",
+      "publicationId": "1708"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096793",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://nextbestpicture.com/the-weight/",
+    "createDate": "2026-01-30T21:40:33.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "Anchored by Ethan Hawke&#8217;s physically demanding and emotionally charged performance&#44; and balancing heartfelt moments with gritty action and punishing scenarios&#44; &quot;The Weight&quot; ultimately completes its mission with confidence and skill&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Anna Miller",
+      "initials": "AM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/anna-miller",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "anna-miller",
+      "encryptedCriticId": "rj3wYRQl",
+      "displayImageUrl": "https://resizing.flixster.com/Z1g2crqObs7v1H2jsaKlaKwxkuA=/128x128/v1.YzsxMDAwMDAzMDM4O2o7MjA3MDk7MjA0ODs3ODY7ODAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Next Best Picture",
+      "editorialUrl": "https://www.nextbestpicture.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "4rwkKbrA",
+      "publicationId": "3046"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096594",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B+",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://silverscreenriot.com/sundance-26-the-weight/",
+    "createDate": "2026-01-30T15:53:17.000Z",
+    "updateDate": "2026-07-08T14:33:21.000Z",
+    "reviewQuote": "A film that drapes a muscular&#44; objective-driven plot over lush period-piece trappings&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Matt Oakes",
+      "initials": "MO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/matt-oakes",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "matt-oakes",
+      "encryptedCriticId": "Erm7b5yb",
+      "displayImageUrl": "https://resizing.flixster.com/AH9WvIl9xyLoyzMWzaNMmeYcgho=/128x128/v1.YzszMTU0O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Silver Screen Riot",
+      "editorialUrl": "http://www.silverscreenriot.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "vZGezwl7",
+      "publicationId": "3261"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096459",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "9/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.ign.com/articles/the-weight-review-ethan-hawke",
+    "createDate": "2026-01-30T01:28:49.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "A gruff&#44; must-watch Ethan Hawke leads a delightful band of outsiders in The Weight&#44; a Depression-era heist film that oscillates between slow burn drama and nail-biting intensity&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Siddhant Adlakha",
+      "initials": "SA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/siddhant-adlakha",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "siddhant-adlakha",
+      "encryptedCriticId": "vl4D6olz",
+      "displayImageUrl": "https://resizing.flixster.com/ubRSPpYN9TYxyAsn-SLXz7h1_ww=/128x128/v1.YzszMDI4O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "IGN Movies",
+      "editorialUrl": "http://filmforce.ign.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "MaloMpZw",
+      "publicationId": "811"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096458",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "C+",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.indiewire.com/criticism/movies/the-weight-movie-review-ethan-hawke-1235176261/",
+    "createDate": "2026-01-30T01:23:57.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "It’s a treat to watch the muscular dynamics and savvy physical particulars of Hawke’s performance. Murphy, like Hawke, is great in a crisis, and “The Weight” could’ve been one without his sturdy, tough-lived performance.",
+    "language": "English",
+    "critic": {
+      "displayName": "Ryan Lattanzio",
+      "initials": "RL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/ryan-lattanzio",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "ryan-lattanzio",
+      "encryptedCriticId": "vZGoGJZ7",
+      "displayImageUrl": "https://resizing.flixster.com/sCRyhekVeMjNdWuDgcBuxsMhfwY=/128x128/v1.YzszNzI0O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "IndieWire",
+      "editorialUrl": "http://www.indiewire.com/t/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/OJCGA3R7DYPGq5Z7vLgQrcMSPVY=/256x256/v1.YzsxMDAwMDAzNjc5O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "Q5yMXplg",
+      "publicationId": "226"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096272",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.vulture.com/article/the-weight-review-we-dont-get-movies-like-this-anymore.html",
+    "createDate": "2026-01-29T19:55:23.000Z",
+    "updateDate": "2026-07-08T14:33:16.000Z",
+    "reviewQuote": "It’s the kind of atmospheric, exciting period drama we don’t really get much anymore.",
+    "language": "English",
+    "critic": {
+      "displayName": "Bilge Ebiri",
+      "initials": "BE",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/bilge-ebiri",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "bilge-ebiri",
+      "encryptedCriticId": "dynJGeyQ",
+      "displayImageUrl": "https://resizing.flixster.com/rsmBuSqV1bMtDqjvl0iK6WIT_vU=/128x128/v1.YzszNjY4O2o7MjA3MDA7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "New York Magazine/Vulture",
+      "editorialUrl": "http://www.vulture.com/news/movie-review/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "5Ly9LRln",
+      "publicationId": "334"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096185",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://nypost.com/2026/01/28/entertainment/the-weight-review-ethan-hawke-plays-a-merciless-badass-in-depression-era-sundance-drama/",
+    "createDate": "2026-01-29T18:39:10.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "Murphy has a solution for seemingly every roadblock, and his “MacGyver” quality keeps him an enigma till the very end.",
+    "language": "English",
+    "critic": {
+      "displayName": "Johnny Oleksinski",
+      "initials": "JO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/johnny-oleksinski",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "johnny-oleksinski",
+      "encryptedCriticId": "plDYBQy6",
+      "displayImageUrl": "https://resizing.flixster.com/tF0Aqr_JJM_NlfUqW4RRlzr_ZEE=/128x128/v1.YzszMDYyO2o7MjA3MDA7MjA0ODsxNjkzOzE2MzM",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "New York Post",
+      "editorialUrl": "http://www.nypost.com/entertainment/movies/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/2zXkX2WNO8FfXP6O-Nc8TKTueIM=/225x225/v1.YzsxMDAwMDAzNzIyO2o7MjA3MDk7MjA0ODsyMjU7MjI1",
+      "encryptedPublicationId": "EqrEq2ra",
+      "publicationId": "336"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096175",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.joblo.com/the-weight-sundance-review/",
+    "createDate": "2026-01-29T18:26:42.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "A rock-solid period action flick with a commanding lead from Ethan Hawke",
+    "language": "English",
+    "critic": {
+      "displayName": "Chris Bumbray",
+      "initials": "CB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/chris-bumbray",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "chris-bumbray",
+      "encryptedCriticId": "QrqOjVyn",
+      "displayImageUrl": "https://resizing.flixster.com/Jd8Bga-Ps7baBaMBDaze2DpzHiw=/128x128/v1.YzsxMDAwMDAzMzc4O2o7MjA3MDk7MjA0ODs2Mjg7NjI2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "JoBlo's Movie Network",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "6dynOJZQ",
+      "publicationId": "573"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103096080",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://awardsbuzz.com/sundance-review-the-weight-is-an-immersive-gripping-period-thriller-that-makes-great-use-of-its-atmosphere-and-music/",
+    "createDate": "2026-01-29T16:06:26.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "A well-rounded experience that&#8217;s stressful and suspenseful but never too harrowing thanks to a well-written script and solid cast who keep this plot captivating and enthralling from start to finish&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Abe Friedtanzer",
+      "initials": "AF",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/abe-friedtanzer",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "abe-friedtanzer",
+      "encryptedCriticId": "rLb4An7y",
+      "displayImageUrl": "https://resizing.flixster.com/-bDxJmPC69VTzeGI24sRMPYNAdg=/128x128/v1.YzsxMDAwMDAyNzg1O3A7MjA3MDk7MjA0ODsxMDAwOzEwMDA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Awards Buzz",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y9RPaV3Z",
+      "publicationId": "100010078"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095962",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B-",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://awardswatch.com/the-weight-review-ethan-hawke-is-ever-reliable-in-tension-free-depression-era-actioner-b-sundance/",
+    "createDate": "2026-01-29T00:39:59.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "Every aspect of the plot comes from some other story we&#8217;ve seen or heard before&#46; We can guess before the journey even begins who won&#8217;t make it&#44; who will try to double-cross the others&#44; and who will save the day&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Karen M. Peterson",
+      "initials": "KP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/karen-m-peterson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "karen-m-peterson",
+      "encryptedCriticId": "plDgwpr6",
+      "displayImageUrl": "https://resizing.flixster.com/c3JqhWEQhILX3ZapXapSKvrLtXs=/128x128/v1.YzszODM4O2o7MjA3MDA7MjA0ODsxOTkwOzE5OTA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "AwardsWatch",
+      "editorialUrl": "https://awardswatch.com/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "Wy1KJnrz",
+      "publicationId": "3094"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095919",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.thewrap.com/creative-content/movies/the-weight-review-ethan-hawke/",
+    "createDate": "2026-01-28T22:51:03.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "Throughout it all&#44; Hawke is mesmerizing&#46; The action scenes are tense and well-executed&#44; though it&#8217;s the way he grounds it that makes you feel every setback&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Chase Hutchinson",
+      "initials": "CH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/chase-hutchinson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "chase-hutchinson",
+      "encryptedCriticId": "Ly93barn",
+      "displayImageUrl": "https://resizing.flixster.com/EVPp1JjCTq6rj6XeJbIFvgrrBBo=/128x128/v1.YzsxMDAwMDAyNzgxO2o7MjA3MDk7MjA0ODsyOTM7Mjkz",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "TheWrap",
+      "editorialUrl": "http://www.thewrap.com/tag/movie_reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/oIEyuPqk711nt7MzMwmDagOBMFg=/200x200/v1.YzsxMDAwMDAzODA4O3A7MjA3MDk7MjA0ODsyMDA7MjAw",
+      "encryptedPublicationId": "4yzjWeyP",
+      "publicationId": "2205"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095897",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.upi.com/Entertainment_News/Movies/2026/01/28/The-Weight-Sundance-movie-review/5621769583437/",
+    "createDate": "2026-01-28T20:48:54.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "A harrowing thriller&#46; It joins The Wages of Fear and The Revenant amongst great treacherous terrain adventures&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Fred Topel",
+      "initials": "FT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/fred-topel",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "fred-topel",
+      "encryptedCriticId": "W4y3O2yn",
+      "displayImageUrl": "https://resizing.flixster.com/zfjasQJxVxEL9pyvJHfO2hmhHXw=/128x128/v1.YzsyNDk0O2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "United Press International",
+      "editorialUrl": "http://www.upi.com/Entertainment_News/Movies/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "el77jalq",
+      "publicationId": "2795"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095833",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.theguardian.com/film/2026/jan/27/the-weight-review-ethan-hawke-sundance",
+    "createDate": "2026-01-28T19:18:01.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "It’s carried through by an all-in Hawke who is really put through the wringer, arguably his most physically gruelling role to date, a muscular and entirely persuasive performance that continues his winning streak. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Benjamin Lee",
+      "initials": "BL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/benjamin-lee",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "benjamin-lee",
+      "encryptedCriticId": "ErmG6Myb",
+      "displayImageUrl": "https://resizing.flixster.com/QXSSh9qh198wWx_tX1ustL0MTg4=/128x128/v1.YzsxMDAwMDAyOTE0O2o7MjA3MDk7MjA0ODs5NTU7ODY3",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Guardian",
+      "editorialUrl": "https://www.theguardian.com/film+tone/reviews",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PSiWKUHiH7OIbfgdTcalUEnDgpU=/256x256/v1.YzsxMDAwMDAzNjYzO3A7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "J4yzkxZP",
+      "publicationId": "205"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095647",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "4/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://punchdrunkcritics.com/2026/01/sundance-review-the-weight/",
+    "createDate": "2026-01-28T09:07:32.000Z",
+    "updateDate": "2026-07-08T14:33:16.000Z",
+    "reviewQuote": "The Weight is exciting stuff&#44; with Hawke strong in a physically demanding role that he makes look easy&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Travis Hopson",
+      "initials": "TH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/travis-hopson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "travis-hopson",
+      "encryptedCriticId": "krLmpklw",
+      "displayImageUrl": "https://resizing.flixster.com/X4Vmyp4ye7iwkLCo4LAdzMdgw6o=/128x128/v1.YzsyNDkwO2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Punch Drunk Critics",
+      "editorialUrl": "http://www.punchdrunkcritics.com/search/label/reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "BZ5DjLy9",
+      "publicationId": "2787"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095374",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://deadline.com/2026/01/the-weight-review-ethan-hawke-russell-crowe-movie-1236697873/",
+    "createDate": "2026-01-27T18:37:44.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "This proves to be the gritty kind of story that is perfect for a revival, and it also marks yet another high point in the career of Ethan Hawke.",
+    "language": "English",
+    "critic": {
+      "displayName": "Pete Hammond",
+      "initials": "PH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/pete-hammond",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "pete-hammond",
+      "encryptedCriticId": "4rwnBDZA",
+      "displayImageUrl": "https://resizing.flixster.com/eluIpreeuxsREahUOVu5WUxGGFs=/38x44/v1.YzsxNzk0O2o7MjA3MDA7MjA0ODszODs0NA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Deadline Hollywood Daily",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/J9nZqvu0OQcTuaqREwauFUr28IQ=/256x256/v1.YzsxMDAwMDAzOTI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "vZpkOdyV",
+      "publicationId": "2256"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095360",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.screendaily.com/reviews/the-weight-review-ethan-hawke-and-russell-crowe-expertly-carry-tense-effective-1930s-survival-tale/5213064.article",
+    "createDate": "2026-01-27T18:32:48.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "Padraic McKinley’s feature directorial debut is a hugely confident survivalist tale that’s as bluntly effective as the primitive weapons employed in this bare-knuckle saga.",
+    "language": "English",
+    "critic": {
+      "displayName": "Tim Grierson",
+      "initials": "TG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/tim-grierson",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "tim-grierson",
+      "encryptedCriticId": "4yzWDjZP",
+      "displayImageUrl": "https://resizing.flixster.com/uVyMVRvadeb8ap6UWMG_cxthKMw=/128x128/v1.YzsyNzM2O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Screen International",
+      "editorialUrl": "http://www.screendaily.com/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/X3J3A5l9y7LAqi1uUfPn55_-nTY=/256x256/v1.YzsxMDAwMDAzNzY1O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "M8yN9VlL",
+      "publicationId": "1069"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095344",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://variety.com/2026/film/reviews/the-weight-review-ethan-hawke-1236641750/",
+    "createDate": "2026-01-27T18:24:19.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "In the past, Hawke often played characters who were shy, scruffy and slightly unsure of themselves, but here he’s the film’s proactive problem solver -- a classical hero more than capable of carrying the film.",
+    "language": "English",
+    "critic": {
+      "displayName": "Peter Debruge",
+      "initials": "PD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/peter-debruge",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "peter-debruge",
+      "encryptedCriticId": "qrE5q2ra",
+      "displayImageUrl": "https://resizing.flixster.com/qT2mgVMoS1NU85V_1bs7a9F718o=/38x42/v1.YzsyMzUyO2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Variety",
+      "editorialUrl": "http://variety.com/v/film/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/cMg4FAB7XrqmpueG7MpVj83MU8w=/256x256/v1.YzsxMDAwMDAzODI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "YxyebgZe",
+      "publicationId": "466"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095281",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/the-weight-review-ethan-hawke-russell-crowe-julia-jones-1236484790/",
+    "createDate": "2026-01-27T17:44:25.000Z",
+    "updateDate": "2026-07-07T19:07:50.000Z",
+    "reviewQuote": "Although The Weight is low on excitement, it ends on an affecting note that makes you wish the sluggish movie had been given more lucid storytelling, as well as more dramatic and emotional power. ",
+    "language": "English",
+    "critic": {
+      "displayName": "David Rooney",
+      "initials": "DR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/david-rooney",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "david-rooney",
+      "encryptedCriticId": "BZ55DPZ9",
+      "displayImageUrl": "https://resizing.flixster.com/-_nxKSoIajfV_9NjUmE0Esql060=/128x128/v1.YzszODM5O3A7MjA3MDA7MjA0ODsyNDg7MzIw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Hollywood Reporter",
+      "editorialUrl": "http://www.hollywoodreporter.com/hr/film/reviews/index.jsp",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PnE_AJzukoI8np6MHm5j9vpNtOM=/256x256/v1.YzsxMDAwMDAzNjcwO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "6arXpQrO",
+      "publicationId": "213"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103095174",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.thedailybeast.com/obsessed/the-weight-review-sundance-thriller-proves-theres-nothing-ethan-hawke-cant-do/",
+    "createDate": "2026-01-27T06:23:45.000Z",
+    "updateDate": "2026-07-08T14:33:13.000Z",
+    "reviewQuote": "Electrifying a taut tale of tough times and the desperate men they breed&#44; &#91;Hawke&#93; makes sure that&#44; even when it could stand to be a tad weightier&#44; this genre film packs a wallop&#46;&#10;",
+    "language": "English",
+    "critic": {
+      "displayName": "Nick Schager",
+      "initials": "NS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nick-schager",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "nick-schager",
+      "encryptedCriticId": "XrAm7Erw",
+      "displayImageUrl": "https://resizing.flixster.com/lVxA_CN_iLgiKqbgRkLqXVp-6zs=/128x128/v1.YzsxMDAwMDAyNjgyO2o7MjA3MDk7MjA0ODs3MTA7NzEx",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Daily Beast",
+      "editorialUrl": "http://www.thedailybeast.com/beaststyle.html",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "RyRMeQld",
+      "publicationId": "2345"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  }
+]

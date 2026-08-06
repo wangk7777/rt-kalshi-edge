@@ -1,0 +1,569 @@
+[
+  {
+    "reviewId": "103149111",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://petersobczynski.substack.com/p/only-the-young?r=129p34&utm_campaign=post-expanded-share&utm_medium=web",
+    "createDate": "2026-08-06T15:17:49.000Z",
+    "updateDate": "2026-08-06T15:17:49.000Z",
+    "reviewQuote": "Although decidedly inessential&#44;  I found myself laughing more often than not for 100 minutes and at a point where the summer movie season is beginning to wind down&#44; that is all I needed from it",
+    "language": "English",
+    "critic": {
+      "displayName": "Peter Sobczynski",
+      "initials": "PS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/peter-sobczynski",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "peter-sobczynski",
+      "encryptedCriticId": "4yzkOmZP",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Auteurist Class (Substack)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Z5JG5AMr",
+      "publicationId": "100010143"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149101",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "D+",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.blu-ray.com/Super-Troopers-3/2023267/#Review",
+    "createDate": "2026-08-06T14:19:04.000Z",
+    "updateDate": "2026-08-06T14:19:04.000Z",
+    "reviewQuote": "The gang is back&#44; but some of the actors don&#8217;t seem like they want to be here&#44; leaving &quot;Super Troopers 3&quot; more routine than inspired&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Brian Orndorf",
+      "initials": "BO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brian-orndorf",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "brian-orndorf",
+      "encryptedCriticId": "6lKj8Prp",
+      "displayImageUrl": "https://resizing.flixster.com/DcdMw-YkO4KFPd5GrLvFGPe8iaU=/128x128/v1.YzsyMjM3O2o7MjA3MDA7MjA0ODsyNTA7Mjg1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Blu-ray.com",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4y39Kqrn",
+      "publicationId": "2468"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149098",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1.5/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "http://www.markreviewsmovies.com/reviews/S/supertroopers3.htm",
+    "createDate": "2026-08-06T14:00:38.000Z",
+    "updateDate": "2026-08-06T14:00:38.000Z",
+    "reviewQuote": "&#91;T&#93;he team &#46;&#46;&#46; have run out of things to do with these characters&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Mark Dujsik",
+      "initials": "MD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mark-dujsik",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "mark-dujsik",
+      "encryptedCriticId": "alooK5lw",
+      "displayImageUrl": "https://resizing.flixster.com/Z5FBlROuUpMqyhqlClDAoyvoudc=/128x128/v1.YzsxMDAwMDAzOTY2O2o7MjA3MDk7MjA0ODsyMjAwOzIyMDA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Mark Reviews Movies",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "AoZvJ4Zw",
+      "publicationId": "958"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149084",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "5/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://screenrant.com/super-troopers-3-movie-review/",
+    "createDate": "2026-08-06T12:48:27.000Z",
+    "updateDate": "2026-08-06T12:48:27.000Z",
+    "reviewQuote": "While it&apos;s hard to recommend Super Troopers 3 to anyone who didn&apos;t at least get some good chuckles out of Broken Lizard&apos;s previous work&#44; there are enough successes with this hit-or-miss comedy that fans will get some laughs&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Brandon Zachary",
+      "initials": "BZ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brandon-zachary",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "brandon-zachary",
+      "encryptedCriticId": "5yMBYVZg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Screen Rant",
+      "editorialUrl": "http://screenrant.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "e8y8djy2",
+      "publicationId": "1647"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149062",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "10/20",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.filmink.com.au/reviews/super-troopers-3/",
+    "createDate": "2026-08-06T06:35:17.000Z",
+    "updateDate": "2026-08-06T06:35:17.000Z",
+    "reviewQuote": "… neither nimbly nor bimbly, and lacks the necessary shenanigans to keep audiences engaged. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Anthony O'Connor",
+      "initials": "AC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/anthony-oconnor",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "anthony-oconnor",
+      "encryptedCriticId": "YyxQaRZ1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "FILMINK (Australia)",
+      "editorialUrl": "http://www.filmink.com.au/home/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "AoZvwnrw",
+      "publicationId": "1014"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149059",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://thefilmverdict.com/super-troopers-3-film-review/",
+    "createDate": "2026-08-06T05:45:48.000Z",
+    "updateDate": "2026-08-06T14:26:37.000Z",
+    "reviewQuote": "The first Super Troopers was delightfully silly&#44; with just enough plot to accommodate the barrage of goofy gags&#44; wordplay&#44; and absurdist bits&#46; A quarter of a century later&#44; there&#8217;s an overwhelming amount of plot and not nearly enough laughs&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Alonso Duralde",
+      "initials": "AD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alonso-duralde",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "alonso-duralde",
+      "encryptedCriticId": "xyeNYDZe",
+      "displayImageUrl": "https://resizing.flixster.com/d6Od4VW2dcdviqCbGt6Dk7VLx30=/128x128/v1.YzsyNjIwO2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Film Verdict",
+      "editorialUrl": "http://www.thefilmverdict.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "py09xEZE",
+      "publicationId": "4059"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149058",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "0.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://tinyurl.com/rmvtx5wz",
+    "createDate": "2026-08-06T04:53:38.000Z",
+    "updateDate": "2026-08-06T04:53:38.000Z",
+    "reviewQuote": "Laughless&#46;&#46;&#46;Bless Broken Lizard and all those who find their films chuckle-worthy&#46; Everyone else might find more amusement regrouting their bathrooms&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Jim Schembri",
+      "initials": "JS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jim-schembri",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "jim-schembri",
+      "encryptedCriticId": "OrVkwplk",
+      "displayImageUrl": "https://resizing.flixster.com/i9nBacnNr1Oju-Jctlwc-6mz7CE=/128x128/v1.YzsxMDAwMDAyNzUwO2o7MjA3MDk7MjA0ODs0NzU7NDc1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "jimschembri.com",
+      "editorialUrl": "jimschembri.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "7ZWe58lm",
+      "publicationId": "2937"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149051",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "http://www.nycmovieguru.com/aug7th26.html#supertroopers3",
+    "createDate": "2026-08-06T03:41:03.000Z",
+    "updateDate": "2026-08-06T03:41:03.000Z",
+    "reviewQuote": "A crude&#44; rude and lewd comedy that&apos;s not nearly as funny as the original&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Avi Offer",
+      "initials": "AO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/avi-offer",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "avi-offer",
+      "encryptedCriticId": "VlJeqxrP",
+      "displayImageUrl": "https://resizing.flixster.com/t0Po8TkPnZm6BEEtNvaGzlLpzjA=/38x42/v1.YzsxODE3O2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "NYC Movie Guru",
+      "editorialUrl": "http://www.nycmovieguru.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "pZ691Vye",
+      "publicationId": "2162"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149009",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.theaureview.com/watch/film-review-super-troopers-3/",
+    "createDate": "2026-08-06T00:21:06.000Z",
+    "updateDate": "2026-08-06T00:21:06.000Z",
+    "reviewQuote": "They know precisely what movie they&#8217;re making&#44; who it&#8217;s for&#44; and have no interest in chasing contemporary comedy trends&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Peter Gray",
+      "initials": "PG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/peter-gray",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "peter-gray",
+      "encryptedCriticId": "oraq85rg",
+      "displayImageUrl": "https://resizing.flixster.com/7x3aCaX3AOlxRtDCwpqWiur1oDA=/128x128/v1.YzsxMDAwMDAzODk5O2o7MjA3MDk7MjA0ODsxMTE4OzExMjA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The AU Review",
+      "editorialUrl": "http://launch.theaureview.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Ermownyb",
+      "publicationId": "3188"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148995",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://variety.com/2026/film/reviews/super-troopers-3-review-1236828587/",
+    "createDate": "2026-08-05T23:43:56.000Z",
+    "updateDate": "2026-08-05T23:43:56.000Z",
+    "reviewQuote": "The whole ragged enterprise is still reliant on the evident affection and chemistry between its players to hold it together. None of that really amounts to a persuasive reason to exist on the big screen, however.",
+    "language": "English",
+    "critic": {
+      "displayName": "Guy Lodge",
+      "initials": "GL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/guy-lodge",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "guy-lodge",
+      "encryptedCriticId": "RrYNoklO",
+      "displayImageUrl": "https://resizing.flixster.com/Oko1l5zJ2-Y0Tl9dpuaGYRzi6TI=/128x128/v1.YzszOTIwO3A7MjA3MDA7MjA0ODszNDM7MzQz",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Variety",
+      "editorialUrl": "http://variety.com/v/film/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/cMg4FAB7XrqmpueG7MpVj83MU8w=/256x256/v1.YzsxMDAwMDAzODI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "YxyebgZe",
+      "publicationId": "466"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148987",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "2.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://movieweb.com/super-troopers-3-review/",
+    "createDate": "2026-08-05T23:03:38.000Z",
+    "updateDate": "2026-08-05T23:03:38.000Z",
+    "reviewQuote": "Broken Lizard returns to Vermont Highway Patrol slapstick glory 25 years after their first &quot;meow&quot; gag graced the silver screen&#46; Super Troopers 3 continues the lewd law enforcement shenanigans without missing a beat&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Julian Roman",
+      "initials": "JR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/julian-roman",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "julian-roman",
+      "encryptedCriticId": "Yrj8Obyx",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "MovieWeb",
+      "editorialUrl": "http://www.movieweb.com/movieguru",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "p5rPxOre",
+      "publicationId": "1421"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148973",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://reviewnation.net/review-super-troopers-3-the-boys-are-back-ready-to-offend-and-defend/",
+    "createDate": "2026-08-05T21:40:41.000Z",
+    "updateDate": "2026-08-05T21:40:41.000Z",
+    "reviewQuote": "Meow here this&#44; Super troopers 3 delivers an awkward snort and belly laugh for those who need it&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Derek Sante",
+      "initials": "DS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/derek-sante",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "derek-sante",
+      "encryptedCriticId": "6lKa1XZp",
+      "displayImageUrl": "https://resizing.flixster.com/ZCNxPcElLco98XlSURHTqbCI8PY=/128x128/v1.YzszNzAwO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Review Nation",
+      "editorialUrl": "Reviewnation.net",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "vZGemKl7",
+      "publicationId": "3761"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148970",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.upi.com/Entertainment_News/Movies/2026/08/05/Super-Troopers-3-movie-review/8621785870837/",
+    "createDate": "2026-08-05T21:26:18.000Z",
+    "updateDate": "2026-08-05T21:26:18.000Z",
+    "reviewQuote": "By the third Super Troopers&#44; and ninth film from Broken Lizard&#44; you know if you enjoy their style&#46; They have remained consistent with their franchise and delivered another reliable comedy&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Fred Topel",
+      "initials": "FT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/fred-topel",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "fred-topel",
+      "encryptedCriticId": "W4y3O2yn",
+      "displayImageUrl": "https://resizing.flixster.com/zfjasQJxVxEL9pyvJHfO2hmhHXw=/128x128/v1.YzsyNDk0O2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "United Press International",
+      "editorialUrl": "http://www.upi.com/Entertainment_News/Movies/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "el77jalq",
+      "publicationId": "2795"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148945",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C-",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.indiewire.com/criticism/movies/super-troopers-3-review-1235208571/",
+    "createDate": "2026-08-05T20:25:17.000Z",
+    "updateDate": "2026-08-05T20:25:17.000Z",
+    "reviewQuote": "If you’re on the fence about “Super Troopers 3,” your memories of the original are almost certainly better than what you can see at the theater this weekend.",
+    "language": "English",
+    "critic": {
+      "displayName": "Christian Zilko",
+      "initials": "CZ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/christian-zilko",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "christian-zilko",
+      "encryptedCriticId": "RyRQ1gld",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "IndieWire",
+      "editorialUrl": "http://www.indiewire.com/t/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/OJCGA3R7DYPGq5Z7vLgQrcMSPVY=/256x256/v1.YzsxMDAwMDAzNjc5O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "Q5yMXplg",
+      "publicationId": "226"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148941",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.thewrap.com/creative-content/movies/super-troopers-3-review-broken-lizard/",
+    "createDate": "2026-08-05T20:24:06.000Z",
+    "updateDate": "2026-08-05T20:24:06.000Z",
+    "reviewQuote": "If all you want is to see these lovable goofballs again you&apos;d be better served watching the first two &apos;Super Troopers&apos; movies and reliving their good old days&#46; Those films are still mostly funny and the new days aren&#8217;t so good&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "William Bibbiani",
+      "initials": "WB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/william-bibbiani",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "william-bibbiani",
+      "encryptedCriticId": "OrVnRPrk",
+      "displayImageUrl": "https://resizing.flixster.com/V26KZodvYQgTRFjz6Pz6GxcMqf4=/128x128/v1.YzsyNzQ5O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "TheWrap",
+      "editorialUrl": "http://www.thewrap.com/tag/movie_reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/oIEyuPqk711nt7MzMwmDagOBMFg=/200x200/v1.YzsxMDAwMDAzODA4O3A7MjA3MDk7MjA0ODsyMDA7MjAw",
+      "encryptedPublicationId": "4yzjWeyP",
+      "publicationId": "2205"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148939",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/super-troopers-3-review-broken-lizard-1236661446/",
+    "createDate": "2026-08-05T20:23:42.000Z",
+    "updateDate": "2026-08-05T20:23:42.000Z",
+    "reviewQuote": "You’ll be exhausted from not laughing.",
+    "language": "English",
+    "critic": {
+      "displayName": "Frank Scheck",
+      "initials": "FS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/frank-scheck",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "frank-scheck",
+      "encryptedCriticId": "Yyxj7nr1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Hollywood Reporter",
+      "editorialUrl": "http://www.hollywoodreporter.com/hr/film/reviews/index.jsp",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PnE_AJzukoI8np6MHm5j9vpNtOM=/256x256/v1.YzsxMDAwMDAzNjcwO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "6arXpQrO",
+      "publicationId": "213"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148935",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "5.5/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://edwarddouglas.substack.com/p/the-weekend-warrior-print-edition-ed1",
+    "createDate": "2026-08-05T20:20:45.000Z",
+    "updateDate": "2026-08-05T20:20:45.000Z",
+    "reviewQuote": "The main storyline just doesn&#8217;t offer anything too groundbreaking&#44; so this threequel loses much of what appealed about the original film&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Edward Douglas",
+      "initials": "ED",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/edward-douglas",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "edward-douglas",
+      "encryptedCriticId": "el71kjZq",
+      "displayImageUrl": "https://resizing.flixster.com/HipXaVo-3f_Hch_mXTqlbC7Lv2g=/38x42/v1.YzsyMzIzO2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Weekend Warrior (Substack)",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "RrYJqxlO",
+      "publicationId": "2716"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  }
+]

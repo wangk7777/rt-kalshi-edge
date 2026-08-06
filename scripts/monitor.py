@@ -16,6 +16,15 @@
 同一(电影,门槛)通知一次后，只有 edge 显著变好才再次提醒。
 Ctrl+C 停止。
 
+流程：
+    1. 在kalshi/polymarket看到开了新盘-->在config的watchlist中填写对应信息
+    2. 每日跑这个脚本，当有新电影解禁的时候就出现在
+    3. 然后对于新解禁的电影，去rt官网跑rt_review_import_report.py里面写的java script脚本下载当前review raw数据
+    4. 然后把下载的raw数据放到data/new_rt_review_data/raw/下面，运行rt_review_import_report.py脚本
+    5. 阅读report并分析合理的n_final，修改config的watchlist里面的n_final字段
+    6. 然后回来运行此脚本开始捕捉edge机会
+
+
 用法：py -m scripts.monitor
 """
 
@@ -24,16 +33,22 @@ import sys
 from datetime import datetime, timezone
 
 from src import config
-from src.collectors import kalshi_client as kc
 from src.collectors.rt_summary import fetch_summary_safe
 from src.model.bayesian import ModelInputs, run_model
 
+# ============ 平台开关 ============
+# "kalshi"     - 只盯 Kalshi（在美国时）
+# "polymarket" - 只盯 Polymarket（回国后）
+# "both"       - 两个都盯，分别打印
+PLATFORM_MODE = "kalshi"
+# ==================================
+
 # ============ 盯盘专属参数（不进 config，只影响盯盘行为）============
-CONTRACTS = 100                # 检查深度是否够买这么多张
+CONTRACTS = 10                 # 检查深度是否够买这么多张
 DIRECTION = "both"             # both / yes_only / no_only
-EDGE_IMPROVE_THRESHOLD = 3.0   # edge 比上次提醒时高出这么多¢，才再次提醒（防小波动轰炸）
+EDGE_IMPROVE_THRESHOLD = 1.0   # edge 比上次提醒时高出这么多¢，才再次提醒（防小波动轰炸）
 INTERVAL_MINUTES = 15          # 循环间隔（分钟）
-DEBUG = True                  # True 打印每个门槛的 prob/edge（诊断为什么没机会）
+COMPACT_MODE = False           # False=默认，打印每个门槛的细节；True=精简，只打印有机会的门槛
 # 策略参数（DRIFT/PRIOR/N_MIN/WIN_PROB/EDGE/SPREAD/N_FINAL/N_SIMS）
 # 全部来自 config.STRATEGY_DEFAULTS，并支持单片覆盖，见 check_movie。
 # ==================================================================
@@ -62,14 +77,28 @@ def should_watch(settle_date, embargo_date, today):
     return True
 
 
+def get_settle_date_for_mode(m_cfg):
+    """按当前 PLATFORM_MODE 取对应平台的结算日（都开盘取较晚的）。"""
+    dates = []
+    if PLATFORM_MODE in ("kalshi", "both") and m_cfg.get("kalshi_settle_date"):
+        dates.append(str(m_cfg["kalshi_settle_date"]))
+    if PLATFORM_MODE in ("polymarket", "both") and m_cfg.get("polymarket_settle_date"):
+        dates.append(str(m_cfg["polymarket_settle_date"]))
+    return max(dates) if dates else ""
+
+
 def get_watching_movies():
-    """从 watchlist 筛出当前该盯的片。"""
+    """从 watchlist 筛出当前该盯的片。
+    只算：在当前 PLATFORM_MODE 平台上开盘 且 在盯盘时间窗内的片。"""
     today = datetime.now(timezone.utc)
     watching = []
     for k, m in config.WATCHLIST.items():
-        settle = m.get("kalshi_settle_date", "")
+        # 先按平台过滤：这片在当前模式的平台上开盘吗（没开盘不算进盯盘数）
+        if not get_active_platforms(m):
+            continue
+        settle = get_settle_date_for_mode(m)
         lift = m.get("lift_date") or m.get("embargo_date")
-        if should_watch(settle, lift, today):
+        if settle and should_watch(settle, lift, today):
             watching.append(k)
     return watching
 
@@ -96,10 +125,11 @@ def evaluate_rung(prob_yes, yes_ask, no_ask, params):
     return None
 
 
-def fill_yes(yes_asks, qty):
-    """买YES qty张，从best(最低)ask逐档吃。
-    自我防护：过滤非正size，并强制按价格升序（ask越低越好）。深度不足返回None。"""
-    levels = [[float(p), float(s)] for p, s in yes_asks if float(s) > 0]
+def fill_asks(asks, qty):
+    """从 asks（买入方向的卖单）逐档吃 qty 张，返回加权均价（美分）。
+    自我防护：过滤非正size，强制按价格升序（越低越好）。深度不足返回None。
+    买YES 传 yes_asks，买NO 传 no_asks——两个平台统一。"""
+    levels = [[float(p), float(s)] for p, s in asks if float(s) > 0]
     levels.sort(key=lambda x: x[0])
     need, cost = qty, 0.0
     for price, size in levels:
@@ -109,21 +139,6 @@ def fill_yes(yes_asks, qty):
         if need <= 0:
             break
     return (cost / qty) if need <= 0 else None
-
-
-def fill_no(yes_bids, qty):
-    """买NO qty张=卖YES，从best(最高)bid逐档吃。
-    自我防护：过滤非正size，并强制按价格降序（bid越高，卖YES越划算）。深度不足返回None。"""
-    levels = [[float(p), float(s)] for p, s in yes_bids if float(s) > 0]
-    levels.sort(key=lambda x: -x[0])
-    need, proceeds = qty, 0.0
-    for price, size in levels:
-        take = min(need, size)
-        proceeds += take * price
-        need -= take
-        if need <= 0:
-            break
-    return (100 - proceeds / qty) if need <= 0 else None
 
 
 def is_valid_rt_data(score, n) -> bool:
@@ -161,19 +176,31 @@ def model_result(score, n, base_rate, params):
     return res
 
 
+def get_active_platforms(m_cfg):
+    """两层过滤：config填的字段（该片在哪些平台开盘）∩ PLATFORM_MODE 开关。"""
+    available = config.get_platforms(m_cfg)   # 该片开盘的平台
+    if PLATFORM_MODE == "both":
+        return available
+    return [p for p in available if p.name == PLATFORM_MODE]
+
+
 def check_movie(movie_key, notified):
-    """检查一部片的所有门槛，打印符合条件的机会。
-    notified: dict {(movie,floor): 上次提醒时的edge}。"""
+    """检查一部片：RT数据+模型算一次，遍历激活的平台分别检查打印。
+    notified: dict {(platform, movie, floor): 上次提醒时的edge}。"""
     m_cfg = config.WATCHLIST.get(movie_key, {})
     base_rate = m_cfg.get("base_rate")
     if base_rate is None:
         return
     base_rate = float(base_rate)
 
-    # ★ 取该片的策略参数（支持单片覆盖）★
+    # 两层过滤：该片开盘的平台 ∩ 开关
+    platforms = get_active_platforms(m_cfg)
+    if not platforms:
+        return   # 这片在想盯的平台上没开盘，跳过
+
     params = config.get_strategy_params(movie_key)
 
-    # 1. RT 实时分数和评论数
+    # 1. RT 实时分数和评论数（平台无关，只拿一次）
     summary = fetch_summary_safe(movie_key)
     if summary is None:
         return
@@ -185,99 +212,86 @@ def check_movie(movie_key, notified):
         return
     score, n = float(score), int(n)
     print(f"  {name}: 分数={score:.0f} n={n}", end="")
-
     if n < params["N_MIN"]:
         print(f"  (n<{params['N_MIN']}, 跳过)")
         return
     print()
 
-    # 2. Kalshi 门槛列表（best价，初筛）
-    event = m_cfg.get("kalshi_event")
-    if not event:
-        print(f"    ⚠ 无 kalshi_event，跳过")
-        return
-    try:
-        rungs = kc.get_ladder_live(event)
-    except Exception as e:
-        print(f"    ⚠ 拿门槛失败: {e}")
-        return
-
+    # 2. 模型算一次（平台无关）
     res = model_result(score, n, base_rate, params)
+
+    # 3. 遍历激活的平台，分别检查
+    for platform in platforms:
+        _check_platform(platform, movie_key, m_cfg, name, res, score, n,
+                        params, notified)
+
+
+def _check_platform(platform, movie_key, m_cfg, name, res, score, n, params, notified):
+    """检查单个平台的所有门槛。"""
+    try:
+        rungs = platform.get_rungs(m_cfg)
+    except Exception as e:
+        print(f"    ⚠ [{platform.name}] 拿门槛失败: {e}")
+        return
+    if not rungs:
+        return
 
     for r in rungs:
         floor = r.t
         yes_ask = r.yes_price
         no_ask = r.no_price
+        # 用平台规则算 YES 概率（Kalshi floor+1，Polymarket floor）
+        prob_yes = platform.yes_prob(res, floor)
+        prob_no = 1 - prob_yes
         yes_bid = 100 - no_ask
         spread = yes_ask - yes_bid
-
-        prob_yes = res.prob_at_least(floor + 1)
-        prob_no = 1 - prob_yes
+        edge_yes = prob_yes * 100 - yes_ask
+        edge_no = prob_no * 100 - no_ask
 
         candidate = evaluate_rung(prob_yes, yes_ask, no_ask, params)
 
+        # 细节行（默认打印每个门槛）
+        detail = (f"    [{platform.name}] 门槛{floor:.0f}: "
+                  f"P_yes={prob_yes:.2f} yes_ask={yes_ask:.0f} edge_yes={edge_yes:+.1f} | "
+                  f"P_no={prob_no:.2f} no_ask={no_ask:.0f} edge_no={edge_no:+.1f} "
+                  f"价差{spread:.0f}")
+
         if candidate is None:
-            if DEBUG:
-                edge_yes = prob_yes * 100 - yes_ask
-                edge_no = prob_no * 100 - no_ask
-                # DEBUG时额外拿深度，看best ask挂了多少张
-                ya_size, na_size = "?", "?"
-                ticker = r.ticker or f"{event}-{int(floor)}"
-                try:
-                    ob = kc.fetch_market_orderbook(ticker)
-                    # yes_ask@X 的挂单 = no_bid@(100-X) 的size
-                    ya_size = sum(s for p, s in ob["no_bids"] if p == 100 - yes_ask)
-                    # no_ask@Y 的挂单 = yes_bid@(100-Y) 的size
-                    na_size = sum(s for p, s in ob["yes_bids"] if p == 100 - no_ask)
-                except Exception:
-                    pass   # 拿不到深度就显示?，不影响DEBUG
-                print(f"    门槛{floor:.0f}: "
-                      f"P_yes={prob_yes:.2f} yes_ask={yes_ask:.0f}(挂{ya_size}张) "
-                      f"edge_yes={edge_yes:+.1f} | "
-                      f"P_no={prob_no:.2f} no_ask={no_ask:.0f}(挂{na_size}张) "
-                      f"edge_no={edge_no:+.1f} 价差{spread:.0f}")
+            # 无机会：默认模式打印细节行；精简模式跳过
+            if not COMPACT_MODE:
+                print(detail)
             continue
 
+        # 有机会：去重判断
         direction, edge, win_prob, best_cost = candidate
-
-        # 去重：首次提醒，或 edge 比上次提醒时显著变好，才提醒
-        key = (movie_key, floor)
+        key = (platform.name, movie_key, floor)
         last_edge = notified.get(key)
-        if last_edge is not None and edge < last_edge + EDGE_IMPROVE_THRESHOLD:
+        is_new = last_edge is None or edge >= last_edge + EDGE_IMPROVE_THRESHOLD
+
+        if not is_new:
+            # 已提醒过且edge没显著变好：当普通门槛处理（默认打印细节行，不重复标★轰炸）
+            if not COMPACT_MODE:
+                print(detail)
             continue
 
-        # 3. 拿逐档深度，算真实成本 + 深度检查
-        ticker = r.ticker or f"{event}-{int(floor)}"
+        # 新机会：拿深度算真实成本
         depth_note = ""
-        real_cost = best_cost
         try:
-            ob = kc.fetch_market_orderbook(ticker)
-            if direction == "YES":
-                # Kalshi 只返回 bids；买YES的深度从 no_bids 换算：yes_ask@X = no_bid@(100-X)
-                asks = [[100 - p, s] for p, s in ob["no_bids"]]
-                filled = fill_yes(asks, CONTRACTS)
-            else:
-                filled = fill_no(ob["yes_bids"], CONTRACTS)
-
+            depth = platform.fetch_depth(r, m_cfg)
+            asks = depth["yes_asks"] if direction == "YES" else depth["no_asks"]
+            filled = fill_asks(asks, CONTRACTS)
             if filled is None:
-                depth_note = f"⚠深度不足{CONTRACTS}张"
+                depth_note = f"深度不足{CONTRACTS}张"
             else:
-                real_cost = filled
-                slip = real_cost - best_cost
-                depth_note = f"真实成交{real_cost:.1f}¢(滑点{slip:+.1f}¢)"
+                slip = filled - best_cost
+                depth_note = f"买{CONTRACTS}张均价{filled:.1f}¢(滑点{slip:+.1f}¢)"
         except Exception as e:
-            depth_note = f"⚠深度查询失败: {e}"
+            depth_note = f"深度查询失败: {e}"
 
-        # 4. 打印机会
-        print("    " + "★" * 20)
-        print(f"    🎯 机会: {name}")
-        print(f"       门槛 {direction} above {floor:.0f}")
-        print(f"       模型胜率 {win_prob:.0%}  edge {edge:.0f}¢")
-        print(f"       best买价 {best_cost:.0f}¢  {depth_note}")
-        print(f"       当前分={score:.0f} n={n}  价差{spread:.0f}¢")
-        print(f"       ticker: {ticker}")
-        print("    " + "★" * 20)
-        notified[(movie_key, floor)] = edge   # 记录本次提醒的edge，供下次比较
+        # 细节行 + 行尾★标记（精简模式也打印有机会的行）
+        rule_hint = f"≥{int(floor)+1}" if platform.name == "kalshi" else f"≥{int(floor)}"
+        print(f"{detail}  ★ 机会:{direction}({rule_hint})")
+        notified[key] = edge
 
 
 def main():
@@ -288,7 +302,7 @@ def main():
           f"edge{d['EDGE_MIN']}-{d['EDGE_MAX']} 买价<{d['PRICE_MAX']}¢ "
           f"价差≤{d['SPREAD_MAX']} n_final={d['N_FINAL']} drift={d['DRIFT']} {DIRECTION}")
     print(f"（单片可在 WATCHLIST 覆盖 n_final 等参数）")
-    print(f"间隔: {INTERVAL_MINUTES}分钟  |  DEBUG={DEBUG}  |  Ctrl+C 停止")
+    print(f"间隔: {INTERVAL_MINUTES}分钟  |  平台: {PLATFORM_MODE}  |  精简模式={COMPACT_MODE}  |  Ctrl+C 停止")
     print("=" * 60)
 
     notified = {}   # {(movie,floor): 上次提醒时的edge}

@@ -32,8 +32,8 @@ async function getAllReviews(uuid, movieKey) {
   a.download = `${movieKey}_raw.json`;
   a.click();
 }
-//只需在这里输入电影的 uuid 和 movieKey（movieKey 见 config.WATCHLIST）
-getAllReviews("c4ca0abc-c87a-4b6a-8a3e-69d1c8faa0d1", "tony");
+//只需在这里输入电影的 uuid 和 movieKey（movieKey 见 config.WATCHLIST的id）
+getAllReviews("65e185e4-e760-39d5-a518-19df8cc56275", "ice_cream_man");
 
 
 目录结构（都在 data/new_rt_review_data/ 下）：

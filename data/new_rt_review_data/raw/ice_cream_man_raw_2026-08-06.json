@@ -1,0 +1,2141 @@
+[
+  {
+    "reviewId": "103149119",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "4/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://sunshinestatecineplex.com/2026/08/03/review-ice-cream-man-eli-roth/",
+    "createDate": "2026-08-06T16:17:31.000Z",
+    "updateDate": "2026-08-06T16:17:31.000Z",
+    "reviewQuote": "It&#8217;s among Roth&#8217;s worst movies&#44; mostly because it feels bland and fails to deliver on the expectations built up by Roth&#8217;s filmography&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Joshua Ryan",
+      "initials": "JR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/joshua-ryan",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "joshua-ryan",
+      "encryptedCriticId": "rmRzn2Ll",
+      "displayImageUrl": "https://resizing.flixster.com/NImZNA2LPSL94EMQQkubdgqKXu4=/128x128/v1.YzsxMDAwMDAzMjYxO3A7MjA3MDk7MjA0ODsxMDAwOzEwMDA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Sunshine State Cineplex",
+      "editorialUrl": "https://sunshinestatecineplex.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "QrqO19yn",
+      "publicationId": "3172"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149104",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://keithandthemovies.com/2026/08/06/review-ice-cream-man-2026/",
+    "createDate": "2026-08-06T14:47:24.000Z",
+    "updateDate": "2026-08-06T14:47:24.000Z",
+    "reviewQuote": "&quot;Ice Cream Man&quot; succeeds in being the gratuitously gory and absurdly funny horror-comedy concoction that Eli Roth envisioned&#46; It has all the ingredients to entertain those who know what they&#8217;re getting into and repulse those who don&#8217;t&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Keith Garlington",
+      "initials": "KG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/keith-garlington",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "keith-garlington",
+      "encryptedCriticId": "Qrqj0kln",
+      "displayImageUrl": "https://resizing.flixster.com/lrsw4xFmLWa1___W1i93RXuWUhs=/128x128/v1.Yzs0MDA4O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Keith & the Movies",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "ZpAYkRDr",
+      "publicationId": "100009656"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149102",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://richardcrouse.ca/ice-cream-man-1-star-as-much-fun-as-an-ice-cream-scoop-with-no-sprinkles/",
+    "createDate": "2026-08-06T14:25:36.000Z",
+    "updateDate": "2026-08-06T14:25:36.000Z",
+    "reviewQuote": "No amount of spurting blood or intestinal tug &#8216;o war can make up for Ice Cream Man&#8217;s one-dimensional storytelling&#44; dull characters and uninspired villain&#46; It&#8217;s as much fun as an ice cream scoop with no sprinkles&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Richard Crouse",
+      "initials": "RC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/richard-crouse",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "richard-crouse",
+      "encryptedCriticId": "5rP5oGle",
+      "displayImageUrl": "https://resizing.flixster.com/QbleXVdsQavhonkj1Vg0bD_yphI=/128x128/v1.YzszODgxO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Richard Crouse",
+      "editorialUrl": "http://www.richardcrouse.ca/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "ErmKkwyb",
+      "publicationId": "3900"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149096",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "http://www.markreviewsmovies.com/reviews/I/icecreamman.htm",
+    "createDate": "2026-08-06T14:00:34.000Z",
+    "updateDate": "2026-08-06T14:00:34.000Z",
+    "reviewQuote": "The movie &#46;&#46;&#46; is too limited in its aims and&#44; beyond the squirmy effectiveness of its mostly practical effects&#44; its execution to succeed&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Mark Dujsik",
+      "initials": "MD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mark-dujsik",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "mark-dujsik",
+      "encryptedCriticId": "alooK5lw",
+      "displayImageUrl": "https://resizing.flixster.com/Z5FBlROuUpMqyhqlClDAoyvoudc=/128x128/v1.YzsxMDAwMDAzOTY2O2o7MjA3MDk7MjA0ODsyMjAwOzIyMDA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Mark Reviews Movies",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "AoZvJ4Zw",
+      "publicationId": "958"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149089",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://maitlandonmovies.substack.com/p/ice-cream-man",
+    "createDate": "2026-08-06T13:06:52.000Z",
+    "updateDate": "2026-08-06T14:26:33.000Z",
+    "reviewQuote": "Roth promised to surpass the excesses of &apos;Hostel&apos; and &apos;The Green Inferno&#44;&apos; and in sheer volume of blood and outrageous kills&#44; he arguably succeeds&#46; Yet he also substitutes over-the-top escalation for psychological dread or emotional investment&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Maitland McDonagh",
+      "initials": "MM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/maitland-mcdonagh",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "maitland-mcdonagh",
+      "encryptedCriticId": "aYyxpOy1",
+      "displayImageUrl": "https://resizing.flixster.com/6eATGYdpMK8SY6G-ebz-CYh_xd8=/128x128/v1.YzsxMDAwMDAzMjkzO3A7MjA3MDk7MjA0ODszMDY7Mjcy",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "MaitlandOnMovies (Substack)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y1JXxm6Z",
+      "publicationId": "100010150"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149070",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "0.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.theaureview.com/watch/film-review-ice-cream/",
+    "createDate": "2026-08-06T07:42:08.000Z",
+    "updateDate": "2026-08-06T07:42:08.000Z",
+    "reviewQuote": "A film so obsessed with topping its last kill that it forgets to give audiences a reason to care about anything else&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Peter Gray",
+      "initials": "PG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/peter-gray",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "peter-gray",
+      "encryptedCriticId": "oraq85rg",
+      "displayImageUrl": "https://resizing.flixster.com/7x3aCaX3AOlxRtDCwpqWiur1oDA=/128x128/v1.YzsxMDAwMDAzODk5O2o7MjA3MDk7MjA0ODsxMTE4OzExMjA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The AU Review",
+      "editorialUrl": "http://launch.theaureview.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Ermownyb",
+      "publicationId": "3188"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149061",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "6.5/20",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.filmink.com.au/reviews/ice-cream-man/",
+    "createDate": "2026-08-06T06:34:34.000Z",
+    "updateDate": "2026-08-06T06:34:34.000Z",
+    "reviewQuote": "… a genuinely contemptuous film. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Anthony O'Connor",
+      "initials": "AC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/anthony-oconnor",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "anthony-oconnor",
+      "encryptedCriticId": "YyxQaRZ1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "FILMINK (Australia)",
+      "editorialUrl": "http://www.filmink.com.au/home/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "AoZvwnrw",
+      "publicationId": "1014"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149056",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://tinyurl.com/rmvtx5wz",
+    "createDate": "2026-08-06T04:45:41.000Z",
+    "updateDate": "2026-08-06T04:45:41.000Z",
+    "reviewQuote": "There&#8217;s no other way to put it&#58; in the realm of old-school B-grade drive-in era schlock-horror splatterfests&#44; Ice Cream Man clocks in as a singularly demented&#44; marvellously unhinged mini-masterpiece&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Jim Schembri",
+      "initials": "JS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jim-schembri",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "jim-schembri",
+      "encryptedCriticId": "OrVkwplk",
+      "displayImageUrl": "https://resizing.flixster.com/i9nBacnNr1Oju-Jctlwc-6mz7CE=/128x128/v1.YzsxMDAwMDAyNzUwO2o7MjA3MDk7MjA0ODs0NzU7NDc1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "jimschembri.com",
+      "editorialUrl": "jimschembri.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "7ZWe58lm",
+      "publicationId": "2937"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149050",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.cinefied.com/post/ice-cream-man-review",
+    "createDate": "2026-08-06T03:38:33.000Z",
+    "updateDate": "2026-08-06T10:44:28.000Z",
+    "reviewQuote": "If someone is already not a fan of gore&#44; ridiculous plots&#44; or Eli Roth himself&#44; Ice Cream Man&#160;is not a recommended selection&#46; Even though it spurts out a few laughs&#44; Ice Cream Man&#160;entertains too little and melts too quickly&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "John Odette",
+      "initials": "JO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/john-odette",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "john-odette",
+      "encryptedCriticId": "rwo03znr",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Pop Culture Leftovers",
+      "editorialUrl": "http://www.popcultureleftovers.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "BZ5DM8y9",
+      "publicationId": "3487"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148992",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.mercurynews.com/2026/08/05/what-to-watch-shards-is-a-terrifically-tawdry-thriller/?share=t0rasfarioyymw2heumh",
+    "createDate": "2026-08-05T23:21:15.000Z",
+    "updateDate": "2026-08-05T23:21:15.000Z",
+    "reviewQuote": "Regardless, it is well-made horror that never lags in its steamroll of committed carnage and comes with clever touches with these adults getting their just desserts.",
+    "language": "English",
+    "critic": {
+      "displayName": "Randy Myers",
+      "initials": "RM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/randy-myers",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "randy-myers",
+      "encryptedCriticId": "8y89x1Z2",
+      "displayImageUrl": "https://resizing.flixster.com/lw46BZbn_WnAB560c4CDKcL5YVA=/38x42/v1.YzsyMzAyO2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "San Jose Mercury News",
+      "editorialUrl": "http://www.mercurynews.com/movies",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/vZCh5_ihclDr9Z9_E-62duvtjRY=/225x225/v1.YzsxMDAwMDAzNzYyO2o7MjA3MDk7MjA0ODsyMjU7MjI1",
+      "encryptedPublicationId": "ERyRQvld",
+      "publicationId": "601"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148981",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "D-",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://nerdspin.com/ice-cream-man-no-flavor-eli-roths-weakest-outing/",
+    "createDate": "2026-08-05T22:11:18.000Z",
+    "updateDate": "2026-08-05T22:11:18.000Z",
+    "reviewQuote": "While the inventive kills may appeal to viewers looking for unrelenting brutality&#44; the repetitive story&#44; weak characterization&#44; poor dialogue and underwhelming performances leave the film feeling like an empty exercise in shock value&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Rebecca Johnson",
+      "initials": "RJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rebecca-johnson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rebecca-johnson",
+      "encryptedCriticId": "rwo0RPqr",
+      "displayImageUrl": "https://resizing.flixster.com/7p4n0KLrKA20qeex8gU7Mv0zm38=/128x128/v1.YzsxMDAwMDAzMTA5O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Nerdspin",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/GGJH3hYN8ciBzRz5_MAXy3wFSCs=/256x256/v1.YzsxMDAwMDAzOTE2O3A7MjA3MDk7MjA0ODs2NjY7NjE1",
+      "encryptedPublicationId": "ZkNoKDEy",
+      "publicationId": "100009885"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148954",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "D-",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://theplaylist.net/ice-cream-man-review-eli-roth-20260805/",
+    "createDate": "2026-08-05T20:38:36.000Z",
+    "updateDate": "2026-08-05T20:38:36.000Z",
+    "reviewQuote": "Roth has intermittently proven that he knows how to make horror, but in this 86-minute misfire, it’s unclear what he is trying to accomplish. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Brian Farvour",
+      "initials": "BF",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brian-farvour",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "brian-farvour",
+      "encryptedCriticId": "jlOpK3y0",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Playlist",
+      "editorialUrl": "http://theplaylist.net/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/MZ_fZKZ5inGW4tQO3YyG5DjpcbA=/256x256/v1.YzsxMDAwMDAzODA1O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "Ermo1Vyb",
+      "publicationId": "2100"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148929",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://exclaim.ca/film/article/ice-cream-man-film-review",
+    "createDate": "2026-08-05T19:55:30.000Z",
+    "updateDate": "2026-08-05T19:55:30.000Z",
+    "reviewQuote": "&apos;Ice Cream Man&apos; feels like an algorithm&apos;s understanding of contemporary horror&#58; a little nostalgia&#44; a little religious trauma&#44; some internet anxiety&#44; some gore&#44; and the hope that the audience mistakes the pile of references for a coherent point of view&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Billie Anderson",
+      "initials": "BA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/billie-anderson",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "billie-anderson",
+      "encryptedCriticId": "ZpAaWazr",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Exclaim!",
+      "editorialUrl": "https://exclaim.ca/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "NBZ5YXZ9",
+      "publicationId": "887"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148918",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "0/4.0",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://reeltalkwithchuckandpam.com/ice-cream-man-chuck-skip-it/",
+    "createDate": "2026-08-05T19:09:01.000Z",
+    "updateDate": "2026-08-05T19:09:01.000Z",
+    "reviewQuote": "&quot;Man&quot; is a vile piece of work&#44; catering to the most immature and callous among us&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Charles Koplinski",
+      "initials": "CK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/charles-koplinski",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "charles-koplinski",
+      "encryptedCriticId": "RyRX5wrd",
+      "displayImageUrl": "https://resizing.flixster.com/18C4SVYjfAo66HeWeHiVKCk9i8s=/128x128/v1.YzszODI1O2o7MjA3MDA7MjA0ODsxODA7MTgw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Reel Talk with Chuck and Pam",
+      "editorialUrl": "http://reeltalkwithchuckandpam.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "XrA4RaZw",
+      "publicationId": "3848"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148901",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "F",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://insessionfilm.com/movie-review-ice-cream-man/",
+    "createDate": "2026-08-05T18:25:37.000Z",
+    "updateDate": "2026-08-05T18:25:37.000Z",
+    "reviewQuote": "&#91;Ice Cream Man&#93; is a cheaply made&#44; dull&#44; and inept slasher that wants to provoke but has no thought of its own&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Maxance Vincent",
+      "initials": "MV",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/maxance-vincent",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "maxance-vincent",
+      "encryptedCriticId": "vZp83JZV",
+      "displayImageUrl": "https://resizing.flixster.com/_TOBoRFN9oWf98GfwcNV2QhOljw=/128x128/v1.YzsxMDAwMDAzMzM5O3A7MjA3MDk7MjA0ODs1MDA7NTAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "InSession Film",
+      "editorialUrl": "http://insessionfilm.com/movie-reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "7ZWeRWlm",
+      "publicationId": "3137"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148896",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "4/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://inbetweendrafts.com/ice-cream-man-film-review-eli-roth/",
+    "createDate": "2026-08-05T18:21:32.000Z",
+    "updateDate": "2026-08-06T14:26:37.000Z",
+    "reviewQuote": "It won&#8217;t surprise you to learn that Ice Cream Man is a tasteless affair&#46; Roth&#8217;s script features kids talking with enough crude sass and insensitivity to make the youngsters of Sleepaway Camp jealous&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Jon Winkler",
+      "initials": "JW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jon-winkler",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "jon-winkler",
+      "encryptedCriticId": "Glg8bvyp",
+      "displayImageUrl": "https://resizing.flixster.com/opII9ieLKqWoh7T6lzq6jiy90nc=/128x128/v1.YzsyNTc3O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "InBetweenDrafts",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "lbYwW01r",
+      "publicationId": "100009720"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148859",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "C+",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://femaleantagonist.com/eli-roths-ice-cream-man-is-exactly-what-youd-expect-complimentary/",
+    "createDate": "2026-08-05T16:51:16.000Z",
+    "updateDate": "2026-08-05T16:51:16.000Z",
+    "reviewQuote": "The film is a blood-splattered extravaganza of practical effects and cheeky kills with a bare-bones plot that gets the job done&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Jenn Adams",
+      "initials": "JA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jenn-adams",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "jenn-adams",
+      "encryptedCriticId": "xye1Ooye",
+      "displayImageUrl": "https://resizing.flixster.com/MyaYaiOkBBSqMZYSuskgiiEIwJY=/128x128/v1.YzsxMDAwMDAyNzc5O3A7MjA3MDk7MjA0ODszMDE7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Strong Female Antagonist",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "ld6Aa1AZ",
+      "publicationId": "100009698"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148764",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://paulstriptothemovies.com/movie-review-ice-cream-man/",
+    "createDate": "2026-08-05T14:46:05.000Z",
+    "updateDate": "2026-08-05T14:46:06.000Z",
+    "reviewQuote": "There&#8217;s no real suspense or tension that&#8217;s built in for the sake of jump scares&#44; and I would expect a finer eye for that coming from Eli Roth&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Paul McGuire Grimes",
+      "initials": "PG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/paul-mcguire-grimes",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "paul-mcguire-grimes",
+      "encryptedCriticId": "4rwv6qZA",
+      "displayImageUrl": "https://resizing.flixster.com/WO7NCNz73AUfcV42OOkBZ0p-6GA=/128x128/v1.YzszNTQ1O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Paul's Trip to the Movies",
+      "editorialUrl": "https://paulstriptothemovies.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "dynJD4yQ",
+      "publicationId": "3629"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148753",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.youtube.com/watch?v=xIxlWCW9T7o",
+    "createDate": "2026-08-05T13:56:54.000Z",
+    "updateDate": "2026-08-05T13:56:54.000Z",
+    "reviewQuote": "It&apos;s unclear what Eli Roth is trying to serve with Ice Cream Man&#44; an arguably tasteless horror film which squanders both comedic and creepy opportunities with schlocky&#44; cheap tendencies&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Nicholas Bell",
+      "initials": "NB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nicholas-bell",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "nicholas-bell",
+      "encryptedCriticId": "8y81vvZ2",
+      "displayImageUrl": "https://resizing.flixster.com/GAPYMpTay6hjvVgSOit8YIUuwsw=/128x128/v1.YzszMDExO2o7MjA3MDA7MjA0ODs4NzI7ODcy",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Fish Jelly Films (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y9RP4MQZ",
+      "publicationId": "100009834"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148730",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtu.be/xIxlWCW9T7o",
+    "createDate": "2026-08-05T12:53:26.000Z",
+    "updateDate": "2026-08-05T12:55:05.000Z",
+    "reviewQuote": "The comically over-the-top violence is tailor-made for the Midnight Madness crowd&#44; but Ice Cream Man quickly runs out of flavor thanks to its flimsy script&#44; making it more messy than memorable&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Joseph Robinson",
+      "initials": "JR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/joseph-robinson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "joseph-robinson",
+      "encryptedCriticId": "y3JLjRol",
+      "displayImageUrl": "https://resizing.flixster.com/m-6FJ8UT-8yNbjLvUgjo_cgyDow=/128x128/v1.YzsxMDAwMDAzMDMxO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Fish Jelly Films (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y9RP4MQZ",
+      "publicationId": "100009834"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148721",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://awardsradar.com/2026/08/05/film-review-ice-cream-man-is-an-absurdly-violent-and-decently-entertaining-little-horror-treat-from-eli-roth/",
+    "createDate": "2026-08-05T12:24:12.000Z",
+    "updateDate": "2026-08-05T12:24:12.000Z",
+    "reviewQuote": "Ice Cream Man is an absurdly violent and decently entertaining little horror treat from Eli Roth&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Joey Magidson",
+      "initials": "JM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/joey-magidson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "joey-magidson",
+      "encryptedCriticId": "5rPJjnye",
+      "displayImageUrl": "https://resizing.flixster.com/YJtkOF_vXvOvNsAXefyD988T5TA=/128x128/v1.YzszMTA2O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Awards Radar",
+      "editorialUrl": "https://awardsradar.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Ly94qGln",
+      "publicationId": "3834"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148716",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thejamreport.com/2026/08/05/film-review-ice-cream-man-mistakes-imitation-for-invention-and-shock-for-substance/",
+    "createDate": "2026-08-05T12:06:40.000Z",
+    "updateDate": "2026-08-05T12:06:40.000Z",
+    "reviewQuote": "Gore isn&apos;t a substitute for suspense&#46; References aren&apos;t a substitute for originality&#46; And shouting louder than everyone else isn&apos;t the same as having something worth saying&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Doug Jamieson",
+      "initials": "DJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/doug-jamieson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "doug-jamieson",
+      "encryptedCriticId": "5yMqNDyg",
+      "displayImageUrl": "https://resizing.flixster.com/jncV6I5ziiSnCQ9KibvvpphNrRk=/128x128/v1.YzszMTMzO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Jam Report",
+      "editorialUrl": "https://thejamreport.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "BZ5D2jy9",
+      "publicationId": "3187"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148715",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "D",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.original-cin.ca/posts/2026/8/4/ice-cream-man-eli-roth-gorges-on-blood-and-sprinkles-in-endless-psycho-child-rampage",
+    "createDate": "2026-08-05T11:58:40.000Z",
+    "updateDate": "2026-08-05T14:35:37.000Z",
+    "reviewQuote": "Endless blood&#44; guts and decapitations with barely a story&#46; But is it the beginning of a horror franchise&#63; I&#8217;ll quote a line from comedian Se&#225;n Cullen&#44; who said his favourite charity was&#44; &quot;Stop the Children&#46;&quot;",
+    "language": "English",
+    "critic": {
+      "displayName": "Jim Slotek",
+      "initials": "JS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jim-slotek",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "jim-slotek",
+      "encryptedCriticId": "vOrVOjlk",
+      "displayImageUrl": "https://resizing.flixster.com/jTEBFe_fA9lMpqAoiRPASCQ6gWQ=/128x128/v1.YzsyODAxO2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Original Cin",
+      "editorialUrl": "https://www.original-cin.ca/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "VlJzKblP",
+      "publicationId": "2876"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148667",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtu.be/uHz2uuzc4HU",
+    "createDate": "2026-08-05T06:22:48.000Z",
+    "updateDate": "2026-08-05T06:22:48.000Z",
+    "reviewQuote": "With little character development and a belated&#44; ham-fisted delivery of the lore&#44; the story lacks any memorability that would keep me flocking back to its sweetly bloody butchery&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Chris Joyce",
+      "initials": "CJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/chris-joyce",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "chris-joyce",
+      "encryptedCriticId": "ld64dNdZ",
+      "displayImageUrl": "https://resizing.flixster.com/1VIxbWCdFxkOmibyDeyPEf11sh8=/128x128/v1.YzsxMDAwMDAyNzkxO2o7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Movies and Munchies (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y9RP4wxZ",
+      "publicationId": "100009678"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148664",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.killermoviereviews.com/movie/ice-cream-man/",
+    "createDate": "2026-08-05T04:18:29.000Z",
+    "updateDate": "2026-08-05T14:35:29.000Z",
+    "reviewQuote": "A subversive gloss on Americana that reveals a town without pity and a de riguer dark secret&#46; Along with innards of all types&#46; So many innards&#46; One note it may be&#44; but Roth has taken that one note and put it through&#44; ahem&#44; baroque paces&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Andrea Chase",
+      "initials": "AC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/andrea-chase",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "andrea-chase",
+      "encryptedCriticId": "krLR7Nyw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Killer Movie Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Q5yM4plg",
+      "publicationId": "1370"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148640",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": ".5/5 ",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtube.com/shorts/9yYZ5UJREik?is=OX1KLQYbzrmw01Ua",
+    "createDate": "2026-08-05T00:01:09.000Z",
+    "updateDate": "2026-08-05T00:01:10.000Z",
+    "reviewQuote": "Eli Roth&#8217;s Ice Cream Man had the potential to be a fun&#44; over-the-top B-horror movie&#44; but it&#8217;s undone by flat performances&#44; inconsistent tone&#44; and a messy script&#46; Easily one of the worst movies of the year&#33; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Elliott Collins",
+      "initials": "EC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/elliott-collins",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "elliott-collins",
+      "encryptedCriticId": "rQNQPJjl",
+      "displayImageUrl": "https://resizing.flixster.com/qb6Db0P3xTvUbtxZZZh_i8hwpl0=/128x128/v1.YzsxMDAwMDAyOTk2O2o7MjA3MDk7MjA0ODszMjY0OzE4Mzc",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Movie Files",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "rmRXoEkl",
+      "publicationId": "100009800"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148622",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://aisleseat.com/ice-cream-man.html",
+    "createDate": "2026-08-04T22:42:56.000Z",
+    "updateDate": "2026-08-05T14:35:28.000Z",
+    "reviewQuote": "I can&#8217;t defend it on most rational levels&#44; but as a piece of exploitation fare&#44; it recreates the vibe of the trash classics Roth was obviously inspired by&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Mike McGranaghan",
+      "initials": "MM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mike-mcgranaghan",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "mike-mcgranaghan",
+      "encryptedCriticId": "5Ly9Eayn",
+      "displayImageUrl": "https://resizing.flixster.com/Oih2c8dT7dwoYPkFCsmaHpF0FA8=/128x128/v1.YzsxMDAwMDAyOTU1O2o7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Aisle Seat",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "QWy1RZzq",
+      "publicationId": "6"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148594",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.upi.com/Entertainment_News/Movies/2026/08/04/Ice-Cream-Man-gory-killing-movie-review/5871785779318/",
+    "createDate": "2026-08-04T20:35:20.000Z",
+    "updateDate": "2026-08-04T20:35:20.000Z",
+    "reviewQuote": "As graphic and intense as writer&#47;director Eli Roth&apos;s Hostel movies but applied to a good-naturedly macabre romp&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Fred Topel",
+      "initials": "FT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/fred-topel",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "fred-topel",
+      "encryptedCriticId": "W4y3O2yn",
+      "displayImageUrl": "https://resizing.flixster.com/zfjasQJxVxEL9pyvJHfO2hmhHXw=/128x128/v1.YzsyNDk0O2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "United Press International",
+      "editorialUrl": "http://www.upi.com/Entertainment_News/Movies/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "el77jalq",
+      "publicationId": "2795"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148590",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.flickeringmyth.com/movie-review-ice-cream-man-2026/",
+    "createDate": "2026-08-04T20:19:40.000Z",
+    "updateDate": "2026-08-04T20:19:40.000Z",
+    "reviewQuote": "Much like the ice cream itself&#44; the moments of outrageously grisly fun &#40;following an unforgivably slow first act&#41; in Ice Cream Man unfortunately and quickly dry up&#46; My thoughts are also lowered learning AI was used",
+    "language": "English",
+    "critic": {
+      "displayName": "Robert Kojder",
+      "initials": "RK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/robert-kojder",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "robert-kojder",
+      "encryptedCriticId": "XrAz0Dlw",
+      "displayImageUrl": "https://resizing.flixster.com/dCqSNsIip8dOWb086HO0RxoiUMg=/38x42/v1.YzsyNDQ2O2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Flickering Myth",
+      "editorialUrl": "https://www.flickeringmyth.com/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/fkGco3Oo9izZpE4yBf5rNxtWP4Q=/256x256/v1.YzsxMDAwMDAzOTIyO3A7MjA3MDk7MjA0ODsxNTAwOzE1MDA",
+      "encryptedPublicationId": "qrEANEra",
+      "publicationId": "2936"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148587",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://punchdrunkcritics.com/2026/08/review-ice-cream-man/",
+    "createDate": "2026-08-04T20:06:03.000Z",
+    "updateDate": "2026-08-04T20:06:03.000Z",
+    "reviewQuote": "Ice Cream Man is Roth&#8217;s sickening idea of a good time&#44; and I have to admit&#44; I had a good time with it&#44; too&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Travis Hopson",
+      "initials": "TH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/travis-hopson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "travis-hopson",
+      "encryptedCriticId": "krLmpklw",
+      "displayImageUrl": "https://resizing.flixster.com/X4Vmyp4ye7iwkLCo4LAdzMdgw6o=/128x128/v1.YzsyNDkwO2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Punch Drunk Critics",
+      "editorialUrl": "http://www.punchdrunkcritics.com/search/label/reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "BZ5DjLy9",
+      "publicationId": "2787"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148537",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C-",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.reelingreviews.com/reviews/ice-cream-man/",
+    "createDate": "2026-08-04T18:21:26.000Z",
+    "updateDate": "2026-08-04T18:21:26.000Z",
+    "reviewQuote": "I am not&#44; by any stretch of the imagination&#44; a fan of horror films&#46; I am a guy who loves movies&#44; though&#44; and can appreciate good filmmaking &#8211; even if it is a horror movie&#46; I do not consider &quot;Ice Cream Man&quot; a good movie&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Robin Clifford",
+      "initials": "RC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/robin-clifford",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "robin-clifford",
+      "encryptedCriticId": "5ErmN5lb",
+      "displayImageUrl": "https://resizing.flixster.com/MrDCy9QD9MxPNRtRrqQp2HrqEjU=/38x48/v1.YzsxNjczO2c7MjA3MDA7MjA0ODszODs0OA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Reeling Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4plDnQZ6",
+      "publicationId": "386"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148488",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.splicetoday.com/moving-pictures/ice-cream-man-serves-viscerally-queasy-horror",
+    "createDate": "2026-08-04T17:13:16.000Z",
+    "updateDate": "2026-08-06T14:26:40.000Z",
+    "reviewQuote": "Most Eli Roth fans will turn on Ice Cream Man hoping for 90 minutes or so of excruciating brutal&#44; inventive and gratuitous gore&#46; And those fans won&#8217;t be disappointed&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Noah Berlatsky",
+      "initials": "NB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/noah-berlatsky",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "noah-berlatsky",
+      "encryptedCriticId": "xlbod0yE",
+      "displayImageUrl": "https://resizing.flixster.com/Wm3xIo4JN79sHB173iAeaBY2Sng=/128x128/v1.YzszMzcxO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Splice Today",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "7ldakDyO",
+      "publicationId": "2854"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148479",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://aiptcomics.com/2026/08/04/ice-cream-man-2026-eli-roth-horror-indie/",
+    "createDate": "2026-08-04T16:51:17.000Z",
+    "updateDate": "2026-08-04T16:51:17.000Z",
+    "reviewQuote": "This is a Roth original and it may be the most Eli Rothiest thing he has ever done&#46; The kills are over the top and the story is unremarkable in its best moments and irritating at worst&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Nathaniel Muir",
+      "initials": "NM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nathaniel-muir",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "nathaniel-muir",
+      "encryptedCriticId": "pZ6M9Mye",
+      "displayImageUrl": "https://resizing.flixster.com/Wo_EvAnPvv7ICzRqdmrw09bv7jM=/128x128/v1.YzszNjc4O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "AIPT",
+      "editorialUrl": "https://aiptcomics.com/category/movies/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "RrYJ53lO",
+      "publicationId": "3716"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148474",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://nextbestpicture.com/ice-cream-man/",
+    "createDate": "2026-08-04T16:44:17.000Z",
+    "updateDate": "2026-08-04T16:44:17.000Z",
+    "reviewQuote": "Awful dialogue&#44; non-existent characterizations&#44; an unremarkable villain&#44; and obnoxious AI-generated images&#46; As memorable and enjoyable as a post-dessert stomach ache&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Cody Dericks",
+      "initials": "CD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/cody-dericks",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "cody-dericks",
+      "encryptedCriticId": "ra04Bp6Z",
+      "displayImageUrl": "https://resizing.flixster.com/fVmr5k9P506-Kv7479vH8CFucq4=/128x128/v1.YzsxMDAwMDAyNzA5O2o7MjA3MDk7MjA0ODsyOTY7Mjk2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Next Best Picture",
+      "editorialUrl": "https://www.nextbestpicture.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "4rwkKbrA",
+      "publicationId": "3046"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148454",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://horrorpress.com/reviews/14071/ice-cream-man-2026-review-bad-melty-and-super-curdled/",
+    "createDate": "2026-08-04T15:57:55.000Z",
+    "updateDate": "2026-08-04T15:57:55.000Z",
+    "reviewQuote": "It&#8217;s a badly made snow cone&#44; where the cheap syrup hasn&#8217;t gotten through the ice&#58; a flat&#44; one dimensional&#44; and mostly flavorless affair&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Luis Pomales-Diaz",
+      "initials": "LP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/luis-pomales-diaz",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "luis-pomales-diaz",
+      "encryptedCriticId": "Z5JoYG9r",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Horror Press",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "yRmYMxMl",
+      "publicationId": "100009845"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148453",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://open.substack.com/pub/petersobczynski/p/cruel-summer?r=129p34&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+    "createDate": "2026-08-04T15:36:03.000Z",
+    "updateDate": "2026-08-05T14:35:35.000Z",
+    "reviewQuote": "The latest from Eli Roth is terrible&#46; &#40;Insert tedious ice cream-related pun here&#46;&#41;",
+    "language": "English",
+    "critic": {
+      "displayName": "Peter Sobczynski",
+      "initials": "PS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/peter-sobczynski",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "peter-sobczynski",
+      "encryptedCriticId": "4yzkOmZP",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Auteurist Class (Substack)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Z5JG5AMr",
+      "publicationId": "100010143"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148451",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "5/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://collider.com/eli-roth-ice-cream-man-horror-review/",
+    "createDate": "2026-08-04T15:05:40.000Z",
+    "updateDate": "2026-08-04T15:05:40.000Z",
+    "reviewQuote": "With Ice Cream Man&#44; Roth has an interesting idea&#44; but with so little behind it&#44; the movie quickly melts&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Shawn Van Horn",
+      "initials": "SH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/shawn-van-horn",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "shawn-van-horn",
+      "encryptedCriticId": "ra04nNVZ",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Collider",
+      "editorialUrl": "http://www.collider.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "vl499pyz",
+      "publicationId": "1982"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148449",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "http://www.nycmovieguru.com/aug7th26.html#icecreamman",
+    "createDate": "2026-08-04T14:57:34.000Z",
+    "updateDate": "2026-08-04T14:57:34.000Z",
+    "reviewQuote": "An asinine&#44; repetitive and unimaginative horror comedy that&apos;s neither funny&#44; bonkers nor scary enough to become a guilty pleasure&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Avi Offer",
+      "initials": "AO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/avi-offer",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "avi-offer",
+      "encryptedCriticId": "VlJeqxrP",
+      "displayImageUrl": "https://resizing.flixster.com/t0Po8TkPnZm6BEEtNvaGzlLpzjA=/38x42/v1.YzsxODE3O2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "NYC Movie Guru",
+      "editorialUrl": "http://www.nycmovieguru.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "pZ691Vye",
+      "publicationId": "2162"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148442",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "2.5/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.rogerebert.com/reviews/ice-cream-man-movie-review-2026",
+    "createDate": "2026-08-04T14:18:09.000Z",
+    "updateDate": "2026-08-05T14:35:34.000Z",
+    "reviewQuote": "It&#8217;s mostly pretty satisfying&#44; even if there&#8217;s ultimately nothing surprising or essential here&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Simon Abrams",
+      "initials": "SA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/simon-abrams",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "simon-abrams",
+      "encryptedCriticId": "6lKoxqlp",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "RogerEbert.com",
+      "editorialUrl": "http://www.rogerebert.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "eoraDKZg",
+      "publicationId": "1708"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148429",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1.5/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.hollywoodintoto.com/ice-cream-man-review-eli-roth/",
+    "createDate": "2026-08-04T13:35:11.000Z",
+    "updateDate": "2026-08-05T14:35:32.000Z",
+    "reviewQuote": "Eli Roth&apos;s ode to old-school practical FX stumbles on genre basics&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Christian Toto",
+      "initials": "CT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/christian-toto",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "christian-toto",
+      "encryptedCriticId": "krL77kZw",
+      "displayImageUrl": "https://resizing.flixster.com/2-LbuK11yx06SinpxoT76Jnmwxc=/128x128/v1.YzsxMDAwMDAzMDkzO2o7MjA3MDk7MjA0ODsyNjI0OzM5MzY",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "HollywoodInToto.com",
+      "editorialUrl": "http://www.hollywoodintoto.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "7ldaoNyO",
+      "publicationId": "2598"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148425",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "D",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.theonlycritic.com/post/ice-cream-man-review-eli-roth-s-latest-splatterfest-comes-up-cold",
+    "createDate": "2026-08-04T12:37:53.000Z",
+    "updateDate": "2026-08-04T12:37:53.000Z",
+    "reviewQuote": "Roth strips things back so aggressively that all that&#8217;s left is about 83 minutes of relentless bloodshed propping up the barest outline of a story&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Nate Adams",
+      "initials": "NA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nate-adams",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "nate-adams",
+      "encryptedCriticId": "el7z3jrq",
+      "displayImageUrl": "https://resizing.flixster.com/n7f1Bj1GCc1u-MWKF5nXFcSS7S8=/128x128/v1.YzszMDY4O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Only Critic",
+      "editorialUrl": "https://www.theonlycritic.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "qrEA2Bra",
+      "publicationId": "3180"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148406",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://loudandclearreviews.com/ice-cream-man-2026-review/",
+    "createDate": "2026-08-04T06:54:20.000Z",
+    "updateDate": "2026-08-04T06:54:20.000Z",
+    "reviewQuote": "A tedious and repetitive gorefest that never manages to feel scary or even tense&#44; despite the shock value&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Sebastian Zavala Kahn",
+      "initials": "SK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/sebastian-zavala-kahn",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "sebastian-zavala-kahn",
+      "encryptedCriticId": "Yyxe6AZ1",
+      "displayImageUrl": "https://resizing.flixster.com/JneKmhzqi-ccfAheHJ06IBTxfgc=/128x128/v1.YzsxMDAwMDAzMjk3O2o7MjA3MDk7MjA0ODszMjE2OzMwOTY",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Loud and Clear Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "y0VpDXPr",
+      "publicationId": "100009659"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148405",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thecinematicreel.com/ice-cream-man/",
+    "createDate": "2026-08-04T06:40:08.000Z",
+    "updateDate": "2026-08-04T06:40:08.000Z",
+    "reviewQuote": "I wanted to believe Thanksgiving marked the beginning of a new chapter for Roth&#46; Instead&#44; Ice Cream Man feels less like the next step forward and more like a disappointing slide back into old habits&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "David Gonzalez",
+      "initials": "DG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/david-gonzalez1",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "david-gonzalez1",
+      "encryptedCriticId": "RrYmakrO",
+      "displayImageUrl": "https://resizing.flixster.com/ApTAcMIWBHibq7UQK2qSIue24-M=/128x128/v1.YzsxMDAwMDAzNTQ1O2o7MjA3MDk7MjA0ODsyMzA3OzIzMDc",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Cinematic Reel",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "ZkNoKQ0y",
+      "publicationId": "100009585"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148402",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://geekvibesnation.com/ice-cream-man-review/",
+    "createDate": "2026-08-04T05:35:33.000Z",
+    "updateDate": "2026-08-04T05:35:33.000Z",
+    "reviewQuote": "weak performances&#44; clunky dialogue&#44; flat comedy&#44; and surprisingly uninspired direction prevent the movie from capitalizing on any of its strengths&#46; Even the title character ends up feeling like an afterthought&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Roberto Tyler Ortiz",
+      "initials": "RO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/roberto-tyler-ortiz",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "roberto-tyler-ortiz",
+      "encryptedCriticId": "lo85nLXy",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Geek Vibes Nation",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "rEX8ALxZ",
+      "publicationId": "100009880"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148398",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "6/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://fandomwire.com/ice-cream-man-review-eli-roth/",
+    "createDate": "2026-08-04T05:13:18.000Z",
+    "updateDate": "2026-08-04T05:13:18.000Z",
+    "reviewQuote": "If you know that you&#8217;re just in for a gorefest with a demented edge&#44; you&#8217;re sure to have a good time&#44; even if it lacks much in the way of cinematic nutritional value&#46;&#10;&#10;",
+    "language": "English",
+    "critic": {
+      "displayName": "Sean Boelman",
+      "initials": "SB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/sean-boelman",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "sean-boelman",
+      "encryptedCriticId": "yRm43XGl",
+      "displayImageUrl": "https://resizing.flixster.com/AURmzoi1nquk6gpW5LO_MjFGa04=/128x128/v1.YzsxMDAwMDAzMjYzO2o7MjA3MDk7MjA0ODsyMDQ4OzIwNDg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "FandomWire",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "y9RP4qQZ",
+      "publicationId": "100009878"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148395",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.heavenofhorror.com/reviews/ice-cream-man-2026-eli-roth/",
+    "createDate": "2026-08-04T05:03:41.000Z",
+    "updateDate": "2026-08-04T05:03:41.000Z",
+    "reviewQuote": "&#46;&#46;&#46;just 10 minutes into this Eli Roth movie&#44; I was not happy&#46; It all feels too stiff&#44; the editing is sloppy&#44; and the plot is virtually non-existent&#46; Yeah&#44; I&#8217;m disappointed&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Karina Adelgaard",
+      "initials": "KA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/karina-adelgaard",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "karina-adelgaard",
+      "encryptedCriticId": "l7JX6Yzr",
+      "displayImageUrl": "https://resizing.flixster.com/u3CdPS4ZMSqFSBGOqxFw84kXVco=/128x128/v1.YzsxMDAwMDAzNDMxO2o7MjA3MDk7MjA0ODsxNjUwOzE2NTA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Heaven of Horror",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "yzvMR49y",
+      "publicationId": "100011393"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148394",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thewolfmancometh.com/2026/08/03/ice-cream-man-2026-review-eli-roth/",
+    "createDate": "2026-08-04T05:00:17.000Z",
+    "updateDate": "2026-08-04T05:00:17.000Z",
+    "reviewQuote": "A relatively fun first 30 minutes that then goes on for another 60 minutes&#46; Would have made a better fake trailer for Grindhouse 2 than a feature&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Patrick Cavanaugh",
+      "initials": "PC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/patrick-cavanaugh",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "patrick-cavanaugh",
+      "encryptedCriticId": "Ly9nKMZn",
+      "displayImageUrl": "https://resizing.flixster.com/8bNo56qCPFC66Uk_DAA4gfmoP2I=/128x128/v1.YzszODU0O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Wolfman Cometh",
+      "editorialUrl": "https://thewolfmancometh.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "OrVK3nlk",
+      "publicationId": "3483"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148393",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "4/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.ign.com/articles/ice-cream-man-review",
+    "createDate": "2026-08-04T04:46:27.000Z",
+    "updateDate": "2026-08-04T04:46:27.000Z",
+    "reviewQuote": "It&#8217;s a movie that inflicts plenty of head trauma but ultimately reveals itself as having no real brains of its own&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Chase Hutchinson",
+      "initials": "CH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/chase-hutchinson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "chase-hutchinson",
+      "encryptedCriticId": "Ly93barn",
+      "displayImageUrl": "https://resizing.flixster.com/EVPp1JjCTq6rj6XeJbIFvgrrBBo=/128x128/v1.YzsxMDAwMDAyNzgxO2o7MjA3MDk7MjA0ODsyOTM7Mjkz",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "IGN Movies",
+      "editorialUrl": "http://filmforce.ign.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "MaloMpZw",
+      "publicationId": "811"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148389",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2.5/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.deepfocusreview.com/reviews/ice-cream-man/",
+    "createDate": "2026-08-04T03:57:08.000Z",
+    "updateDate": "2026-08-04T03:57:08.000Z",
+    "reviewQuote": "A convincingly assembled nightmare that horror fanatics will probably enjoy for its sheer gross-out factor&#46; But as with most of Roth&#8217;s output&#44; the problem lies in the screenplay&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Brian Eggert",
+      "initials": "BE",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brian-eggert",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "brian-eggert",
+      "encryptedCriticId": "oZvjLnZw",
+      "displayImageUrl": "https://resizing.flixster.com/5zjT94AcycGNsjj44EWW_ua_6js=/128x128/v1.YzsxMDAwMDAzMTE3O3A7MjA3MDk7MjA0ODs4MDA7ODAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Deep Focus Review",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "ynwvJAQZ",
+      "publicationId": "100009573"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148388",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.thewrap.com/creative-content/movies/ice-cream-man-review-eli-roth/",
+    "createDate": "2026-08-04T03:43:38.000Z",
+    "updateDate": "2026-08-04T03:43:38.000Z",
+    "reviewQuote": "It would be more exciting to watch a documentary about the professionals&#44; weirdos and professional weirdos making the fake guts and disembodied limbs than to watch the film they were actually working on&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "William Bibbiani",
+      "initials": "WB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/william-bibbiani",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "william-bibbiani",
+      "encryptedCriticId": "OrVnRPrk",
+      "displayImageUrl": "https://resizing.flixster.com/V26KZodvYQgTRFjz6Pz6GxcMqf4=/128x128/v1.YzsyNzQ5O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "TheWrap",
+      "editorialUrl": "http://www.thewrap.com/tag/movie_reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/oIEyuPqk711nt7MzMwmDagOBMFg=/200x200/v1.YzsxMDAwMDAzODA4O3A7MjA3MDk7MjA0ODsyMDA7MjAw",
+      "encryptedPublicationId": "4yzjWeyP",
+      "publicationId": "2205"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148387",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.avclub.com/ice-cream-man-review",
+    "createDate": "2026-08-04T03:27:20.000Z",
+    "updateDate": "2026-08-04T03:27:20.000Z",
+    "reviewQuote": "This creative zeal eventually sputters out. Thanksgiving used inventive variations on its gimmick to build toward its sicko smorgasbord finale, an escalation of gnarly ingenuity that Ice Cream Man lacks.",
+    "language": "English",
+    "critic": {
+      "displayName": "Jarrod Jones",
+      "initials": "JJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jarrod-jones",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "jarrod-jones",
+      "encryptedCriticId": "el7DPjyq",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "AV Club",
+      "editorialUrl": "http://www.avclub.com/channels/film/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/p_lVlSWxAwFI0LDmURpDSJLeQOU=/200x200/v1.YzsxMDAwMDAzODk1O3A7MjA3MDk7MjA0ODsyMDA7MjAw",
+      "encryptedPublicationId": "jVy2BbyW",
+      "publicationId": "833"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148385",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://filmthreat.com/reviews/ice-cream-man/",
+    "createDate": "2026-08-04T03:25:55.000Z",
+    "updateDate": "2026-08-04T03:25:58.000Z",
+    "reviewQuote": "Ice Cream Man is depraved fun served exactly how it should be -- cold, messy, and with zero apologies. Eli Roth made the movie only he would dare to make, and horror fans with a strong stomach should line up for a scoop.",
+    "language": "English",
+    "critic": {
+      "displayName": "Alan Ng",
+      "initials": "AN",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alan-ng",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "alan-ng",
+      "encryptedCriticId": "7ZWmjWlm",
+      "displayImageUrl": "https://resizing.flixster.com/mIcSAnHK7J7s4u2GyGvQPzuwsE4=/128x128/v1.YzszNjQwO2o7MjA3MDA7MjA0ODsyMTA7MjMx",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Film Threat",
+      "editorialUrl": "http://filmthreat.com/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "3VZBqxyA",
+      "publicationId": "174"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148384",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "2.5/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://nerdist.com/article/ice-cream-man-eli-roth-horror-film-review/",
+    "createDate": "2026-08-04T03:25:27.000Z",
+    "updateDate": "2026-08-05T14:35:28.000Z",
+    "reviewQuote": "After a while, it becomes clear there are only so many grotesque Roth motifs that the human body lends itself to. But that doesn’t stop him from going on and on, again and again. Thankfully, the director has more than gore on his mind.",
+    "language": "English",
+    "critic": {
+      "displayName": "Bob Strauss",
+      "initials": "BS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/bob-strauss",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "bob-strauss",
+      "encryptedCriticId": "3VZBgprA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "San Francisco Chronicle",
+      "editorialUrl": "https://www.sfchronicle.com",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/9UVGGDRa3wIvylGO5IJCmHELK6c=/256x256/v1.YzsxMDAwMDAzNzYwO2o7MjA3MDk7MjA0ODs2MzA7NjMw",
+      "encryptedPublicationId": "64rwPnlA",
+      "publicationId": "402"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148383",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://dailydead.com/review-ice-cream-man-wont-satisfy-your-horror-sweet-tooth/",
+    "createDate": "2026-08-04T03:21:44.000Z",
+    "updateDate": "2026-08-04T03:21:44.000Z",
+    "reviewQuote": "It&#8217;s like Roth forgot to put his film in the freezer&#44; and all the decorative appeal&#44; or any valuable substance&#44; melted away&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Matt Donato",
+      "initials": "MD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/matt-donato",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "matt-donato",
+      "encryptedCriticId": "qrEqeGra",
+      "displayImageUrl": "https://resizing.flixster.com/4hBz-X7VTMG7OpT2QJq6UUhD38A=/128x128/v1.YzszMzc2O2o7MjA3MDA7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Daily Dead",
+      "editorialUrl": "http://dailydead.com/category/features/review/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "jlOdW3y0",
+      "publicationId": "2723"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148382",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/ice-cream-man-review-eli-roth-1236660197/",
+    "createDate": "2026-08-04T03:19:20.000Z",
+    "updateDate": "2026-08-05T14:35:30.000Z",
+    "reviewQuote": "There have been plenty of horror movies involving murderous children over the years... But Roth doesn’t hide his desire to outdo them all with this effort that can only be described as sick and twisted. And I’m sure he’ll take that as a compliment.    ",
+    "language": "English",
+    "critic": {
+      "displayName": "Frank Scheck",
+      "initials": "FS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/frank-scheck",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "frank-scheck",
+      "encryptedCriticId": "Yyxj7nr1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Hollywood Reporter",
+      "editorialUrl": "http://www.hollywoodreporter.com/hr/film/reviews/index.jsp",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PnE_AJzukoI8np6MHm5j9vpNtOM=/256x256/v1.YzsxMDAwMDAzNjcwO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "6arXpQrO",
+      "publicationId": "213"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148381",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://variety.com/2026/film/reviews/ice-cream-man-review-eli-roth-1236826106/",
+    "createDate": "2026-08-04T03:16:45.000Z",
+    "updateDate": "2026-08-04T03:16:45.000Z",
+    "reviewQuote": "That the film knows it’s preposterous is supposed to be redeeming. But Roth’s it’s-all-a-big-joke attitude here is a cop-out that’s beneath him, a way to avoid making a horror movie that truly engages us. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Owen Gleiberman",
+      "initials": "OG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/owen-gleiberman",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "owen-gleiberman",
+      "encryptedCriticId": "jGlgjvrp",
+      "displayImageUrl": "https://resizing.flixster.com/iumWKQ033DTjaA5VVe-tTPhRtBo=/128x128/v1.YzsyNzE4O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Variety",
+      "editorialUrl": "http://variety.com/v/film/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/cMg4FAB7XrqmpueG7MpVj83MU8w=/256x256/v1.YzsxMDAwMDAzODI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "YxyebgZe",
+      "publicationId": "466"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148380",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://deadline.com/2026/08/ice-cream-man-review-eli-roth-1237016757/",
+    "createDate": "2026-08-04T03:15:54.000Z",
+    "updateDate": "2026-08-04T03:15:54.000Z",
+    "reviewQuote": "Unfortunately the timing is off as this underdeveloped concept looks like a bad attempted imitation of last summer’s far superior Zach Cregger directed smash hit Oscar winning Weapons.",
+    "language": "English",
+    "critic": {
+      "displayName": "Pete Hammond",
+      "initials": "PH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/pete-hammond",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "pete-hammond",
+      "encryptedCriticId": "4rwnBDZA",
+      "displayImageUrl": "https://resizing.flixster.com/eluIpreeuxsREahUOVu5WUxGGFs=/38x44/v1.YzsxNzk0O2o7MjA3MDA7MjA0ODszODs0NA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Deadline Hollywood Daily",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/J9nZqvu0OQcTuaqREwauFUr28IQ=/256x256/v1.YzsxMDAwMDAzOTI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "vZpkOdyV",
+      "publicationId": "2256"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148378",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtu.be/Z_z4N3bhXyU",
+    "createDate": "2026-08-04T03:09:19.000Z",
+    "updateDate": "2026-08-04T03:09:20.000Z",
+    "reviewQuote": "I give it two scoops down&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Adam Olinger",
+      "initials": "AO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/adam-olinger",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "adam-olinger",
+      "encryptedCriticId": "Z6JpmPMZ",
+      "displayImageUrl": "https://resizing.flixster.com/Cq2wB1IvkHC62Y8xrf5dpop0k1c=/128x128/v1.YzsxMDAwMDAyNzY3O2o7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Adam Does Movies (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "lgP75DLy",
+      "publicationId": "100009663"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148377",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtu.be/LsD8mtxWkdk?is=jXBW4i8gGwswtwRt",
+    "createDate": "2026-08-04T03:06:18.000Z",
+    "updateDate": "2026-08-04T03:06:18.000Z",
+    "reviewQuote": "From the man known for some of the goriest films ever&#44; this might be his bloodiest yet&#46; A fun and violent over-the-top gorefest&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "EJ Moreno",
+      "initials": "EM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/ej-moreno",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "ej-moreno",
+      "encryptedCriticId": "Yyx1K6Z1",
+      "displayImageUrl": "https://resizing.flixster.com/RZ2AWSCawm0JqrX_Z7yNAzxVjnQ=/128x128/v1.YzsxMDAwMDAzOTA5O2o7MjA3MDk7MjA0ODs5NTc7OTU3",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Flickering Myth",
+      "editorialUrl": "https://www.flickeringmyth.com/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/fkGco3Oo9izZpE4yBf5rNxtWP4Q=/256x256/v1.YzsxMDAwMDAzOTIyO3A7MjA3MDk7MjA0ODsxNTAwOzE1MDA",
+      "encryptedPublicationId": "qrEANEra",
+      "publicationId": "2936"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148375",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.slantmagazine.com/film/ice-cream-man-review-eli-roth/",
+    "createDate": "2026-08-04T03:01:49.000Z",
+    "updateDate": "2026-08-05T14:35:38.000Z",
+    "reviewQuote": "Eli Roth aims for social commentary in the homestretch&#44; but if the moment doesn&#8217;t feel satisfyingly nihilistic&#44; that&#8217;s because his stab at building out the story has all the consistency of soft serve&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Kyle Turner",
+      "initials": "KT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/kyle-turner",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "kyle-turner",
+      "encryptedCriticId": "xyeR2NZe",
+      "displayImageUrl": "https://resizing.flixster.com/irbxrQ3x3yvsSo3EsGuWLzhUUq4=/128x128/v1.YzsyNTcxO2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Slant Magazine",
+      "editorialUrl": "http://slantmagazine.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "p5rPaple",
+      "publicationId": "821"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148188",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://waxinghorrific.com/2026/08/03/movie-review-ice-cream-man/",
+    "createDate": "2026-08-03T19:18:08.000Z",
+    "updateDate": "2026-08-04T02:59:55.000Z",
+    "reviewQuote": "Ice Cream Man is the perfect summer horror flick&#46; It is fun&#44; and it doesn&#8217;t have anything that is going to require thought or pondering your own trauma&#46; It&#8217;s just gory goodness&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Alyse Wax",
+      "initials": "AW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alyse-wax",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "alyse-wax",
+      "encryptedCriticId": "RyReegld",
+      "displayImageUrl": "https://resizing.flixster.com/GDPoT2gPoc46ku7pY5G7Yy6oX3w=/128x128/v1.YzsyNjE0O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Waxing Horrific",
+      "editorialUrl": "waxinghorrific.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "QrqWW5yn",
+      "publicationId": "3972"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148096",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "3/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://screenrant.com/ice-cream-man-movie-2026-review/",
+    "createDate": "2026-08-03T15:22:26.000Z",
+    "updateDate": "2026-08-04T02:59:51.000Z",
+    "reviewQuote": "Suddenly&#44; the lack of imagination in Ice Cream Man&apos;s execution doesn&apos;t seem so easily forgivable&#46; Instead&#44; it looks more and more like a wasted opportunity to make something interesting out of its fun idea&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Alex Harrison",
+      "initials": "AH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alex-harrison",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "alex-harrison",
+      "encryptedCriticId": "ZBd3k7ml",
+      "displayImageUrl": "https://resizing.flixster.com/NSRHwfrCAuzpfZZw0BdZTNC7IJY=/128x128/v1.YzsxMDAwMDAzNDI4O2o7MjA3MDk7MjA0ODsyMjI0OzIyMjQ",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Screen Rant",
+      "editorialUrl": "http://screenrant.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "e8y8djy2",
+      "publicationId": "1647"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148071",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.blu-ray.com/Ice-Cream-Man/2069654/#Review",
+    "createDate": "2026-08-03T14:09:14.000Z",
+    "updateDate": "2026-08-04T03:01:54.000Z",
+    "reviewQuote": "&quot;Ice Cream Man&quot; intends to be splattery fun&#44; but Roth can&#8217;t sustain momentum&#44; going convoluted with his writing&#44; and he tires out long before the feature concludes&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Brian Orndorf",
+      "initials": "BO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brian-orndorf",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "brian-orndorf",
+      "encryptedCriticId": "6lKj8Prp",
+      "displayImageUrl": "https://resizing.flixster.com/DcdMw-YkO4KFPd5GrLvFGPe8iaU=/128x128/v1.YzsyMjM3O2o7MjA3MDA7MjA0ODsyNTA7Mjg1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Blu-ray.com",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4y39Kqrn",
+      "publicationId": "2468"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148055",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.reelingreviews.com/reviews/ice-cream-man/",
+    "createDate": "2026-08-03T13:09:03.000Z",
+    "updateDate": "2026-08-04T13:03:30.000Z",
+    "reviewQuote": "Eli Roth follows up his &quot;Thanksgiving&quot; with dessert&#44; but the ice cream&#44; while tasty at first&#44; drops off its cone and splats to the ground when it gets to the stickiness of plot mechanics&#46;&#10;",
+    "language": "English",
+    "critic": {
+      "displayName": "Laura Clifford",
+      "initials": "LC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/laura-clifford",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "laura-clifford",
+      "encryptedCriticId": "NBZ5wMl9",
+      "displayImageUrl": "https://resizing.flixster.com/uGoPAefqzdf6eW1_1RMpGc7IQzI=/38x52/v1.YzsxNjcyO2c7MjA3MDA7MjA0ODszODs1Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Reeling Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4plDnQZ6",
+      "publicationId": "386"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  }
+]
