@@ -42,16 +42,6 @@ class RTSummaryError(Exception):
 
 
 def _parse_jsonld(html: str) -> dict:
-    """
-    从页面 HTML 的 JSON-LD 中提取电影信息。
-
-    返回 {name, score, n}：
-    - 找到 Movie 块且有评分 → score/n 有值
-    - 找到 Movie 块但无评分（未上映/无影评）→ score=None, n=None，但 name 有值
-    - 没找到 Movie 块 → 全 None
-
-    注意：不抛异常。有没有评分都返回（让调用方决定怎么处理 None）。
-    """
     result = {"name": None, "score": None, "n": None}
     soup = BeautifulSoup(html, "html.parser")
     for tag in soup.find_all("script", type="application/ld+json"):
@@ -59,10 +49,15 @@ def _parse_jsonld(html: str) -> dict:
             data = json.loads(tag.string or "{}")
         except (json.JSONDecodeError, TypeError):
             continue
-        movie = data if data.get("@type") == "Movie" else data.get("mainEntity", {})
-        if not isinstance(movie, dict):
-            continue
-        # 找到 Movie 块
+        # 找 Movie 块：直接是Movie，或包在mainEntity里；都不是就跳过继续找
+        if data.get("@type") == "Movie":
+            movie = data
+        elif isinstance(data.get("mainEntity"), dict) and \
+             data["mainEntity"].get("@type") == "Movie":
+            movie = data["mainEntity"]
+        else:
+            continue   # 不是Movie块，跳过，继续找下一个
+        # 真正找到 Movie 块才提取返回
         result["name"] = movie.get("name")
         agg = movie.get("aggregateRating", {})
         if agg and agg.get("ratingValue") is not None:
@@ -74,8 +69,8 @@ def _parse_jsonld(html: str) -> dict:
                 result["n"] = int(agg.get("reviewCount"))
             except (ValueError, TypeError):
                 result["n"] = None
-        return result   # 找到 Movie 块就返回（不管有没有评分）
-    return result       # 没找到 Movie 块，全 None
+        return result
+    return result
 
 
 def _fetch_url(url: str, timeout: int = 15) -> dict:

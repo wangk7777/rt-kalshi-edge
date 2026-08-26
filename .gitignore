@@ -23,5 +23,3 @@ Thumbs.db
 # 回测数据文件
 data/backtest/orderbooks_merged.json
 
-# 其他文档
-/z_other_documents/

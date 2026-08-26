@@ -1,0 +1,3362 @@
+[
+  {
+    "reviewId": "103149488",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://apnews.com/article/one-night-only-movie-review-ec617723f2dd36722ba2267f66fa9be0",
+    "createDate": "2026-08-07T19:18:43.000Z",
+    "updateDate": "2026-08-07T19:18:43.000Z",
+    "reviewQuote": "One Night Only isn’t bawdy or trenchant enough for its concept or quite sweet enough for its romance. It’s more successful as a meta comedy about a pair of charismatic Hollywood stars reckoning with their onscreen sex appeal. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Jake Coyle",
+      "initials": "JC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jake-coyle",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "jake-coyle",
+      "encryptedCriticId": "7ZWOkQZm",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Associated Press",
+      "editorialUrl": "https://apnews.com/tag/apf-Reviews",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PlhUUNLXXZhPtpMZr0tfb82C940=/256x256/v1.YzsxMDAwMDAzNTY5O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "XYrjAvZx",
+      "publicationId": "531"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149483",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.detroitnews.com/story/entertainment/movies/2026/08/06/one-night-only-is-like-the-purge-but-for-sex-thats-a-good-thing-callum-turner-monica-barbaro-rom-com/91185755007/",
+    "createDate": "2026-08-07T19:10:03.000Z",
+    "updateDate": "2026-08-07T19:10:03.000Z",
+    "reviewQuote": "Director Will Gluck focuses on the chemistry between his two insanely hot leads and uses the particulars of his premise as obstacles for them to overcome, and scores a winner of a summertime comic romance.",
+    "language": "English",
+    "critic": {
+      "displayName": "Adam Graham",
+      "initials": "AG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/adam-graham",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "adam-graham",
+      "encryptedCriticId": "py0MMjZE",
+      "displayImageUrl": "https://resizing.flixster.com/ihBNr1ApAKi6-HTSEQKNAyCQAJw=/128x128/v1.YzsyNzUwO2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Detroit News",
+      "editorialUrl": "http://www.detnews.com/apps/pbcs.dll/section?Category=ENT02",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/-Q1YK7ulHPMqiFvdi47gPIgmXVY=/256x256/v1.YzsxMDAwMDAzNjMyO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "YxyeP3le",
+      "publicationId": "122"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149474",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://flixchatter.net/2026/08/07/flixchatter-review-one-night-only-2026-monica-barbaro-is-luminous-in-this-absurd-dystopian-rom-com-with-a-polarizing-twist/",
+    "createDate": "2026-08-07T18:51:10.000Z",
+    "updateDate": "2026-08-07T18:51:10.000Z",
+    "reviewQuote": "Barbaro is luminous in this absurd&#44; frenetically paced rom-com with a polarizing twist&#46; While the premise may seem novel&#44; all the genre tropes are there&#44; and you can see what&#8217;s about to happen a mile away&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Ruth Maramis",
+      "initials": "RM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/ruth-maramis",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "ruth-maramis",
+      "encryptedCriticId": "oraqoVrg",
+      "displayImageUrl": "https://resizing.flixster.com/vuGfarDY2kcihAxl6-iqjCwvtro=/128x128/v1.YzszOTA2O2o7MjA3MDA7MjA0ODs1NzU7NTc1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "FlixChatter Film Blog",
+      "editorialUrl": "https://flixchatter.net/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "7ldaY0yO",
+      "publicationId": "3410"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149456",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.reelreviews.com/intheaters/one-night-only-review",
+    "createDate": "2026-08-07T18:16:36.000Z",
+    "updateDate": "2026-08-07T18:16:36.000Z",
+    "reviewQuote": "Wastes a wonderfully bonkers premise on a flat&#44; repetitive rom-com that never commits to being outrageous&#44; romantic&#44; or insightful&#46; And that&apos;s the greatest disappointment of all&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Frank Wilkins",
+      "initials": "FW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/frank-wilkins",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "frank-wilkins",
+      "encryptedCriticId": "5yMwEdrg",
+      "displayImageUrl": "https://resizing.flixster.com/f5zs8dCtjKWk9mg13kuvPbWZYR8=/38x40/v1.YzsxNzU1O2o7MjA3MDA7MjA0ODszODs0MA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Reel Reviews",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "5Ly9P3ln",
+      "publicationId": "1334"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149453",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "F",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://bgdailynews.com/2026/08/07/one-night-only-a-cinematic-train-wreck-of-epic-proportions/",
+    "createDate": "2026-08-07T18:09:14.000Z",
+    "updateDate": "2026-08-07T18:09:14.000Z",
+    "reviewQuote": "It&#8217;s a film that should have never gotten past the initial pitch meeting&#46; It would be way more interesting to see a behind the scenes documentary on why people would agree to make this than the actual final product &#8212; which is just sad to watch&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Micheal Compton",
+      "initials": "MC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/micheal-compton",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "micheal-compton",
+      "encryptedCriticId": "RyRBMgyd",
+      "displayImageUrl": "https://resizing.flixster.com/ZZ1P6qEUmCSd2pH4zvV9BwZUjNc=/128x128/v1.YzszMTE4O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Bowling Green Daily News",
+      "editorialUrl": "https://www.bgdailynews.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4yzj0KyP",
+      "publicationId": "3193"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149437",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.austinchronicle.com/screens/film-review/one-night-only-review-this-is-fine/",
+    "createDate": "2026-08-07T17:32:23.000Z",
+    "updateDate": "2026-08-07T17:32:23.000Z",
+    "reviewQuote": "One Night Only isn’t a romantic comedy. It’s a dystopian horror.",
+    "language": "English",
+    "critic": {
+      "displayName": "Kimberley Jones",
+      "initials": "KJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/kimberley-jones",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "kimberley-jones",
+      "encryptedCriticId": "8yNngkyL",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Austin Chronicle",
+      "editorialUrl": "http://www.austinchronicle.com/screens/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/yB9EUQDKieuB4ioR3Xz-8jXWP2E=/225x225/v1.YzsxMDAwMDAzNTcyO3A7MjA3MDk7MjA0ODsyMjU7MjI1",
+      "encryptedPublicationId": "AQrq1rnR",
+      "publicationId": "28"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149435",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://splicedpersonality.substack.com/p/review-one-night-only",
+    "createDate": "2026-08-07T17:25:14.000Z",
+    "updateDate": "2026-08-07T17:25:14.000Z",
+    "reviewQuote": "A lot of the online nitpicking reminds me of a regular at my old bookstore who used to scream about how &apos;Star Trek&apos; was bad because &apos;their system of currency makes no sense&#46;&apos;",
+    "language": "English",
+    "critic": {
+      "displayName": "Sean Burns",
+      "initials": "SB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/sean-burns",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "sean-burns",
+      "encryptedCriticId": "pZ69Q6ye",
+      "displayImageUrl": "https://resizing.flixster.com/6ZaU3r82e4BoP8_JodOBjvKOxMY=/128x128/v1.YzsyNTYzO2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Spliced Personality (Substack)",
+      "editorialUrl": "https://splicedpersonality.substack.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4rwkJnrA",
+      "publicationId": "2690"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149434",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.sfchronicle.com/entertainment/movies-tv/article/one-night-only-review-22373901.php",
+    "createDate": "2026-08-07T17:24:06.000Z",
+    "updateDate": "2026-08-07T17:24:06.000Z",
+    "reviewQuote": "It succumbs to the usual tropes, like keeping our leads apart for most of the movie.",
+    "language": "English",
+    "critic": {
+      "displayName": "Carla Meyer",
+      "initials": "CM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/carla-meyer",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "carla-meyer",
+      "encryptedCriticId": "e8y8Lny2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "San Francisco Chronicle",
+      "editorialUrl": "https://www.sfchronicle.com",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/9UVGGDRa3wIvylGO5IJCmHELK6c=/256x256/v1.YzsxMDAwMDAzNzYwO2o7MjA3MDk7MjA0ODs2MzA7NjMw",
+      "encryptedPublicationId": "64rwPnlA",
+      "publicationId": "402"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149430",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "6/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://geekvibesnation.com/one-night-only-review/",
+    "createDate": "2026-08-07T17:06:12.000Z",
+    "updateDate": "2026-08-07T17:06:12.000Z",
+    "reviewQuote": "One Night Only&apos;s first 95 minutes are sexy and funny&#44; with a script that delivers strong build-up but&#44; in its final moments&#44; chooses to abstain&#44; resulting in a chaste climax and limp finish&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "M.N. Miller",
+      "initials": "MM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mn-miller",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "mn-miller",
+      "encryptedCriticId": "ZG0nJKar",
+      "displayImageUrl": "https://resizing.flixster.com/B2S9Zbn3gGiXA_bKIPAP--ae9b0=/80x80/v1.YzsxMDAwMDAzMTA1O3A7MjA3MDk7MjA0ODs4MDs4MA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Geek Vibes Nation",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "rEX8ALxZ",
+      "publicationId": "100009880"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149426",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://exclaim.ca/film/article/one-night-only-film-review",
+    "createDate": "2026-08-07T17:00:04.000Z",
+    "updateDate": "2026-08-07T17:00:04.000Z",
+    "reviewQuote": "One Night Only can easily be criticized for simply gesturing at important questions with no interest in even analyzing&#44; let alone answering&#44; anything&#46; I suggest that this is the point&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Rachel Ho",
+      "initials": "RH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rachel-ho",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rachel-ho",
+      "encryptedCriticId": "krLwo7Zw",
+      "displayImageUrl": "https://resizing.flixster.com/s2AFflAvdbqiJbQnwVD8rtH_Emg=/128x128/v1.YzsxMDAwMDAzMTk1O2o7MjA3MDk7MjA0ODs2MzQ7NjI2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Exclaim!",
+      "editorialUrl": "https://exclaim.ca/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "NBZ5YXZ9",
+      "publicationId": "887"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149408",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "2.5/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thirdcoastreview.com/film-tv/2026/08/07/review-one-night-only",
+    "createDate": "2026-08-07T15:26:36.000Z",
+    "updateDate": "2026-08-07T15:26:36.000Z",
+    "reviewQuote": "The movie is sometimes fun&#59; but more often&#44; it&apos;s a missed opportunity to have two beautiful leads get fully raunchy&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Steven Prokopy",
+      "initials": "SP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/steven-prokopy",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "steven-prokopy",
+      "encryptedCriticId": "OrVBxprk",
+      "displayImageUrl": "https://resizing.flixster.com/djuTypaUXUm1f0kU8nXnplN2PAs=/128x128/v1.YzszMzc0O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Third Coast Review",
+      "editorialUrl": "https://thirdcoastreview.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Vy2qOqlW",
+      "publicationId": "3477"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149401",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B-",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.sportsalcohol.com/one-night-only-review/",
+    "createDate": "2026-08-07T15:17:29.000Z",
+    "updateDate": "2026-08-07T15:17:29.000Z",
+    "reviewQuote": "The movie&#8217;s ambitions and old-fashioned small-c conservatism never feel fully resolved&#44; and that&#8217;s what gives the movie some unexpected friction&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Jesse Hassenger",
+      "initials": "JH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jesse-hassenger",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "jesse-hassenger",
+      "encryptedCriticId": "qrE5z5ra",
+      "displayImageUrl": "https://resizing.flixster.com/P66Zwm-Q-Syp0m6kq9nHIWhfOPU=/128x128/v1.YzszODcwO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "SportsAlcohol",
+      "editorialUrl": "https://www.sportsalcohol.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "vZp5GnrV",
+      "publicationId": "3912"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149399",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://cinemalogue.com/2026/08/07/one-night-only/",
+    "createDate": "2026-08-07T15:15:17.000Z",
+    "updateDate": "2026-08-07T15:15:17.000Z",
+    "reviewQuote": "Amid its zany energy and screwball mayhem&#44; the film is doomed by a morally dubious premise that wants to be edgy but winds up as a real turn-off&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Todd Jorgenson",
+      "initials": "TJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/todd-jorgenson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "todd-jorgenson",
+      "encryptedCriticId": "ora11qrg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Cinemalogue",
+      "editorialUrl": "http://www.cinemalogue.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "XYrjpjyx",
+      "publicationId": "1731"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149391",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.rogerstv.com/durham-region/show/cinema-seen?video=63f01cff-4889-4134-b287-3d4be0f0114f",
+    "createDate": "2026-08-07T14:57:32.000Z",
+    "updateDate": "2026-08-07T14:57:32.000Z",
+    "reviewQuote": "Fascism renders One Night Only flaccid and unfunny&#46;&#10;",
+    "language": "English",
+    "critic": {
+      "displayName": "Eric Marchen",
+      "initials": "EM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/eric-marchen",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "eric-marchen",
+      "encryptedCriticId": "BZ53Rol9",
+      "displayImageUrl": "https://resizing.flixster.com/EmaRSyhoKWHv1jGgMky2m6R5R40=/128x128/v1.YzszODAxO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Rogers TV",
+      "editorialUrl": "https://www.rogerstv.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "VZBM8RyA",
+      "publicationId": "3830"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149383",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "4/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://pittsburgh.tablemagazine.com/blog/colliers-cuts-one-night-only-movie/",
+    "createDate": "2026-08-07T14:15:11.000Z",
+    "updateDate": "2026-08-07T14:15:11.000Z",
+    "reviewQuote": "The film either hasn&#8217;t chosen a point of view or has settled on a poor one&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Sean Collier",
+      "initials": "SC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/sean-collier",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "sean-collier",
+      "encryptedCriticId": "oZvO8Lrw",
+      "displayImageUrl": "https://resizing.flixster.com/LNWO-Qx18kElUtdLixmH58Lb7rE=/128x128/v1.YzszMDg5O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Table Magazine",
+      "editorialUrl": "tablemagazine.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "yNepnOql",
+      "publicationId": "100011625"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149381",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "D+",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.theonlycritic.com/post/one-night-only-review-pre-marital-sex-is-only-legal-for-12-hours-in-dumb-romantic-comedy",
+    "createDate": "2026-08-07T13:54:47.000Z",
+    "updateDate": "2026-08-07T13:54:47.000Z",
+    "reviewQuote": " The logistical hurdles become so overwhelming that they eventually swallow the entire movie&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Nate Adams",
+      "initials": "NA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nate-adams",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "nate-adams",
+      "encryptedCriticId": "el7z3jrq",
+      "displayImageUrl": "https://resizing.flixster.com/n7f1Bj1GCc1u-MWKF5nXFcSS7S8=/128x128/v1.YzszMDY4O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Only Critic",
+      "editorialUrl": "https://www.theonlycritic.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "qrEA2Bra",
+      "publicationId": "3180"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149372",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1.5/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://thereveal.film/in-review-teenage-sex-and-death-at-camp-miasma-tony-one-night-only/",
+    "createDate": "2026-08-07T13:08:19.000Z",
+    "updateDate": "2026-08-07T13:08:19.000Z",
+    "reviewQuote": "The film bends toward a prudish&#44; heteronormative attitude about casual hook-ups that is unmistakably pro-mandate&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Scott Tobias",
+      "initials": "ST",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/scott-tobias",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "scott-tobias",
+      "encryptedCriticId": "EqrEq2ra",
+      "displayImageUrl": "https://resizing.flixster.com/FlUl3A5qATcykZvWWyEbwMw_37Y=/128x128/v1.Yzs0MDEyO2o7MjA3MDA7MjA0ODs3MTE7NzEx",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Reveal",
+      "editorialUrl": "https://thereveal.film/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "8yNn8qyL",
+      "publicationId": "4069"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149353",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thejamreport.com/2026/08/07/review-one-night-only-is-saved-from-its-own-silliness-by-the-chemistry-of-its-two-leads/",
+    "createDate": "2026-08-07T08:48:04.000Z",
+    "updateDate": "2026-08-07T08:48:04.000Z",
+    "reviewQuote": "The screenplay repeatedly undermines its own ambitious concept&#46; But the central romance is so warm&#44; funny&#44; and emotionally convincing that it ultimately overcomes many of the film&apos;s shortcomings&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Doug Jamieson",
+      "initials": "DJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/doug-jamieson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "doug-jamieson",
+      "encryptedCriticId": "5yMqNDyg",
+      "displayImageUrl": "https://resizing.flixster.com/jncV6I5ziiSnCQ9KibvvpphNrRk=/128x128/v1.YzszMTMzO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Jam Report",
+      "editorialUrl": "https://thejamreport.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "BZ5D2jy9",
+      "publicationId": "3187"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149347",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://bostonmovienews.com/2026/08/07/one-night-only-shall-we-shag-now/",
+    "createDate": "2026-08-07T07:11:46.000Z",
+    "updateDate": "2026-08-07T14:30:36.000Z",
+    "reviewQuote": "Hard no&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Dana Barbuto",
+      "initials": "DB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/dana-barbuto",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "dana-barbuto",
+      "encryptedCriticId": "jlO8YGy0",
+      "displayImageUrl": "https://resizing.flixster.com/QHFgQaa_9LILTX0H3sTFcNzR4Qs=/128x128/v1.YzsxMDAwMDAzMjE0O2o7MjA3MDk7MjA0ODsxMTk0OzEyNzI",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Boston Movie News",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "yRmYMojl",
+      "publicationId": "100009789"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149329",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtu.be/9bbxChx7-E8",
+    "createDate": "2026-08-07T02:19:29.000Z",
+    "updateDate": "2026-08-07T02:19:29.000Z",
+    "reviewQuote": "A charming cast is the only thing making this ludicrous story watchable&#8212;a movie so afraid of having a point of view it borders on abstinence propaganda&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Joseph Robinson",
+      "initials": "JR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/joseph-robinson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "joseph-robinson",
+      "encryptedCriticId": "y3JLjRol",
+      "displayImageUrl": "https://resizing.flixster.com/m-6FJ8UT-8yNbjLvUgjo_cgyDow=/128x128/v1.YzsxMDAwMDAzMDMxO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Fish Jelly Films (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y9RP4MQZ",
+      "publicationId": "100009834"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149322",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://kkfi.org/program-episodes/freeze-frame-one-night-only-r-ice-cream-man-r-ted-lasso-season-4-tv-ma-cookie-queens-not-rated/",
+    "createDate": "2026-08-07T02:03:04.000Z",
+    "updateDate": "2026-08-07T02:03:04.000Z",
+    "reviewQuote": "There are a few clever moments but &quot;One Night Only&quot; can never overcome its inherent phoniness&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Russ Simmons",
+      "initials": "RS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/russ-simmons",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "russ-simmons",
+      "encryptedCriticId": "dynRgQyQ",
+      "displayImageUrl": "https://resizing.flixster.com/yos6rt5NvddC_IT3GuBEcAIKLZw=/128x128/v1.YzszNzM1O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "KKFI-FM (Kansas City)",
+      "editorialUrl": "https://kkfi.org/program/freeze-frame/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "arXjGqyO",
+      "publicationId": "3757"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149316",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.news-herald.com/2026/08/05/one-night-only-review-purge-like-rom-com-makes-most-of-the-evening/",
+    "createDate": "2026-08-07T01:06:15.000Z",
+    "updateDate": "2026-08-07T01:06:15.000Z",
+    "reviewQuote": "As &quot;One Night Only&quot; works its way to its predictable if also necessary conclusion&#44; it does so a little clumsily&#44; but overall the movie is solid work from Gluck&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Mark Meszoros",
+      "initials": "MM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mark-meszoros",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "mark-meszoros",
+      "encryptedCriticId": "7ldW5NrO",
+      "displayImageUrl": "https://resizing.flixster.com/DG2U0GJgmpcS9kXz6ZFTpZPjRb0=/128x128/v1.YzszOTAxO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The News-Herald (Willoughby, OH)",
+      "editorialUrl": "https://www.news-herald.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "RrYbJMlO",
+      "publicationId": "3916"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149312",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.fwweekly.com/2026/08/05/one-night-only-allegro-barbaro/",
+    "createDate": "2026-08-07T00:30:42.000Z",
+    "updateDate": "2026-08-07T14:30:36.000Z",
+    "reviewQuote": "Director Will Gluck has a feel for the snappy tone and farcical rhythms that this piece needs.",
+    "language": "English",
+    "critic": {
+      "displayName": "Kristian M. Lin",
+      "initials": "KL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/kristian-m-lin",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "kristian-m-lin",
+      "encryptedCriticId": "BZ5D81y9",
+      "displayImageUrl": "https://resizing.flixster.com/D5zEc2_YMB4wbtUHqRNw55DLIrk=/128x128/v1.YzsxMDAwMDAyNjAzO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Fort Worth Weekly",
+      "editorialUrl": "http://www.fwweekly.com/film-2/film-reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "publicationImageUrl": "https://resizing.flixster.com/ilTgJCuXu8SUacRvPAIJIbZt5eY=/225x225/v1.YzsxMDAwMDAzNjUyO2o7MjA3MDk7MjA0ODsyMjU7MjI1",
+      "encryptedPublicationId": "VZBM9vyA",
+      "publicationId": "2430"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149309",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.cambridgeday.com/2026/08/06/devastating-drama-near-future-rom-com/",
+    "createDate": "2026-08-07T00:27:39.000Z",
+    "updateDate": "2026-08-07T14:30:36.000Z",
+    "reviewQuote": "Turner and Barbaro are likable enough, but the punch-through by director Will Gluck (“Peter Rabbit”) and writer Travis Braun never gets steamy or sassy enough.",
+    "language": "English",
+    "critic": {
+      "displayName": "Tom Meek",
+      "initials": "TM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/tom-meek",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "tom-meek",
+      "encryptedCriticId": "ErmoQ5yb",
+      "displayImageUrl": "https://resizing.flixster.com/FDW0y6LctSnYkDuB__hOWDvZU0w=/128x128/v1.YzszNDA5O3A7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Cambridge Day",
+      "editorialUrl": "http://www.cambridgeday.com/category/arts-and-culture/film/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "publicationImageUrl": "https://resizing.flixster.com/xMIngGBG7jQl3foLpONSiy_kNzM=/225x225/v1.YzsxMDAwMDAzNTk0O2o7MjA3MDk7MjA0ODsyMjU7MjI1",
+      "encryptedPublicationId": "9ZkK6OZG",
+      "publicationId": "2541"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149291",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.wyomingnews.com/features/movies/movie-review-dystopian-rom-com-one-night-only-needed-another-day-at-drawing-board/article_09d0e3bd-a859-48d5-8b45-2616dfb1ef16.html",
+    "createDate": "2026-08-07T00:06:57.000Z",
+    "updateDate": "2026-08-07T00:06:57.000Z",
+    "reviewQuote": "Turner and Barbaro give it their best&#44; but not even their charisma can reliably bolster the inherent structural flaws of this concept and its execution&#46; &quot;One Night Only&quot; needed to go back to the drawing board&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Katie Walsh",
+      "initials": "KW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/katie-walsh",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "katie-walsh",
+      "encryptedCriticId": "Glgp31yp",
+      "displayImageUrl": "https://resizing.flixster.com/AJyLEWOeUq3BMqHFojfj-XNjcMI=/128x128/v1.YzsyNTg5O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Tribune News Service",
+      "editorialUrl": "",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "XrA4W2Zw",
+      "publicationId": "2448"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149284",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.vulture.com/article/one-night-only-shouldve-gone-full-starship-troopers.html",
+    "createDate": "2026-08-07T00:01:27.000Z",
+    "updateDate": "2026-08-07T00:01:35.000Z",
+    "reviewQuote": "I don't think it's possible to separate the rom or the com of One Night Only from its context, but the movie is not very good at either. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Alison Willmore",
+      "initials": "AW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alison-willmore",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "alison-willmore",
+      "encryptedCriticId": "RyRXDMrd",
+      "displayImageUrl": "https://resizing.flixster.com/CoZOect3pWEOvj6hOgMmEoOUhdg=/128x128/v1.YzsyNjI3O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "New York Magazine/Vulture",
+      "editorialUrl": "http://www.vulture.com/news/movie-review/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "5Ly9LRln",
+      "publicationId": "334"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149261",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thatshelf.com/one-night-only-review-what-if-the-purge-was-a-rom-com/",
+    "createDate": "2026-08-06T23:44:03.000Z",
+    "updateDate": "2026-08-06T23:44:03.000Z",
+    "reviewQuote": "One Night Only takes a self-aware and absurd premise and literally runs with it&#44; giving audiences a fresh and frankly funny take on sex and dating in a bizarro near-future New York&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Rachel West",
+      "initials": "RW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rachel-west",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "rachel-west",
+      "encryptedCriticId": "orag5zyg",
+      "displayImageUrl": "https://resizing.flixster.com/STlFgNIz7iJl5qhBz4QP-PZJGDY=/128x128/v1.YzsxMDAwMDAzOTM2O2o7MjA3MDk7MjA0ODsxMDgwOzEwODA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "That Shelf",
+      "editorialUrl": "https://thatshelf.com/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "plDaqDy6",
+      "publicationId": "2642"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149258",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1.5/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://aisleseat.com/one-night-only.html",
+    "createDate": "2026-08-06T23:42:41.000Z",
+    "updateDate": "2026-08-06T23:42:41.000Z",
+    "reviewQuote": "The movie isn&#8217;t serious about its central couple&#44; and it isn&#8217;t serious about its provocative premise&#44; either&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Mike McGranaghan",
+      "initials": "MM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mike-mcgranaghan",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "mike-mcgranaghan",
+      "encryptedCriticId": "5Ly9Eayn",
+      "displayImageUrl": "https://resizing.flixster.com/Oih2c8dT7dwoYPkFCsmaHpF0FA8=/128x128/v1.YzsxMDAwMDAyOTU1O2o7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Aisle Seat",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "QWy1RZzq",
+      "publicationId": "6"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149249",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.timeout.com/movies/one-night-only-review-2026",
+    "createDate": "2026-08-06T23:19:57.000Z",
+    "updateDate": "2026-08-07T14:30:36.000Z",
+    "reviewQuote": "One Night Only is so brazenly flirtatious, so determined to seduce, you’ll barely even notice how empty and cheap it feels -- until the end, when you’re left alone again.",
+    "language": "English",
+    "critic": {
+      "displayName": "Elizabeth Weitzman",
+      "initials": "EW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/elizabeth-weitzman",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "elizabeth-weitzman",
+      "encryptedCriticId": "jxlbjVlE",
+      "displayImageUrl": "https://resizing.flixster.com/h7h3D5uX-arH8ZavTkp16PHCQ9Y=/128x128/v1.YzsyMjgyO3A7MjA3MDA7MjA0ODsxMzA7MTMw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Time Out",
+      "editorialUrl": "http://www.timeout.com",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/jsrbzeqCLl3PDrxftaQDztkssSI=/256x256/v1.YzsxMDAwMDAzODExO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "4el7Layq",
+      "publicationId": "1651"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149218",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-one-night-only-review-romcom-gluck-barbaro/",
+    "createDate": "2026-08-06T21:56:10.000Z",
+    "updateDate": "2026-08-06T21:56:10.000Z",
+    "reviewQuote": "All the wasted breath on One Night Only&#8217;s high-concept premise takes away from the romcom of it all and gives back nothing in return&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Radheyan Simonpillai",
+      "initials": "RS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/radheyan-simonpillai",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "radheyan-simonpillai",
+      "encryptedCriticId": "qrEDv5Za",
+      "displayImageUrl": "https://resizing.flixster.com/xHIN1GBn5fycsFh71D_QR0Mzwsk=/128x128/v1.YzsxMDAwMDAyNjcxO2o7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Globe and Mail",
+      "editorialUrl": "http://www.theglobeandmail.com/arts/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/bbqkO_rVzWYujdxyYnMEKSRiOl8=/256x256/v1.YzsxMDAwMDAzNjYwO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "5pZ6dxle",
+      "publicationId": "662"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149194",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://dallas.culturemap.com/news/entertainment/high-concept-rom-com-one-night-only-can-t-make-its-sex-quest-click/",
+    "createDate": "2026-08-06T21:07:24.000Z",
+    "updateDate": "2026-08-06T21:07:24.000Z",
+    "reviewQuote": "A film that could have been uproaringly funny or super sexy or very romantic winds up being none of those things&#44; with each element getting the basic treatment and nothing more&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Alex Bentley",
+      "initials": "AB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alex-bentley",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "alex-bentley",
+      "encryptedCriticId": "VZB4g4lA",
+      "displayImageUrl": "https://resizing.flixster.com/XTyLrHIpHBXClRCsjiD4NLSSfXw=/128x128/v1.YzszODU5O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "CultureMap",
+      "editorialUrl": "https://dallas.culturemap.com/news/entertainment",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "plDaXQy6",
+      "publicationId": "3686"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149191",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.splicetoday.com/moving-pictures/dry-running",
+    "createDate": "2026-08-06T21:05:27.000Z",
+    "updateDate": "2026-08-06T21:05:27.000Z",
+    "reviewQuote": "For a romantic comedy&#44; it&#8217;s surprisingly unfunny&#8212;the humor is too dependent on pratfalls and broad physical comedy&#8212;and for a movie about sex&#44; it&#8217;s not very sexy&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Stephen Silver",
+      "initials": "SS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/stephen-silver",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "stephen-silver",
+      "encryptedCriticId": "dyn0derQ",
+      "displayImageUrl": "https://resizing.flixster.com/sO7Jn-MPESAo4coPwMp2J4WVkBs=/128x128/v1.YzsyNjA0O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Splice Today",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "7ldakDyO",
+      "publicationId": "2854"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149167",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://denersteinunleashed.blogspot.com/2026/08/when-sex-happens-once-year.html",
+    "createDate": "2026-08-06T20:09:47.000Z",
+    "updateDate": "2026-08-06T20:09:47.000Z",
+    "reviewQuote": "Gluck (Easy A and Anyone But You) gets good work from his cast, but can't liberate enough laughs from this gimmicky fable. \n",
+    "language": "English",
+    "critic": {
+      "displayName": "Robert Denerstein",
+      "initials": "RD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/robert-denerstein",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "robert-denerstein",
+      "encryptedCriticId": "R7ldN5ZO",
+      "displayImageUrl": "https://resizing.flixster.com/Lbs5EULZeA6PjdorIT4on6XMIbU=/38x48/v1.YzsxNTkxO2c7MjA3MDA7MjA0ODszODs0OA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Denerstein Unleashed",
+      "editorialUrl": "http://www.denersteinunleashed.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "xyeL9Nle",
+      "publicationId": "2866"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149154",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "D",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.oneguysopinion.com/one-night-only/",
+    "createDate": "2026-08-06T19:36:12.000Z",
+    "updateDate": "2026-08-06T19:36:13.000Z",
+    "reviewQuote": "A bad idea&#44; poorly executed&#46;&#46;&#46;&#91;a&#93; frantically unfunny R-rated raunch-fest pretending to be a charming romantic comedy&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Frank Swietek",
+      "initials": "FS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/frank-swietek",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "frank-swietek",
+      "encryptedCriticId": "PkrLRNyw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "One Guy's Opinion",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "e8y8YRZ2",
+      "publicationId": "347"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149131",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://loudandclearreviews.com/one-night-only-film-review/",
+    "createDate": "2026-08-06T17:32:50.000Z",
+    "updateDate": "2026-08-06T17:32:50.000Z",
+    "reviewQuote": "Monica Barbaro and Callum Turner carry One Night Only and its hysterical&#44; absurd narrative on their backs with their scorching chemistry and amazing performances&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Branyan Towe",
+      "initials": "BT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/branyan-towe",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "branyan-towe",
+      "encryptedCriticId": "lo85najy",
+      "displayImageUrl": "https://resizing.flixster.com/rNUUUUo-vvDBrUKr2aQVTufHYdY=/128x128/v1.YzsxMDAwMDAzNTAyO3A7MjA3MDk7MjA0ODs1MDA7NTAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Loud and Clear Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "y0VpDXPr",
+      "publicationId": "100009659"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149121",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B-",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://moviemom.com/one-night-only/",
+    "createDate": "2026-08-06T16:47:40.000Z",
+    "updateDate": "2026-08-07T14:30:32.000Z",
+    "reviewQuote": "A ridicuously silly premise manages to stay out of the way and let the glossy rom-com take over&#46; It helps that the movie itself does not take the premise too seriously&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Nell Minow",
+      "initials": "NM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nell-minow",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "nell-minow",
+      "encryptedCriticId": "6arXWZOQ",
+      "displayImageUrl": "https://resizing.flixster.com/wbdhBbWdCr94z-wqQYO3cGownxA=/38x48/v1.YzsxNTc5O2c7MjA3MDA7MjA0ODszODs0OA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Movie Mom",
+      "editorialUrl": "http://moviemom.maxlazebnik.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "5Erm25lb",
+      "publicationId": "300"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149103",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "2.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://richardcrouse.ca/one-night-only-2-%C2%BD-stars-a-mash-up-of-when-harry-met-sally-and-the-purge/",
+    "createDate": "2026-08-06T14:28:02.000Z",
+    "updateDate": "2026-08-06T14:28:02.000Z",
+    "reviewQuote": "Like a mash-up of When Harry Met Sally and The Purge&#44; One Night Only&#8217;s reluctance to fully engage with its dystopian political premise&#44; it shines when focusing on its stars Monica Barbaro and Callum Turner&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Richard Crouse",
+      "initials": "RC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/richard-crouse",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "richard-crouse",
+      "encryptedCriticId": "5rP5oGle",
+      "displayImageUrl": "https://resizing.flixster.com/QbleXVdsQavhonkj1Vg0bD_yphI=/128x128/v1.YzszODgxO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Richard Crouse",
+      "editorialUrl": "http://www.richardcrouse.ca/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "ErmKkwyb",
+      "publicationId": "3900"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149097",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "http://www.markreviewsmovies.com/reviews/O/onenightonly-2026.htm",
+    "createDate": "2026-08-06T14:00:36.000Z",
+    "updateDate": "2026-08-06T14:00:36.000Z",
+    "reviewQuote": "The big question left at the end of director Will Gluck&apos;s romantic comedy &#46;&#46;&#46; is how much the movie itself believes the fascists are right about this particular thing&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Mark Dujsik",
+      "initials": "MD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mark-dujsik",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "mark-dujsik",
+      "encryptedCriticId": "alooK5lw",
+      "displayImageUrl": "https://resizing.flixster.com/Z5FBlROuUpMqyhqlClDAoyvoudc=/128x128/v1.YzsxMDAwMDAzOTY2O2o7MjA3MDk7MjA0ODsyMjAwOzIyMDA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Mark Reviews Movies",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "AoZvJ4Zw",
+      "publicationId": "958"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149094",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://solzyatthemovies.com/2026/08/06/one-night-only-2026/",
+    "createDate": "2026-08-06T13:47:22.000Z",
+    "updateDate": "2026-08-06T13:47:22.000Z",
+    "reviewQuote": "One Night Only has some genuinely funny moments and strong performances&#44; but its central premise ultimately works against the romantic comedy it wants to be&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Danielle Solzman",
+      "initials": "DS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/danielle-solzman",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "danielle-solzman",
+      "encryptedCriticId": "orajGqlg",
+      "displayImageUrl": "https://resizing.flixster.com/4ojUuvd5CWbdAJuIVMQ5334fpX0=/128x128/v1.YzszMjA5O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Solzy at the Movies",
+      "editorialUrl": "http://www.solzyatthemovies.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "5rPkVqZe",
+      "publicationId": "2921"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149091",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.denofgeek.com/movies/one-night-only-review-dystopia-happy-ending/",
+    "createDate": "2026-08-06T13:08:46.000Z",
+    "updateDate": "2026-08-06T14:26:35.000Z",
+    "reviewQuote": "It suggests chasing bliss&#44; if even for a moment&#44; with frothy abandon is an end unto itself&#46; Whether or not that&#8217;s the definition of high romance remains debatable&#44; but it is more than enough in these times for a summer night out&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "David Crow",
+      "initials": "DC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/david-crow",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "david-crow",
+      "encryptedCriticId": "Wy1DNxlz",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Den of Geek",
+      "editorialUrl": "https://www.denofgeek.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "5yMnXdZg",
+      "publicationId": "2170"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149083",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.original-cin.ca/posts/2026/8/6/one-night-only-equal-parts-silly-and-stupid-is-just-enough",
+    "createDate": "2026-08-06T12:36:10.000Z",
+    "updateDate": "2026-08-06T14:26:35.000Z",
+    "reviewQuote": "One Night Only couples a bizarre hypothesis &#8212; what if sex outside marriage was illegal&#44; save for one night&#63; &#8212; with a couple of beautiful people &#40;Callum Turner and Monica Barbaro&#41; and calls it a day&#46; It&#8217;s enough &#40;just&#41; to make it a fun night out&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Chris Knight",
+      "initials": "CK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/chris-knight",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "chris-knight",
+      "encryptedCriticId": "arXBjGyO",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Original Cin",
+      "editorialUrl": "https://www.original-cin.ca/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "VlJzKblP",
+      "publicationId": "2876"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103149048",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7.5/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://butwhytho.net/2026/08/one-night-only-review-callum-turner/",
+    "createDate": "2026-08-06T03:12:48.000Z",
+    "updateDate": "2026-08-06T03:12:48.000Z",
+    "reviewQuote": "One Night Only is successful because it has the essentials down&#58; a light-hearted&#44; constantly romantic tone&#44; a steady stream of genuine laughs&#44; and magnetic chemistry between its leads&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "James Preston Poole",
+      "initials": "JP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/james-preston-poole",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "james-preston-poole",
+      "encryptedCriticId": "Z5JojMjr",
+      "displayImageUrl": "https://resizing.flixster.com/wIIotHp3-mJdU0Skj7T5ICsvavM=/128x128/v1.YzsxMDAwMDAzMjczO2o7MjA3MDk7MjA0ODsxNDQwOzEwODM",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "But Why Tho?",
+      "editorialUrl": "https://butwhytho.net/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "krLnNKyw",
+      "publicationId": "3409"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148989",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://punchdrunkcritics.com/2026/08/review-one-night-only/",
+    "createDate": "2026-08-05T23:10:32.000Z",
+    "updateDate": "2026-08-05T23:10:32.000Z",
+    "reviewQuote": "Unfortunately&#44; this plucky but exhausting extended &quot;meet cute&quot; takes all of the joy out of sex despite its charming leads&#44; Monica Barbaro and Callum Turner&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Travis Hopson",
+      "initials": "TH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/travis-hopson",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "travis-hopson",
+      "encryptedCriticId": "krLmpklw",
+      "displayImageUrl": "https://resizing.flixster.com/X4Vmyp4ye7iwkLCo4LAdzMdgw6o=/128x128/v1.YzsyNDkwO2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Punch Drunk Critics",
+      "editorialUrl": "http://www.punchdrunkcritics.com/search/label/reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "BZ5DjLy9",
+      "publicationId": "2787"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148986",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://culturemixonline.com/review-one-night-only-2026-starring-monica-barbaro-and-callum-turner/",
+    "createDate": "2026-08-05T22:54:50.000Z",
+    "updateDate": "2026-08-05T22:54:50.000Z",
+    "reviewQuote": "What does it say about an adult romantic comedy when a 12-year-old boy has the raunchiest lines in the movie&#63; One Night Only tries hard to look edgy&#44; but it goes downhill and turns into schmaltzy mush that plays it too safe&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Carla Hay",
+      "initials": "CH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/carla-hay",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "carla-hay",
+      "encryptedCriticId": "9Zk6mEyG",
+      "displayImageUrl": "https://resizing.flixster.com/CEMDPd-NZ9FOQb1fYI4CRGQcHks=/128x128/v1.YzszNTY0O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Culture Mix",
+      "editorialUrl": "https://culturemixonline.com/movie-tv-reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "VlJz8AlP",
+      "publicationId": "3776"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148975",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "http://www.nycmovieguru.com/aug7th26.html#onenightonly",
+    "createDate": "2026-08-05T21:47:35.000Z",
+    "updateDate": "2026-08-05T21:47:35.000Z",
+    "reviewQuote": "A slick&#44; harmless and fitfully amusing&#44; but limp&#44; witless&#44; and sappy romcom&#46; If you want a romcom with more zaniness and laughs&#44; see Bringing Up Baby which would be the far superior film in a double bill with this inferior romcom&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Avi Offer",
+      "initials": "AO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/avi-offer",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "avi-offer",
+      "encryptedCriticId": "VlJeqxrP",
+      "displayImageUrl": "https://resizing.flixster.com/t0Po8TkPnZm6BEEtNvaGzlLpzjA=/38x42/v1.YzsxODE3O2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "NYC Movie Guru",
+      "editorialUrl": "http://www.nycmovieguru.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "pZ691Vye",
+      "publicationId": "2162"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148974",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "4/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.houstonchronicle.com/entertainment/movies_tv/article/one-night-only-review-22375097.php",
+    "createDate": "2026-08-05T21:42:30.000Z",
+    "updateDate": "2026-08-06T14:26:36.000Z",
+    "reviewQuote": "The totally charming &quot;One Night Only&quot;&#46;&#46;&#46;makes the most of its easily digestible premise &#8212; what happens when premarital sex is outlawed except for one night&#63; &#8212; and its captivating cast&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Cary Darling",
+      "initials": "CD",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/cary-darling",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "cary-darling",
+      "encryptedCriticId": "jlOAv4Z0",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Houston Chronicle",
+      "editorialUrl": "https://www.houstonchronicle.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/NwWrdok32TbOQHU7ohez0CXmcnQ=/256x256/v1.YzsxMDAwMDAzNjczO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "jGlgm9Zp",
+      "publicationId": "219"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148969",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://landofthenerds.blogspot.com/2026/08/one-night-only-is-dreadfully-boring.html",
+    "createDate": "2026-08-05T21:02:49.000Z",
+    "updateDate": "2026-08-05T21:02:49.000Z",
+    "reviewQuote": "Nobody in One Night Only has funny lines&#46; It&#8217;s a romantic comedy too sterile to be swoon-worthy and too bereft of humor to inspire laughs&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Lisa Laman",
+      "initials": "LL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/lisa-laman",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "lisa-laman",
+      "encryptedCriticId": "YrjGkwlx",
+      "displayImageUrl": "https://resizing.flixster.com/B6Ccu7Nxv95ToGMiY9MjvcvSeLc=/128x128/v1.YzsxMDAwMDAzOTM1O2o7MjA3MDk7MjA0ODsyMTQ3OzIxNDc",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Land of the Nerds",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "yzvMRdjy",
+      "publicationId": "100011693"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148967",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://reeltalkwithchuckandpam.com/one-night-only-chuck-skip-it/",
+    "createDate": "2026-08-05T20:55:07.000Z",
+    "updateDate": "2026-08-05T20:55:07.000Z",
+    "reviewQuote": "&quot;Night&quot; will likely satisfy those with a rom-com itch that needs to be scratched&#46; As for me&#44; I couldn&#8217;t help thinking a far more interesting story could have been told&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Charles Koplinski",
+      "initials": "CK",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/charles-koplinski",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "charles-koplinski",
+      "encryptedCriticId": "RyRX5wrd",
+      "displayImageUrl": "https://resizing.flixster.com/18C4SVYjfAo66HeWeHiVKCk9i8s=/128x128/v1.YzszODI1O2o7MjA3MDA7MjA0ODsxODA7MTgw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Reel Talk with Chuck and Pam",
+      "editorialUrl": "http://reeltalkwithchuckandpam.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "XrA4RaZw",
+      "publicationId": "3848"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148960",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtu.be/sXdPksIhqT0?is=J54hna9fOEe7EzJd",
+    "createDate": "2026-08-05T20:43:18.000Z",
+    "updateDate": "2026-08-06T14:26:39.000Z",
+    "reviewQuote": "The movie is aware of how absurd its premise is&#44; and it works because director Will Gluck makes it genuinely funny and Monica Barbaro and Callum Turner are so charming&#44; both together and apart&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Eric Goldman",
+      "initials": "EG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/eric-goldman",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "eric-goldman",
+      "encryptedCriticId": "XrA75Eyw",
+      "displayImageUrl": "https://resizing.flixster.com/zIG_Lfqd-LftUhD9qrxQpEeedsQ=/128x128/v1.YzsxMDAwMDAyNjU5O2o7MjA3MDk7MjA0ODs1MDA7NTAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Eric Goldman (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "lbYwj7Or",
+      "publicationId": "100010064"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148958",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://nypost.com/2026/08/05/entertainment/one-night-only-review-sex-is-legal-once-a-year-in-lame-rom-com/",
+    "createDate": "2026-08-05T20:41:23.000Z",
+    "updateDate": "2026-08-05T20:41:23.000Z",
+    "reviewQuote": "Quite by accident, Gluck’s routine film ends up resembling so many of the one night stands it’s about: A fantastic plan at first, but an unsatisfying let-down in the light of day.\n\n",
+    "language": "English",
+    "critic": {
+      "displayName": "Johnny Oleksinski",
+      "initials": "JO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/johnny-oleksinski",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "johnny-oleksinski",
+      "encryptedCriticId": "plDYBQy6",
+      "displayImageUrl": "https://resizing.flixster.com/tF0Aqr_JJM_NlfUqW4RRlzr_ZEE=/128x128/v1.YzszMDYyO2o7MjA3MDA7MjA0ODsxNjkzOzE2MzM",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "New York Post",
+      "editorialUrl": "http://www.nypost.com/entertainment/movies/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/2zXkX2WNO8FfXP6O-Nc8TKTueIM=/225x225/v1.YzsxMDAwMDAzNzIyO2o7MjA3MDk7MjA0ODsyMjU7MjI1",
+      "encryptedPublicationId": "EqrEq2ra",
+      "publicationId": "336"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148955",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C-",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.beaconjournal.com/story/entertainment/movies/2026/08/05/callum-turner-monica-barbaro-deserve-better-than-one-night-only/91170416007/",
+    "createDate": "2026-08-05T20:38:50.000Z",
+    "updateDate": "2026-08-06T14:26:39.000Z",
+    "reviewQuote": "The effort and ambition of &quot;One Night Only&quot; can be appreciated&#44; but the overall execution dooms it&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "George M. Thomas",
+      "initials": "GT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/george-m-thomas",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "george-m-thomas",
+      "encryptedCriticId": "RyRMOwld",
+      "displayImageUrl": "https://resizing.flixster.com/aR4ZdOnkWEeTTjEjdawI3UUE_xE=/128x128/v1.YzsxMDAwMDAzMzc5O2o7MjA3MDk7MjA0ODsyODU7Mjg2",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Akron Beacon Journal",
+      "editorialUrl": "http://the330.com/category/movies/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "publicationImageUrl": "https://resizing.flixster.com/_NlPxK8t0_Q8ReZmGgF7ccmNwDE=/256x256/v1.YzsxMDAwMDAzNTYxO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "XrA4X2Zw",
+      "publicationId": "2404"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148950",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://inbetweendrafts.com/one-night-only-movie-review/",
+    "createDate": "2026-08-05T20:34:28.000Z",
+    "updateDate": "2026-08-07T14:30:40.000Z",
+    "reviewQuote": "The Purge by way of Before Sunrise&#44; with just enough satirical bite to sharpen the comedy without overwhelming the romance&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Jon Negroni",
+      "initials": "JN",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/jon-negroni",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "jon-negroni",
+      "encryptedCriticId": "7ZWn9eym",
+      "displayImageUrl": "https://resizing.flixster.com/mSuDTQO78ZgP_7nHKQNW2u0GQJY=/128x128/v1.YzszOTQ1O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "InBetweenDrafts",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "lbYwW01r",
+      "publicationId": "100009720"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148949",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B+",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://theplaylist.net/one-night-only-review-will-gluck-monica-barbaro-callum-turner-20260805/",
+    "createDate": "2026-08-05T20:34:21.000Z",
+    "updateDate": "2026-08-05T20:34:21.000Z",
+    "reviewQuote": "If “Easy A” was Gluck’s perfect modern teen comedy—and it remains an incredibly funny and endearing movie—then “One Night Only” is its closest analogue in the rom-com genre.",
+    "language": "English",
+    "critic": {
+      "displayName": "Rodrigo Perez",
+      "initials": "RP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rodrigo-perez",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rodrigo-perez",
+      "encryptedCriticId": "vZGo2bZ7",
+      "displayImageUrl": "https://resizing.flixster.com/Kt0hKGNqnT2XCD9SdQtkV3BvuWA=/128x128/v1.YzsyNzQzO2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Playlist",
+      "editorialUrl": "http://theplaylist.net/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/MZ_fZKZ5inGW4tQO3YyG5DjpcbA=/256x256/v1.YzsxMDAwMDAzODA1O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "Ermo1Vyb",
+      "publicationId": "2100"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148920",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://filmyap.substack.com/p/one-night-only",
+    "createDate": "2026-08-05T19:23:47.000Z",
+    "updateDate": "2026-08-06T14:26:41.000Z",
+    "reviewQuote": "Sexy romcom meets sci-fi cautionary tale in this fizzy flick about a couple having repeated meet-cutes on the one night of the year the government allows single people to have sex&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Christopher Lloyd",
+      "initials": "CL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/christopher-lloyd",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "christopher-lloyd",
+      "encryptedCriticId": "Ly9LL8ln",
+      "displayImageUrl": "https://resizing.flixster.com/O3ncKxSk-SCZLxEwthFmgYFzjeE=/128x128/v1.YzszMTA3O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Film Yap",
+      "editorialUrl": "https://filmyap.substack.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "krLnE7yw",
+      "publicationId": "2953"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148910",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thathollywoodshow.com/movie-news/one-night-only-review-a-hilarious-rom-com-whose-premise-will-leave-you-with-a-lot-of-questions/",
+    "createDate": "2026-08-05T18:42:28.000Z",
+    "updateDate": "2026-08-05T18:42:28.000Z",
+    "reviewQuote": "There is a lot of disbelief you have to leave at the door for One Night Only but the minute you engage with this movie with an open heart, you will find that the raunchy romantic comedies of the 90s and early 00s are alive and well...",
+    "language": "English",
+    "critic": {
+      "displayName": "Rachel Leishman",
+      "initials": "RL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rachel-leishman",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rachel-leishman",
+      "encryptedCriticId": "dyn5RBlQ",
+      "displayImageUrl": "https://resizing.flixster.com/w9RATS1ZGwYO9Q2O1jUaAga-wcI=/128x128/v1.Yzs0MDEzO2o7MjA3MDA7MjA0ODs1ODA7NTgw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "That Hollywood Show",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Zvdeg8Ll",
+      "publicationId": "100009814"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148897",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://gonewiththetwins.com/one-night-only-2026/",
+    "createDate": "2026-08-05T18:22:21.000Z",
+    "updateDate": "2026-08-05T18:22:22.000Z",
+    "reviewQuote": "Perhaps most surprising is how gleefully the story plays out&#44; showcasing positivity and benevolence&#44; rather than embracing cynicism and ostracization&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Mike Massie",
+      "initials": "MM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/mike-massie",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "mike-massie",
+      "encryptedCriticId": "4y3n9vln",
+      "displayImageUrl": "https://resizing.flixster.com/Np8cKYxzbRuh3kWbXWyLxp24ON0=/128x128/v1.YzszNjc3O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Gone With The Twins",
+      "editorialUrl": "http://gonewiththetwins.com/new/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Glg5bdZp",
+      "publicationId": "3719"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148893",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://riot-us.com/2026/08/05/one-night-only-review/",
+    "createDate": "2026-08-05T18:19:46.000Z",
+    "updateDate": "2026-08-06T14:26:32.000Z",
+    "reviewQuote": "The writing is funny&#44; sharp&#44; and filled with the kind of absurd&#44; frenetic energy that recalls the sex comedy romps of the &#8217;80s and &#8217;90s&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Soma Brodhun",
+      "initials": "SB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/soma-brodhun",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "soma-brodhun",
+      "encryptedCriticId": "yNe4qmkl",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Geek Girl Riot / RIOTUS",
+      "editorialUrl": "https://riot-us.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/lWjFaQwMElBRRTUxEVMsQcS3naY=/256x256/v1.YzsxMDAwMDAzOTU5O3A7MjA3MDk7MjA0ODs0ODAwOzQ4MDA",
+      "encryptedPublicationId": "BZ5Doby9",
+      "publicationId": "3343"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148883",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://notthatrobthomas.substack.com/p/one-night-only-serves-up-a-meet-cute",
+    "createDate": "2026-08-05T17:55:48.000Z",
+    "updateDate": "2026-08-05T17:55:48.000Z",
+    "reviewQuote": "I&#8217;ll say this much for &quot;One Night Only&quot; &#8211; you don&#8217;t see many rom-coms set in a Christofascist dystopia&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Rob Thomas",
+      "initials": "RT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/rob-thomas",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "rob-thomas",
+      "encryptedCriticId": "ora1NNrg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Not That Rob Thomas (Substack)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Z5JG5q1r",
+      "publicationId": "100010087"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148881",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "5/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://bleedingcool.com/movies/one-night-only-review-an-unhinged-premise-results-in-unfunny-comedy",
+    "createDate": "2026-08-05T17:51:36.000Z",
+    "updateDate": "2026-08-05T17:51:36.000Z",
+    "reviewQuote": "One Night Only fails to do anything with its buckwild premise&#44; which is even more frustrating than just being a mostly unfunny&#44; unsexy romantic comedy&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Kaitlyn Booth",
+      "initials": "KB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/kaitlyn-booth",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "kaitlyn-booth",
+      "encryptedCriticId": "4yzaqjlP",
+      "displayImageUrl": "https://resizing.flixster.com/FUCxHvefTQkRuDDJkv8vlx2jFLE=/128x128/v1.YzszMzY2O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Bleeding Cool",
+      "editorialUrl": "https://www.bleedingcool.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Vy2qMqlW",
+      "publicationId": "2333"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148876",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.mercurynews.com/2026/08/05/review-one-night-only-is-funny-ridiculous-and-sexy/",
+    "createDate": "2026-08-05T17:41:24.000Z",
+    "updateDate": "2026-08-05T17:41:24.000Z",
+    "reviewQuote": "One Night Only gets the most laughs when depicting sexual blunders but ultimately it celebrates unexpected love connections that sometimes take their own sweet time to blossom. Love can happen like that.\n\n",
+    "language": "English",
+    "critic": {
+      "displayName": "Randy Myers",
+      "initials": "RM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/randy-myers",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "randy-myers",
+      "encryptedCriticId": "8y89x1Z2",
+      "displayImageUrl": "https://resizing.flixster.com/lw46BZbn_WnAB560c4CDKcL5YVA=/38x42/v1.YzsyMzAyO2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "San Jose Mercury News",
+      "editorialUrl": "http://www.mercurynews.com/movies",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/vZCh5_ihclDr9Z9_E-62duvtjRY=/225x225/v1.YzsxMDAwMDAzNzYyO2o7MjA3MDk7MjA0ODsyMjU7MjI1",
+      "encryptedPublicationId": "ERyRQvld",
+      "publicationId": "601"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148874",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "D+",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.blu-ray.com/One-Night-Only/2050537/#Review",
+    "createDate": "2026-08-05T17:38:06.000Z",
+    "updateDate": "2026-08-05T17:38:06.000Z",
+    "reviewQuote": "There&#8217;s a more dangerous and exciting movie to be made here&#44; but the production quickly loses its nerve&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Brian Orndorf",
+      "initials": "BO",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/brian-orndorf",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "brian-orndorf",
+      "encryptedCriticId": "6lKj8Prp",
+      "displayImageUrl": "https://resizing.flixster.com/DcdMw-YkO4KFPd5GrLvFGPe8iaU=/128x128/v1.YzsyMjM3O2o7MjA3MDA7MjA0ODsyNTA7Mjg1",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Blu-ray.com",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4y39Kqrn",
+      "publicationId": "2468"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148872",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.thedailybeast.com/obsessed/one-night-only-this-baffling-new-movie-is-like-a-rom-com-for-incels/",
+    "createDate": "2026-08-05T17:34:54.000Z",
+    "updateDate": "2026-08-05T17:34:54.000Z",
+    "reviewQuote": "Characters are thin&#44; it&#8217;s drowning in a sea of product placement&#44; and it&#8217;s far more interested in throwing them into one wacky situation after another than it is in making them feel like real people&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Barry Levitt",
+      "initials": "BL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/barry-levitt",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "barry-levitt",
+      "encryptedCriticId": "ra04BvKZ",
+      "displayImageUrl": "https://resizing.flixster.com/nJPWeVsSle4Rq9rjmf9rFBCivOM=/128x128/v1.YzsxMDAwMDAzOTQwO2o7MjA3MDk7MjA0ODs5Njc7OTY3",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Daily Beast",
+      "editorialUrl": "http://www.thedailybeast.com/beaststyle.html",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "RyRMeQld",
+      "publicationId": "2345"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148871",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtu.be/RMzgtPg3ydQ?is=9GJWVgqaKLMb3uBO",
+    "createDate": "2026-08-05T17:24:21.000Z",
+    "updateDate": "2026-08-05T17:24:21.000Z",
+    "reviewQuote": "One night only a fun&#44; romantic comedy that plays on the tropes of the purge and a really good way",
+    "language": "English",
+    "critic": {
+      "displayName": "Zach Pope",
+      "initials": "ZP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/zach-pope",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "zach-pope",
+      "encryptedCriticId": "rVA4PgGZ",
+      "displayImageUrl": "https://resizing.flixster.com/FvXgSKCTzrdQ3CLQPvHEXPDSOs0=/128x128/v1.YzsxMDAwMDAyOTk1O2o7MjA3MDk7MjA0ODs1Nzg7NTQ3",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Zach Pope Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "lo80EQ7y",
+      "publicationId": "100009799"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148870",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.decodingeverything.com/one-night-only-movie-review/",
+    "createDate": "2026-08-05T17:23:28.000Z",
+    "updateDate": "2026-08-06T14:26:37.000Z",
+    "reviewQuote": "One Night Only has an R-rated sensibility that evokes the edginess of Judd Apatow&#8217;s era-defining mid-aughts rom-coms only in a more absurdist direction&#46;&#46;&#46; It may not be the type of rom-com that will linger&#44; but as a one-night stand&#44; it hits the spot&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Caroline Siede",
+      "initials": "CS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/caroline-siede",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "caroline-siede",
+      "encryptedCriticId": "Wy1LKBlz",
+      "displayImageUrl": "https://resizing.flixster.com/n4N1N_59owF7JPVar4rWj8tiECA=/128x128/v1.YzszMjkwO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Decoding Everything",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "lJ6a9dPl",
+      "publicationId": "100010132"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148863",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "4/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://filmobsessive.com/film/new-releases/one-night-only-makes-its-wild-premise-count/",
+    "createDate": "2026-08-05T16:58:56.000Z",
+    "updateDate": "2026-08-06T04:15:41.000Z",
+    "reviewQuote": "Rooting for their predictable and satisfying union is worth the obstacle course&#44; leading to arguably the sexiest movie of the year&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Don Shanahan",
+      "initials": "DS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/don-shanahan",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "don-shanahan",
+      "encryptedCriticId": "xyeEqYye",
+      "displayImageUrl": "https://resizing.flixster.com/SZo4T-N4Ltm3of-ejqAfV2QRgLQ=/128x128/v1.YzszMDc5O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Film Obsessive",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y225q7Ny",
+      "publicationId": "100009733"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148860",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://movieweb.com/one-night-only-review/",
+    "createDate": "2026-08-05T16:52:10.000Z",
+    "updateDate": "2026-08-05T16:52:10.000Z",
+    "reviewQuote": "One Night Only&apos;s chance encounters become utterly absurd as two people who have genuine chemistry can&apos;t get over the hump&#46; The teasing drags on mercilessly until a climax that should have happened way sooner and isn&apos;t fulfilling&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Julian Roman",
+      "initials": "JR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/julian-roman",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "julian-roman",
+      "encryptedCriticId": "Yrj8Obyx",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "MovieWeb",
+      "editorialUrl": "http://www.movieweb.com/movieguru",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "p5rPxOre",
+      "publicationId": "1421"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148856",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "B-",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.reelingreviews.com/reviews/one-night-only/",
+    "createDate": "2026-08-05T16:46:09.000Z",
+    "updateDate": "2026-08-05T16:46:09.000Z",
+    "reviewQuote": "If his high concept feels ripped off from &quot;The Purge&#44;&quot; it works here as a statement against fascistic government overreach&#44; albeit one as playfully implemented as his pharmaceutical ad running gag&#44; the latter more pointed in its social implications&#46;&#10;",
+    "language": "English",
+    "critic": {
+      "displayName": "Laura Clifford",
+      "initials": "LC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/laura-clifford",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "laura-clifford",
+      "encryptedCriticId": "NBZ5wMl9",
+      "displayImageUrl": "https://resizing.flixster.com/uGoPAefqzdf6eW1_1RMpGc7IQzI=/38x52/v1.YzsxNjcyO2c7MjA3MDA7MjA0ODszODs1Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Reeling Reviews",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4plDnQZ6",
+      "publicationId": "386"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148849",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtu.be/kLBnoj-I1F4",
+    "createDate": "2026-08-05T16:39:58.000Z",
+    "updateDate": "2026-08-05T16:39:58.000Z",
+    "reviewQuote": "Besides the feeling of being too long and the need to suspend a lot of disbelief for the concept to work&#44; this was an easy and engaging romantic comedy that mainly succeeded in balancing the heart&#44; sweetness&#44; pitfalls&#44; disappointments&#44; and silliness&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Chris Joyce",
+      "initials": "CJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/chris-joyce",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "chris-joyce",
+      "encryptedCriticId": "ld64dNdZ",
+      "displayImageUrl": "https://resizing.flixster.com/1VIxbWCdFxkOmibyDeyPEf11sh8=/128x128/v1.YzsxMDAwMDAyNzkxO2o7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Movies and Munchies (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y9RP4wxZ",
+      "publicationId": "100009678"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148846",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.upi.com/Entertainment_News/Movies/2026/08/05/One-Night-Only-Callum-Turner-Monica-Barbaro-review/6341785905836/",
+    "createDate": "2026-08-05T16:37:56.000Z",
+    "updateDate": "2026-08-05T16:37:56.000Z",
+    "reviewQuote": "A very safe&#44; especially chaste sex comedy&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Fred Topel",
+      "initials": "FT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/fred-topel",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "fred-topel",
+      "encryptedCriticId": "W4y3O2yn",
+      "displayImageUrl": "https://resizing.flixster.com/zfjasQJxVxEL9pyvJHfO2hmhHXw=/128x128/v1.YzsyNDk0O2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "United Press International",
+      "editorialUrl": "http://www.upi.com/Entertainment_News/Movies/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "el77jalq",
+      "publicationId": "2795"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148843",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://thewolfmancometh.com/2026/08/05/one-night-only-movie-review-callum-turner-monica-barbaro/",
+    "createDate": "2026-08-05T16:35:47.000Z",
+    "updateDate": "2026-08-05T16:35:47.000Z",
+    "reviewQuote": "Largely delivers all of the tropes you&apos;d expect from a rom-com&#44; though its premise and script are just quirky enough and stars are just charming enough to make for a watchable if not memorable experience&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Patrick Cavanaugh",
+      "initials": "PC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/patrick-cavanaugh",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "patrick-cavanaugh",
+      "encryptedCriticId": "Ly9nKMZn",
+      "displayImageUrl": "https://resizing.flixster.com/8bNo56qCPFC66Uk_DAA4gfmoP2I=/128x128/v1.YzszODU0O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Wolfman Cometh",
+      "editorialUrl": "https://thewolfmancometh.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "OrVK3nlk",
+      "publicationId": "3483"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148836",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.thewrap.com/creative-content/movies/one-night-only-callum-turner-monica-barbaro-review/",
+    "createDate": "2026-08-05T16:30:03.000Z",
+    "updateDate": "2026-08-05T16:30:03.000Z",
+    "reviewQuote": "Callum Turner and Monica Barbaro make for a charming couple in a concoction that floats above its &quot;Purge&quot;-like setting",
+    "language": "English",
+    "critic": {
+      "displayName": "Matt Goldberg",
+      "initials": "MG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/matt-goldberg",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "matt-goldberg",
+      "encryptedCriticId": "5yMkOorg",
+      "displayImageUrl": "https://resizing.flixster.com/b1cB-0W3quTlbfsW9ehuvj5SOWM=/128x128/v1.YzsxMDAwMDAzNDQzO2o7MjA3MDk7MjA0ODs2MDA7NjAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "TheWrap",
+      "editorialUrl": "http://www.thewrap.com/tag/movie_reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/oIEyuPqk711nt7MzMwmDagOBMFg=/200x200/v1.YzsxMDAwMDAzODA4O3A7MjA3MDk7MjA0ODsyMDA7MjAw",
+      "encryptedPublicationId": "4yzjWeyP",
+      "publicationId": "2205"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148835",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://neilsentertainmentpicks.com/2026/08/05/movie-review-one-night-only/",
+    "createDate": "2026-08-05T16:28:34.000Z",
+    "updateDate": "2026-08-05T16:28:34.000Z",
+    "reviewQuote": "A merry mashup of George Orwell&#44; &apos;The Handmaid&#8217;s Tale&apos; and &apos;When Harry Met Sally&#44;&apos; with more sex jokes&#8212;a lot more&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Neil Pond",
+      "initials": "NP",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/neil-pond",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "neil-pond",
+      "encryptedCriticId": "py0KAMlE",
+      "displayImageUrl": "https://resizing.flixster.com/X9Crgh3Kn6urlxH9ZWhzaz5iIRo=/128x128/v1.YzsyODI3O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Neil's Entertainment Picks",
+      "editorialUrl": "neilsentertainmentpicks.com",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "RyRMPvld",
+      "publicationId": "2801"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148834",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "1.5/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.bostonglobe.com/2026/08/05/arts/one-night-only-callum-turner-monica-barbaro/",
+    "createDate": "2026-08-05T16:24:49.000Z",
+    "updateDate": "2026-08-05T16:24:49.000Z",
+    "reviewQuote": "Its ideas are outdated and&#44; for a movie about casual sex&#44; it&#8217;s shockingly puritanical&#46; Even worse&#44; its old-fashioned ideas about romance and sex in relationships would make a Doris Day movie look like &quot;Beyond the Valley of the Dolls&#46;&quot;",
+    "language": "English",
+    "critic": {
+      "displayName": "Odie Henderson",
+      "initials": "OH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/odie-henderson",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "odie-henderson",
+      "encryptedCriticId": "el7njnrq",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Boston Globe",
+      "editorialUrl": "http://www.boston.com/ae/movies/current_releases/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/pERnUS9Fzyk2ZgUPLmgF2Kqdkm4=/256x256/v1.YzsxMDAwMDAzNTg2O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "5Ermokyb",
+      "publicationId": "44"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148833",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.cleveland.com/entertainment/2026/08/one-night-only-review-love-is-on-the-clock-in-this-clever-rom-com.html",
+    "createDate": "2026-08-05T16:22:57.000Z",
+    "updateDate": "2026-08-06T14:26:40.000Z",
+    "reviewQuote": "The fact that director Will Gluck arrives at a conclusion that&#8217;s sentimental&#44; optimistic and only a little schmaltzy is a neat trick given the film&#8217;s contrived&#44; almost dystopian premise&#46;&#10;",
+    "language": "English",
+    "critic": {
+      "displayName": "Joey Morona",
+      "initials": "JM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/joey-morona",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "joey-morona",
+      "encryptedCriticId": "9ZkbzOyG",
+      "displayImageUrl": "https://resizing.flixster.com/ngqepwa03JPlCX1SZ_wF8cFmZW0=/128x128/v1.YzszODcxO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Cleveland Plain Dealer",
+      "editorialUrl": "http://www.cleveland.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/cFEq9LTzDZ_MJjam5PIn-8vUiRQ=/240x240/v1.YzsxMDAwMDAzNjEyO2o7MjA3MDk7MjA0ODsyNDA7MjQw",
+      "encryptedPublicationId": "py0DxMyE",
+      "publicationId": "2115"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148832",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "D+",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.avclub.com/one-night-only-review",
+    "createDate": "2026-08-05T16:22:07.000Z",
+    "updateDate": "2026-08-05T16:22:07.000Z",
+    "reviewQuote": "Instead of sharing a laugh at the ridiculous pressure to have fun with every swipe, One Night Only has only one thing on its mind, and it’s disappointingly much more traditional.",
+    "language": "English",
+    "critic": {
+      "displayName": "Monica Castillo",
+      "initials": "MC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/monica-castillo",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "monica-castillo",
+      "encryptedCriticId": "oraWwvyg",
+      "displayImageUrl": "https://resizing.flixster.com/yz1Fvd4fIjUBASNjmgOtuUKFYHg=/128x128/v1.YzsyNTYxO2c7MjA3MDA7MjA0ODsxNTI7MTY4",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "AV Club",
+      "editorialUrl": "http://www.avclub.com/channels/film/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/p_lVlSWxAwFI0LDmURpDSJLeQOU=/200x200/v1.YzsxMDAwMDAzODk1O3A7MjA3MDk7MjA0ODsyMDA7MjAw",
+      "encryptedPublicationId": "jVy2BbyW",
+      "publicationId": "833"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148830",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://open.substack.com/pub/petersobczynski/p/the-very-first-night?r=129p34&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+    "createDate": "2026-08-05T16:19:58.000Z",
+    "updateDate": "2026-08-05T16:19:58.000Z",
+    "reviewQuote": "Despite the film&#8217;s insistence that these two are ultimately destined to be together&#44; there is never a point where we actually feel that&#8212;they deliver their banter as professionally as possible but they never come across as a plausible pairing&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Peter Sobczynski",
+      "initials": "PS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/peter-sobczynski",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "peter-sobczynski",
+      "encryptedCriticId": "4yzkOmZP",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Auteurist Class (Substack)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "Z5JG5AMr",
+      "publicationId": "100010143"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148828",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://weliveentertainment.com/welivefilm/one-night-review-just-gluck-already/",
+    "createDate": "2026-08-05T16:18:03.000Z",
+    "updateDate": "2026-08-05T16:18:03.000Z",
+    "reviewQuote": "Never quite settling on how raunchy it wants to be&#44; the film sidesteps both large and small implications of this world in favor of a fairly rote story involving two very attractive people who would never be caught in the dilemma this film puts them in&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Aaron Neuwirth",
+      "initials": "AN",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/aaron-neuwirth",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "aaron-neuwirth",
+      "encryptedCriticId": "VZB1B4yA",
+      "displayImageUrl": "https://resizing.flixster.com/Rc2FIfREcE5-g064pz2xWjkgXso=/128x128/v1.YzsxMDAwMDAzOTA3O2o7MjA3MDk7MjA0ODsxNDI4OzE1ODI",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "We Live Entertainment",
+      "editorialUrl": "http://weliveentertainment.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "RyRMPqld",
+      "publicationId": "2789"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148826",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.nytimes.com/2026/08/05/movies/one-night-only-review.html",
+    "createDate": "2026-08-05T16:11:23.000Z",
+    "updateDate": "2026-08-07T14:30:42.000Z",
+    "reviewQuote": "With nothing to say about sex or society, the repression plot mostly gets in the way of a movie that would prefer to be a routine romance.",
+    "language": "English",
+    "critic": {
+      "displayName": "Natalia Winkelman",
+      "initials": "NW",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/natalia-winkelman",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "natalia-winkelman",
+      "encryptedCriticId": "RyRJ8eyd",
+      "displayImageUrl": "https://resizing.flixster.com/uMWmJy3zDo-ATlOCJ39X3AG7flA=/128x128/v1.YzsxMDAwMDAyODIzO2o7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "New York Times",
+      "editorialUrl": "http://www.nytimes.com/library/film/indexfilm.html",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/kFywZuXxfFRjXGhUFKEwCpe6ms4=/240x210/v1.YzsxMDAwMDAzNzIzO3A7MjA3MDk7MjA0ODsyNDA7MjEw",
+      "encryptedPublicationId": "z7ZWjgym",
+      "publicationId": "337"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148825",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.screendaily.com/reviews/one-night-only-review-callum-turner-and-monica-barbaro-spark-in-otherwise-limp-romantic-comedy/5219136.article",
+    "createDate": "2026-08-05T16:08:02.000Z",
+    "updateDate": "2026-08-05T16:08:02.000Z",
+    "reviewQuote": "Despite showing lots of skin and featuring sexually-suggestive dialogue, One Night Only suffers from a stultifying timidity. ",
+    "language": "English",
+    "critic": {
+      "displayName": "Tim Grierson",
+      "initials": "TG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/tim-grierson",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "tim-grierson",
+      "encryptedCriticId": "4yzWDjZP",
+      "displayImageUrl": "https://resizing.flixster.com/uVyMVRvadeb8ap6UWMG_cxthKMw=/128x128/v1.YzsyNzM2O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Screen International",
+      "editorialUrl": "http://www.screendaily.com/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/X3J3A5l9y7LAqi1uUfPn55_-nTY=/256x256/v1.YzsxMDAwMDAzNzY1O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "M8yN9VlL",
+      "publicationId": "1069"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148824",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.slashfilm.com/2230705/one-night-only-movie-review/",
+    "createDate": "2026-08-05T16:07:45.000Z",
+    "updateDate": "2026-08-05T16:07:45.000Z",
+    "reviewQuote": "&quot;One Night Only&quot; is an absolute&#160;delight&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Nina Starner",
+      "initials": "NS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/nina-starner",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "nina-starner",
+      "encryptedCriticId": "lgP4nqAy",
+      "displayImageUrl": "https://resizing.flixster.com/duB1yk73V4kvztscIq9sx48L-iE=/128x128/v1.YzsxMDAwMDAzMzQ0O3A7MjA3MDk7MjA0ODsyNDA7MjQw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Slashfilm",
+      "editorialUrl": "http://www.slashfilm.com/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "oraOOJyg",
+      "publicationId": "1996"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148823",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "0/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.rogerebert.com/reviews/one-night-only-monica-barbaro-callum-turner-film-review-2026",
+    "createDate": "2026-08-05T16:07:16.000Z",
+    "updateDate": "2026-08-05T16:07:16.000Z",
+    "reviewQuote": "If this is what it takes to get a rom-com greenlit these days&#44; maybe we should just let them die&#46; Death with dignity is surely a better fate for the genre than fascist capitulation&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Marya E. Gates",
+      "initials": "MG",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/marya-e-gates",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "marya-e-gates",
+      "encryptedCriticId": "py0b2PrE",
+      "displayImageUrl": "https://resizing.flixster.com/Shy69JmwfoLEDxZz5hZUc4UdiQs=/128x128/v1.YzsxMDAwMDAyNjU4O2o7MjA3MDk7MjA0ODs5NjA7OTYw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "RogerEbert.com",
+      "editorialUrl": "http://www.rogerebert.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "eoraDKZg",
+      "publicationId": "1708"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148822",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://insessionfilm.com/movie-review-one-night-only/",
+    "createDate": "2026-08-05T16:07:13.000Z",
+    "updateDate": "2026-08-05T16:07:13.000Z",
+    "reviewQuote": "One Night Only is ultimately average enough to be inoffensive even within the ridiculousness of its concept&#44; but it never rises above fairly plain romcom fare ",
+    "language": "English",
+    "critic": {
+      "displayName": "Joshua Mbonu",
+      "initials": "JM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/joshua-mbonu",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "joshua-mbonu",
+      "encryptedCriticId": "rqzL2bBl",
+      "displayImageUrl": "https://resizing.flixster.com/9quTMzNwIq7eiLpnoj0dFNc2BHc=/128x128/v1.YzsxMDAwMDAzMzUwO3A7MjA3MDk7MjA0ODs1MDA7NTAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "InSession Film",
+      "editorialUrl": "http://insessionfilm.com/movie-reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "7ZWeRWlm",
+      "publicationId": "3137"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148821",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2 out of 5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://freshfiction.tv/one-night-only-review-the-sex-purge-movie-is-more-preposterous-than-outlandish-and-thats-a-problem/",
+    "createDate": "2026-08-05T16:06:56.000Z",
+    "updateDate": "2026-08-05T16:06:56.000Z",
+    "reviewQuote": "Frustrating&#44; underwhelming and in desperate need of zestful pep when it comes to its lackluster comedic timing&#44; the portrait painted is more bleak dystopia than colorful&#44; heartwarming surreality&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Courtney Howard",
+      "initials": "CH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/courtney-howard",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "courtney-howard",
+      "encryptedCriticId": "7ld5bzyO",
+      "displayImageUrl": "https://resizing.flixster.com/pMrOINXjOSmdzUstbaxFt6bCehg=/128x128/v1.YzsyODA2O2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Fresh Fiction",
+      "editorialUrl": "http://freshfiction.tv/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "py0D7EyE",
+      "publicationId": "2915"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148820",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://discussingfilm.net/2026/08/05/one-night-only-review-absurd-rom-com/",
+    "createDate": "2026-08-05T16:06:41.000Z",
+    "updateDate": "2026-08-05T16:06:41.000Z",
+    "reviewQuote": "One Night Only is designed to be watched with a group of friends&#44; followed by an in-depth discussion of the logistical problems&#44; politics&#44; and hypothetical scenarios that the sex-purge universe sparks to mind&#46; In other words&#44; it&apos;s a surprisingly fun time&#33;",
+    "language": "English",
+    "critic": {
+      "displayName": "Tyler Taing",
+      "initials": "TT",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/tyler-taing",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "tyler-taing",
+      "encryptedCriticId": "yRm43Jol",
+      "displayImageUrl": "https://resizing.flixster.com/ezVmmxdiO2No_WOGlxf4B1Qppng=/128x128/v1.YzsxMDAwMDAzMzAwO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Discussing Film",
+      "editorialUrl": "https://discussingfilm.wordpress.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "vZpkMDyV",
+      "publicationId": "3156"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148819",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://variety.com/2026/film/news/one-night-only-review-1236828254/",
+    "createDate": "2026-08-05T16:06:06.000Z",
+    "updateDate": "2026-08-05T16:06:06.000Z",
+    "reviewQuote": "If “One Night Only” is aiming to comment on the hollow, ineffective nature of much contemporary political activism, then job done. But it’s hard to shake the sense that no commentary on anything in particular is intended here.",
+    "language": "English",
+    "critic": {
+      "displayName": "Guy Lodge",
+      "initials": "GL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/guy-lodge",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "guy-lodge",
+      "encryptedCriticId": "RrYNoklO",
+      "displayImageUrl": "https://resizing.flixster.com/Oko1l5zJ2-Y0Tl9dpuaGYRzi6TI=/128x128/v1.YzszOTIwO3A7MjA3MDA7MjA0ODszNDM7MzQz",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Variety",
+      "editorialUrl": "http://variety.com/v/film/reviews/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/cMg4FAB7XrqmpueG7MpVj83MU8w=/256x256/v1.YzsxMDAwMDAzODI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "YxyebgZe",
+      "publicationId": "466"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148818",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "9/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://creators.spotify.com/pod/profile/filmposers/episodes/S5-E16---The-One-Night-Only-Review-e3n0vfb",
+    "createDate": "2026-08-05T16:05:22.000Z",
+    "updateDate": "2026-08-05T16:05:22.000Z",
+    "reviewQuote": "Full of tender moments&#44; One Night Only is quick and precise in its wit and charm&#46; Callum Turner and Monica Barbaro have perfect chemistry&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Josie Meléndez",
+      "initials": "JM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/josie-melendez",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "josie-melendez",
+      "encryptedCriticId": "py0AnMZE",
+      "displayImageUrl": "https://resizing.flixster.com/SkBb8QFkil0c3RL-XFgHBhupNPE=/128x128/v1.YzsxMDAwMDAyNjQ0O2o7MjA3MDk7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Film Posers Podcast",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y225qYby",
+      "publicationId": "100009577"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148817",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/5",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review",
+    "createDate": "2026-08-05T16:04:59.000Z",
+    "updateDate": "2026-08-05T16:04:59.000Z",
+    "reviewQuote": "There’s both too much yet not enough world-building here, enough questions answered to encourage us to ask 10 more. It’s also just too unavoidably grim of a premise, especially at a dark political moment such as this.",
+    "language": "English",
+    "critic": {
+      "displayName": "Benjamin Lee",
+      "initials": "BL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/benjamin-lee",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "benjamin-lee",
+      "encryptedCriticId": "ErmG6Myb",
+      "displayImageUrl": "https://resizing.flixster.com/QXSSh9qh198wWx_tX1ustL0MTg4=/128x128/v1.YzsxMDAwMDAyOTE0O2o7MjA3MDk7MjA0ODs5NTU7ODY3",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Guardian",
+      "editorialUrl": "https://www.theguardian.com/film+tone/reviews",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PSiWKUHiH7OIbfgdTcalUEnDgpU=/256x256/v1.YzsxMDAwMDAzNjYzO3A7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "J4yzkxZP",
+      "publicationId": "205"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148816",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "D",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://thefilmmaven.com/one-night-only-review-callum-turner/",
+    "createDate": "2026-08-05T16:03:21.000Z",
+    "updateDate": "2026-08-05T16:03:21.000Z",
+    "reviewQuote": "One Night Only becomes a cringe-fest the longer it goes on&#44; sacrificing actual romance for a sex comedy that feels like it&apos;ll give the wrong people ideas in the dystopian time we&apos;re actually living in&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Kristen Lopez",
+      "initials": "KL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/kristen-lopez",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "kristen-lopez",
+      "encryptedCriticId": "VlJvVblP",
+      "displayImageUrl": "https://resizing.flixster.com/SRmY2OpSeRFqE_TkqqjeEtBSLKE=/128x128/v1.YzsyNzczO2c7MjA3MDA7MjA0ODsxNTA7MTUw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Film Maven",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "y225Gd4y",
+      "publicationId": "100010077"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148815",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://deadline.com/2026/08/one-night-only-review-callum-turner-monica-barbaro-1237018240/",
+    "createDate": "2026-08-05T16:03:12.000Z",
+    "updateDate": "2026-08-05T16:03:12.000Z",
+    "reviewQuote": "This is all fun entertainment, a nice date movie and summer place to go for some laughs and a pretty decent rom-com, a genre sadly few and far and between this season.",
+    "language": "English",
+    "critic": {
+      "displayName": "Pete Hammond",
+      "initials": "PH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/pete-hammond",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "pete-hammond",
+      "encryptedCriticId": "4rwnBDZA",
+      "displayImageUrl": "https://resizing.flixster.com/eluIpreeuxsREahUOVu5WUxGGFs=/38x44/v1.YzsxNzk0O2o7MjA3MDA7MjA0ODszODs0NA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Deadline Hollywood Daily",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/J9nZqvu0OQcTuaqREwauFUr28IQ=/256x256/v1.YzsxMDAwMDAzOTI3O2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "vZpkOdyV",
+      "publicationId": "2256"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148814",
+    "scoreSentiment": "NEGATIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.movierecsbylex.com/reviews/onenightonly",
+    "createDate": "2026-08-05T16:03:00.000Z",
+    "updateDate": "2026-08-05T16:03:00.000Z",
+    "reviewQuote": "As a high-concept film&#44; it never fully explores the fascinating questions raised by its premise&#46; As a straightforward romantic comedy&#44; however&#44; it is far more successful&#44; thanks largely to the chemistry between Barbaro and Turner&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Lexi Amoriello",
+      "initials": "LA",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/lexi-amoriello",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "lexi-amoriello",
+      "encryptedCriticId": "ZWz47L7y",
+      "displayImageUrl": "https://resizing.flixster.com/8HDlUQyu1zbvbGI8hn4-zE9gIJY=/128x128/v1.YzsxMDAwMDAzOTU3O3A7MjA3MDk7MjA0ODsxNzcwOzIwODA",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Movie Recs by Lex",
+      "editorialUrl": "",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "lDpwDN2l",
+      "publicationId": "100011686"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148813",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/one-night-only-review-monica-barbaro-callum-turner-1236664648/",
+    "createDate": "2026-08-05T16:01:16.000Z",
+    "updateDate": "2026-08-05T16:01:16.000Z",
+    "reviewQuote": "Luckily for director Will Gluck, who is tasked with turning this flimsy concept into fizzy fun, he has two charming leads in Monica Barbaro and Callum Turner. Their easygoing chemistry makes us root for them to get over the many contrived hurdles.",
+    "language": "English",
+    "critic": {
+      "displayName": "David Rooney",
+      "initials": "DR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/david-rooney",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "david-rooney",
+      "encryptedCriticId": "BZ55DPZ9",
+      "displayImageUrl": "https://resizing.flixster.com/-_nxKSoIajfV_9NjUmE0Esql060=/128x128/v1.YzszODM5O3A7MjA3MDA7MjA0ODsyNDg7MzIw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "The Hollywood Reporter",
+      "editorialUrl": "http://www.hollywoodreporter.com/hr/film/reviews/index.jsp",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "publicationImageUrl": "https://resizing.flixster.com/PnE_AJzukoI8np6MHm5j9vpNtOM=/256x256/v1.YzsxMDAwMDAzNjcwO2o7MjA3MDk7MjA0ODs0MDA7NDAw",
+      "encryptedPublicationId": "6arXpQrO",
+      "publicationId": "213"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148812",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://mamasgeeky.com/2026/08/one-night-only-2026-review.html",
+    "createDate": "2026-08-05T16:01:14.000Z",
+    "updateDate": "2026-08-05T16:01:14.000Z",
+    "reviewQuote": "An absolutely charming film that is reminiscent of the romantic comedies of the early 2000s&#46; Monica Barbaro and Callum Turner are an absolute delight together&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Tessa Smith",
+      "initials": "TS",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/tessa-smith",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "tessa-smith",
+      "encryptedCriticId": "Vy2DAzrW",
+      "displayImageUrl": "https://resizing.flixster.com/bUMX5nx5dsJOasjDazq_TIsWFVc=/128x128/v1.YzszMzU5O2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Mama's Geeky",
+      "editorialUrl": "https://mamasgeeky.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "7ldaO0yO",
+      "publicationId": "3454"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148811",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://consequence.net/2026/08/one-night-only-review-callum-turner/",
+    "createDate": "2026-08-05T16:01:12.000Z",
+    "updateDate": "2026-08-05T16:01:12.000Z",
+    "reviewQuote": "A movie that imagines a society that would buy party hats celebrating the one night of the year they have an ounce of bodily autonomy&#46; An America that wouldn&#8217;t just surrender further to fascism&#44; but turn it into branding&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Liz Shannon Miller",
+      "initials": "LM",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/liz-shannon-miller",
+      "isTopCritic": true,
+      "tomatometerApproved": true,
+      "vanity": "liz-shannon-miller",
+      "encryptedCriticId": "Qrq6v9ln",
+      "displayImageUrl": "https://resizing.flixster.com/J-NEOol1DLqdoximU5975ERsswY=/38x42/v1.YzsyNDczO2c7MjA3MDA7MjA0ODszODs0Mg",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Consequence",
+      "editorialUrl": "https://consequence.net/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "7ldaozyO",
+      "publicationId": "2610"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148810",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "8/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://screenrant.com/one-night-only-movie-review/",
+    "createDate": "2026-08-05T16:00:44.000Z",
+    "updateDate": "2026-08-05T16:00:44.000Z",
+    "reviewQuote": "I won&apos;t speculate whether One Night Only could bring rom-coms back&#46; But it&apos;s at least concrete evidence that Hollywood hasn&apos;t forgotten how to do them right&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Alex Harrison",
+      "initials": "AH",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/alex-harrison",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "alex-harrison",
+      "encryptedCriticId": "ZBd3k7ml",
+      "displayImageUrl": "https://resizing.flixster.com/NSRHwfrCAuzpfZZw0BdZTNC7IJY=/128x128/v1.YzsxMDAwMDAzNDI4O2o7MjA3MDk7MjA0ODsyMjI0OzIyMjQ",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Screen Rant",
+      "editorialUrl": "http://screenrant.com",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "e8y8djy2",
+      "publicationId": "1647"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148809",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "3.5/5",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://flickdirect.com/movie-review/3369/one-night-only/movie.ashx",
+    "createDate": "2026-08-05T16:00:23.000Z",
+    "updateDate": "2026-08-05T16:00:23.000Z",
+    "reviewQuote": "One Night Only turns an unusual dystopian premise into a funny&#44; charming rom-com powered by terrific chemistry between Monica Barbaro and Callum Turner&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Allison Rose",
+      "initials": "AR",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/allison-rose",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "allison-rose",
+      "encryptedCriticId": "alobJ6rw",
+      "displayImageUrl": "https://resizing.flixster.com/UGHiYnE2EbzAezz0mGk_IM1p4zg=/128x128/v1.YzszNDIxO2o7MjA3MDA7MjA0ODszMDA7MzAw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "FlickDirect",
+      "editorialUrl": "https://flickdirect.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "4y39Gqrn",
+      "publicationId": "3524"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148808",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "C",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://awardswatch.com/one-night-only-review-monica-barbaro-shines-in-this-straight-story-in-desperate-need-of-going-both-ways-c/",
+    "createDate": "2026-08-05T16:00:07.000Z",
+    "updateDate": "2026-08-05T16:00:07.000Z",
+    "reviewQuote": "It comes close to hitting the feel for what makes living in New York so glorious and so frustrating&#44; yet by overemphasizing the rules of the mandate around sex&#44; the film forgets to explore the fun and messiness of sex itself&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Sophia Ciminello",
+      "initials": "SC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/sophia-ciminello",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "sophia-ciminello",
+      "encryptedCriticId": "Z5JoaePr",
+      "displayImageUrl": "https://resizing.flixster.com/K8ccEragotj1cklrKFGJeEH0lT4=/128x128/v1.YzsxMDAwMDAyNzUyO3A7MjA3MDk7MjA0ODs0NzQ7NDc0",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "AwardsWatch",
+      "editorialUrl": "https://awardswatch.com/category/reviews/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "Wy1KJnrz",
+      "publicationId": "3094"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148807",
+    "scoreSentiment": "POSITIVE",
+    "originalScore": "7/10",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://nextbestpicture.com/one-night-only/",
+    "createDate": "2026-08-05T16:00:07.000Z",
+    "updateDate": "2026-08-05T16:00:07.000Z",
+    "reviewQuote": "Yes&#44; the film&#8217;s &quot;The Purge&#44; but for sex&#44;&quot; premise has earned all the laughter it&#8217;s gotten since the trailer dropped&#46; But Braun&#44; Gluck&#44; and their team have the last laugh&#58; &quot;One Night Only&quot; is a great time at the movies&#44; on any night of the year&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Dan Bayer",
+      "initials": "DB",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/dan-bayer",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "dan-bayer",
+      "encryptedCriticId": "rLb4Jqay",
+      "displayImageUrl": "https://resizing.flixster.com/UvFDsXKvbcXXnDq3Hleru0TTvpI=/128x128/v1.YzsxMDAwMDAzMjEwO2o7MjA3MDk7MjA0ODs5NjA7OTYw",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Next Best Picture",
+      "editorialUrl": "https://www.nextbestpicture.com/",
+      "isTopPublication": false,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "4rwkKbrA",
+      "publicationId": "3046"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148806",
+    "scoreSentiment": "NEGATIVE",
+    "originalScore": "2/4",
+    "isTopReview": true,
+    "publicationReviewUrl": "https://www.slantmagazine.com/film/one-night-only-review-callum-turner-monica-barbaro/",
+    "createDate": "2026-08-05T15:59:27.000Z",
+    "updateDate": "2026-08-05T15:59:27.000Z",
+    "reviewQuote": "Romantic comedies rarely make it to theaters these days&#44; which makes it that much more unfortunate that the ones that do feel like sitcoms&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Charles Lyons-Burt",
+      "initials": "CL",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/charles-lyons-burt",
+      "isTopCritic": false,
+      "tomatometerApproved": false,
+      "vanity": "charles-lyons-burt",
+      "encryptedCriticId": "y9R08b3Z",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "Slant Magazine",
+      "editorialUrl": "http://slantmagazine.com/",
+      "isTopPublication": true,
+      "tomatometerApproved": true,
+      "encryptedPublicationId": "p5rPaple",
+      "publicationId": "821"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148804",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://youtu.be/dI3DtTxSSYU",
+    "createDate": "2026-08-05T15:55:08.000Z",
+    "updateDate": "2026-08-05T16:11:32.000Z",
+    "reviewQuote": "There is whimsy&#44; physical comedy&#44; and romantic chemistry in abundance&#44; and an unexpectedly clever&#44; satirical point of view on the tribulations of modern dating&#46;",
+    "language": "English",
+    "critic": {
+      "displayName": "Lady Jenevia",
+      "initials": "LJ",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/lady-jenevia",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "lady-jenevia",
+      "encryptedCriticId": "lDpMokQl",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "LadyJenevia (YouTube)",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "ZBdmRvRl",
+      "publicationId": "100010330"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  },
+  {
+    "reviewId": "103148310",
+    "scoreSentiment": "POSITIVE",
+    "isTopReview": false,
+    "publicationReviewUrl": "https://www.kark.com/arkansas-style/steamy-new-films/",
+    "createDate": "2026-08-03T22:24:04.000Z",
+    "updateDate": "2026-08-05T16:11:28.000Z",
+    "reviewQuote": "It&apos;s a silly premise&#44; in terms of the concept&#44; but if you go with it you&apos;ll have a lot of fun&#46; It&apos;s very charming&#44; it&apos;s good satire&#44; and a lot of insights on relationships&#44; people&#44; and passion&#46; ",
+    "language": "English",
+    "critic": {
+      "displayName": "Michael Cook",
+      "initials": "MC",
+      "rottenTomatoesUrl": "https://www.rottentomatoes.com/critic/michael-cook",
+      "isTopCritic": false,
+      "tomatometerApproved": true,
+      "vanity": "michael-cook",
+      "encryptedCriticId": "ld64RwdZ",
+      "displayImageUrl": "https://resizing.flixster.com/kD341YuGguJ0c0RkjvvBOpfR9MM=/128x128/v1.YzsxMDAwMDAzMDE1O2o7MjA3MDk7MjA0ODs1ODk7NTU0",
+      "criticsGroups": []
+    },
+    "publication": {
+      "name": "KARK-TV",
+      "isTopPublication": false,
+      "tomatometerApproved": false,
+      "encryptedPublicationId": "lbYwWNnr",
+      "publicationId": "100009820"
+    },
+    "reactionSummary": {
+      "reactions": [],
+      "totalCount": 0
+    }
+  }
+]

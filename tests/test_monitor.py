@@ -288,6 +288,135 @@ def test_polymarket_yes_prob_uses_floor():
     assert PolymarketPlatform().yes_prob(res, 80) == res.prob_at_least(80)
 
 
+
+
+# ==================== rt_summary._parse_jsonld（RT数据解析）====================
+# 测解析函数对正常/畸形/异常 HTML 的处理。
+# 背景：RT 偶尔会抽风（超时后返回半截页面、错误内容），解析必须安全——
+# 要么正确提取，要么返回 None，绝不能把脏数据当成有效分数用。
+
+import json as _json
+from src.collectors.rt_summary import _parse_jsonld
+
+
+def _ld(obj):
+    """把 dict 包成 JSON-LD script 标签。"""
+    return f'<script type="application/ld+json">{_json.dumps(obj)}</script>'
+
+
+def test_parse_normal_with_rating():
+    """正常：有片有评分。"""
+    html = _ld({"@type": "Movie", "name": "Resident Evil",
+                "aggregateRating": {"ratingValue": 85, "reviewCount": 120}})
+    r = _parse_jsonld(html)
+    assert r["name"] == "Resident Evil" and r["score"] == 85 and r["n"] == 120
+
+
+def test_parse_movie_no_rating():
+    """新片/未上映：有片名但无评分 → score/n 为 None（盯盘会跳过）。"""
+    html = _ld({"@type": "Movie", "name": "Resident Evil"})
+    r = _parse_jsonld(html)
+    assert r["name"] == "Resident Evil" and r["score"] is None and r["n"] is None
+
+
+def test_parse_empty_html():
+    """空 HTML（RT超时返回空）→ 全 None，不崩。"""
+    r = _parse_jsonld("")
+    assert r == {"name": None, "score": None, "n": None}
+
+
+def test_parse_no_jsonld():
+    """页面无 JSON-LD（RT返回了错误页/验证页）→ 全 None。"""
+    r = _parse_jsonld("<html><body>Access Denied</body></html>")
+    assert r["score"] is None and r["n"] is None
+
+
+def test_parse_malformed_json():
+    """JSON-LD 内容畸形（半截页面）→ 跳过，全 None，不崩。"""
+    html = '<script type="application/ld+json">{broken json here</script>'
+    r = _parse_jsonld(html)
+    assert r["score"] is None and r["n"] is None
+
+
+def test_parse_empty_script_tag():
+    """空的 script 标签 → 不崩，全 None。"""
+    html = '<script type="application/ld+json"></script>'
+    r = _parse_jsonld(html)
+    assert r["score"] is None
+
+
+def test_parse_rating_with_percent():
+    """ratingValue 带 % 号 → 正确去掉解析。"""
+    html = _ld({"@type": "Movie", "name": "X",
+                "aggregateRating": {"ratingValue": "85%", "reviewCount": 120}})
+    r = _parse_jsonld(html)
+    assert r["score"] == 85 and r["n"] == 120
+
+
+def test_parse_reviewcount_nonnumeric():
+    """reviewCount 非数字（脏数据）→ n=None（不把脏数据当有效n）。"""
+    html = _ld({"@type": "Movie", "name": "X",
+                "aggregateRating": {"ratingValue": 85, "reviewCount": "abc"}})
+    r = _parse_jsonld(html)
+    # 关键：score有值但n无效时，n必须是None，不能是脏字符串
+    assert r["score"] == 85 and r["n"] is None
+
+
+def test_parse_ratingvalue_nonnumeric():
+    """ratingValue 非数字 → score=None，不崩。"""
+    html = _ld({"@type": "Movie", "name": "X",
+                "aggregateRating": {"ratingValue": "N/A", "reviewCount": 120}})
+    r = _parse_jsonld(html)
+    assert r["score"] is None
+
+
+def test_parse_mainentity_wrapper():
+    """Movie 包在 mainEntity 里 → 正确提取。"""
+    html = _ld({"mainEntity": {"@type": "Movie", "name": "Y",
+                               "aggregateRating": {"ratingValue": 90, "reviewCount": 50}}})
+    r = _parse_jsonld(html)
+    assert r["name"] == "Y" and r["score"] == 90 and r["n"] == 50
+
+
+def test_parse_non_movie_type():
+    """JSON-LD 是 WebSite 等非 Movie 类型 → 不误当电影，全 None。"""
+    html = _ld({"@type": "WebSite", "name": "Rotten Tomatoes"})
+    r = _parse_jsonld(html)
+    assert r["score"] is None and r["n"] is None
+
+
+def test_parse_empty_aggregate():
+    """有 aggregateRating 但为空 dict → score/n 为 None。"""
+    html = _ld({"@type": "Movie", "name": "X", "aggregateRating": {}})
+    r = _parse_jsonld(html)
+    assert r["name"] == "X" and r["score"] is None
+
+
+def test_parse_rating_zero():
+    """评分为 0（合法边界，烂片）→ 正确提取为 0，不误当 None。"""
+    html = _ld({"@type": "Movie", "name": "X",
+                "aggregateRating": {"ratingValue": 0, "reviewCount": 30}})
+    r = _parse_jsonld(html)
+    assert r["score"] == 0 and r["n"] == 30
+
+
+def test_parse_multiple_jsonld_first_movie_wins():
+    """多个 JSON-LD 块：非Movie在前、Movie在后 → 跳过非Movie，取Movie。"""
+    html = (_ld({"@type": "WebSite", "name": "RT"}) +
+            _ld({"@type": "Movie", "name": "Real Movie",
+                 "aggregateRating": {"ratingValue": 75, "reviewCount": 40}}))
+    r = _parse_jsonld(html)
+    assert r["name"] == "Real Movie" and r["score"] == 75
+
+
+def test_parse_truncated_page_partial_data():
+    """模拟RT抽风：页面半截，JSON-LD不完整 → 安全返回，不崩不给错误分数。"""
+    html = '<html><head><script type="application/ld+json">{"@type":"Movie","name":"X","aggregateR'
+    r = _parse_jsonld(html)
+    # 半截JSON解析失败 → 全None，绝不返回一个错误的分数
+    assert r["score"] is None and r["n"] is None
+
+
 if __name__ == "__main__":
     tests = [(k, v) for k, v in sorted(globals().items())
              if k.startswith("test_") and callable(v)]

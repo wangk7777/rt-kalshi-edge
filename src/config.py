@@ -15,10 +15,10 @@ STRATEGY_DEFAULTS = {
     "N_SIMS": 50_000,
     "N_MIN": 10,
     "WIN_PROB_MIN": 0.80,
-    "WIN_PROB_MAX": 0.95,
+    "WIN_PROB_MAX": 0.98,
     "PRICE_MAX": 92,
     "EDGE_MIN": 5,
-    "EDGE_MAX": 10,
+    "EDGE_MAX": 20,
     "SPREAD_MAX": 5,
     "N_FINAL": 200,      # 默认 n_final（实盘固定估计值）
 }
@@ -206,7 +206,7 @@ WATCHLIST = {
         "title": "Ice Cream Man",
         "embargo_date": "2026-08-03",
         "base_rate": 62,  # 导演 Eli Roth 近作均分（Thanksgiving ~80, Borderlands ~6, Hostel ~62, Green Inferno ~36, House with a Clock ~66）波动极大，恐怖是其主场，取中性
-        "n_final": 90,        # TODO 待定
+        "n_final": 120,        # TODO 待定
         "kalshi_event": "KXRT-ICE",
         "kalshi_settle_date": "2026-08-10",   
         "rt_movie_id": "65e185e4-e760-39d5-a518-19df8cc56275", 
@@ -225,7 +225,7 @@ WATCHLIST = {
         "embargo_date": "2026-07-29",
         "title": "Tony",
         "base_rate": 85,  # 导演 Matt Johnson 近作（BlackBerry ~97, Nirvanna the Band Movie ~95, The Dirties ~83, Operation Avalanche ~69），上升趋势明显，A24 传记，取近作中高
-        "n_final": 70,        # TODO 待定
+        "n_final": 88,        # TODO 待定
         "kalshi_event": "KXRT-TON",
         "kalshi_settle_date": "2026-08-10",   
         "rt_movie_id": "c4ca0abc-c87a-4b6a-8a3e-69d1c8faa0d1", 
@@ -235,7 +235,7 @@ WATCHLIST = {
         "embargo_date": "2026-08-05",
         "title": "One Night Only",
         "base_rate": 68,  # 导演 Will Gluck 近作均分（Anyone But You ~52, Easy A ~85, Friends with Benefits ~70, Peter Rabbit ~64/60），爱情喜剧取中性偏上
-        "n_final": 100,        # TODO 待定
+        "n_final": 174,        # TODO 待定
         "kalshi_event": "KXRT-ONE",
         "kalshi_settle_date": "2026-08-10",   
         "rt_movie_id": "41a3f656-d948-3918-9312-60c5d5c70532", 

@@ -11,32 +11,71 @@ USE_FIXED_NFINAL 开关：
 """
 
 """验证平台适配器：两个平台都能 get_rungs + yes_prob。"""
-from src import config
-from src.model.bayesian import ModelInputs, run_model
-from src.collectors.platforms.kalshi import KalshiPlatform
-from src.collectors.platforms.polymarket import PolymarketPlatform
+"""查config里resident_evil的UUID实际指向哪部片。"""
+"""查 resident_evil_2026 页面所有 JSON-LD Movie 块。"""
+def add_k_probability(counts, context, word, k, vocab_size):
+    ctx = counts.get(context, {})
+    return (ctx.get(word, 0) + k) / (sum(ctx.values()) + k * vocab_size)
 
-# 跑个模型结果备用
-res = run_model(ModelInputs(score_now=85, n_now=120, base_rate=80,
-                            prior_strength=20, n_final=200, drift=1), n_sims=50000)
 
-# 测 Kalshi 适配器（用一个有 kalshi_event 的片）
-kp = KalshiPlatform()
-print("Kalshi yes_prob(floor=80):", kp.yes_prob(res, 80), "(用floor+1=81)")
+def approx(a, b, tol=1e-9):
+    return abs(a - b) <= tol
 
-# 测 Polymarket 适配器
-pp = PolymarketPlatform()
-print("Polymarket yes_prob(floor=80):", pp.yes_prob(res, 80), "(用floor=80)")
 
-# 验证规则差异：同样floor，两平台概率不同
-print("\n规则差异验证：")
-print(f"  Kalshi P(≥81) = {kp.yes_prob(res, 80):.3f}")
-print(f"  Polymarket P(≥80) = {pp.yes_prob(res, 80):.3f}")
-print("  (Polymarket应该略高，因为≥80比≥81宽松)")
+def run_tests():
+    passed = 0
+    total = 0
+    counts = {"the": {"cat": 5, "dog": 3, "bird": 2}}
 
-# 测 Polymarket get_rungs（用PAW Patrol的slug）
-paw_cfg = {"polymarket_event_slug": "paw-patrol-the-dino-movie-rotten-tomatoes-score-20260709174855589"}
-rungs = pp.get_rungs(paw_cfg)
-print(f"\nPolymarket get_rungs: 拿到 {len(rungs)} 档")
-for r in rungs:
-    print(f"  门槛{r.t}: YES {r.yes_price}¢ NO {r.no_price}¢")
+    # Test 1: seen bigram (5+1)/(10+100)
+    total += 1
+    r = add_k_probability(counts, "the", "cat", 1, 100)
+    if approx(r, 6 / 110):
+        passed += 1
+        print("Test 1 PASS:", r)
+    else:
+        print("Test 1 FAIL:", r, "expected", 6 / 110)
+
+    # Test 2: unseen context (0+1)/(0+100)
+    total += 1
+    r = add_k_probability(counts, "runs", "fast", 1, 100)
+    if approx(r, 0.01):
+        passed += 1
+        print("Test 2 PASS:", r)
+    else:
+        print("Test 2 FAIL:", r, "expected 0.01")
+
+    # Test 3: seen context, unseen word (0+1)/(10+100)
+    total += 1
+    r = add_k_probability(counts, "the", "fish", 1, 100)
+    if approx(r, 1 / 110):
+        passed += 1
+        print("Test 3 PASS:", r)
+    else:
+        print("Test 3 FAIL:", r, "expected", 1 / 110)
+
+    # Test 4: fractional k (add-k with k<1), (3+0.5)/(10+0.5*100)
+    total += 1
+    r = add_k_probability(counts, "the", "dog", 0.5, 100)
+    if approx(r, 3.5 / 60):
+        passed += 1
+        print("Test 4 PASS:", r)
+    else:
+        print("Test 4 FAIL:", r, "expected", 3.5 / 60)
+
+    # Test 5: distribution over vocab sums to 1
+    total += 1
+    V = 100
+    vocab = ["cat", "dog", "bird"] + [f"w{i}" for i in range(V - 3)]
+    total_prob = sum(add_k_probability(counts, "the", w, 1, V) for w in vocab)
+    if approx(total_prob, 1.0):
+        passed += 1
+        print("Test 5 PASS: sum over vocab =", total_prob)
+    else:
+        print("Test 5 FAIL: sum =", total_prob, "expected 1.0")
+
+    print(f"\n{passed}/{total} tests passed")
+
+
+if __name__ == "__main__":
+    run_tests()
